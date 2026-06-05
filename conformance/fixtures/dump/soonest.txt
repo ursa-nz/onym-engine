@@ -1,0 +1,6 @@
+term: soonest
+[Definitions]
+  - (adverb) with the least delay
+      "the soonest I can arrive is 3 P.M."
+[Synonyms]
+  - earliest

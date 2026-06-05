@@ -1,0 +1,36 @@
+term: flaw
+[Definitions]
+  - (noun) an imperfection in an object or machine
+      "a flaw caused the crystal to shatter"
+      "if there are any defects you should send it back to the manufacturer"
+  - (noun) defect or weakness in a person's character
+      "he had his flaws, but he was great nonetheless"
+  - (noun) an imperfection in a plan or theory or legal document that causes it to fail or that reduces its effectiveness
+  - (verb) add a flaw or blemish to; make imperfect or defective
+[Synonyms]
+  - defect
+  - fault
+  - blemish
+[Derived forms]
+  - blemish
+  - defect
+  - fault
+[Is a kind of]
+  - imperfection, imperfectness
+    - state
+      - attribute
+        - abstraction, abstract entity
+          - entity
+  - failing, weakness
+    - imperfection, imperfectness
+      - state
+        - attribute
+          - abstraction, abstract entity
+            - entity
+  - damage
+    - change, alter, modify
+[Kinds]
+  - blister
+  - bug, glitch
+  - hole
+  - tragic flaw, hamartia

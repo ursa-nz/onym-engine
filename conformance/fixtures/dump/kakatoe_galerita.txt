@@ -1,0 +1,19 @@
+term: Kakatoe galerita
+[Definitions]
+  - (noun) white cockatoo with a yellow erectile crest
+[Synonyms]
+  - sulphur-crested cockatoo
+  - Cacatua galerita
+[Is a kind of]
+  - cockatoo
+    - parrot
+      - bird
+        - vertebrate, craniate
+          - chordate
+            - animal, animate being, beast, brute, creature, fauna
+              - organism, being
+                - living thing, animate thing
+                  - whole, unit
+                    - object, physical object
+                      - physical entity
+                        - entity

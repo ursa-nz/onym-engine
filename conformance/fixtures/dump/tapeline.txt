@@ -1,0 +1,17 @@
+term: tapeline
+[Definitions]
+  - (noun) measuring instrument consisting of a narrow strip (cloth or metal) marked in inches or centimeters and used for measuring lengths
+      "the carpenter should have used his tape measure"
+[Synonyms]
+  - tape
+  - tape measure
+[Is a kind of]
+  - measuring instrument, measuring system, measuring device
+    - instrument
+      - device
+        - instrumentality, instrumentation
+          - artifact, artefact
+            - whole, unit
+              - object, physical object
+                - physical entity
+                  - entity

@@ -1,0 +1,18 @@
+term: nadolol
+[Definitions]
+  - (noun) a beta-adrenergic blocking agent (trade name Corgard) that is used to treat hypertension and angina
+[Synonyms]
+  - Corgard
+[Is a kind of]
+  - beta blocker, beta-blocking agent, beta-adrenergic blocker, beta-adrenergic blocking agent
+    - blocker, blocking agent
+      - medicine, medication, medicament, medicinal drug
+        - drug
+          - agent
+            - causal agent, cause, causal agency
+              - physical entity
+                - entity
+            - substance
+              - matter
+                - physical entity
+                  - entity

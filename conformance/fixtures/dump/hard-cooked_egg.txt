@@ -1,0 +1,16 @@
+term: hard-cooked egg
+[Definitions]
+  - (noun) an egg boiled gently until both the white and the yolk solidify
+[Synonyms]
+  - hard-boiled egg
+[Is a kind of]
+  - boiled egg, coddled egg
+    - dish
+      - nutriment, nourishment, nutrition, sustenance, aliment, alimentation, victuals
+        - food, nutrient
+          - substance
+            - matter
+              - physical entity
+                - entity
+[Kinds]
+  - Easter egg

@@ -1,0 +1,19 @@
+term: Jerusalem sage
+[Definitions]
+  - (noun) a spreading subshrub of Mediterranean regions cultivated for dense axillary whorls of purple or yellow flowers
+[Synonyms]
+  - Phlomis fruticosa
+[Is a kind of]
+  - subshrub, suffrutex
+    - shrub, bush
+      - woody plant, ligneous plant
+        - vascular plant, tracheophyte
+          - plant, flora, plant life
+            - organism, being
+              - living thing, animate thing
+                - whole, unit
+                  - object, physical object
+                    - physical entity
+                      - entity
+[Part of]
+  - genus Phlomis

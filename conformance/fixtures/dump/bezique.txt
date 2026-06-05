@@ -1,0 +1,26 @@
+term: bezique
+[Definitions]
+  - (noun) a card game played with a pack of forty-eight cards (two of each suit for high cards); play resembles whist
+[Synonyms]
+  - pinochle
+  - pinocle
+  - penuchle
+[Is a kind of]
+  - card game, cards
+    - game
+      - activity
+        - act, deed, human action, human activity
+          - event
+            - psychological feature
+              - abstraction, abstract entity
+                - entity
+[Parts]
+  - card game, cards
+    - discard
+    - shuffle, shuffling, make
+    - cut, cutting
+    - doubling, double
+    - deal
+    - lead
+    - revoke, renege
+    - call

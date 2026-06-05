@@ -1,0 +1,17 @@
+term: nefazodone
+[Definitions]
+  - (noun) an antidepressant drug (trade name Serzone)
+[Synonyms]
+  - Serzone
+[Is a kind of]
+  - antidepressant, antidepressant drug
+    - medicine, medication, medicament, medicinal drug
+      - drug
+        - agent
+          - causal agent, cause, causal agency
+            - physical entity
+              - entity
+          - substance
+            - matter
+              - physical entity
+                - entity

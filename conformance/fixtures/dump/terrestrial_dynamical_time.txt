@@ -1,0 +1,16 @@
+term: terrestrial dynamical time
+[Definitions]
+  - (noun) (astronomy) a measure of time defined by Earth's orbital motion; terrestrial time is mean solar time corrected for the irregularities of the Earth's motions
+[Synonyms]
+  - terrestrial time
+  - TT
+  - TDT
+  - ephemeris time
+[Is a kind of]
+  - time unit, unit of time
+    - measure, quantity, amount
+      - abstraction, abstract entity
+        - entity
+[Domains]
+  - astronomy
+  - uranology

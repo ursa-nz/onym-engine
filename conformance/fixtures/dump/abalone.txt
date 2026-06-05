@@ -1,0 +1,24 @@
+term: abalone
+[Definitions]
+  - (noun) any of various large edible marine gastropods of the genus Haliotis having an ear-shaped shell with pearly interior
+[Synonyms]
+  - ear-shell
+[Is a kind of]
+  - gastropod, univalve
+    - mollusk, mollusc, shellfish
+      - invertebrate
+        - animal, animate being, beast, brute, creature, fauna
+          - organism, being
+            - living thing, animate thing
+              - whole, unit
+                - object, physical object
+                  - physical entity
+                    - entity
+[Kinds]
+  - ormer, sea-ear, Haliotis tuberculata
+[Part of]
+  - Haliotis, genus Haliotis
+    - Haliotidae, family Haliotidae
+      - Gastropoda, class Gastropoda, Gasteropoda, class Gasteropoda
+        - Mollusca, phylum Mollusca
+          - Animalia, kingdom Animalia, animal kingdom

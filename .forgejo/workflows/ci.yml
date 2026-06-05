@@ -1,0 +1,46 @@
+# SPDX-FileCopyrightText: 2026 ursa.nz <code@ursa.nz>
+# SPDX-License-Identifier: GPL-3.0-or-later
+name: CI
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    # Build inside an Ubuntu 24.04 container so the environment is the same on Forgejo and
+    # GitHub, regardless of the runner image.
+    container: ubuntu:24.04
+    steps:
+      # The base image is minimal and runs as root. Install Node and git, which the checkout
+      # action needs, before that step. There is no sudo because we are already root.
+      - name: Install dependencies
+        run: |
+          apt-get update
+          apt-get install -y --no-install-recommends \
+            ca-certificates git nodejs curl gcc libc6-dev pipx
+
+      - uses: actions/checkout@v4
+
+      # Ubuntu's packaged Rust is too old for edition 2024, so install the stable toolchain
+      # with rustup. The default profile includes rustfmt and clippy.
+      - name: Install Rust
+        run: |
+          curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh -s -- -y
+          echo "$HOME/.cargo/bin" >> "$GITHUB_PATH"
+
+      - name: REUSE lint
+        # reuse is fetched from PyPI at run time and the current release refuses
+        # to start without an encoding-detection module. Pull the
+        # charset-normalizer extra so the install is self-contained.
+        run: pipx run --spec 'reuse[charset-normalizer]' reuse lint
+
+      - name: Format
+        run: cargo fmt --check
+
+      - name: Clippy
+        run: cargo clippy -- -D warnings
+
+      - name: Test
+        run: cargo test

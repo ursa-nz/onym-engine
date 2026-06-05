@@ -1,0 +1,33 @@
+term: lx
+[Definitions]
+  - (adjective) being ten more than fifty
+  - (noun) the cardinal number that is the product of ten and six
+  - (noun) a unit of illumination equal to 1 lumen per square meter; 0.0929 foot candle
+[Synonyms]
+  - sixty
+  - 60
+  - lux
+  - threescore
+[Antonyms]
+  - cardinal (indirect)
+      -> ordinal
+[Similar to]
+  - cardinal
+[Is a kind of]
+  - large integer
+    - integer, whole number
+      - number
+        - definite quantity
+          - measure, quantity, amount
+            - abstraction, abstract entity
+              - entity
+  - illumination unit
+    - light unit
+      - electromagnetic unit, emu
+        - unit of measurement, unit
+          - definite quantity
+            - measure, quantity, amount
+              - abstraction, abstract entity
+                - entity
+[Part of]
+  - phot

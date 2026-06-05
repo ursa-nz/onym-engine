@@ -1,0 +1,61 @@
+#!/bin/sh
+# SPDX-FileCopyrightText: 2026 ursa.nz <code@ursa.nz>
+# SPDX-License-Identifier: GPL-3.0-or-later
+#
+# Regenerates the conformance fixtures from corpus.txt.
+#
+# Usage: gen-fixtures [DUMPER [ARG...]]
+#
+# DUMPER is any command that accepts the onym-cli flags --dump WORD,
+# --complete PREFIX and --suggest WORD on its command line and prints
+# the result on stdout. It defaults to the reference onym-cli build,
+# falling back to onym-cli on PATH. Output goes to fixtures/ next to
+# this script unless ONYM_FIXTURES_DIR overrides it; run-conformance
+# uses that override to regenerate into a temporary directory.
+#
+# The output is deterministic: it depends only on the dumper, the
+# corpus and the fixed prefix and suggestion lists below. The script
+# writes no timestamps.
+
+set -eu
+
+here=$(CDPATH='' cd -- "$(dirname -- "$0")" && pwd)
+
+if [ "$#" -eq 0 ]; then
+  # The reference oracle is a sibling onym checkout's build, so the kit
+  # works out of the box on a development machine without arguments.
+  default_dumper="$here/../../onym/_build/tools/onym-cli"
+  if [ -x "$default_dumper" ]; then
+    set -- "$default_dumper"
+  else
+    set -- onym-cli
+  fi
+fi
+
+out=${ONYM_FIXTURES_DIR:-"$here/fixtures"}
+
+# Start from a clean slate so that words removed from the corpus do not
+# leave stale fixtures behind.
+rm -rf "$out"
+mkdir -p "$out/dump" "$out/complete" "$out/suggest"
+
+# Dump every corpus word. The fixture file name is the query form of
+# the word: spaces become underscores.
+while IFS= read -r word; do
+  case $word in
+    ''|'#'*) continue ;;
+  esac
+  name=$(printf '%s' "$word" | tr ' ' '_')
+  "$@" --dump "$word" > "$out/dump/$name.txt"
+done < "$here/corpus.txt"
+
+# Completion fixtures for a small fixed prefix list. Keep this list in
+# step with the documentation in README.md.
+for prefix in ser ice run bea sh; do
+  "$@" --complete "$prefix" > "$out/complete/$prefix.txt"
+done
+
+# Suggestion fixtures for a fixed list of misspellings.
+for word in wrod recieve beutiful hapy; do
+  "$@" --suggest "$word" > "$out/suggest/$word.txt"
+done

@@ -1,0 +1,27 @@
+term: Cupid
+[Definitions]
+  - (noun) (Roman mythology) god of love; counterpart of Greek Eros
+  - (noun) a symbol for love in the form of a cherubic naked boy with wings and a bow and arrow
+[Synonyms]
+  - Amor
+[Is a kind of]
+  - Roman deity
+    - deity, divinity, god, immortal
+      - spiritual being, supernatural being
+        - belief
+          - content, cognitive content, mental object
+            - cognition, knowledge, noesis
+              - psychological feature
+                - abstraction, abstract entity
+                  - entity
+  - emblem, allegory
+    - symbol, symbolization, symbolisation, symbolic representation
+      - representational process
+        - basic cognitive process
+          - process, cognitive process, mental process, operation, cognitive operation
+            - cognition, knowledge, noesis
+              - psychological feature
+                - abstraction, abstract entity
+                  - entity
+[Domains]
+  - Roman mythology

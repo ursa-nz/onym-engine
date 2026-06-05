@@ -1,0 +1,33 @@
+term: coat of paint
+[Definitions]
+  - (noun) a layer of paint covering something else
+[Is a kind of]
+  - paint, pigment
+    - coating, coat
+      - covering
+        - artifact, artefact
+          - whole, unit
+            - object, physical object
+              - physical entity
+                - entity
+    - coloring material, colouring material, color, colour
+      - material, stuff
+        - substance
+          - matter
+            - physical entity
+              - entity
+          - part, portion, component part, component, constituent
+            - relation
+              - abstraction, abstract entity
+                - entity
+  - coating, coat
+    - covering
+      - artifact, artefact
+        - whole, unit
+          - object, physical object
+            - physical entity
+              - entity
+[Kinds]
+  - finish coat, finishing coat
+  - flat coat, ground, primer, priming, primer coat, priming coat, undercoat
+    - couch

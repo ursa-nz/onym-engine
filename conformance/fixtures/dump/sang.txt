@@ -1,0 +1,143 @@
+term: sang
+[Definitions]
+  - (noun) North American woodland herb similar to and used as substitute for the Chinese ginseng
+  - (verb) deliver by singing
+      "Sing Christmas carols"
+  - (verb) produce tones with the voice
+      "She was singing while she was cooking"
+      "My brother sings very well"
+  - (verb) to make melodious sounds
+      "The nightingale was singing"
+  - (verb) make a whining, ringing, or whistling sound
+      "the kettle was singing"
+      "the bullet sang past his ear"
+  - (verb) divulge confidential information or secrets
+      "Be careful--his secretary talks"
+[Synonyms]
+  - American ginseng
+  - Panax quinquefolius
+  - whistle
+  - spill the beans
+  - let the cat out of the bag
+  - talk
+  - tattle
+  - blab
+  - peach
+  - babble
+  - babble out
+  - blab out
+[Derived forms]
+  - song
+  - vocal
+  - strain
+  - singer
+  - vocalist
+  - vocalizer
+  - vocaliser
+  - singing
+  - vocalizing
+  - birdcall
+  - call
+  - birdsong
+  - tattle
+  - telling
+[Is a kind of]
+  - herb, herbaceous plant
+    - vascular plant, tracheophyte
+      - plant, flora, plant life
+        - organism, being
+          - living thing, animate thing
+            - whole, unit
+              - object, physical object
+                - physical entity
+                  - entity
+  - interpret, render
+    - perform, execute, do
+  - talk, speak, utter, mouth, verbalize, verbalise
+    - communicate, intercommunicate
+      - interact
+        - act, move
+  - utter, emit, let out, let loose
+  - sound, go
+    - cause to be perceived
+  - unwrap, disclose, let on, bring out, reveal, discover, expose, divulge, break, give away, let out
+    - tell
+      - inform
+        - communicate, intercommunicate
+          - interact
+            - act, move
+[Kinds]
+  - solmizate
+  - troll
+  - hymn
+  - carol
+  - madrigal
+  - place
+  - croon
+  - chant, intone, intonate, cantillate
+    - singsong
+  - yodel, warble, descant
+  - warble, trill, quaver
+  - treble
+  - hum
+  - belt out, belt
+  - descant on
+  - vocalize, vocalise
+  - harmonize, harmonise
+  - descant
+  - sing along
+  - psalm
+  - minstrel
+  - tweedle, chirp
+  - choir, chorus
+    - solmizate
+    - troll
+    - hymn
+    - carol
+    - madrigal
+[Part of]
+  - Panax, genus Panax
+[Parts]
+  - ginseng
+  - herb, herbaceous plant
+    - vegetable, veggie, veg
+    - vascular plant, tracheophyte
+      - vascular system
+        - vessel, vas
+        - vascular tissue
+      - duct
+      - vascular tissue
+      - plant, flora, plant life
+        - hood, cap
+        - plant part, plant structure
+        - organism, being
+          - tissue
+          - cell
+            - cell membrane, cytomembrane, plasma membrane
+            - energid, protoplast
+            - cytoplasm, cytol
+              - cytoskeleton
+              - microsome
+              - Golgi body, Golgi apparatus, Golgi complex, dictyosome
+            - nucleus, cell nucleus, karyon
+              - nucleolus, nucleole
+              - chromatin, chromatin granule
+              - achromatin
+              - linin
+              - chromosome
+                - nucleolus organizer, nucleolus organiser, nucleolar organizer, nucleolar organiser
+                - chromatin, chromatin granule
+                - gene, cistron, factor
+                - chromatid
+                - centromere, kinetochore
+                - telomere
+            - organelle, cell organelle, cell organ
+            - vacuole
+          - body part
+            - corpus
+          - living thing, animate thing
+            - whole, unit
+              - part, portion
+              - section, segment
+[Domains]
+  - music

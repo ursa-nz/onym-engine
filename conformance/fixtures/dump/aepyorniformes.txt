@@ -1,0 +1,20 @@
+term: Aepyorniformes
+[Definitions]
+  - (noun) huge extinct flightless birds: elephant birds
+[Synonyms]
+  - order Aepyorniformes
+[Is a kind of]
+  - animal order
+    - order
+      - taxonomic group, taxonomic category, taxon
+        - biological group
+          - group, grouping
+            - abstraction, abstract entity
+              - entity
+[Part of]
+  - Aves, class Aves
+    - Vertebrata, subphylum Vertebrata, Craniata, subphylum Craniata
+      - Chordata, phylum Chordata
+        - Animalia, kingdom Animalia, animal kingdom
+[Parts]
+  - Aepyornidae, family Aepyornidae

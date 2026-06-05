@@ -1,0 +1,12 @@
+term: Moreau River
+[Definitions]
+  - (noun) a river that rises in western South Dakota and flows eastward to the Missouri River
+[Is a kind of]
+  - river
+    - stream, watercourse
+      - body of water, water
+        - thing
+          - physical entity
+            - entity
+[Part of]
+  - South Dakota, Coyote State, Mount Rushmore State, SD

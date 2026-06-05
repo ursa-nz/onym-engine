@@ -1,0 +1,13 @@
+term: bay rum
+[Definitions]
+  - (noun) an aromatic liquid originally obtained by distilling the leaves of the bayberry tree with rum
+[Is a kind of]
+  - after-shave, after-shave lotion
+    - lotion
+      - toiletry, toilet articles
+        - instrumentality, instrumentation
+          - artifact, artefact
+            - whole, unit
+              - object, physical object
+                - physical entity
+                  - entity

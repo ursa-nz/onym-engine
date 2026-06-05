@@ -1,0 +1,15 @@
+term: blasting cap
+[Definitions]
+  - (noun) a small tube filled with detonating substances; used to detonate high explosives
+[Is a kind of]
+  - detonator, detonating device, cap
+    - explosive device
+      - device
+        - instrumentality, instrumentation
+          - artifact, artefact
+            - whole, unit
+              - object, physical object
+                - physical entity
+                  - entity
+[Parts]
+  - mercury fulminate, fulminate of mercury, fulminating mercury

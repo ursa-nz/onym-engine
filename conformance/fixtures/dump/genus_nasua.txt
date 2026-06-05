@@ -1,0 +1,17 @@
+term: genus Nasua
+[Definitions]
+  - (noun) coatis
+[Synonyms]
+  - Nasua
+[Is a kind of]
+  - mammal genus
+    - genus
+      - taxonomic group, taxonomic category, taxon
+        - biological group
+          - group, grouping
+            - abstraction, abstract entity
+              - entity
+[Part of]
+  - Procyonidae, family Procyonidae
+[Parts]
+  - coati, coati-mondi, coati-mundi, coon cat, Nasua narica

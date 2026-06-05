@@ -1,0 +1,6 @@
+term: pleasingly
+[Definitions]
+  - (adverb) in a pleasing manner
+      "the room was pleasingly large"
+[Pertains to]
+  - pleasing

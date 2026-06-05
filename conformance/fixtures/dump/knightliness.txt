@@ -1,0 +1,15 @@
+term: knightliness
+[Definitions]
+  - (noun) the medieval principles governing knighthood and knightly conduct
+[Synonyms]
+  - chivalry
+[Is a kind of]
+  - principle
+    - value
+      - ideal
+        - idea, thought
+          - content, cognitive content, mental object
+            - cognition, knowledge, noesis
+              - psychological feature
+                - abstraction, abstract entity
+                  - entity

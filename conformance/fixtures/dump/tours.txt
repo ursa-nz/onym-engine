@@ -1,0 +1,85 @@
+term: tour
+[Definitions]
+  - (noun) a journey or route all the way around a particular place or area
+      "they took an extended tour of Europe"
+      "we took a quick circuit of the park"
+      "a ten-day coach circuit of the island"
+  - (noun) a time for working (after which you will be relieved by someone else)
+      "it's my go"
+      "a spell of work"
+  - (noun) a period of time spent in military service
+  - (verb) make a tour of a certain place
+      "We toured the Provence this summer"
+  - (noun) an industrial city in western France on the Loire River
+[Synonyms]
+  - circuit
+  - go
+  - spell
+  - turn
+  - enlistment
+  - hitch
+  - term of enlistment
+  - tour of duty
+  - duty tour
+[Derived forms]
+  - tourist
+  - tourer
+  - holidaymaker
+  - circuit
+[Is a kind of]
+  - city, metropolis, urban center
+    - municipality
+      - urban area, populated area
+        - geographical area, geographic area, geographical region, geographic region
+          - region
+            - location
+              - object, physical object
+                - physical entity
+                  - entity
+      - administrative district, administrative division, territorial division
+        - district, territory, territorial dominion, dominion
+          - region
+            - location
+              - object, physical object
+                - physical entity
+                  - entity
+  - journey, journeying
+    - travel, traveling, travelling
+      - motion, movement, move
+        - change
+          - action
+            - act, deed, human action, human activity
+              - event
+                - psychological feature
+                  - abstraction, abstract entity
+                    - entity
+  - shift, work shift, duty period
+    - hours
+      - work time
+        - time period, period of time, period
+          - fundamental quantity, fundamental measure
+            - measure, quantity, amount
+              - abstraction, abstract entity
+                - entity
+  - time period, period of time, period
+    - fundamental quantity, fundamental measure
+      - measure, quantity, amount
+        - abstraction, abstract entity
+          - entity
+  - travel, journey
+    - travel, trip, jaunt
+[Kinds]
+  - walkabout
+  - grand tour
+  - itineration
+  - package tour, package holiday
+  - pub crawl
+  - whistle-stop tour
+  - take the road
+  - visit, see
+    - take in
+[Part of]
+  - France, French Republic
+[Parts]
+  - journey, journeying
+    - stage, leg

@@ -1,0 +1,68 @@
+term: paw
+[Definitions]
+  - (noun) a clawed foot of an animal especially a quadruped
+  - (noun) the (prehensile) extremity of the superior limb
+      "he had the hands of a surgeon"
+      "he extended his mitt"
+  - (verb) scrape with the paws
+      "The bear pawed the door"
+  - (verb) touch clumsily
+      "The man tried to paw her"
+[Synonyms]
+  - hand
+  - manus
+  - mitt
+[Derived forms]
+  - hand
+  - manus
+  - mitt
+  - pawer
+[Entails]
+  - touch
+[Is a kind of]
+  - animal foot, foot
+    - vertebrate foot, pedal extremity
+      - extremity
+        - external body part
+          - body part
+            - part, piece
+              - thing
+                - physical entity
+                  - entity
+  - extremity
+    - external body part
+      - body part
+        - part, piece
+          - thing
+            - physical entity
+              - entity
+  - scrape, grate
+    - rub
+      - guide, run, draw, pass
+  - caress, fondle
+    - stroke
+      - touch
+[Kinds]
+  - forepaw
+    - hand
+  - fist, clenched fist
+  - hooks, meat hooks, maulers
+  - right, right hand
+  - left, left hand
+[Part of]
+  - canine, canid
+  - feline, felid
+  - arm
+    - body, organic structure, physical structure
+    - homo, man, human being, human
+  - homo, man, human being, human
+[Parts]
+  - pad
+  - digital arteries, arteria digitalis
+  - metacarpal artery, arteria metacarpea
+  - intercapitular vein, vena intercapitalis
+  - metacarpal vein, vena metacarpus
+  - palm, thenar
+  - finger
+  - ball
+  - metacarpus

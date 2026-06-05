@@ -1,0 +1,35 @@
+term: endowed
+[Definitions]
+  - (adjective) provided or supplied or equipped with (especially as by inheritance or nature)
+      "a well-endowed college"
+      "endowed with good eyesight"
+      "endowed by their Creator with certain unalienable rights"
+  - (verb) give qualities or abilities to
+  - (verb) furnish with an endowment
+      "When she got married, she got dowered"
+[Synonyms]
+  - indue
+  - gift
+  - empower
+  - invest
+  - endue
+  - dower
+[Antonyms]
+  - unendowed (direct)
+      -> dowerless
+      -> unblessed
+[Derived forms]
+  - endowment
+  - gift
+  - talent
+  - natural endowment
+  - endowment fund
+[Similar to]
+  - dowered
+[Is a kind of]
+  - enable
+    - change, alter, modify
+  - give, gift, present
+[Kinds]
+  - cover
+  - benefice

@@ -1,0 +1,55 @@
+term: FL
+[Definitions]
+  - (noun) a state in southeastern United States between the Atlantic and the Gulf of Mexico; one of the Confederate states during the American Civil War
+[Synonyms]
+  - Florida
+  - Sunshine State
+  - Everglade State
+[Is a kind of]
+  - American state
+    - state, province
+      - administrative district, administrative division, territorial division
+        - district, territory, territorial dominion, dominion
+          - region
+            - location
+              - object, physical object
+                - physical entity
+                  - entity
+[Part of]
+  - Confederacy, Confederate States, Confederate States of America, South, Dixie, Dixieland
+  - United States, United States of America, America, the States, US, U.S., USA, U.S.A.
+  - Gulf States
+[Parts]
+  - Caloosahatchee Canal
+  - Biscayne National Park
+  - Everglades National Park
+  - Daytona Beach
+  - Fort Lauderdale
+  - Fort Myers
+  - Gainesville
+  - Jacksonville
+  - Key West
+  - Melbourne
+  - Miami
+  - Miami Beach
+  - Orlando
+  - Palm Beach
+  - Panama City
+  - Pensacola
+  - Sarasota
+  - St. Augustine, Saint Augustine
+  - St. Petersburg, Saint Petersburg
+  - Tallahassee, capital of Florida
+  - Tampa
+  - West Palm Beach
+  - Apalachicola, Apalachicola River
+  - Biscayne Bay
+  - Caloosahatchee, Caloosahatchee River
+  - Cape Canaveral, Cape Kennedy
+  - Everglades
+  - key, cay, Florida key
+  - Kissimmee, Kissimmee River
+  - Okeechobee, Lake Okeechobee
+  - Okefenokee Swamp
+  - Saint Johns, Saint Johns River, St. Johns, St. Johns River
+  - Tampa Bay

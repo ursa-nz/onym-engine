@@ -1,0 +1,37 @@
+term: Vilnius
+[Definitions]
+  - (noun) the capital and largest city of Lithuania; located in southeastern Lithuania
+[Synonyms]
+  - Vilna
+  - Vilno
+  - Wilno
+  - capital of Lithuania
+[Is a kind of]
+  - national capital
+    - capital
+      - seat
+        - center, centre, middle, heart, eye
+          - area, country
+            - region
+              - location
+                - object, physical object
+                  - physical entity
+                    - entity
+    - city, metropolis, urban center
+      - municipality
+        - urban area, populated area
+          - geographical area, geographic area, geographical region, geographic region
+            - region
+              - location
+                - object, physical object
+                  - physical entity
+                    - entity
+        - administrative district, administrative division, territorial division
+          - district, territory, territorial dominion, dominion
+            - region
+              - location
+                - object, physical object
+                  - physical entity
+                    - entity
+[Part of]
+  - Lithuania, Republic of Lithuania, Lietuva

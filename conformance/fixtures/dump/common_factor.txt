@@ -1,0 +1,16 @@
+term: common factor
+[Definitions]
+  - (noun) an integer that divides two (or more) other integers evenly
+[Synonyms]
+  - common divisor
+  - common measure
+[Is a kind of]
+  - divisor, factor
+    - integer, whole number
+      - number
+        - definite quantity
+          - measure, quantity, amount
+            - abstraction, abstract entity
+              - entity
+[Kinds]
+  - greatest common divisor, greatest common factor, highest common factor

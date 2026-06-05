@@ -1,0 +1,23 @@
+term: non-standard speech
+[Definitions]
+  - (noun) speech that differs from the usual accepted, easily recognizable speech of native adult members of a speech community
+[Is a kind of]
+  - speech, speech communication, spoken communication, spoken language, language, voice communication, oral communication
+    - auditory communication
+      - communication
+        - abstraction, abstract entity
+          - entity
+[Kinds]
+  - baby talk, babytalk
+  - baby talk, babytalk, motherese
+  - dialect, idiom, accent
+    - eye dialect
+    - patois
+  - localism
+  - regionalism
+  - telegraphese
+  - vernacular
+  - slang, cant, jargon, lingo, argot, patois, vernacular
+    - street name
+    - rhyming slang
+  - slang, slang expression, slang term

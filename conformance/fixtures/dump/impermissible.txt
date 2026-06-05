@@ -1,0 +1,23 @@
+term: impermissible
+[Definitions]
+  - (adjective) not permitted
+      "impermissible behavior"
+  - (adjective) not allowable
+[Antonyms]
+  - permissible (direct)
+      -> allowable
+  - inadmissible (indirect)
+      -> admissible
+[Derived forms]
+  - impermissibility
+[Similar to]
+  - forbidden
+  - out
+  - prohibited
+  - proscribed
+  - taboo
+  - tabu
+  - verboten
+  - unmentionable
+  - untouchable
+  - inadmissible

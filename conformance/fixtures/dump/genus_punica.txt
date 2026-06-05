@@ -1,0 +1,17 @@
+term: genus Punica
+[Definitions]
+  - (noun) coextensive with the family Punicaceae
+[Synonyms]
+  - Punica
+[Is a kind of]
+  - dicot genus, magnoliopsid genus
+    - genus
+      - taxonomic group, taxonomic category, taxon
+        - biological group
+          - group, grouping
+            - abstraction, abstract entity
+              - entity
+[Part of]
+  - Punicaceae, family Punicaceae
+[Parts]
+  - pomegranate, pomegranate tree, Punica granatum

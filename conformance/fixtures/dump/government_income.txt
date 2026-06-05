@@ -1,0 +1,18 @@
+term: government income
+[Definitions]
+  - (noun) income available to the government
+[Synonyms]
+  - government revenue
+[Is a kind of]
+  - income
+    - financial gain
+      - gain
+        - sum, sum of money, amount, amount of money
+          - assets
+            - possession
+              - relation
+                - abstraction, abstract entity
+                  - entity
+[Kinds]
+  - tax income, taxation, tax revenue, revenue
+    - internal revenue

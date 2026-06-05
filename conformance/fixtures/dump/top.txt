@@ -1,0 +1,365 @@
+term: top
+[Definitions]
+  - (noun) the upper part of anything
+      "the mower cuts off the tops of the grass"
+      "the title should be written at the top of the first page"
+  - (noun) the highest or uppermost side of anything
+      "put your books on top of the desk"
+      "only the top side of the box was painted"
+  - (noun) the top or extreme point of something (usually a mountain or hill)
+      "the view from the peak was magnificent"
+      "they clambered to the tip of Monadnock"
+      "the region is a few molecules wide at the summit"
+  - (noun) the first half of an inning; while the visiting team is at bat
+      "a relief pitcher took over in the top of the fifth"
+  - (noun) the highest level or degree attainable; the highest stage of development
+      "his landscapes were deemed the acme of beauty"
+      "the artist's gifts are at their acme"
+      "at the height of her career"
+      "the peak of perfection"
+      "summer was at its peak"
+      "...catapulted Einstein to the pinnacle of fame"
+      "the summit of his ambition"
+      "so many highest superlatives achieved by man"
+      "at the top of his profession"
+  - (noun) the greatest possible intensity
+      "he screamed at the top of his lungs"
+  - (noun) platform surrounding the head of a lower mast
+  - (noun) a conical child's plaything tapering to a steel point on which it can be made to spin
+      "he got a bright red top and string for his birthday"
+  - (noun) covering for a hole (especially a hole in the top of a container)
+      "he removed the top of the carton"
+      "he couldn't get the top off of the bottle"
+      "put the cover back on the kettle"
+  - (noun) a garment (especially for women) that extends from the shoulders to the waist or hips
+      "he stared as she buttoned her top"
+  - (noun) a canvas tent to house the audience at a circus performance
+      "he was afraid of a fire in the circus tent"
+      "they had the big top up in less than an hour"
+  - (adjective) situated at the top or highest position
+      "the top shelf"
+  - (verb) be superior or better than some standard
+      "She exceeded our expectations"
+      "She topped her performance of last year"
+  - (verb) pass by, over, or under without making contact
+      "the balloon cleared the tree tops"
+  - (verb) be at the top of or constitute the top or highest point
+      "A star tops the Christmas Tree"
+  - (verb) be ahead of others; be the first
+      "she topped her class every year"
+  - (verb) provide with a top or finish the top (of a structure)
+      "the towers were topped with conical roofs"
+  - (verb) reach or ascend the top of
+      "The hikers topped the mountain just before noon"
+  - (verb) strike (the top part of a ball in golf, baseball, or pool) giving it a forward spin
+  - (verb) cut the top off
+      "top trees and bushes"
+  - (verb) be the culminating event
+      "The speech crowned the meeting"
+  - (verb) finish up or conclude
+      "They topped off their dinner with a cognac"
+      "top the evening with champagne"
+[Synonyms]
+  - top side
+  - upper side
+  - upside
+  - peak
+  - crown
+  - crest
+  - tip
+  - summit
+  - top of the inning
+  - acme
+  - height
+  - elevation
+  - pinnacle
+  - superlative
+  - meridian
+  - tiptop
+  - whirligig
+  - teetotum
+  - spinning top
+  - cover
+  - circus tent
+  - big top
+  - round top
+  - exceed
+  - transcend
+  - overstep
+  - pass
+  - go past
+  - clear
+  - lead
+  - top out
+  - pinch
+  - top off
+[Antonyms]
+  - bottom (direct)
+      -> bottom of the inning
+      -> bottommost
+      -> lowermost
+      -> nethermost
+      -> inferior
+      -> nether
+  - side (direct)
+      -> broadside
+      -> lateral
+      -> sidelong
+[Derived forms]
+  - pinch
+  - top out
+  - clear
+  - lead
+  - exceed
+  - transcend
+  - overstep
+  - pass
+  - go past
+  - acme
+  - height
+  - elevation
+  - peak
+  - pinnacle
+  - summit
+  - superlative
+  - meridian
+  - tiptop
+  - best
+  - topper
+  - crown
+  - crest
+  - tip
+  - top side
+  - upper side
+  - upside
+[Similar to]
+  - apical
+  - crowning
+  - topmost
+  - uppermost
+  - upmost
+  - upper
+[Entails]
+  - compete
+  - vie
+  - contend
+[Is a kind of]
+  - region, part
+    - location
+      - object, physical object
+        - physical entity
+          - entity
+  - side, face
+    - surface
+      - boundary, bound, bounds
+        - extremity
+          - region, part
+            - location
+              - object, physical object
+                - physical entity
+                  - entity
+  - topographic point, place, spot
+    - point
+      - location
+        - object, physical object
+          - physical entity
+            - entity
+  - turn, bout, round
+    - part, section, division
+      - concept, conception, construct
+        - idea, thought
+          - content, cognitive content, mental object
+            - cognition, knowledge, noesis
+              - psychological feature
+                - abstraction, abstract entity
+                  - entity
+  - degree, level, stage, point
+    - state
+      - attribute
+        - abstraction, abstract entity
+          - entity
+  - intensity, intensiveness
+    - degree, grade, level
+      - property
+        - attribute
+          - abstraction, abstract entity
+            - entity
+  - platform
+    - horizontal surface, level
+      - surface
+        - artifact, artefact
+          - whole, unit
+            - object, physical object
+              - physical entity
+                - entity
+  - plaything, toy
+    - artifact, artefact
+      - whole, unit
+        - object, physical object
+          - physical entity
+            - entity
+  - covering
+    - artifact, artefact
+      - whole, unit
+        - object, physical object
+          - physical entity
+            - entity
+  - woman's clothing
+    - clothing, article of clothing, vesture, wear, wearable, habiliment
+      - covering
+        - artifact, artefact
+          - whole, unit
+            - object, physical object
+              - physical entity
+                - entity
+      - consumer goods
+        - commodity, trade good, good
+          - artifact, artefact
+            - whole, unit
+              - object, physical object
+                - physical entity
+                  - entity
+  - canvas tent, canvas, canvass
+    - tent, collapsible shelter
+      - shelter
+        - structure, construction
+          - artifact, artefact
+            - whole, unit
+              - object, physical object
+                - physical entity
+                  - entity
+  - excel, stand out, surpass
+  - pass, overtake, overhaul
+    - advance, progress, pass on, move on, march on, go on
+      - travel, go, move, locomote
+  - lie
+    - be
+  - supply, provide, render, furnish
+    - give
+      - transfer
+  - reach, make, attain, hit, arrive at, gain
+  - hit
+    - propel, impel
+      - move, displace
+  - snip, clip, crop, trim, lop, dress, prune, cut back
+    - thin out
+      - reduce, cut down, cut back, trim, trim down, trim back, cut, bring down
+        - decrease, lessen, minify
+          - change, alter, modify
+  - culminate, climax
+    - end, stop, finish, terminate, cease
+  - complete, finish
+    - end, terminate
+      - change, alter, modify
+[Kinds]
+  - capital, chapiter, cap
+  - masthead
+  - crown
+  - head
+  - crown, treetop
+    - capitulum
+  - crown, crest
+  - poll
+  - pate, poll, crown
+    - tonsure
+  - desktop
+  - rooftop
+  - tiptop
+  - hilltop, brow
+  - pinnacle
+  - mountain peak
+    - Aconcagua
+    - Adams, Mount Adams
+    - Adam's Peak, Samanala
+    - Ancohuma
+    - Annapurna, Anapurna
+    - Ararat, Mount Ararat, Mt. Ararat
+    - Bonete
+    - Cachi
+    - Changtzu
+    - Chimborazo
+    - Communism Peak, Mount Communism, Stalin Peak, Mount Garmo
+    - Coropuna
+    - Dhaulagiri
+    - El Libertador
+    - El Muerto
+    - Everest, Mount Everest, Mt. Everest
+    - Galan
+    - Gasherbrum
+    - Gosainthan
+    - Grand Teton
+    - Handies Peak
+    - Huascaran
+    - Hubbard, Mount Hubbard
+    - Illampu
+    - Illimani
+    - K2, Godwin Austen, Mount Godwin Austen, Dapsang
+    - Kamet
+    - Kanchenjunga, Mount Kanchenjunga, Kanchanjanga, Kinchinjunga
+    - Kilimanjaro, Mount Kilimanjaro
+    - Laudo
+    - Lhotse
+    - Llullaillaco
+    - Logan, Mount Logan
+    - Makalu
+    - Matterhorn
+    - McKinley, Mount McKinley, Mt. McKinley, Denali
+    - Mercedario
+    - Mont Blanc, Monte Bianco
+    - Mount Bartle Frere
+    - Mount Elbert
+    - Muztag, Muztagh
+    - Nacimiento
+    - Nanda Devi
+    - Nanga Parbat
+    - North Peak
+    - Nuptse
+    - Ojos del Salado
+    - Olympus, Mount Olympus, Mt. Olympus, Olimbos
+    - Parnassus, Mount Parnassus, Liakoura
+    - Pike's Peak
+    - Pissis
+    - Pobeda Peak, Pobedy Peak
+    - Rakaposhi
+    - Ranier, Mount Ranier, Mt. Ranier, Mount Tacoma
+    - Rushmore, Mount Rushmore, Mt. Rushmore
+    - Sajama
+    - Shasta, Mount Shasta
+    - Sherman, Mount Sherman
+    - Sinai, Mount Sinai
+    - Tirich Mir
+    - Tupungato
+    - Ulugh Muztagh, Ulugh Muz Tagh
+    - Uncompahgre Peak
+    - Weisshorn
+    - Wheeler Peak
+    - Whitney, Mount Whitney
+    - Wilson, Mount Wilson
+    - Yerupaja
+  - humming top
+  - peg top
+  - whipping top, whip top
+  - cap
+    - bottlecap
+    - nipple
+    - radiator cap
+  - lid
+    - trunk lid
+  - manhole cover
+  - screwtop
+  - blouse
+    - garibaldi
+    - guimpe
+    - middy, middy blouse
+    - shirtwaist, shirtwaister
+  - bodice
+  - bustier
+  - halter
+  - hop
+  - tail
+[Part of]
+  - inning, frame
+    - playing period, period of play, play
+      - athletic game
+  - ship
+  - circus

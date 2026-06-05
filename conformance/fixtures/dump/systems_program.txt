@@ -1,0 +1,16 @@
+term: systems program
+[Definitions]
+  - (noun) a program (as an operating system or compiler or utility program) that controls some aspect of the operation of a computer
+  - (noun) a program (as an operating system or compiler or utility program) that controls some aspect of the operation of a computer
+[Synonyms]
+  - systems software
+[Is a kind of]
+  - program, programme, computer program, computer programme
+    - software, software program, computer software, software system, software package, package
+      - code, computer code
+        - coding system
+          - writing
+            - written communication, written language, black and white
+              - communication
+                - abstraction, abstract entity
+                  - entity

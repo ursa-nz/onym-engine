@@ -1,0 +1,20 @@
+term: 'hood
+[Definitions]
+  - (noun) (slang) a neighborhood
+[Is a kind of]
+  - vicinity, locality, neighborhood, neighbourhood, neck of the woods
+    - section
+      - area, country
+        - region
+          - location
+            - object, physical object
+              - physical entity
+                - entity
+[Domains]
+  - slang
+  - cant
+  - jargon
+  - lingo
+  - argot
+  - patois
+  - vernacular

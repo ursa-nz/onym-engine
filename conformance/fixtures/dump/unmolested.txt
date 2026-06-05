@@ -1,0 +1,8 @@
+term: unmolested
+[Definitions]
+  - (adjective) not interfered with, disturbed, or harmed
+[Antonyms]
+  - untroubled (indirect)
+      -> troubled
+[Similar to]
+  - untroubled

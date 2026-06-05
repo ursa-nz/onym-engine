@@ -1,0 +1,93 @@
+term: chuck
+[Definitions]
+  - (verb) throw carelessly
+      "chuck the ball"
+  - (verb) throw away
+      "Chuck these old notes"
+  - (verb) pat or squeeze fondly or playfully, especially under the chin
+  - (verb) eject the contents of the stomach through the mouth
+      "After drinking too much, the students vomited"
+      "He purged continuously"
+      "The patient regurgitated the food we gave him last night"
+  - (noun) informal terms for a meal
+  - (noun) the part of a forequarter from the neck to the ribs and including the shoulder blade
+  - (noun) a holding device consisting of adjustable jaws that center a workpiece in a lathe or center a tool in a drill
+[Synonyms]
+  - chow
+  - eats
+  - grub
+  - toss
+  - ditch
+  - pat
+  - vomit
+  - vomit up
+  - purge
+  - cast
+  - sick
+  - cat
+  - be sick
+  - disgorge
+  - regorge
+  - retch
+  - puke
+  - barf
+  - spew
+  - spue
+  - upchuck
+  - honk
+  - regurgitate
+  - throw up
+[Is a kind of]
+  - fare
+    - food, nutrient
+      - substance
+        - matter
+          - physical entity
+            - entity
+  - cut of beef
+    - cut, cut of meat
+      - meat
+        - food, solid food
+          - solid
+            - matter
+              - physical entity
+                - entity
+  - holding device
+    - device
+      - instrumentality, instrumentation
+        - artifact, artefact
+          - whole, unit
+            - object, physical object
+              - physical entity
+                - entity
+  - throw
+    - propel, impel
+      - move, displace
+  - abandon
+    - discard, fling, toss, toss out, toss away, chuck out, cast aside, dispose, throw out, cast out, throw away, cast away, put away
+      - get rid of, remove
+  - caress, fondle
+    - stroke
+      - touch
+  - excrete, egest, eliminate, pass
+    - exhaust, discharge, expel, eject, release
+[Kinds]
+  - collet, collet chuck
+[Part of]
+  - side of beef
+  - lathe
+  - drill
+  - electric drill
+    - drill press
+[Parts]
+  - blade
+  - shoulder
+  - jaw
+[Domains]
+  - slang
+  - cant
+  - jargon
+  - lingo
+  - argot
+  - patois
+  - vernacular

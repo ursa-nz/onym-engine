@@ -1,0 +1,18 @@
+term: bocci
+[Definitions]
+  - (noun) Italian bowling played on a long narrow dirt court
+[Synonyms]
+  - bocce
+  - boccie
+[Is a kind of]
+  - bowling
+    - game
+      - activity
+        - act, deed, human action, human activity
+          - event
+            - psychological feature
+              - abstraction, abstract entity
+                - entity
+[Parts]
+  - bowling
+    - frame

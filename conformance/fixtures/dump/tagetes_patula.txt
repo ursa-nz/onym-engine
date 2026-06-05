@@ -1,0 +1,18 @@
+term: Tagetes patula
+[Definitions]
+  - (noun) strong-scented bushy annual with orange or yellow flower heads marked with red; Mexico and Guatemala
+[Synonyms]
+  - French marigold
+[Is a kind of]
+  - marigold
+    - flower
+      - angiosperm, flowering plant
+        - spermatophyte, phanerogam, seed plant
+          - vascular plant, tracheophyte
+            - plant, flora, plant life
+              - organism, being
+                - living thing, animate thing
+                  - whole, unit
+                    - object, physical object
+                      - physical entity
+                        - entity

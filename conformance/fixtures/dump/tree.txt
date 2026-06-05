@@ -1,0 +1,1144 @@
+term: tree
+[Definitions]
+  - (noun) a tall perennial woody plant having a main trunk and branches forming a distinct elevated crown; includes both gymnosperms and angiosperms
+  - (noun) a figure that branches from a single root
+      "genealogical tree"
+  - (noun) English actor and theatrical producer noted for his lavish productions of Shakespeare (1853-1917)
+  - (verb) force a person or an animal into a position from which he cannot escape
+  - (verb) plant with trees
+      "this lot should be treed so that the house will be shaded in summer"
+  - (verb) chase an animal up a tree
+      "the hunters treed the bear with dogs and killed it"
+      "her dog likes to tree squirrels"
+  - (verb) stretch (a shoe) on a shoetree
+[Synonyms]
+  - tree diagram
+  - Sir Herbert Beerbohm Tree
+  - corner
+  - shoetree
+[Derived forms]
+  - treelet
+[Is a kind of]
+  - woody plant, ligneous plant
+    - vascular plant, tracheophyte
+      - plant, flora, plant life
+        - organism, being
+          - living thing, animate thing
+            - whole, unit
+              - object, physical object
+                - physical entity
+                  - entity
+  - plane figure, two-dimensional figure
+    - figure
+      - shape, form
+        - attribute
+          - abstraction, abstract entity
+            - entity
+  - actor, histrion, player, thespian, role player
+    - performer, performing artist
+      - entertainer
+        - person, individual, someone, somebody, mortal, soul
+          - organism, being
+            - living thing, animate thing
+              - whole, unit
+                - object, physical object
+                  - physical entity
+                    - entity
+          - causal agent, cause, causal agency
+            - physical entity
+              - entity
+  - theatrical producer
+    - producer
+      - creator
+        - person, individual, someone, somebody, mortal, soul
+          - organism, being
+            - living thing, animate thing
+              - whole, unit
+                - object, physical object
+                  - physical entity
+                    - entity
+          - causal agent, cause, causal agency
+            - physical entity
+              - entity
+  - steer, maneuver, manoeuver, manoeuvre, direct, point, head, guide, channelize, channelise
+    - control, command
+  - plant, set
+    - put, set, place, pose, position, lay
+      - move, displace
+  - chase, chase after, trail, tail, tag, give chase, dog, go after, track
+    - pursue, follow
+      - travel, go, move, locomote
+  - elongate, stretch
+    - lengthen
+      - increase
+        - change, alter, modify
+[Kinds]
+  - yellowwood, yellowwood tree
+    - gymnospermous yellowwood
+      - South-African yellowwood, Podocarpus latifolius
+      - common yellowwood, bastard yellowwood, Afrocarpus falcata
+    - angiospermous yellowwood
+      - osage orange, bow wood, mock orange, Maclura pomifera
+      - Kentucky yellowwood, gopherwood, Cladrastis lutea, Cladrastis kentukea
+      - satinwood, West Indian satinwood, Zanthoxylum flavum
+      - Australian sumac, Rhodosphaera rhodanthema, Rhus rhodanthema
+      - sweetleaf, Symplocus tinctoria
+  - lancewood, lancewood tree, Oxandra lanceolata
+  - Guinea pepper, negro pepper, Xylopia aethiopica
+  - anise tree
+    - purple anise, Illicium floridanum
+    - star anise, Illicium anisatum
+    - star anise, Chinese anise, Illicium verum
+  - winter's bark, winter's bark tree, Drimys winteri
+  - zebrawood, zebrawood tree
+    - Connarus guianensis
+    - arariba, Centrolobium robustum
+    - nakedwood, Eugenia dicrana
+    - goncalo alves, Astronium fraxinifolium
+    - marblewood, marble-wood
+  - granadilla tree, granadillo, Brya ebenus
+  - acacia
+    - shittah, shittah tree
+    - wattle
+      - black wattle, Acacia auriculiformis
+      - gidgee, stinking wattle, Acacia cambegei
+      - silver wattle, mimosa, Acacia dealbata
+      - golden wattle, Acacia pycnantha
+    - catechu, Jerusalem thorn, Acacia catechu
+    - huisache, cassie, mimosa bush, sweet wattle, sweet acacia, scented wattle, flame tree, Acacia farnesiana
+    - fever tree, Acacia xanthophloea
+  - coralwood, coral-wood, red sandalwood, Barbados pride, peacock flower fence, Adenanthera pavonina
+  - albizzia, albizia
+    - silk tree, Albizia julibrissin, Albizzia julibrissin
+    - siris, siris tree, Albizia lebbeck, Albizzia lebbeck
+    - rain tree, saman, monkeypod, monkey pod, zaman, zamang, Albizia saman
+  - conacaste, elephant's ear, Enterolobium cyclocarpa
+  - inga
+  - ice-cream bean, Inga edulis
+  - guama, Inga laurina
+  - lead tree, white popinac, Leucaena glauca, Leucaena leucocephala
+  - wild tamarind, Lysiloma latisiliqua, Lysiloma bahamensis
+  - nitta tree
+    - Parkia javanica
+  - manila tamarind, camachile, huamachil, wild tamarind, Pithecellobium dulce
+  - dita, dita bark, devil tree, Alstonia scholaris
+  - ivory tree, conessi, kurchi, kurchee, Holarrhena pubescens, Holarrhena antidysenterica
+  - puka, Meryta sinclairii
+  - cockspur, Pisonia aculeata
+  - pandanus, screw pine
+    - textile screw pine, lauhala, Pandanus tectorius
+  - lacebark, ribbonwood, houhere, Hoheria populnea
+  - ribbon tree, ribbonwood, Plagianthus regius, Plagianthus betulinus
+  - tulipwood tree
+    - portia tree, bendy tree, seaside mahoe, Thespesia populnea
+    - harpullia
+      - harpulla, Harpullia cupanioides
+      - Moreton Bay tulipwood, Harpullia pendula
+  - red silk-cotton tree, simal, Bombax ceiba, Bombax malabarica
+  - Montezuma
+  - shaving-brush tree, Pseudobombax ellipticum
+  - quandong, quandong tree, Brisbane quandong, silver quandong tree, blue fig, Elaeocarpus grandis
+  - Jamaican cherry, calabur tree, calabura, silk wood, silkwood, Muntingia calabura
+  - breakax, breakaxe, break-axe, Sloanea jamaicensis
+  - bottle-tree, bottle tree
+    - flame tree, flame durrajong, Brachychiton acerifolius, Sterculia acerifolia
+    - flame tree, broad-leaved bottletree, Brachychiton australis
+    - kurrajong, currajong, Brachychiton populneus
+    - Queensland bottletree, narrow-leaved bottletree, Brachychiton rupestris, Sterculia rupestris
+  - Chinese parasol tree, Chinese parasol, Japanese varnish tree, phoenix tree, Firmiana simplex
+  - mayeng, maple-leaved bayur, Pterospermum acerifolium
+  - silver tree, Tarrietia argyrodendron
+  - obeche, obechi, arere, samba, Triplochiton scleroxcylon
+  - linden, linden tree, basswood, lime, lime tree
+    - American basswood, American lime, Tilia americana
+    - small-leaved linden, small-leaved lime, Tilia cordata
+    - white basswood, cottonwood, Tilia heterophylla
+    - Japanese linden, Japanese lime, Tilia japonica
+    - silver lime, silver linden, Tilia tomentosa
+  - silver tree, Leucadendron argenteum
+  - prickly ash, Orites excelsa
+  - wheel tree, firewheel tree, Stenocarpus sinuatus
+  - scrub beefwood, beefwood, Stenocarpus salignus
+  - casuarina
+    - she-oak
+    - beefwood
+      - Australian pine, Casuarina equisetfolia
+  - beech, beech tree
+    - common beech, European beech, Fagus sylvatica
+    - copper beech, purple beech, Fagus sylvatica atropunicea, Fagus purpurea, Fagus sylvatica purpurea
+    - American beech, white beech, red beech, Fagus grandifolia, Fagus americana
+    - weeping beech, Fagus pendula, Fagus sylvatica pendula
+    - Japanese beech
+  - chestnut, chestnut tree
+    - American chestnut, American sweet chestnut, Castanea dentata
+    - European chestnut, sweet chestnut, Spanish chestnut, Castanea sativa
+    - Chinese chestnut, Castanea mollissima
+    - Japanese chestnut, Castanea crenata
+    - Allegheny chinkapin, eastern chinquapin, chinquapin, dwarf chestnut, Castanea pumila
+    - Ozark chinkapin, Ozark chinquapin, chinquapin, Castanea ozarkensis
+  - oak chestnut
+  - giant chinkapin, golden chinkapin, Chrysolepis chrysophylla, Castanea chrysophylla, Castanopsis chrysophylla
+  - tanbark oak, Lithocarpus densiflorus
+    - Japanese oak, Lithocarpus glabra, Lithocarpus glaber
+  - southern beech, evergreen beech
+    - myrtle beech, Nothofagus cuninghamii
+    - Coigue, Nothofagus dombeyi
+    - New Zealand beech
+      - silver beech, Nothofagus menziesii
+    - roble beech, Nothofagus obliqua
+    - rauli beech, Nothofagus procera
+    - black beech, Nothofagus solanderi
+    - hard beech, Nothofagus truncata
+  - oak, oak tree
+    - live oak
+      - coast live oak, California live oak, Quercus agrifolia
+      - canyon oak, canyon live oak, maul oak, iron oak, Quercus chrysolepis
+      - southern live oak, Quercus virginiana
+      - interior live oak, Quercus wislizenii, Quercus wizlizenii
+    - white oak
+      - American white oak, Quercus alba
+      - Arizona white oak, Quercus arizonica
+      - swamp white oak, swamp oak, Quercus bicolor
+      - Oregon white oak, Oregon oak, Garry oak, Quercus garryana
+      - California white oak, valley oak, valley white oak, roble, Quercus lobata
+      - bur oak, burr oak, mossy-cup oak, mossycup oak, Quercus macrocarpa
+      - durmast, Quercus petraea, Quercus sessiliflora
+      - common oak, English oak, pedunculate oak, Quercus robur
+    - European turkey oak, turkey oak, Quercus cerris
+    - scarlet oak, Quercus coccinea
+    - jack oak, northern pin oak, Quercus ellipsoidalis
+    - red oak
+      - southern red oak, swamp red oak, turkey oak, Quercus falcata
+      - northern red oak, Quercus rubra, Quercus borealis
+      - Shumard oak, Shumard red oak, Quercus shumardii
+    - holm oak, holm tree, holly-leaved oak, evergreen oak, Quercus ilex
+    - shingle oak, laurel oak, Quercus imbricaria
+    - bluejack oak, turkey oak, Quercus incana
+    - California black oak, Quercus kelloggii
+    - American turkey oak, turkey oak, Quercus laevis
+    - laurel oak, pin oak, Quercus laurifolia
+    - overcup oak, Quercus lyrata
+    - scrub oak
+      - bear oak, Quercus ilicifolia
+      - blackjack oak, blackjack, jack oak, Quercus marilandica
+      - myrtle oak, seaside scrub oak, Quercus myrtifolia
+    - Japanese oak, Quercus mongolica, Quercus grosseserrata
+    - chestnut oak
+      - swamp chestnut oak, Quercus michauxii
+      - chinquapin oak, chinkapin oak, yellow chestnut oak, Quercus muehlenbergii
+      - basket oak, cow oak, Quercus prinus, Quercus montana
+      - dwarf chinkapin oak, dwarf chinquapin oak, dwarf oak, Quercus prinoides
+    - water oak, possum oak, Quercus nigra
+    - Nuttall oak, Nuttall's oak, Quercus nuttalli
+    - pin oak, swamp oak, Quercus palustris
+    - willow oak, Quercus phellos
+    - post oak, box white oak, brash oak, iron oak, Quercus stellata
+    - cork oak, Quercus suber
+    - Spanish oak, Quercus texana
+    - Chinese cork oak, Quercus variabilis
+    - black oak, yellow oak, quercitron, quercitron oak, Quercus velutina
+  - birch, birch tree
+    - yellow birch, Betula alleghaniensis, Betula leutea
+    - American white birch, paper birch, paperbark birch, canoe birch, Betula cordifolia, Betula papyrifera
+    - grey birch, gray birch, American grey birch, American gray birch, Betula populifolia
+    - silver birch, common birch, European white birch, Betula pendula
+    - downy birch, white birch, Betula pubescens
+    - black birch, river birch, red birch, Betula nigra
+    - sweet birch, cherry birch, black birch, Betula lenta
+    - Yukon white birch, Betula neoalaskana
+    - swamp birch, water birch, mountain birch, Western paper birch, Western birch, Betula fontinalis
+    - Newfoundland dwarf birch, American dwarf birch, Betula glandulosa
+  - alder, alder tree
+    - common alder, European black alder, Alnus glutinosa, Alnus vulgaris
+    - grey alder, gray alder, Alnus incana
+    - seaside alder, Alnus maritima
+    - white alder, mountain alder, Alnus rhombifolia
+    - red alder, Oregon alder, Alnus rubra
+    - speckled alder, Alnus rugosa
+    - smooth alder, hazel alder, Alnus serrulata
+    - green alder, Alnus veridis
+    - green alder, Alnus veridis crispa, Alnus crispa
+  - hornbeam
+    - European hornbeam, Carpinus betulus
+    - American hornbeam, Carpinus caroliniana
+  - hop hornbeam
+    - Old World hop hornbeam, Ostrya carpinifolia
+    - Eastern hop hornbeam, ironwood, ironwood tree, Ostrya virginiana
+  - fringe tree
+    - fringe bush, Chionanthus virginicus
+  - ash, ash tree
+    - Yggdrasil, Ygdrasil
+    - white ash, Fraxinus Americana
+    - swamp ash, Fraxinus caroliniana
+    - flowering ash, Fraxinus cuspidata
+    - flowering ash, Fraxinus dipetala
+    - European ash, common European ash, Fraxinus excelsior
+    - Oregon ash, Fraxinus latifolia, Fraxinus oregona
+    - black ash, basket ash, brown ash, hoop ash, Fraxinus nigra
+    - manna ash, flowering ash, Fraxinus ornus
+    - red ash, downy ash, Fraxinus pennsylvanica
+      - green ash, Fraxinus pennsylvanica subintegerrima
+    - blue ash, Fraxinus quadrangulata
+    - mountain ash, Fraxinus texensis
+    - pumpkin ash, Fraxinus tomentosa
+    - Arizona ash, Fraxinus velutina
+  - devilwood, American olive, Osmanthus americanus
+  - dhawa, dhava
+  - button tree, button mangrove, Conocarpus erectus
+  - white mangrove, Laguncularia racemosa
+  - bayberry, bay-rum tree, Jamaica bayberry, wild cinnamon, Pimenta acris
+  - gum tree, gum
+    - liquidambar
+      - sweet gum, sweet gum tree, bilsted, red gum, American sweet gum, Liquidambar styraciflua
+    - eucalyptus, eucalypt, eucalyptus tree
+      - flooded gum
+        - rose gum, Eucalypt grandis
+        - cider gum, Eucalypt gunnii
+        - forest red gum, Eucalypt tereticornis
+      - mallee
+        - white mallee, congoo mallee, Eucalyptus dumosa
+        - black mallee, black sally, black gum, Eucalytus stellulata
+      - stringybark
+        - white stringybark, thin-leaved stringybark, Eucalyptusd eugenioides
+      - smoothbark
+      - red gum, peppermint, peppermint gum, Eucalyptus amygdalina
+      - red gum, marri, Eucalyptus calophylla
+      - river red gum, river gum, Eucalyptus camaldulensis, Eucalyptus rostrata
+      - mountain swamp gum, Eucalyptus camphora
+      - snow gum, ghost gum, white ash, Eucalyptus coriacea, Eucalyptus pauciflora
+      - alpine ash, mountain oak, Eucalyptus delegatensis
+      - white mountain ash, Eucalyptus fraxinoides
+      - blue gum, fever tree, Eucalyptus globulus
+      - swamp gum, Eucalypt ovata
+      - spotted gum, Eucalyptus maculata
+      - lemon-scented gum, Eucalyptus citriodora, Eucalyptus maculata citriodora
+      - mountain ash, Eucalyptus regnans
+      - manna gum, Eucalyptus viminalis
+    - tupelo, tupelo tree
+      - water gum, Nyssa aquatica
+      - sour gum, black gum, pepperidge, Nyssa sylvatica
+  - poon
+    - Alexandrian laurel, Calophyllum inophyllum
+  - calaba, Santa Maria tree, Calophyllum calaba
+  - Maria, Calophyllum longifolium
+  - laurelwood, lancewood tree, Calophyllum candidissimum
+  - clusia
+  - wild fig, Clusia flava
+  - rose chestnut, ironwood, ironwood tree, Mesua ferrea
+  - souari, souari nut, souari tree, Caryocar nuciferum
+  - dipterocarp
+    - red lauan, red lauan tree, Shorea teysmanniana
+  - ketembilla, kitembilla, kitambilla, ketembilla tree, Ceylon gooseberry, Dovyalis hebecarpa
+  - chaulmoogra, chaulmoogra tree, chaulmugra, Hydnocarpus kurzii, Taraktagenos kurzii, Taraktogenos kurzii
+  - Hydnocarpus laurifolia, Hydnocarpus wightiana
+  - idesia, Idesia polycarpa
+  - Australian nettle, Australian nettle tree
+  - fig tree
+    - fig, common fig, common fig tree, Ficus carica
+      - caprifig, Ficus carica sylvestris
+    - golden fig, Florida strangler fig, strangler fig, wild fig, Ficus aurea
+    - banyan, banyan tree, banian, banian tree, Indian banyan, East Indian fig tree, Ficus bengalensis
+    - pipal, pipal tree, pipul, peepul, sacred fig, bo tree, Ficus religiosa
+    - India-rubber tree, India-rubber plant, India-rubber fig, rubber plant, Assam rubber, Ficus elastica
+    - mistletoe fig, mistletoe rubber plant, Ficus diversifolia, Ficus deltoidea
+    - Port Jackson fig, rusty rig, little-leaf fig, Botany Bay fig, Ficus rubiginosa
+    - sycamore, sycamore fig, mulberry fig, Ficus sycomorus
+  - elm, elm tree
+    - winged elm, wing elm, Ulmus alata
+    - American elm, white elm, water elm, rock elm, Ulmus americana
+    - smooth-leaved elm, European field elm, Ulmus carpinifolia
+    - cedar elm, Ulmus crassifolia
+    - witch elm, wych elm, Ulmus glabra
+    - Dutch elm, Ulmus hollandica
+    - Huntingdon elm, Ulmus hollandica vegetata
+    - water elm, Ulmus laevis
+    - Chinese elm, Ulmus parvifolia
+    - English elm, European elm, Ulmus procera
+    - Siberian elm, Chinese elm, dwarf elm, Ulmus pumila
+    - slippery elm, red elm, Ulmus rubra
+    - Jersey elm, guernsey elm, wheately elm, Ulmus sarniensis, Ulmus campestris sarniensis, Ulmus campestris wheatleyi
+    - September elm, red elm, Ulmus serotina
+    - rock elm, Ulmus thomasii
+  - hackberry, nettle tree
+    - European hackberry, Mediterranean hackberry, Celtis australis
+    - American hackberry, Celtis occidentalis
+    - sugarberry, Celtis laevigata
+  - cabbage tree, grass tree, Cordyline australis
+  - bonduc, bonduc tree, Caesalpinia bonduc, Caesalpinia bonducella
+  - divi-divi, Caesalpinia coriaria
+  - brazilwood, peachwood, peach-wood, pernambuco wood, Caesalpinia echinata
+  - brazilian ironwood, Caesalpinia ferrea
+  - shingle tree, Acrocarpus fraxinifolius
+  - msasa, Brachystegia speciformis
+  - cassia
+    - golden shower tree, drumstick tree, purging cassia, pudding pipe tree, canafistola, canafistula, Cassia fistula
+    - pink shower, pink shower tree, horse cassia, Cassia grandis
+    - rainbow shower, Cassia javonica
+    - horse cassia, Cassia roxburghii, Cassia marginata
+  - locust tree, locust
+    - courbaril, Hymenaea courbaril
+    - water locust, swamp locust, Gleditsia aquatica
+    - honey locust, Gleditsia triacanthos
+    - black locust, yellow locust, Robinia pseudoacacia
+    - clammy locust, Robinia viscosa
+  - Kentucky coffee tree, bonduc, chicot, Gymnocladus dioica
+  - palo verde, Parkinsonia florida, Cercidium floridum
+  - angelim, andelmin
+    - cabbage bark, cabbage-bark tree, cabbage tree, Andira inermis
+  - camwood, African sandalwood, Baphia nitida
+  - dhak, dak, palas, Butea frondosa, Butea monosperma
+  - rosewood, rosewood tree
+    - Indian blackwood, East Indian rosewood, East India rosewood, Indian rosewood, Dalbergia latifolia
+    - Brazilian rosewood, caviuna wood, jacaranda, Dalbergia nigra
+    - Honduras rosewood, Dalbergia stevensonii
+  - sissoo, sissu, sisham, Dalbergia sissoo
+  - kingwood, kingwood tree, Dalbergia cearensis
+  - cocobolo, Dalbergia retusa
+  - blackwood, blackwood tree
+    - lightwood, Acacia melanoxylon
+    - logwood, logwood tree, campeachy, bloodwood tree, Haematoxylum campechianum
+    - black mangrove, Avicennia marina
+  - coral tree, erythrina
+    - kaffir boom, Cape kafferboom, Erythrina caffra
+    - coral bean tree, Erythrina corallodendrum
+    - ceibo, crybaby tree, cry-baby tree, common coral tree, Erythrina crista-galli
+    - kaffir boom, Transvaal kafferboom, Erythrina lysistemon
+    - Indian coral tree, Erythrina variegata, Erythrina Indica
+    - cork tree, Erythrina vespertilio
+  - gliricidia
+  - millettia
+  - tolu tree, tolu balsam tree, Myroxylon balsamum, Myroxylon toluiferum
+  - Peruvian balsam, Myroxylon pereirae, Myroxylon balsamum pereirae
+  - necklace tree
+    - bead tree, jumby bean, jumby tree, Ormosia monosperma
+    - jumby bead, jumbie bead, Ormosia coarctata
+  - Jamaica dogwood, fish fuddle, Piscidia piscipula, Piscidia erythrina
+  - quira
+    - roble, Platymiscium trinitatis
+    - Panama redwood tree, Panama redwood, Platymiscium pinnatum
+  - Indian beech, Pongamia glabra
+  - bloodwood tree, kiaat, Pterocarpus angolensis
+  - padauk, padouk, amboyna, Pterocarpus indicus
+  - Burma padauk, Burmese rosewood, Pterocarpus macrocarpus
+  - kino, Pterocarpus marsupium
+  - red sandalwood, red sanders, red sanderswood, red saunders, Pterocarpus santalinus
+  - carib wood, Sabinea carinalis
+  - scarlet wisteria tree, vegetable hummingbird, Sesbania grandiflora
+  - Japanese pagoda tree, Chinese scholartree, Chinese scholar tree, Sophora japonica, Sophora sinensis
+  - mescal bean, coral bean, frijolito, frijolillo, Sophora secundiflora
+  - kowhai, Sophora tetraptera
+  - tipu, tipu tree, yellow jacaranda, pride of Bolivia
+  - keurboom, Virgilia capensis, Virgilia oroboides
+  - keurboom, Virgilia divaricata
+  - palm, palm tree
+    - sago palm
+      - sugar palm, gomuti, gomuti palm, Arenga pinnata
+      - wine palm, jaggery palm, kitul, kittul, kitul tree, toddy palm, Caryota urens
+      - true sago palm, Metroxylon sagu
+    - feather palm
+      - coyol, coyol palm, Acrocomia vinifera
+      - grugru, gri-gri, grugru palm, macamba, Acrocomia aculeata
+      - areca
+        - betel palm, Areca catechu
+      - piassava palm, pissaba palm, Bahia piassava, bahia coquilla, Attalea funifera
+      - wax palm, Ceroxylon andicola, Ceroxylon alpinum
+      - oil palm
+        - African oil palm, Elaeis guineensis
+        - American oil palm, Elaeis oleifera
+      - babassu, babassu palm, coco de macao, Orbignya phalerata, Orbignya spesiosa, Orbignya martiana
+      - cohune palm, Orbignya cohune, cohune
+      - date palm, Phoenix dactylifera
+      - ivory palm, ivory-nut palm, ivory plant, Phytelephas macrocarpa
+    - fan palm
+      - palmetto
+        - cabbage palmetto, cabbage palm, Sabal palmetto
+      - palmyra, palmyra palm, toddy palm, wine palm, lontar, longar palm, Borassus flabellifer
+      - carnauba, carnauba palm, wax palm, Copernicia prunifera, Copernicia cerifera
+      - caranday, caranda, caranda palm, wax palm, Copernicia australis, Copernicia alba
+      - gebang palm, Corypha utan, Corypha gebanga
+      - latanier, latanier palm
+      - talipot, talipot palm, Corypha umbraculifera
+      - saw palmetto, scrub palmetto, Serenoa repens
+      - thatch palm, thatch tree, silver thatch, broom palm, Thrinax parviflora
+      - key palm, silvertop palmetto, silver thatch, Thrinax microcarpa, Thrinax morrisii, Thrinax keyensis
+    - calamus
+      - rattan, rattan palm, Calamus rotang
+      - lawyer cane, Calamus australis
+    - fishtail palm
+    - coconut, coconut palm, coco palm, coco, cocoa palm, coconut tree, Cocos nucifera
+    - corozo, corozo palm
+    - cabbage palm, Euterpe oleracea
+    - cabbage palm, cabbage tree, Livistona australis
+    - nipa palm, Nipa fruticans
+    - raffia palm, Raffia farinifera, Raffia ruffia
+      - jupati, jupaty, jupati palm, Raffia taedigera
+      - bamboo palm, Raffia vinifera
+    - lady palm
+      - miniature fan palm, bamboo palm, fern rhapis, Rhapis excelsa
+      - reed rhapis, slender lady palm, Rhapis humilis
+    - royal palm, Roystonea regia
+    - cabbage palm, Roystonea oleracea
+  - dagame, lemonwood tree, Calycophyllum candidissimum
+  - coffee, coffee tree
+    - Arabian coffee, Coffea arabica
+    - Liberian coffee, Coffea liberica
+    - robusta coffee, Rio Nunez coffee, Coffea robusta, Coffea canephora
+  - cinchona, chinchona
+    - Cartagena bark, Cinchona cordifolia, Cinchona lancifolia
+    - calisaya, Cinchona officinalis, Cinchona ledgeriana, Cinchona calisaya
+    - cinchona tree, Cinchona pubescens
+  - opepe, Nauclea diderrichii, Sarcocephalus diderrichii
+  - lemonwood, lemon-wood, lemonwood tree, lemon-wood tree, Psychotria capensis
+  - wild medlar, wild medlar tree, medlar, Vangueria infausta
+  - Spanish tamarind, Vangueria madagascariensis
+  - incense tree
+    - elephant tree, Bursera microphylla
+    - gumbo-limbo, Bursera simaruba
+    - Boswellia carteri
+    - salai, Boswellia serrata
+    - balm of gilead, Commiphora meccanensis
+    - myrrh tree, Commiphora myrrha
+    - Protium heptaphyllum
+    - Protium guianense
+  - mahogany, mahogany tree
+    - Spanish cedar, Spanish cedar tree, Cedrela odorata
+    - African scented mahogany, cedar mahogany, sapele mahogany, Entandrophragma cylindricum
+    - African mahogany
+    - true mahogany, Cuban mahogany, Dominican mahogany, Swietinia mahogani
+    - Honduras mahogany, Swietinia macrophylla
+    - Philippine mahogany, Philippine cedar, kalantas, Toona calantas, Cedrela calantas
+    - hardtack
+  - chinaberry, chinaberry tree, China tree, Persian lilac, pride-of-India, azederach, azedarach, Melia azederach, Melia azedarach
+  - neem, neem tree, nim tree, margosa, arishth, Azadirachta indica, Melia Azadirachta
+  - satinwood, satinwood tree, Chloroxylon swietenia
+  - silver ash
+    - native beech, flindosa, flindosy, Flindersia australis
+    - bunji-bunji, Flindersia schottiana
+  - lanseh tree, langsat, langset, Lansium domesticum
+  - African walnut, Lovoa klaineana
+  - turreae
+  - lepidobotrys
+  - caracolito, Ruptiliocarpon caracolito
+  - cork tree, Phellodendron amurense
+  - trifoliate orange, trifoliata, wild orange, Poncirus trifoliata
+  - prickly ash
+    - toothache tree, sea ash, Zanthoxylum americanum, Zanthoxylum fraxineum
+    - Hercules'-club, Hercules'-clubs, Hercules-club, Zanthoxylum clava-herculis
+  - bitterwood tree
+    - marupa, Simarouba amara
+    - paradise tree, bitterwood, Simarouba glauca
+    - Jamaica quassia, bitterwood, Picrasma excelsa, Picrasma excelsum
+    - quassia, bitterwood, Quassia amara
+  - pepper tree, Kirkia wilmsii
+  - willow, willow tree
+    - osier
+      - golden willow, Salix alba vitellina, Salix vitellina
+      - almond willow, black Hollander, Salix triandra, Salix amygdalina
+      - purple willow, red willow, red osier, basket willow, purple osier, Salix purpurea
+      - common osier, hemp willow, velvet osier, Salix viminalis
+    - white willow, Huntingdon willow, Salix alba
+    - silver willow, silky willow, Salix alba sericea, Salix sericea
+    - cricket-bat willow, Salix alba caerulea
+    - arctic willow, Salix arctica
+    - weeping willow, Babylonian weeping willow, Salix babylonica
+    - Wisconsin weeping willow, Salix pendulina, Salix blanda, Salix pendulina blanda
+    - pussy willow, Salix discolor
+    - sallow
+      - goat willow, florist's willow, pussy willow, Salix caprea
+    - peachleaf willow, peach-leaved willow, almond-leaves willow, Salix amygdaloides
+    - hoary willow, sage willow, Salix candida
+    - crack willow, brittle willow, snap willow, Salix fragilis
+    - prairie willow, Salix humilis
+    - dwarf willow, Salix herbacea
+    - grey willow, gray willow, Salix cinerea
+    - arroyo willow, Salix lasiolepis
+    - shining willow, Salix lucida
+    - swamp willow, black willow, Salix nigra
+    - bay willow, laurel willow, Salix pentandra
+    - balsam willow, Salix pyrifolia
+    - creeping willow, Salix repens
+    - Sitka willow, silky willow, Salix sitchensis
+    - dwarf grey willow, dwarf gray willow, sage willow, Salix tristis
+    - bearberry willow, Salix uva-ursi
+  - sandalwood tree, true sandalwood, Santalum album
+  - quandong, quandang, quandong tree, Eucarya acuminata, Fusanus acuminatus
+  - aalii
+  - soapberry, soapberry tree
+    - wild China tree, Sapindus drumondii, Sapindus marginatus
+    - China tree, false dogwood, jaboncillo, chinaberry, Sapindus saponaria
+  - aroeira blanca, Schinus chichita
+  - pepper tree, molle, Peruvian mastic tree, Schinus molle
+  - Brazilian pepper tree, Schinus terebinthifolius
+  - ebony, ebony tree, Diospyros ebenum
+  - marblewood, marble-wood, Andaman marble, Diospyros kurzii
+  - balata, balata tree, beefwood, bully tree, Manilkara bidentata
+  - gutta-percha tree, Palaquium gutta
+  - gutta-percha tree
+  - marmalade tree, mammee, sapote, Pouteria zapota, Calocarpum zapota
+  - Christmas bush, Christmas tree, Ceratopetalum gummiferum
+  - plane tree, sycamore, platan
+    - London plane, Platanus acerifolia
+    - American sycamore, American plane, buttonwood, Platanus occidentalis
+    - oriental plane, Platanus orientalis
+    - California sycamore, Platanus racemosa
+    - Arizona sycamore, Platanus wrightii
+  - calabash, calabash tree, Crescentia cujete
+  - princewood, Spanish elm, Cordia gerascanthus
+  - white mangrove, Avicennia officinalis
+  - black mangrove, Aegiceras majus
+  - teak, Tectona grandis
+  - snag
+  - timber tree
+  - treelet
+  - arbor
+  - bean tree
+    - tonka bean, tonka bean tree, Coumarouna odorata, Dipteryx odorata
+    - carob, carob tree, carob bean tree, algarroba, Ceratonia siliqua
+    - tamarind, tamarind tree, tamarindo, Tamarindus indica
+    - Moreton Bay chestnut, Australian chestnut
+    - catalpa, Indian bean
+      - Catalpa bignioides
+      - Catalpa speciosa
+  - pollard
+  - sapling
+  - shade tree
+  - gymnospermous tree
+    - gnetum, Gnetum gnemon
+    - ginkgo, gingko, maidenhair tree, Ginkgo biloba
+    - conifer, coniferous tree
+      - pine, pine tree, true pine
+        - pinon, pinyon
+          - nut pine
+            - pinon pine, Mexican nut pine, Pinus cembroides
+            - Rocky mountain pinon, Pinus edulis
+            - single-leaf, single-leaf pine, single-leaf pinyon, Pinus monophylla
+          - bishop pine, bishop's pine, Pinus muricata
+          - California single-leaf pinyon, Pinus californiarum
+          - Parry's pinyon, Pinus quadrifolia, Pinus parryana
+        - spruce pine, Pinus glabra
+        - black pine, Pinus nigra
+        - pitch pine, northern pitch pine, Pinus rigida
+        - pond pine, Pinus serotina
+        - stone pine, umbrella pine, European nut pine, Pinus pinea
+        - Swiss pine, Swiss stone pine, arolla pine, cembra nut tree, Pinus cembra
+        - Swiss mountain pine, mountain pine, dwarf mountain pine, mugho pine, mugo pine, Pinus mugo
+        - ancient pine, Pinus longaeva
+        - white pine
+          - American white pine, eastern white pine, weymouth pine, Pinus strobus
+          - western white pine, silver pine, mountain pine, Pinus monticola
+          - southwestern white pine, Pinus strobiformis
+          - limber pine, Pinus flexilis
+          - whitebark pine, whitebarked pine, Pinus albicaulis
+        - yellow pine
+          - ponderosa, ponderosa pine, western yellow pine, bull pine, Pinus ponderosa
+          - longleaf pine, pitch pine, southern yellow pine, Georgia pine, Pinus palustris
+          - shortleaf pine, short-leaf pine, shortleaf yellow pine, Pinus echinata
+        - Jeffrey pine, Jeffrey's pine, black pine, Pinus jeffreyi
+        - shore pine, lodgepole, lodgepole pine, spruce pine, Pinus contorta
+        - Sierra lodgepole pine, Pinus contorta murrayana
+        - loblolly pine, frankincense pine, Pinus taeda
+        - jack pine, Pinus banksiana
+        - swamp pine
+        - red pine, Canadian red pine, Pinus resinosa
+        - Scotch pine, Scots pine, Scotch fir, Pinus sylvestris
+        - scrub pine, Virginia pine, Jersey pine, Pinus virginiana
+        - Monterey pine, Pinus radiata
+        - bristlecone pine, Rocky Mountain bristlecone pine, Pinus aristata
+        - table-mountain pine, prickly pine, hickory pine, Pinus pungens
+        - knobcone pine, Pinus attenuata
+        - Japanese red pine, Japanese table pine, Pinus densiflora
+        - Japanese black pine, black pine, Pinus thunbergii
+        - Torrey pine, Torrey's pine, soledad pine, grey-leaf pine, sabine pine, Pinus torreyana
+      - larch, larch tree
+        - American larch, tamarack, black larch, Larix laricina
+        - western larch, western tamarack, Oregon larch, Larix occidentalis
+        - subalpine larch, Larix lyallii
+        - European larch, Larix decidua
+        - Siberian larch, Larix siberica, Larix russica
+      - golden larch, Pseudolarix amabilis
+      - fir, fir tree, true fir
+        - silver fir
+          - amabilis fir, white fir, Pacific silver fir, red silver fir, Christmas tree, Abies amabilis
+          - European silver fir, Christmas tree, Abies alba
+          - white fir, Colorado fir, California white fir, Abies concolor, Abies lowiana
+          - balsam fir, balm of Gilead, Canada balsam, Abies balsamea
+          - Fraser fir, Abies fraseri
+          - lowland fir, lowland white fir, giant fir, grand fir, Abies grandis
+          - Alpine fir, subalpine fir, Abies lasiocarpa
+        - Santa Lucia fir, bristlecone fir, Abies bracteata, Abies venusta
+      - cedar, cedar tree, true cedar
+        - cedar of Lebanon, Cedrus libani
+        - deodar, deodar cedar, Himalayan cedar, Cedrus deodara
+        - Atlas cedar, Cedrus atlantica
+      - spruce
+        - Norway spruce, Picea abies
+        - weeping spruce, Brewer's spruce, Picea breweriana
+        - Engelmann spruce, Engelmann's spruce, Picea engelmannii
+        - white spruce, Picea glauca
+        - black spruce, Picea mariana, spruce pine
+        - Siberian spruce, Picea obovata
+        - Sitka spruce, Picea sitchensis
+        - oriental spruce, Picea orientalis
+        - Colorado spruce, Colorado blue spruce, silver spruce, Picea pungens
+        - red spruce, eastern spruce, yellow spruce, Picea rubens
+      - hemlock, hemlock tree
+        - eastern hemlock, Canadian hemlock, spruce pine, Tsuga canadensis
+        - Carolina hemlock, Tsuga caroliniana
+        - mountain hemlock, black hemlock, Tsuga mertensiana
+        - western hemlock, Pacific hemlock, west coast hemlock, Tsuga heterophylla
+      - douglas fir
+        - green douglas fir, douglas spruce, douglas pine, douglas hemlock, Oregon fir, Oregon pine, Pseudotsuga menziesii
+        - big-cone spruce, big-cone douglas fir, Pseudotsuga macrocarpa
+      - Cathaya
+      - cedar, cedar tree
+        - Chilean cedar, Austrocedrus chilensis
+        - incense cedar, red cedar, Calocedrus decurrens, Libocedrus decurrens
+        - southern white cedar, coast white cedar, Atlantic white cedar, white cypress, white cedar, Chamaecyparis thyoides
+        - Oregon cedar, Port Orford cedar, Lawson's cypress, Lawson's cedar, Chamaecyparis lawsoniana
+        - yellow cypress, yellow cedar, Nootka cypress, Alaska cedar, Chamaecyparis nootkatensis
+        - Japanese cedar, Japan cedar, sugi, Cryptomeria japonica
+        - incense cedar
+        - kawaka, Libocedrus plumosa
+        - pahautea, Libocedrus bidwillii, mountain pine
+      - cypress, cypress tree
+        - gowen cypress, Cupressus goveniana
+        - pygmy cypress, Cupressus pigmaea, Cupressus goveniana pigmaea
+        - Santa Cruz cypress, Cupressus abramsiana, Cupressus goveniana abramsiana
+        - Arizona cypress, Cupressus arizonica
+        - Guadalupe cypress, Cupressus guadalupensis
+        - Monterey cypress, Cupressus macrocarpa
+        - Mexican cypress, cedar of Goa, Portuguese cypress, Cupressus lusitanica
+        - Italian cypress, Mediterranean cypress, Cupressus sempervirens
+      - King William pine, Athrotaxis selaginoides
+      - metasequoia, dawn redwood, Metasequoia glyptostrodoides
+      - arborvitae
+        - western red cedar, red cedar, canoe cedar, Thuja plicata
+        - American arborvitae, northern white cedar, white cedar, Thuja occidentalis
+        - Oriental arborvitae, Thuja orientalis, Platycladus orientalis
+        - hiba arborvitae, Thujopsis dolobrata
+      - keteleeria
+      - Wollemi pine
+      - araucaria
+        - monkey puzzle, chile pine, Araucaria araucana
+        - norfolk island pine, Araucaria heterophylla, Araucaria excelsa
+        - new caledonian pine, Araucaria columnaris
+        - bunya bunya, bunya bunya tree, Araucaria bidwillii
+        - hoop pine, Moreton Bay pine, Araucaria cunninghamii
+      - kauri pine, dammar pine
+        - kauri, kaury, Agathis australis
+        - amboina pine, amboyna pine, Agathis dammara, Agathis alba
+        - dundathu pine, queensland kauri, smooth bark kauri, Agathis robusta
+        - red kauri, Agathis lanceolata
+      - plum-yew
+      - celery pine
+        - celery top pine, celery-topped pine, Phyllocladus asplenifolius
+        - tanekaha, Phyllocladus trichomanoides
+        - Alpine celery pine, Phyllocladus alpinus
+      - podocarp
+      - yacca, yacca podocarp, Podocarpus coriaceus
+      - brown pine, Rockingham podocarp, Podocarpus elatus
+      - cape yellowwood, African yellowwood, Podocarpus elongatus
+      - totara, Podocarpus totara
+      - kahikatea, New Zealand Dacryberry, New Zealand white pine, Dacrycarpus dacrydioides, Podocarpus dacrydioides
+      - rimu, imou pine, red pine, Dacrydium cupressinum
+      - tarwood, tar-wood, Dacrydium colensoi
+      - common sickle pine, Falcatifolium falciforme
+      - yellow-leaf sickle pine, Falcatifolium taxoides
+      - tarwood, tar-wood, New Zealand mountain pine, Halocarpus bidwilli, Dacrydium bidwilli
+      - westland pine, silver pine, Lagarostrobus colensoi
+      - huon pine, Lagarostrobus franklinii, Dacrydium franklinii
+      - nagi, Nageia nagi
+      - miro, black pine, Prumnopitys ferruginea, Podocarpus ferruginea
+      - matai, black pine, Prumnopitys taxifolia, Podocarpus spicata
+      - plum-fruited yew, Prumnopitys andina, Prumnopitys elegans
+      - Prince Albert yew, Prince Albert's yew, Saxe-gothea conspicua
+      - Sundacarpus amara, Prumnopitys amara, Podocarpus amara
+      - Japanese umbrella pine, Sciadopitys verticillata
+      - yew
+        - California nutmeg, nutmeg-yew, Torreya californica
+        - stinking cedar, stinking yew, Torrey tree, Torreya taxifolia
+        - Old World yew, English yew, Taxus baccata
+        - Pacific yew, California yew, western yew, Taxus brevifolia
+        - Japanese yew, Taxus cuspidata
+        - Florida yew, Taxus floridana
+        - New Caledonian yew, Austrotaxus spicata
+        - white-berry yew, Pseudotaxus chienii
+  - angiospermous tree, flowering tree
+    - ilang-ilang, ylang-ylang, Cananga odorata
+    - katsura tree, Cercidiphyllum japonicum
+    - laurel
+      - true laurel, bay, bay laurel, bay tree, Laurus nobilis
+      - camphor tree, Cinnamomum camphora
+      - cinnamon, Ceylon cinnamon, Ceylon cinnamon tree, Cinnamomum zeylanicum
+      - cassia, cassia-bark tree, Cinnamomum cassia
+      - Saigon cinnamon, Cinnamomum loureirii
+      - laurel-tree, red bay, Persea borbonia
+      - sassafras, sassafras tree, Sassafras albidum
+      - California laurel, California bay tree, Oregon myrtle, pepperwood, spice tree, sassafras laurel, California olive, mountain laurel, Umbellularia californica
+    - magnolia
+      - southern magnolia, evergreen magnolia, large-flowering magnolia, bull bay, Magnolia grandiflora
+      - umbrella tree, umbrella magnolia, elkwood, elk-wood, Magnolia tripetala
+      - earleaved umbrella tree, Magnolia fraseri
+      - cucumber tree, Magnolia acuminata
+      - large-leaved magnolia, large-leaved cucumber tree, great-leaved macrophylla, Magnolia macrophylla
+      - saucer magnolia, Chinese magnolia, Magnolia soulangiana
+      - star magnolia, Magnolia stellata
+      - sweet bay, swamp bay, swamp laurel, Magnolia virginiana
+    - manglietia, genus Manglietia
+    - tulip tree, tulip poplar, yellow poplar, canary whitewood, Liriodendron tulipifera
+    - bocconia, tree celandine, Bocconia frutescens
+    - cream-of-tartar tree, sour gourd, Adansonia gregorii
+    - baobab, monkey-bread tree, Adansonia digitata
+    - kapok, ceiba tree, silk-cotton tree, white silk-cotton tree, Bombay ceiba, God tree, Ceiba pentandra
+    - balsa, Ochroma lagopus
+    - sterculia
+      - Panama tree, Sterculia apetala
+      - kalumpang, Java olives, Sterculia foetida
+    - red beech, brown oak, booyong, crow's foot, stave wood, silky elm, Heritiera trifoliolata, Terrietia trifoliolata
+    - looking glass tree, Heritiera macrophylla
+    - looking-glass plant, Heritiera littoralis
+    - cacao, cacao tree, chocolate tree, Theobroma cacao
+      - cacao bean, cocoa bean
+    - rewa-rewa, New Zealand honeysuckle
+    - sorrel tree, sourwood, titi, Oxydendrum arboreum
+    - iron tree, iron-tree, ironwood, ironwood tree
+    - bush willow, Combretum appiculatum
+    - bush willow, Combretum erythrophyllum
+    - Queen's crape myrtle, pride-of-India, Lagerstroemia speciosa
+    - myrtaceous tree
+    - myrtle
+      - common myrtle, Myrtus communis
+    - mangrove, Rhizophora mangle
+    - dillenia
+    - gamboge tree, Garcinia hanburyi, Garcinia cambogia, Garcinia gummi-gutta
+    - Pipturus albidus
+    - paper mulberry, Broussonetia papyrifera
+    - trumpetwood, trumpet-wood, trumpet tree, snake wood, imbauba, Cecropia peltata
+    - mountain ebony, orchid tree, Bauhinia variegata
+    - royal poinciana, flamboyant, flame tree, peacock flower, Delonix regia, Poinciana regia
+    - Judas tree, love tree, Circis siliquastrum
+    - redbud, Cercis canadensis
+    - cherry laurel, laurel cherry, mock orange, wild orange, Prunus caroliniana
+    - fruit tree
+      - custard apple, custard apple tree
+        - cherimoya, cherimoya tree, Annona cherimola
+        - ilama, ilama tree, Annona diversifolia
+        - soursop, prickly custard apple, soursop tree, Annona muricata
+        - bullock's heart, bullock's heart tree, bullock heart, Annona reticulata
+        - sweetsop, sweetsop tree, Annona squamosa
+        - pond apple, pond-apple tree, Annona glabra
+        - pawpaw, papaw, papaw tree, Asimina triloba
+      - avocado, avocado tree, Persea Americana
+      - durian, durion, durian tree, Durio zibethinus
+      - toothbrush tree, mustard tree, Salvadora persica
+      - olive tree
+        - olive, European olive tree, Olea europaea
+        - black maire, Olea cunninghamii
+        - white maire, Olea lanceolata
+      - anchovy pear, anchovy pear tree, Grias cauliflora
+      - sour cherry, Eugenia corynantha
+      - Surinam cherry, pitanga, Eugenia uniflora
+      - rose apple, rose-apple tree, jambosa, Eugenia jambos
+      - jaboticaba, jaboticaba tree, Myrciaria cauliflora
+      - guava, true guava, guava bush, Psidium guajava
+      - guava, strawberry guava, yellow cattley guava, Psidium littorale
+      - cattley guava, purple strawberry guava, Psidium cattleianum, Psidium littorale longipes
+      - Brazilian guava, Psidium guineense
+      - pomegranate, pomegranate tree, Punica granatum
+      - mangosteen, mangosteen tree, Garcinia mangostana
+      - mammee apple, mammee, mamey, mammee tree, Mammea americana
+      - papaya, papaia, pawpaw, papaya tree, melon tree, Carica papaya
+      - mulberry, mulberry tree
+        - white mulberry, Morus alba
+        - black mulberry, Morus nigra
+        - red mulberry, Morus rubra
+      - breadfruit, breadfruit tree, Artocarpus communis, Artocarpus altilis
+      - jackfruit, jackfruit tree, Artocarpus heterophyllus
+      - marang, marang tree, Artocarpus odoratissima
+      - coco plum, coco plum tree, cocoa plum, icaco, Chrysobalanus icaco
+      - quince, quince bush, Cydonia oblonga
+      - loquat, loquat tree, Japanese medlar, Japanese plum, Eriobotrya japonica
+      - apple tree
+        - apple, orchard apple tree, Malus pumila
+        - wild apple, crab apple, crabapple
+          - wild crab, Malus sylvestris
+          - American crab apple, garland crab, Malus coronaria
+          - Oregon crab apple, Malus fusca
+          - Iowa crab, Iowa crab apple, prairie crab, western crab apple, Malus ioensis
+            - Bechtel crab, flowering crab
+        - crab apple, crabapple, cultivated crab apple
+          - Siberian crab, Siberian crab apple, cherry apple, cherry crab, Malus baccata
+          - Southern crab apple, flowering crab, Malus angustifolia
+      - medlar, medlar tree, Mespilus germanica
+      - plum, plum tree
+        - wild plum, wild plum tree
+          - Allegheny plum, Alleghany plum, sloe, Prunus alleghaniensis
+          - American red plum, August plum, goose plum, Prunus americana
+          - chickasaw plum, hog plum, hog plum bush, Prunus angustifolia
+          - beach plum, beach plum bush, Prunus maritima
+          - holly-leaved cherry, holly-leaf cherry, evergreen cherry, islay, Prunus ilicifolia
+        - common plum, Prunus domestica
+        - bullace, Prunus insititia
+          - damson plum, damson plum tree, Prunus domestica insititia
+        - big-tree plum, Prunus mexicana
+        - Canada plum, Prunus nigra
+        - cherry plum, myrobalan, myrobalan plum, Prunus cerasifera
+        - Japanese plum, Prunus salicina
+        - Sierra plum, Pacific plum, Prunus subcordata
+      - plumcot, plumcot tree
+      - apricot, apricot tree
+        - Japanese apricot, mei, Prunus mume
+        - common apricot, Prunus armeniaca
+        - purple apricot, black apricot, Prunus dasycarpa
+      - cherry, cherry tree
+        - wild cherry, wild cherry tree
+          - bird cherry, bird cherry tree
+            - hagberry tree, European bird cherry, common bird cherry, Prunus padus
+            - pin cherry, Prunus pensylvanica
+          - black cherry, black cherry tree, rum cherry, Prunus serotina
+        - sweet cherry, Prunus avium
+          - heart cherry, oxheart, oxheart cherry
+          - gean, mazzard, mazzard cherry
+        - capulin, capulin tree, Prunus capuli
+        - sour cherry, sour cherry tree, Prunus cerasus
+          - amarelle, Prunus cerasus caproniana
+          - morello, Prunus cerasus austera
+          - marasca, marasca cherry, maraschino cherry, Prunus cerasus marasca
+        - Catalina cherry, Prunus lyonii
+        - flowering cherry
+          - fuji, fuji cherry, Prunus incisa
+          - oriental cherry, Japanese cherry, Japanese flowering cherry, Prunus serrulata
+          - Japanese flowering cherry, Prunus sieboldii
+          - rosebud cherry, winter flowering cherry, Prunus subhirtella
+        - chokecherry, chokecherry tree, Prunus virginiana
+          - western chokecherry, Prunus virginiana demissa, Prunus demissa
+      - almond tree
+        - almond, sweet almond, Prunus dulcis, Prunus amygdalus, Amygdalus communis
+          - jordan almond
+        - bitter almond, Prunus dulcis amara, Amygdalus communis amara
+        - dwarf flowering almond, Prunus glandulosa
+        - flowering almond, oriental bush cherry, Prunus japonica
+        - Russian almond, dwarf Russian almond, Prunus tenella
+        - flowering almond, Prunus triloba
+      - peach, peach tree, Prunus persica
+      - nectarine, nectarine tree, Prunus persica nectarina
+      - pear, pear tree, Pyrus communis
+      - genipa
+        - genipap fruit, jagua, marmalade box, Genipa Americana
+      - carambola, carambola tree, Averrhoa carambola
+      - bilimbi, Averrhoa bilimbi
+      - citrus, citrus tree
+        - orange, orange tree
+          - sour orange, Seville orange, bitter orange, bitter orange tree, bigarade, marmalade orange, Citrus aurantium
+          - bergamot, bergamot orange, Citrus bergamia
+          - sweet orange, sweet orange tree, Citrus sinensis
+          - temple orange, temple orange tree, tangor, king orange, Citrus nobilis
+        - pomelo, pomelo tree, pummelo, shaddock, Citrus maxima, Citrus grandis, Citrus decumana
+        - citron, citron tree, Citrus medica
+        - grapefruit, Citrus paradisi
+        - mandarin, mandarin orange, mandarin orange tree, Citrus reticulata
+          - tangerine, tangerine tree
+          - clementine, clementine tree
+          - satsuma, satsuma tree
+        - tangelo, tangelo tree, ugli fruit, Citrus tangelo
+        - rangpur, rangpur lime, lemanderin, Citrus limonia
+        - lemon, lemon tree, Citrus limon
+          - sweet lemon, sweet lime, Citrus limetta
+        - lime, lime tree, Citrus aurantifolia
+        - citrange, citrange tree, Citroncirus webberi
+        - kumquat, cumquat, kumquat tree
+          - marumi, marumi kumquat, round kumquat, Fortunella japonica
+          - nagami, nagami kumquat, oval kumquat, Fortunella margarita
+      - wild mango, dika, wild mango tree, Irvingia gabonensis
+      - akee, akee tree, Blighia sapida
+      - longan, lungen, longanberry, Dimocarpus longan, Euphorbia litchi, Nephelium longana
+      - litchi, lichee, litchi tree, Litchi chinensis, Nephelium litchi
+      - Spanish lime, Spanish lime tree, honey berry, mamoncillo, genip, ginep, Melicocca bijuga, Melicocca bijugatus
+      - rambutan, rambotan, rambutan tree, Nephelium lappaceum
+      - pulasan, pulassan, pulasan tree, Nephelium mutabile
+      - mango, mango tree, Mangifera indica
+      - hog plum, yellow mombin, yellow mombin tree, Spondias mombin
+      - mombin, mombin tree, jocote, Spondias purpurea
+      - persimmon, persimmon tree
+        - Japanese persimmon, kaki, Diospyros kaki
+        - American persimmon, possumwood, Diospyros virginiana
+        - date plum, Diospyros lotus
+      - star apple, caimito, Chrysophyllum cainito
+      - sapodilla, sapodilla tree, Manilkara zapota, Achras zapota
+      - canistel, canistel tree, Pouteria campechiana nervosa
+    - mountain ash
+      - rowan, rowan tree, European mountain ash, Sorbus aucuparia
+      - American mountain ash, Sorbus americana
+      - Western mountain ash, Sorbus sitchensis
+      - service tree, sorb apple, sorb apple tree, Sorbus domestica
+        - wild service tree, Sorbus torminalis
+    - ailanthus
+      - tree of heaven, tree of the gods, Ailanthus altissima
+    - palo santo, Bulnesia sarmienti
+    - lignum vitae, Guaiacum officinale
+    - bastard lignum vitae, Guaiacum sanctum
+    - poplar, poplar tree
+      - balsam poplar, hackmatack, tacamahac, Populus balsamifera
+      - white poplar, white aspen, abele, aspen poplar, silver-leaved poplar, Populus alba
+      - grey poplar, gray poplar, Populus canescens
+      - black poplar, Populus nigra
+        - Lombardy poplar, Populus nigra italica
+      - cottonwood
+        - Eastern cottonwood, necklace poplar, Populus deltoides
+        - black cottonwood, Western balsam poplar, Populus trichocarpa
+        - swamp cottonwood, black cottonwood, downy poplar, swamp poplar, Populus heterophylla
+      - aspen
+        - quaking aspen, European quaking aspen, Populus tremula
+        - American quaking aspen, American aspen, Populus tremuloides
+        - Canadian aspen, bigtooth aspen, bigtoothed aspen, big-toothed aspen, large-toothed aspen, large tooth aspen, Populus grandidentata
+    - titi, buckwheat tree, Cliftonia monophylla
+    - maple
+      - silver maple, Acer saccharinum
+      - sugar maple, rock maple, Acer saccharum
+      - red maple, scarlet maple, swamp maple, Acer rubrum
+      - moosewood, moose-wood, striped maple, striped dogwood, goosefoot maple, Acer pennsylvanicum
+      - Oregon maple, big-leaf maple, Acer macrophyllum
+      - dwarf maple, Rocky-mountain maple, Acer glabrum
+      - mountain maple, mountain alder, Acer spicatum
+      - vine maple, Acer circinatum
+      - hedge maple, field maple, Acer campestre
+      - Norway maple, Acer platanoides
+      - sycamore, great maple, scottish maple, Acer pseudoplatanus
+      - box elder, ash-leaved maple, Acer negundo
+        - California box elder, Acer negundo Californicum
+      - pointed-leaf maple, Acer argutum
+      - Japanese maple, full moon maple, Acer japonicum
+      - Japanese maple, Acer palmatum
+    - holly
+      - bearberry, possum haw, winterberry, Ilex decidua
+      - inkberry, gallberry, gall-berry, evergreen winterberry, Ilex glabra
+      - mate, Paraguay tea, Ilex paraguariensis
+      - American holly, Christmas holly
+      - low gallberry holly
+      - tall gallberry holly
+      - yaupon holly
+      - deciduous holly
+      - juneberry holly
+      - largeleaf holly
+      - Geogia holly
+      - common winterberry holly
+      - smooth winterberry holly
+    - terebinth, Pistacia terebinthus
+    - horse chestnut, buckeye, Aesculus hippocastanum
+      - sweet buckeye
+      - Ohio buckeye
+      - dwarf buckeye, bottlebrush buckeye
+      - red buckeye
+      - particolored buckeye
+    - satinleaf, satin leaf, caimitillo, damson plum, Chrysophyllum oliviforme
+    - silver bell
+      - silver-bell tree, silverbell tree, snowdrop tree, opossum wood, Halesia carolina, Halesia tetraptera
+    - Spanish elm, Equador laurel, salmwood, cypre, princewood, Cordia alliodora
+    - physic nut, Jatropha curcus
+    - Para rubber tree, caoutchouc tree, Hevea brasiliensis
+    - candlenut, varnish tree, Aleurites moluccana
+    - tung tree, tung, tung-oil tree, Aleurites fordii
+    - dogwood, dogwood tree, cornel
+      - common white dogwood, eastern flowering dogwood, Cornus florida
+      - red osier, red osier dogwood, red dogwood, American dogwood, redbrush, Cornus stolonifera
+      - silky dogwood, Cornus obliqua
+      - silky cornel, silky dogwood, Cornus amomum
+      - common European dogwood, red dogwood, blood-twig, pedwood, Cornus sanguinea
+      - bunchberry, dwarf cornel, crackerberry, pudding berry, Cornus canadensis
+      - cornelian cherry, Cornus mas
+    - nut tree
+      - kola, kola nut, kola nut tree, goora nut, Cola acuminata
+      - macadamia, macadamia tree
+        - Macadamia integrifolia
+        - macadamia nut, macadamia nut tree, Macadamia ternifolia
+        - Queensland nut, Macadamia tetraphylla
+      - hazelnut, hazel, hazelnut tree
+        - American hazel, Corylus americana
+        - cobnut, filbert, Corylus avellana, Corylus avellana grandis
+        - beaked hazelnut, Corylus cornuta
+      - walnut, walnut tree
+        - California black walnut, Juglans californica
+        - butternut, butternut tree, white walnut, Juglans cinerea
+        - black walnut, black walnut tree, black hickory, Juglans nigra
+        - English walnut, English walnut tree, Circassian walnut, Persian walnut, Juglans regia
+      - hickory, hickory tree
+        - water hickory, bitter pecan, water bitternut, Carya aquatica
+        - pignut, pignut hickory, brown hickory, black hickory, Carya glabra
+        - bitternut, bitternut hickory, bitter hickory, bitter pignut, swamp hickory, Carya cordiformis
+        - big shellbark, big shellbark hickory, big shagbark, king nut, king nut hickory, Carya laciniosa
+        - nutmeg hickory, Carya myristicaeformis, Carya myristiciformis
+        - shagbark, shagbark hickory, shellbark, shellbark hickory, Carya ovata
+        - mockernut, mockernut hickory, black hickory, white-heart hickory, big-bud hickory, Carya tomentosa
+      - pecan, pecan tree, Carya illinoensis, Carya illinoinsis
+      - wing nut, wing-nut
+        - Caucasian walnut, Pterocarya fraxinifolia
+      - brazil nut, brazil-nut tree, Bertholletia excelsa
+      - cashew, cashew tree, Anacardium occidentale
+      - pistachio, Pistacia vera, pistachio tree
+    - spice tree
+      - nutmeg, nutmeg tree, Myristica fragrans
+      - allspice, allspice tree, pimento tree, Pimenta dioica
+      - allspice tree, Pimenta officinalis
+      - clove, clove tree, Syzygium aromaticum, Eugenia aromaticum, Eugenia caryophyllatum
+  - fever tree
+  - bonsai
+    - ming tree
+    - ming tree
+  - nakedwood
+  - hazel, hazel tree, Pomaderris apetala
+  - tree of knowledge
+  - cladogram
+  - stemma
+[Part of]
+  - forest, wood, woods
+[Parts]
+  - sapwood
+  - heartwood, duramen
+  - stump, tree stump
+  - crown, treetop
+  - limb, tree branch
+  - trunk, tree trunk, bole
+    - bark
+  - burl
+  - woody plant, ligneous plant
+    - lignum
+    - xylem
+      - tracheid
+    - vascular plant, tracheophyte
+      - vascular system
+        - vessel, vas
+        - vascular tissue
+      - duct
+      - vascular tissue
+      - plant, flora, plant life
+        - hood, cap
+        - plant part, plant structure
+        - organism, being
+          - tissue
+          - cell
+            - cell membrane, cytomembrane, plasma membrane
+            - energid, protoplast
+            - cytoplasm, cytol
+              - cytoskeleton
+              - microsome
+              - Golgi body, Golgi apparatus, Golgi complex, dictyosome
+            - nucleus, cell nucleus, karyon
+              - nucleolus, nucleole
+              - chromatin, chromatin granule
+              - achromatin
+              - linin
+              - chromosome
+                - nucleolus organizer, nucleolus organiser, nucleolar organizer, nucleolar organiser
+                - chromatin, chromatin granule
+                - gene, cistron, factor
+                - chromatid
+                - centromere, kinetochore
+                - telomere
+            - organelle, cell organelle, cell organ
+            - vacuole
+          - body part
+            - corpus
+          - living thing, animate thing
+            - whole, unit
+              - part, portion
+              - section, segment

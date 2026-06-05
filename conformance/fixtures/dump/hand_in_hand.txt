@@ -1,0 +1,7 @@
+term: hand in hand
+[Definitions]
+  - (adverb) together
+      "hand in hand with hope went fear"
+      "doctors and nurses work hand in hand to save lives"
+  - (adverb) clasping each other's hands
+      "they walked hand in hand"

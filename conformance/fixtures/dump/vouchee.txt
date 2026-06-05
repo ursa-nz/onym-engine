@@ -1,0 +1,20 @@
+term: vouchee
+[Definitions]
+  - (noun) (law) a person called into court to defend a title
+[Derived forms]
+  - vouch
+[Is a kind of]
+  - party
+    - person, individual, someone, somebody, mortal, soul
+      - organism, being
+        - living thing, animate thing
+          - whole, unit
+            - object, physical object
+              - physical entity
+                - entity
+      - causal agent, cause, causal agency
+        - physical entity
+          - entity
+[Domains]
+  - law
+  - jurisprudence

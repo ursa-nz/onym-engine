@@ -1,0 +1,32 @@
+term: scalper
+[Definitions]
+  - (noun) someone who buys something and resells it at a price far above the initial cost
+      "he got theater tickets through a scalper"
+[Derived forms]
+  - scalp
+[Is a kind of]
+  - speculator, plunger
+    - adventurer, venturer
+      - person, individual, someone, somebody, mortal, soul
+        - organism, being
+          - living thing, animate thing
+            - whole, unit
+              - object, physical object
+                - physical entity
+                  - entity
+        - causal agent, cause, causal agency
+          - physical entity
+            - entity
+    - gambler
+      - person, individual, someone, somebody, mortal, soul
+        - organism, being
+          - living thing, animate thing
+            - whole, unit
+              - object, physical object
+                - physical entity
+                  - entity
+        - causal agent, cause, causal agency
+          - physical entity
+            - entity
+[Kinds]
+  - tout, ticket tout

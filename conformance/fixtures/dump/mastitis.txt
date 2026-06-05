@@ -1,0 +1,12 @@
+term: mastitis
+[Definitions]
+  - (noun) inflammation of a breast (or udder)
+[Is a kind of]
+  - inflammation, redness, rubor
+    - symptom
+      - evidence, grounds
+        - information
+          - cognition, knowledge, noesis
+            - psychological feature
+              - abstraction, abstract entity
+                - entity

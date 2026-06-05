@@ -1,0 +1,30 @@
+term: Pitressin
+[Definitions]
+  - (noun) hormone secreted by the posterior pituitary gland (trade name Pitressin) and also by nerve endings in the hypothalamus; affects blood pressure by stimulating capillary muscles and reduces urine flow by affecting reabsorption of water by kidney tubules
+[Synonyms]
+  - vasopressin
+  - antidiuretic hormone
+  - ADH
+[Is a kind of]
+  - hormone, endocrine, internal secretion
+    - secretion
+      - liquid body substance, bodily fluid, body fluid, humor, humour
+        - body substance
+          - substance
+            - matter
+              - physical entity
+                - entity
+            - part, portion, component part, component, constituent
+              - relation
+                - abstraction, abstract entity
+                  - entity
+  - vasoconstrictor, vasoconstrictive, pressor
+    - agent
+      - causal agent, cause, causal agency
+        - physical entity
+          - entity
+[Domains]
+  - trade name
+  - brand name
+  - brand
+  - marque

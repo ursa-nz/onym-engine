@@ -1,0 +1,273 @@
+term: hand
+[Definitions]
+  - (noun) the (prehensile) extremity of the superior limb
+      "he had the hands of a surgeon"
+      "he extended his mitt"
+  - (noun) a hired laborer on a farm or ranch
+      "the hired hand fixed the railing"
+      "a ranch hand"
+  - (noun) something written by hand
+      "she recognized his handwriting"
+      "his hand was illegible"
+  - (noun) ability
+      "he wanted to try his hand at singing"
+  - (noun) a position given by its location to the side of an object
+      "objections were voiced on every hand"
+  - (noun) the cards held in a card game by a given player at any given time
+      "I didn't hold a good hand all evening"
+      "he kept trying to see my hand"
+  - (noun) one of two sides of an issue
+      "on the one hand..., but on the other hand..."
+  - (noun) a rotating pointer on the face of a timepiece
+      "the big hand counts the minutes"
+  - (noun) a unit of length equal to 4 inches; used in measuring horses
+      "the horse stood 20 hands"
+  - (noun) a member of the crew of a ship
+      "all hands on deck"
+  - (noun) a card player in a game of bridge
+      "we need a 4th hand for bridge"
+  - (noun) a round of applause to signify approval
+      "give the little lady a great big hand"
+  - (noun) terminal part of the forelimb in certain vertebrates (e.g. apes or kangaroos)
+      "the kangaroo's forearms seem undeveloped but the powerful five-fingered hands are skilled at feinting and clouting- Springfield (Mass.) Union"
+  - (noun) physical assistance
+      "give me a hand with the chores"
+  - (verb) place into the hands or custody of
+      "hand me the spoon, please"
+      "Turn the files over to me, please"
+      "He turned over the prisoner to his lawyers"
+  - (verb) guide or conduct or usher somewhere
+      "hand the elderly lady into the taxi"
+[Synonyms]
+  - manus
+  - mitt
+  - paw
+  - hired hand
+  - hired man
+  - handwriting
+  - script
+  - deal
+  - bridge player
+  - helping hand
+  - pass
+  - reach
+  - pass on
+  - turn over
+  - give
+[Derived forms]
+  - pass
+  - reach
+  - pass on
+  - turn over
+  - give
+  - manus
+  - mitt
+  - paw
+  - helping hand
+[Is a kind of]
+  - extremity
+    - external body part
+      - body part
+        - part, piece
+          - thing
+            - physical entity
+              - entity
+  - laborer, manual laborer, labourer, jack
+    - workman, workingman, working man, working person
+      - employee
+        - worker
+          - person, individual, someone, somebody, mortal, soul
+            - organism, being
+              - living thing, animate thing
+                - whole, unit
+                  - object, physical object
+                    - physical entity
+                      - entity
+            - causal agent, cause, causal agency
+              - physical entity
+                - entity
+  - writing
+    - written communication, written language, black and white
+      - communication
+        - abstraction, abstract entity
+          - entity
+  - ability, power
+    - cognition, knowledge, noesis
+      - psychological feature
+        - abstraction, abstract entity
+          - entity
+  - side
+    - region, part
+      - location
+        - object, physical object
+          - physical entity
+            - entity
+  - collection, aggregation, accumulation, assemblage
+    - group, grouping
+      - abstraction, abstract entity
+        - entity
+  - pointer
+    - indicator
+      - device
+        - instrumentality, instrumentation
+          - artifact, artefact
+            - whole, unit
+              - object, physical object
+                - physical entity
+                  - entity
+  - handbreadth, handsbreadth
+    - linear unit, linear measure
+      - unit of measurement, unit
+        - definite quantity
+          - measure, quantity, amount
+            - abstraction, abstract entity
+              - entity
+  - sailor, crewman
+    - skilled worker, trained worker, skilled workman
+      - worker
+        - person, individual, someone, somebody, mortal, soul
+          - organism, being
+            - living thing, animate thing
+              - whole, unit
+                - object, physical object
+                  - physical entity
+                    - entity
+          - causal agent, cause, causal agency
+            - physical entity
+              - entity
+  - card player
+    - player, participant
+      - contestant
+        - person, individual, someone, somebody, mortal, soul
+          - organism, being
+            - living thing, animate thing
+              - whole, unit
+                - object, physical object
+                  - physical entity
+                    - entity
+          - causal agent, cause, causal agency
+            - physical entity
+              - entity
+  - applause, hand clapping, clapping
+    - approval, commendation
+      - message, content, subject matter, substance
+        - communication
+          - abstraction, abstract entity
+            - entity
+  - forepaw
+    - paw
+      - animal foot, foot
+        - vertebrate foot, pedal extremity
+          - extremity
+            - external body part
+              - body part
+                - part, piece
+                  - thing
+                    - physical entity
+                      - entity
+  - aid, assist, assistance, help
+    - activity
+      - act, deed, human action, human activity
+        - event
+          - psychological feature
+            - abstraction, abstract entity
+              - entity
+  - transfer
+  - lead, take, direct, conduct, guide
+[Kinds]
+  - fist, clenched fist
+  - hooks, meat hooks, maulers
+  - right, right hand
+  - left, left hand
+  - farmhand, fieldhand, field hand, farm worker
+    - dairymaid, milkmaid
+    - dairyman
+    - farmerette
+    - gleaner
+    - harvester, reaper
+      - vintager
+    - picker
+    - plowman, ploughman, plower
+    - waterer
+    - weeder
+  - herder, herdsman, drover
+    - goat herder, goatherd
+    - sheepherder, shepherd, sheepman
+      - shepherdess
+    - swineherd, pigman
+  - ranch hand
+    - cowboy, cowpuncher, puncher, cowman, cattleman, cowpoke, cowhand, cowherd
+      - vaquero, buckaroo, buckeroo
+      - cowgirl
+      - gaucho
+      - horse wrangler, wrangler
+      - roper
+  - stableman, stableboy, groom, hostler, ostler
+  - shorthand, stenography, tachygraphy
+  - longhand, running hand, cursive, cursive script
+    - minuscule
+    - copperplate
+    - italic
+    - round hand
+  - calligraphy, penmanship, chirography
+  - scribble, scratch, scrawl, cacography
+    - chicken scratch
+    - squiggle
+  - bridge hand
+    - chicane
+  - poker hand
+    - royal flush
+    - straight flush
+    - full house
+    - flush
+    - straight
+    - pair
+  - hour hand, little hand
+  - minute hand, big hand
+  - second hand
+    - sweep hand, sweep-second
+  - bidder
+    - preemptor, pre-emptor
+  - bridge partner
+    - raiser
+  - contractor, declarer
+  - give
+  - slip, sneak
+  - deal
+  - hand over, fork over, fork out, fork up, turn in, deliver, render
+    - bail
+    - give away
+  - release, relinquish, resign, free, give up
+    - derequisition
+    - sacrifice, give
+  - entrust, intrust, trust, confide, commit
+    - commend
+    - consign, charge
+      - pledge
+        - collateralize
+        - give
+        - hypothecate
+      - pawn, soak, hock
+      - check
+      - check
+    - recommit
+    - obligate
+  - entrust, leave
+[Part of]
+  - arm
+    - body, organic structure, physical structure
+    - homo, man, human being, human
+  - homo, man, human being, human
+  - timepiece, timekeeper, horologe
+[Parts]
+  - digital arteries, arteria digitalis
+  - metacarpal artery, arteria metacarpea
+  - intercapitular vein, vena intercapitalis
+  - metacarpal vein, vena metacarpus
+  - palm, thenar
+  - finger
+  - ball
+  - metacarpus
+  - long suit
+[Domains]
+  - handwriting

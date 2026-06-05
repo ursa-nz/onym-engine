@@ -1,0 +1,14 @@
+term: community center
+[Definitions]
+  - (noun) a center where the members of a community can gather for social or cultural activities
+[Synonyms]
+  - civic center
+[Is a kind of]
+  - center, centre
+    - building, edifice
+      - structure, construction
+        - artifact, artefact
+          - whole, unit
+            - object, physical object
+              - physical entity
+                - entity

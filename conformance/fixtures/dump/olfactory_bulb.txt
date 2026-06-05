@@ -1,0 +1,13 @@
+term: olfactory bulb
+[Definitions]
+  - (noun) one of two enlargements at the terminus of the olfactory nerve at the base of the brain just above the nasal cavities
+[Is a kind of]
+  - neural structure
+    - structure, anatomical structure, complex body part, bodily structure, body structure
+      - body part
+        - part, piece
+          - thing
+            - physical entity
+              - entity
+[Part of]
+  - rhinencephalon, olfactory brain

@@ -1,0 +1,19 @@
+term: Hideyo Noguchi
+[Definitions]
+  - (noun) United States bacteriologist (born in Japan) who discovered the cause of yellow fever and syphilis (1876-1928)
+[Synonyms]
+  - Noguchi
+[Is a kind of]
+  - bacteriologist
+    - biologist, life scientist
+      - scientist
+        - person, individual, someone, somebody, mortal, soul
+          - organism, being
+            - living thing, animate thing
+              - whole, unit
+                - object, physical object
+                  - physical entity
+                    - entity
+          - causal agent, cause, causal agency
+            - physical entity
+              - entity

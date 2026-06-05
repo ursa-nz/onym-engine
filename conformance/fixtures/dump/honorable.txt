@@ -1,0 +1,61 @@
+term: honorable
+[Definitions]
+  - (adjective) not disposed to cheat or defraud; not deceptive or fraudulent
+      "honest lawyers"
+      "honest reporting"
+  - (adjective) worthy of being honored; entitled to honor and respect
+      "an honorable man"
+      "led an honorable life"
+      "honorable service to his country"
+  - (adjective) adhering to ethical and moral principles
+      "it seems ethical and right"
+      "followed the only honorable course of action"
+  - (adjective) deserving of esteem and respect
+      "all respectable companies give guarantees"
+      "ruined the family's good name"
+[Synonyms]
+  - honest
+  - honourable
+  - ethical
+  - estimable
+  - good
+  - respectable
+[Antonyms]
+  - dishonorable (direct)
+      -> dishonourable
+      -> black
+      -> disgraceful
+      -> ignominious
+      -> inglorious
+      -> opprobrious
+      -> shameful
+      -> debasing
+      -> degrading
+      -> shabby
+      -> unprincipled
+      -> yellow
+  - right (indirect)
+      -> wrong
+  - reputable (indirect)
+      -> disreputable
+[Derived forms]
+  - honorableness
+  - honourableness
+  - respect
+  - honor
+  - honour
+  - abide by
+  - observe
+[Similar to]
+  - downright
+  - august
+  - revered
+  - venerable
+  - laureate
+  - time-honored
+  - time-honoured
+  - right
+  - reputable
+[Attributes]
+  - honorableness
+  - honourableness

@@ -1,0 +1,10 @@
+term: sulphuretted
+[Definitions]
+  - (adjective) treated or impregnated with sulfur
+      "sulfuretted hydrogen"
+[Synonyms]
+  - sulfurized
+  - sulfuretted
+[Pertains to]
+  - sulfur, S, sulphur, atomic number 16
+    - chemical element, element

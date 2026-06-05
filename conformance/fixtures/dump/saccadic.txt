@@ -1,0 +1,8 @@
+term: saccadic
+[Definitions]
+  - (adjective) of or related to the rapid movement of the eyes between points of fixation
+[Derived forms]
+  - saccade
+[Pertains to]
+  - saccade
+    - eye movement

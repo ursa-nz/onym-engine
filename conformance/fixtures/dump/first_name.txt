@@ -1,0 +1,16 @@
+term: first name
+[Definitions]
+  - (noun) the name that precedes the surname
+[Synonyms]
+  - given name
+  - forename
+[Is a kind of]
+  - name
+    - language unit, linguistic unit
+      - part, portion, component part, component, constituent
+        - relation
+          - abstraction, abstract entity
+            - entity
+[Kinds]
+  - Christian name, baptismal name
+  - praenomen

@@ -1,0 +1,17 @@
+term: streaky
+[Definitions]
+  - (adjective) marked with or as if with stripes or linear discolorations
+      "streaked hair"
+      "fat legs and dirty streaky faces"
+[Synonyms]
+  - streaked
+[Antonyms]
+  - patterned (indirect)
+      -> plain
+      -> unpatterned
+[Derived forms]
+  - stripe
+  - streak
+  - bar
+[Similar to]
+  - patterned

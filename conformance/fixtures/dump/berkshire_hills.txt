@@ -1,0 +1,13 @@
+term: Berkshire Hills
+[Definitions]
+  - (noun) a low mountain range in western Massachusetts; a resort area
+[Synonyms]
+  - Berkshires
+[Is a kind of]
+  - range, mountain range, range of mountains, chain, mountain chain, chain of mountains
+    - geological formation, formation
+      - object, physical object
+        - physical entity
+          - entity
+[Part of]
+  - Massachusetts, Bay State, Old Colony, MA

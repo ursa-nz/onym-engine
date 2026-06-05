@@ -1,0 +1,55 @@
+term: trifling
+[Definitions]
+  - (noun) the deliberate act of delaying and playing instead of working
+  - (adjective) not worth considering
+      "he considered the prize too paltry for the lives it must cost"
+      "piffling efforts"
+      "a trifling matter"
+  - (verb) waste time; spend one's time idly or inefficiently
+  - (verb) act frivolously
+  - (verb) consider not very seriously
+      "He is trifling with her"
+      "She plays with the thought of moving to Tasmania"
+[Synonyms]
+  - dalliance
+  - dawdling
+  - piddle
+  - wanton
+  - wanton away
+  - piddle away
+  - frivol
+  - dally
+  - play
+  - negligible
+  - paltry
+[Antonyms]
+  - worthless (indirect)
+      -> valuable
+[Derived forms]
+  - piddle
+  - wanton
+  - wanton away
+  - piddle away
+  - trifle
+  - dalliance
+  - dawdling
+  - trifling
+  - trifler
+[Similar to]
+  - worthless
+[Is a kind of]
+  - delay, holdup
+    - inactivity
+      - act, deed, human action, human activity
+        - event
+          - psychological feature
+            - abstraction, abstract entity
+              - entity
+  - spend, expend, drop
+    - pay
+      - give
+        - transfer
+  - act, behave, do
+  - consider, take, deal, look at
+    - think about
+      - think, cogitate, cerebrate

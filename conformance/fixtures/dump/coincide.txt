@@ -1,0 +1,34 @@
+term: coincide
+[Definitions]
+  - (verb) go with, fall together
+  - (verb) happen simultaneously
+      "The two events coincided"
+  - (verb) be the same
+      "our views on this matter coincided"
+[Synonyms]
+  - co-occur
+  - cooccur
+  - concur
+[Derived forms]
+  - coincident
+  - coincidental
+  - coinciding
+  - concurrent
+  - co-occurrent
+  - cooccurring
+  - simultaneous
+  - concurrence
+  - coincidence
+  - conjunction
+  - co-occurrence
+[Is a kind of]
+  - coexist
+    - exist, be
+  - happen, hap, go on, pass off, occur, pass, fall out, come about, take place
+  - match, fit, correspond, check, jibe, gibe, tally, agree
+    - equal, be
+[Kinds]
+  - overlap
+    - share
+      - partake
+      - osculate

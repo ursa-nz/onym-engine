@@ -1,0 +1,13 @@
+term: tease apart
+[Definitions]
+  - (verb) disentangle and raise the fibers of
+      "tease wool"
+[Synonyms]
+  - tease
+  - loosen
+[Is a kind of]
+  - disentangle, unsnarl, straighten out
+    - order
+      - arrange, set up
+        - put, set, place, pose, position, lay
+          - move, displace

@@ -1,0 +1,46 @@
+term: Clovis
+[Definitions]
+  - (noun) king of the Franks who unified Gaul and established his capital at Paris and founded the Frankish monarchy; his name was rendered as Gallic `Louis' (466-511)
+[Synonyms]
+  - Clovis I
+[Is a kind of]
+  - king, male monarch, Rex
+    - sovereign, crowned head, monarch
+      - ruler, swayer
+        - person, individual, someone, somebody, mortal, soul
+          - organism, being
+            - living thing, animate thing
+              - whole, unit
+                - object, physical object
+                  - physical entity
+                    - entity
+          - causal agent, cause, causal agency
+            - physical entity
+              - entity
+      - head of state, chief of state
+        - representative
+          - negotiator, negotiant, treater
+            - communicator
+              - person, individual, someone, somebody, mortal, soul
+                - organism, being
+                  - living thing, animate thing
+                    - whole, unit
+                      - object, physical object
+                        - physical entity
+                          - entity
+                - causal agent, cause, causal agency
+                  - physical entity
+                    - entity
+  - Frank
+    - European
+      - inhabitant, habitant, dweller, denizen, indweller
+        - person, individual, someone, somebody, mortal, soul
+          - organism, being
+            - living thing, animate thing
+              - whole, unit
+                - object, physical object
+                  - physical entity
+                    - entity
+          - causal agent, cause, causal agency
+            - physical entity
+              - entity

@@ -1,0 +1,6 @@
+term: displeasingly
+[Definitions]
+  - (adverb) in a displeasing manner
+      "he made displeasingly cutting remarks about his friends"
+[Pertains to]
+  - displeasing

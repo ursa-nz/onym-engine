@@ -1,0 +1,87 @@
+term: ferry
+[Definitions]
+  - (verb) transport from one place to another
+  - (verb) transport by ferry
+  - (verb) travel by ferry
+  - (noun) a boat that transports people or vehicles across a body of water and operates on a regular schedule
+  - (noun) transport by boat or aircraft
+[Synonyms]
+  - ferryboat
+  - ferrying
+[Derived forms]
+  - ferrying
+  - ferryboat
+[Is a kind of]
+  - boat
+    - vessel, watercraft
+      - craft
+        - vehicle
+          - conveyance, transport
+            - instrumentality, instrumentation
+              - artifact, artefact
+                - whole, unit
+                  - object, physical object
+                    - physical entity
+                      - entity
+  - transportation, shipping, transport
+    - commercial enterprise, business enterprise, business
+      - commerce, commercialism, mercantilism
+        - transaction, dealing, dealings
+          - group action
+            - act, deed, human action, human activity
+              - event
+                - psychological feature
+                  - abstraction, abstract entity
+                    - entity
+            - event
+              - psychological feature
+                - abstraction, abstract entity
+                  - entity
+  - bring, convey, take
+    - transport, carry
+      - move, displace
+  - transport
+    - move, displace
+  - travel, go, move, locomote
+[Kinds]
+  - car-ferry
+[Parts]
+  - boat
+    - boat whistle
+    - vessel, watercraft
+      - anchor, ground tackle
+        - fluke, flue
+        - shank, stem
+      - bilge
+      - bilge keel
+      - bow, fore, prow, stem
+      - hull
+        - keel
+          - fin keel
+        - keelson
+        - rib
+        - rider plate
+      - rudder
+        - rudder blade
+        - rudderpost, rudderstock
+        - tiller
+      - wale, strake
+      - washboard, splashboard
+      - craft
+        - vehicle
+          - splashboard, splasher, dashboard
+          - conveyance, transport
+            - instrumentality, instrumentation
+              - artifact, artefact
+                - whole, unit
+                  - part, portion
+                  - section, segment
+  - transportation, shipping, transport
+    - commercial enterprise, business enterprise, business
+      - business activity, commercial activity
+      - commerce, commercialism, mercantilism
+        - transportation, shipping, transport
+[Domains]
+  - navigation
+  - pilotage
+  - piloting

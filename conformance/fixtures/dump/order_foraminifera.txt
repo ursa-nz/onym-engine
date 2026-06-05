@@ -1,0 +1,20 @@
+term: order Foraminifera
+[Definitions]
+  - (noun) foraminifers
+[Synonyms]
+  - Foraminifera
+[Is a kind of]
+  - animal order
+    - order
+      - taxonomic group, taxonomic category, taxon
+        - biological group
+          - group, grouping
+            - abstraction, abstract entity
+              - entity
+[Part of]
+  - Rhizopoda, subclass Rhizopoda
+[Parts]
+  - foram, foraminifer
+  - Globigerinidae, family Globigerinidae
+  - genus Globigerina
+  - Nummulitidae, family Nummulitidae

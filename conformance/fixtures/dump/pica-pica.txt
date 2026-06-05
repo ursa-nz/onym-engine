@@ -1,0 +1,70 @@
+term: pica-pica
+[Definitions]
+  - (noun) a stinging herb of tropical America
+[Synonyms]
+  - spurge nettle
+  - tread-softly
+  - devil nettle
+  - Cnidoscolus urens
+  - Jatropha urens
+  - Jatropha stimulosus
+[Is a kind of]
+  - herb, herbaceous plant
+    - vascular plant, tracheophyte
+      - plant, flora, plant life
+        - organism, being
+          - living thing, animate thing
+            - whole, unit
+              - object, physical object
+                - physical entity
+                  - entity
+[Part of]
+  - Cnidoscolus, genus Cnidoscolus
+    - Euphorbiaceae, family Euphorbiaceae, spurge family
+      - Geraniales, order Geraniales
+        - Rosidae, subclass Rosidae
+          - Dicotyledones, class Dicotyledones, Dicotyledonae, class Dicotyledonae, Magnoliopsida, class Magnoliopsida
+            - Angiospermae, class Angiospermae, Magnoliophyta, division Magnoliophyta, Anthophyta, division Anthophyta
+              - Spermatophyta, division Spermatophyta
+                - Plantae, kingdom Plantae, plant kingdom
+[Parts]
+  - herb, herbaceous plant
+    - vegetable, veggie, veg
+    - vascular plant, tracheophyte
+      - vascular system
+        - vessel, vas
+        - vascular tissue
+      - duct
+      - vascular tissue
+      - plant, flora, plant life
+        - hood, cap
+        - plant part, plant structure
+        - organism, being
+          - tissue
+          - cell
+            - cell membrane, cytomembrane, plasma membrane
+            - energid, protoplast
+            - cytoplasm, cytol
+              - cytoskeleton
+              - microsome
+              - Golgi body, Golgi apparatus, Golgi complex, dictyosome
+            - nucleus, cell nucleus, karyon
+              - nucleolus, nucleole
+              - chromatin, chromatin granule
+              - achromatin
+              - linin
+              - chromosome
+                - nucleolus organizer, nucleolus organiser, nucleolar organizer, nucleolar organiser
+                - chromatin, chromatin granule
+                - gene, cistron, factor
+                - chromatid
+                - centromere, kinetochore
+                - telomere
+            - organelle, cell organelle, cell organ
+            - vacuole
+          - body part
+            - corpus
+          - living thing, animate thing
+            - whole, unit
+              - part, portion
+              - section, segment

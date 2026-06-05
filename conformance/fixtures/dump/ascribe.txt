@@ -1,0 +1,30 @@
+term: ascribe
+[Definitions]
+  - (verb) attribute or credit to
+      "We attributed this quotation to Shakespeare"
+      "People impute great cleverness to cats"
+[Synonyms]
+  - impute
+  - assign
+  - attribute
+[Derived forms]
+  - ascribable
+  - due
+  - imputable
+  - referable
+  - attribution
+  - ascription
+[Is a kind of]
+  - evaluate, pass judgment, judge
+    - think, cogitate, cerebrate
+[Kinds]
+  - impute
+  - sensualize, carnalize
+  - credit
+  - reattribute
+  - anthropomorphize, anthropomorphise
+  - personify, personate
+  - accredit, credit
+  - blame, charge
+  - project, externalize, externalise
+  - internalize, internalise, interiorize, interiorise

@@ -1,0 +1,32 @@
+term: neurolinguist
+[Definitions]
+  - (noun) someone trained in neuroscience and linguistics who studies brain processes during language production and reception
+[Derived forms]
+  - neurolinguistics
+[Is a kind of]
+  - neuroscientist
+    - neurobiologist
+      - biologist, life scientist
+        - scientist
+          - person, individual, someone, somebody, mortal, soul
+            - organism, being
+              - living thing, animate thing
+                - whole, unit
+                  - object, physical object
+                    - physical entity
+                      - entity
+            - causal agent, cause, causal agency
+              - physical entity
+                - entity
+  - linguist, linguistic scientist
+    - scientist
+      - person, individual, someone, somebody, mortal, soul
+        - organism, being
+          - living thing, animate thing
+            - whole, unit
+              - object, physical object
+                - physical entity
+                  - entity
+        - causal agent, cause, causal agency
+          - physical entity
+            - entity

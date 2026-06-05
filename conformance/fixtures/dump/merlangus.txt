@@ -1,0 +1,24 @@
+term: Merlangus
+[Definitions]
+  - (noun) whitings
+[Synonyms]
+  - genus Merlangus
+[Is a kind of]
+  - fish genus
+    - genus
+      - taxonomic group, taxonomic category, taxon
+        - biological group
+          - group, grouping
+            - abstraction, abstract entity
+              - entity
+[Part of]
+  - Gadidae, family Gadidae
+    - Gadiformes, order Gadiformes
+      - Malacopterygii, superorder Malacopterygii
+        - Teleostei, subclass Teleostei
+          - Osteichthyes, class Osteichthyes
+            - Vertebrata, subphylum Vertebrata, Craniata, subphylum Craniata
+              - Chordata, phylum Chordata
+                - Animalia, kingdom Animalia, animal kingdom
+[Parts]
+  - whiting, Merlangus merlangus, Gadus merlangus

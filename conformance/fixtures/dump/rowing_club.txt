@@ -1,0 +1,11 @@
+term: rowing club
+[Definitions]
+  - (noun) a club for rowers
+[Is a kind of]
+  - club, social club, society, guild, gild, lodge, order
+    - association
+      - organization, organisation
+        - social group
+          - group, grouping
+            - abstraction, abstract entity
+              - entity

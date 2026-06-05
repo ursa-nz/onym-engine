@@ -1,0 +1,17 @@
+term: facer
+[Definitions]
+  - (noun) (a dated Briticism) a serious difficulty with which one is suddenly faced
+[Is a kind of]
+  - difficulty
+    - cognitive factor
+      - cognition, knowledge, noesis
+        - psychological feature
+          - abstraction, abstract entity
+            - entity
+[Domains]
+  - United Kingdom
+  - UK
+  - U.K.
+  - Britain
+  - United Kingdom of Great Britain and Northern Ireland
+  - Great Britain

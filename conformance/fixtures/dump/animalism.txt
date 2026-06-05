@@ -1,0 +1,26 @@
+term: animalism
+[Definitions]
+  - (noun) the doctrine that human beings are purely animal in nature and lacking a spiritual nature
+  - (noun) preoccupation with satisfaction of physical drives and appetites
+[Synonyms]
+  - physicality
+[Derived forms]
+  - animalistic
+[Is a kind of]
+  - doctrine, philosophy, philosophical system, school of thought, ism
+    - belief
+      - content, cognitive content, mental object
+        - cognition, knowledge, noesis
+          - psychological feature
+            - abstraction, abstract entity
+              - entity
+  - disposition, temperament
+    - nature
+      - trait
+        - attribute
+          - abstraction, abstract entity
+            - entity
+[Parts]
+  - disposition, temperament
+    - cheerfulness, cheer, sunniness, sunshine
+    - uncheerfulness

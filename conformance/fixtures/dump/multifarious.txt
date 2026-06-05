@@ -1,0 +1,23 @@
+term: multifarious
+[Definitions]
+  - (adjective) having many aspects
+      "a many-sided subject"
+      "a multifaceted undertaking"
+      "multifarious interests"
+      "the multifarious noise of a great city"
+      "a miscellaneous crowd"
+[Synonyms]
+  - many-sided
+  - multifaceted
+  - miscellaneous
+[Antonyms]
+  - varied (indirect)
+      -> unvaried
+      -> unvarying
+[Derived forms]
+  - diverseness
+  - diversity
+  - multifariousness
+  - variety
+[Similar to]
+  - varied

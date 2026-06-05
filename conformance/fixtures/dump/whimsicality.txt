@@ -1,0 +1,31 @@
+term: whimsicality
+[Definitions]
+  - (noun) the trait of acting unpredictably and more from whim or caprice than from reason or judgment
+      "I despair at the flightiness and whimsicality of my memory"
+  - (noun) the trait of behaving like an imp
+[Synonyms]
+  - flightiness
+  - arbitrariness
+  - whimsy
+  - whimsey
+  - capriciousness
+  - impishness
+  - mischievousness
+  - puckishness
+[Derived forms]
+  - capricious
+  - impulsive
+  - whimsical
+[Is a kind of]
+  - irresponsibility, irresponsibleness
+    - untrustworthiness, untrustiness
+      - trait
+        - attribute
+          - abstraction, abstract entity
+            - entity
+  - playfulness, fun
+    - frivolity, frivolousness
+      - trait
+        - attribute
+          - abstraction, abstract entity
+            - entity

@@ -1,0 +1,115 @@
+term: avocado
+[Definitions]
+  - (noun) a pear-shaped tropical fruit with green or blackish skin and rich yellowish pulp enclosing a single large seed
+  - (noun) tropical American tree bearing large pulpy green fruits
+  - (adjective) of the dull yellowish green of the meat of an avocado
+[Synonyms]
+  - alligator pear
+  - avocado pear
+  - aguacate
+  - avocado tree
+  - Persea Americana
+[Antonyms]
+  - chromatic (indirect)
+      -> achromatic
+      -> neutral
+[Similar to]
+  - chromatic
+[Is a kind of]
+  - edible fruit
+    - produce, green goods, green groceries, garden truck
+      - food, solid food
+        - solid
+          - matter
+            - physical entity
+              - entity
+    - fruit
+      - reproductive structure
+        - plant organ
+          - plant part, plant structure
+            - natural object
+              - whole, unit
+                - object, physical object
+                  - physical entity
+                    - entity
+  - fruit tree
+    - angiospermous tree, flowering tree
+      - tree
+        - woody plant, ligneous plant
+          - vascular plant, tracheophyte
+            - plant, flora, plant life
+              - organism, being
+                - living thing, animate thing
+                  - whole, unit
+                    - object, physical object
+                      - physical entity
+                        - entity
+[Part of]
+  - avocado tree, Persea Americana
+  - Persea, genus Persea
+[Parts]
+  - edible fruit
+    - peel, skin
+    - fruit
+      - reproductive structure
+        - plant organ
+          - plant part, plant structure
+            - natural object
+              - whole, unit
+                - part, portion
+                - section, segment
+  - alligator pear, avocado pear, aguacate
+  - fruit tree
+    - fruitwood
+    - angiospermous tree, flowering tree
+      - tree
+        - sapwood
+        - heartwood, duramen
+        - stump, tree stump
+        - crown, treetop
+        - limb, tree branch
+        - trunk, tree trunk, bole
+          - bark
+        - burl
+        - woody plant, ligneous plant
+          - lignum
+          - xylem
+            - tracheid
+          - vascular plant, tracheophyte
+            - vascular system
+              - vessel, vas
+              - vascular tissue
+            - duct
+            - vascular tissue
+            - plant, flora, plant life
+              - hood, cap
+              - plant part, plant structure
+              - organism, being
+                - tissue
+                - cell
+                  - cell membrane, cytomembrane, plasma membrane
+                  - energid, protoplast
+                  - cytoplasm, cytol
+                    - cytoskeleton
+                    - microsome
+                    - Golgi body, Golgi apparatus, Golgi complex, dictyosome
+                  - nucleus, cell nucleus, karyon
+                    - nucleolus, nucleole
+                    - chromatin, chromatin granule
+                    - achromatin
+                    - linin
+                    - chromosome
+                      - nucleolus organizer, nucleolus organiser, nucleolar organizer, nucleolar organiser
+                      - chromatin, chromatin granule
+                      - gene, cistron, factor
+                      - chromatid
+                      - centromere, kinetochore
+                      - telomere
+                  - organelle, cell organelle, cell organ
+                  - vacuole
+                - body part
+                  - corpus
+                - living thing, animate thing
+                  - whole, unit
+                    - part, portion
+                    - section, segment

@@ -1,0 +1,39 @@
+term: scald
+[Definitions]
+  - (verb) subject to harsh criticism
+      "The Senator blistered the administration in his speech on Friday"
+      "the professor scaled the students"
+      "your invectives scorched the community"
+  - (verb) treat with boiling water
+      "scald tomatoes so that they can be peeled"
+  - (verb) heat to the boiling point
+      "scald the milk"
+  - (verb) burn with a hot liquid or steam
+      "She scalded her hands when she turned on the faucet and hot water came out"
+  - (noun) a burn cause by hot liquid or steam
+  - (noun) the act of burning with steam or hot water
+[Synonyms]
+  - blister
+  - whip
+[Is a kind of]
+  - burn
+    - injury, hurt, harm, trauma
+      - ill health, unhealthiness, health problem
+        - pathological state
+          - physical condition, physiological state, physiological condition
+            - condition, status
+              - state
+                - attribute
+                  - abstraction, abstract entity
+                    - entity
+  - attack, round, assail, lash out, snipe, assault
+    - knock, criticize, criticise, pick apart
+      - comment, notice, remark, point out
+        - note, observe, mention, remark
+          - state, say, tell
+            - express, verbalize, verbalise, utter, give tongue to
+  - process, treat
+    - affect, impact, bear upon, bear on, touch on, touch
+      - change, alter, modify
+  - heat, heat up
+    - change, alter, modify

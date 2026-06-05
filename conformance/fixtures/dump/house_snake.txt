@@ -1,0 +1,23 @@
+term: house snake
+[Definitions]
+  - (noun) nonvenomous tan and brown king snake with an arrow-shaped occipital spot; southeastern ones have red stripes like coral snakes
+[Synonyms]
+  - milk snake
+  - milk adder
+  - checkered adder
+  - Lampropeltis triangulum
+[Is a kind of]
+  - king snake, kingsnake
+    - colubrid snake, colubrid
+      - snake, serpent, ophidian
+        - diapsid, diapsid reptile
+          - reptile, reptilian
+            - vertebrate, craniate
+              - chordate
+                - animal, animate being, beast, brute, creature, fauna
+                  - organism, being
+                    - living thing, animate thing
+                      - whole, unit
+                        - object, physical object
+                          - physical entity
+                            - entity

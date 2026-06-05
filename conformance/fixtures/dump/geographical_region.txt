@@ -1,0 +1,1772 @@
+term: geographical region
+[Definitions]
+  - (noun) a demarcated area of the Earth
+[Synonyms]
+  - geographical area
+  - geographic area
+  - geographic region
+[Is a kind of]
+  - region
+    - location
+      - object, physical object
+        - physical entity
+          - entity
+[Kinds]
+  - territory, soil
+  - Andalusia, Andalucia
+  - Appalachia
+  - Adelie Land, Terre Adelie, Adelie Coast
+  - colony, dependency
+    - Crown Colony
+    - Cayman Islands
+    - New Netherland
+  - Bad Lands, Badlands
+  - Barbary
+  - Bithynia
+  - Nubia
+  - semidesert
+  - narco-state
+  - place, property
+    - boatyard
+    - sanctuary
+      - holy of holies, sanctum sanctorum
+      - Tabernacle
+    - center, centre
+      - nerve center, nerve centre
+      - capital
+    - colony
+    - hatchery
+  - river basin, basin, watershed, drainage basin, catchment area, catchment basin, drainage area
+    - detention basin
+    - retention basin
+  - Caucasia, Caucasus
+  - Transcaucasia
+  - environs, purlieu
+  - Coats Land
+  - zone, geographical zone
+    - climatic zone
+      - Frigid Zone, polar zone, polar region
+        - Antarctic, Antarctic Zone, South Frigid Zone
+        - Arctic, Arctic Zone, North Frigid Zone
+      - Temperate Zone
+        - North Temperate Zone
+        - South Temperate Zone
+      - Torrid Zone, tropical zone, tropics
+      - subtropics, semitropics
+    - time zone
+    - transit zone
+  - East, eastern United States
+  - Southeast, southeastern United States
+  - Southwest, southwestern United States
+  - Northeast, northeastern United States
+  - Northwest, northwestern United States
+  - Midwest, middle west, midwestern United States
+  - Pacific Northwest
+  - Enderby Land
+  - environment, environs, surroundings, surround
+    - ambiance, ambience
+    - medium
+    - setting, scene
+      - scenario
+    - element
+    - habitat, home ground
+      - habitation
+        - aerie, aery, eyrie, eyry
+        - lair, den
+    - melting pot
+    - parts
+  - Finger Lakes
+  - dust bowl
+  - hemisphere
+    - eastern hemisphere, orient
+    - northern hemisphere
+    - southern hemisphere
+    - western hemisphere, occident, New World
+  - hot spot, hotspot
+  - Maghreb, Mahgrib
+  - Big Bend
+  - panhandle
+  - Queen Maud Land
+  - country, rural area
+    - backwoods, back country, boondocks, hinterland
+    - farmland, farming area
+    - countryside
+    - scrubland
+    - weald
+    - wold
+  - sphere, sphere of influence
+  - field
+    - coalfield
+    - gasfield
+    - oilfield
+  - settlement
+    - village, hamlet
+      - kampong, campong
+      - kraal
+      - pueblo
+      - Cheddar
+      - Sealyham
+      - El Alamein
+      - Jericho
+      - Jamestown
+      - Chancellorsville
+      - Spotsylvania
+      - Yorktown
+  - tract, piece of land, piece of ground, parcel of land, parcel
+    - baseball diamond, diamond, infield
+    - center field, centerfield, center
+    - left field, leftfield, left
+    - outfield
+    - right field, rightfield, right
+    - short
+    - yard, railway yard, railyard
+      - marshalling yard
+    - desert
+      - Arabian Desert, Great Arabian Desert
+      - Arabian Desert, Eastern Desert
+      - Atacama Desert
+      - Australian Desert, Great Australian Desert
+      - Black Rock Desert
+      - Chihuahuan Desert
+      - Colorado Desert
+      - Dasht-e-Kavir, Kavir Desert, Great Salt Desert
+      - Dasht-e-Lut, Lut Desert
+      - Death Valley
+      - Gibson Desert
+      - Gila Desert
+      - Gobi, Gobi Desert
+      - Great Sandy Desert
+      - Great Victoria Desert
+      - Kalahari, Kalahari Desert
+      - Kara Kum, Qara Qum, Turkestan Desert
+      - Kyzyl Kum, Kizil Kum, Qizil Qum
+      - Libyan Desert
+      - Mojave, Mojave Desert, Mohave, Mohave Desert
+      - Namib Desert
+      - Nefud, An Nefud, Nafud, An Nafud
+      - Negev, Negev Desert
+      - Nubian Desert
+      - Painted Desert
+      - Patagonian Desert
+      - Rub al-Khali, Ar Rimsal, Dahna, Great Sandy Desert
+      - Sahara, Sahara Desert
+      - Simpson Desert
+      - Sinai, Sinai Desert
+      - Sonoran Desert
+      - Syrian Desert
+      - Taklimakan Desert, Taklamakan Desert
+      - Thar Desert, Great Indian Desert
+    - oasis
+    - battlefield, battleground, field of battle, field of honor, field
+      - Armageddon
+      - Camlan
+    - minefield
+    - breeding ground
+      - pesthole
+      - rookery
+        - heronry
+    - clearing, glade
+    - field
+      - yard, grounds, curtilage
+        - backyard
+        - dooryard
+        - front yard
+        - garden
+        - playground
+        - side yard
+      - campus
+      - firebreak, fireguard
+      - grainfield, grain field
+        - cornfield, corn field
+        - wheatfield, wheat field
+      - lawn
+      - paddy, paddy field, rice paddy
+    - field of fire
+    - grounds
+    - playing field, athletic field, playing area, field
+      - arena, scene of action
+        - circus
+      - ball field, baseball field, diamond
+      - court
+        - badminton court
+        - basketball court
+          - home court
+        - handball court
+        - piste
+        - squash court
+        - tennis court
+        - volleyball court
+      - football field, gridiron
+      - palestra, palaestra
+      - bowling green
+    - industrial park
+    - grassland
+      - bent
+      - hayfield, meadow
+      - pasture, pastureland, grazing land, lea, ley
+        - commons, common land
+        - cow pasture
+      - prairie
+        - Great Plains, Great Plains of North America
+      - savanna, savannah
+      - veld, veldt
+    - mud flat
+    - parade ground
+    - fairground
+    - midway
+    - fairway
+    - park, parkland
+      - national park
+        - Acadia National Park
+        - Arches National Park
+        - Badlands National Park
+        - Big Bend National Park
+        - Biscayne National Park
+        - Bryce Canyon National Park
+        - Canyonlands National Park
+        - Capitol Reef National Park
+        - Carlsbad Caverns National Park
+        - Channel Islands National Park
+        - Crater Lake National Park
+        - Denali National Park
+        - Everglades National Park
+        - Gates of the Arctic National Park
+        - Grand Canyon National Park
+        - Grand Teton National Park
+        - Great Smoky Mountains National Park
+        - Guadalupe Mountains National Park
+        - Haleakala National Park
+        - Hawaii Volcanoes National Park
+        - Hot Springs National Park
+        - Isle Royal National Park
+        - Katmai National Park
+        - Kenai Fjords National Park
+        - Kings Canyon National Park
+        - Kobuk Valley National Park
+        - Lake Clark National Park
+        - Lassen Volcanic National Park
+        - Mammoth Cave National Park
+        - Mesa Verde National Park
+        - Mount Ranier National Park
+        - North Cascades National Park
+        - Olympic National Park
+        - Petrified Forest National Park
+        - Platt National Park
+        - Redwood National Park
+        - Rocky Mountain National Park
+        - Sequoia National Park
+        - Shenandoah National Park
+        - Theodore Roosevelt Memorial National Park
+        - Virgin Islands National Park
+        - Voyageurs National Park
+        - Wind Cave National Park
+        - Wrangell-St. Elias National Park
+        - Yellowstone National Park
+        - Yosemite National Park
+        - Zion National Park
+        - Serengeti National Park
+      - safari park
+    - park, commons, common, green
+      - amusement park, funfair, pleasure ground
+        - theme park
+        - Disneyland
+        - Walt Disney World
+      - village green
+      - Central Park
+    - picnic area, picnic ground
+    - public square, square
+      - Trafalgar Square
+      - plaza, place, piazza
+    - toll plaza
+    - range
+      - home range, home territory
+    - sector
+    - site, land site
+      - camp, summer camp
+        - day camp
+      - apron
+      - bomb site
+      - campsite, campground, camping site, camping ground, bivouac, encampment, camping area
+      - cemetery, graveyard, burial site, burial ground, burying ground, memorial park, necropolis
+        - potter's field
+      - dig, excavation, archeological site
+        - Byblos
+      - dump, garbage dump, trash dump, rubbish dump, wasteyard, waste-yard, dumpsite
+        - eitchen midden, midden, kitchen midden
+        - garbage heap, junk heap, rubbish heap, scrapheap, trash heap, junk pile, trash pile, refuse heap
+        - toxic waste dump, toxic waste site, toxic dumpsite
+      - fairway
+      - green, putting green, putting surface
+      - ground zero
+      - launching site
+      - monument
+        - market cross
+        - Stonehenge
+      - premises
+      - rough
+      - tee, teeing ground
+      - toxic site, toxic waste area, Superfund site
+        - orphan site
+      - Lateran
+    - subdivision
+    - mine field
+    - terrain
+    - plot, plot of land, plot of ground, patch
+      - bed
+        - asparagus bed
+        - flowerbed, flower bed, bed of flowers
+          - rose bed, bed of roses
+          - tulip bed
+        - hotbed
+        - seedbed
+        - turnip bed
+      - garden
+        - flower garden
+          - parterre
+        - formal garden
+          - Tuileries, Tuileries Gardens
+        - grove, woodlet, orchard, plantation
+          - apple orchard
+          - lemon grove
+          - orange grove
+          - peach orchard
+        - Hanging Gardens of Babylon
+        - herb garden
+        - hop garden, hop field
+        - kitchen garden, vegetable garden, vegetable patch
+          - victory garden
+        - landscaping
+        - market garden
+        - pot farm
+        - rock garden, rockery
+        - roof garden
+        - rose garden
+        - sunken garden
+        - tea garden
+        - topiary
+    - lot
+      - parking lot, car park, park, parking area
+        - used-car lot
+      - vacant lot, building site
+        - sandlot
+    - yard
+      - junkyard
+      - schoolyard
+      - churchyard, God's acre
+      - tiltyard
+    - yard
+  - urban area, populated area
+    - megalopolis
+    - conurbation, urban sprawl, sprawl
+      - subtopia
+      - Luda, Luta
+    - Rustbelt
+    - municipality
+      - city, metropolis, urban center
+        - Nicaea
+        - national capital
+          - Windhoek
+          - Kabul, capital of Afghanistan
+          - Tirana, Albanian capital
+          - Algiers, Algerian capital
+          - Luanda, Angolan capital
+          - St. John's, Saint John's, capital of Antigua and Barbuda
+          - Buenos Aires, capital of Argentina
+          - Sofia, Serdica, Bulgarian capital
+          - Yangon, Rangoon
+          - Bujumbura, Usumbura, capital of Burundi
+          - Phnom Penh, Pnom Penh, Cambodian capital
+          - Yaounde, capital of Cameroon
+          - Praia, Cidade de Praia, capital of Cape Verde
+          - Bangui, capital of Central Africa
+          - Colombo, capital of Sri Lanka
+          - N'Djamena, Ndjamena, Fort-Lamy, capital of Chad
+          - Gran Santiago, Santiago, Santiago de Chile, capital of Chile
+          - Beijing, Peking, Peiping, capital of Red China
+          - Taipei, Taipeh, capital of Taiwan
+          - Bogota, capital of Colombia
+          - Brazzaville
+          - Kinshasa, Leopoldville
+          - San Jose, capital of Costa Rica
+          - Yamoussukro
+          - Guatemala City, capital of Guatemala
+          - Tegucigalpa, Honduran capital
+          - San Salvador, Salvadoran capital
+          - Managua, capital of Nicaragua, Nicaraguan capital
+          - Panama City, capital of Panama, Panamanian capital
+          - Mexico City, Ciudad de Mexico, Mexican capital, capital of Mexico
+          - Havana, capital of Cuba, Cuban capital
+          - Port-au-Prince, Haitian capital
+          - Santo Domingo, Ciudad Trujillo, capital of the Dominican Republic
+          - Kingston, capital of Jamaica, Jamaican capital
+          - Port of Spain, Port-of-Spain, capital of Trinidad and Tobago
+          - Nicosia, capital of Cyprus
+          - Prague, Praha, Prag, Czech capital
+          - Bratislava, capital of Slovakia, Pressburg, Pozsony
+          - Porto Novo, capital of Benin
+          - Lome, capital of Togo
+          - Copenhagen, Kobenhavn, Danish capital
+          - Djibouti, capital of Djibouti
+          - Roseau
+          - Malabo
+          - Oslo, Christiania, capital of Norway
+          - Stockholm, capital of Sweden
+          - Berlin, German capital
+          - Quito, capital of Ecuador
+          - Asmara, Asmera
+          - Addis Ababa, New Flower, capital of Ethiopia
+          - Suva
+          - Helsinki, Helsingfors, capital of Finland, Finnish capital
+          - Athens, Athinai, capital of Greece, Greek capital
+          - Jerusalem, capital of Israel
+          - Rome, Roma, Eternal City, Italian capital, capital of Italy
+          - Bucharest, Bucharesti, Bucuresti, capital of Romania
+          - Kigali, capital of Rwanda
+          - Belgrade, Beograd, capital of Serbia and Montenegro
+          - Ljubljana
+          - Zagreb
+          - Ottawa, Canadian capital, capital of Canada
+          - Canberra, Australian capital, capital of Australia
+          - Kolonia
+          - Funafuti
+          - Tarawa, Bairiki
+          - Port Moresby, capital of Papua New Guinea
+          - Vienna, Austrian capital, capital of Austria
+          - Nassau, capital of the Bahamas
+          - Manama, capital of Bahrain
+          - Dhaka, Dacca, capital of Bangladesh
+          - Bruxelles, Brussels, Belgian capital, capital of Belgium
+          - Gaborone, capital of Botswana
+          - La Paz, capital of Bolivia
+          - Brasilia, Brazilian capital, capital of Brazil
+          - London, Greater London, British capital, capital of the United Kingdom
+          - Dublin, Irish capital, capital of Ireland
+          - Cairo, Al Qahira, El Qahira, Egyptian capital, capital of Egypt
+          - New Delhi, Indian capital, capital of India
+          - Kathmandu, Katmandu, capital of Nepal
+          - Lhasa, Lassa, capital of Tibet, Forbidden City
+          - Jakarta, Djakarta, capital of Indonesia
+          - Teheran, Tehran, capital of Iran, Iranian capital
+          - Baghdad, Bagdad, capital of Iraq
+          - Tokyo, Tokio, Yeddo, Yedo, Edo, Japanese capital, capital of Japan
+          - Amman, capital of Jordan
+          - Nairobi, capital of Kenya
+          - Kuwait, Kuwait City, Koweit, capital of Kuwait
+          - Paris, City of Light, French capital, capital of France
+          - Libreville, capital of Gabon
+          - Banjul, capital of Gambia
+          - Accra, capital of Ghana
+          - St. George's, capital of Grenada
+          - Conakry, Konakri, capital of Guinea
+          - Bissau, capital of Guinea-Bissau
+          - Georgetown, Stabroek
+          - Amsterdam, Dutch capital, capital of The Netherlands
+          - Budapest, Hungarian capital, capital of Hungary
+          - Reykjavik, capital of Iceland
+          - Pyongyang, capital of North Korea
+          - Seoul, capital of South Korea
+          - Vientiane, Laotian capital, capital of Laos
+          - Bayrut, Beirut, capital of Lebanon
+          - Maseru, capital of Lesotho
+          - Monrovia, Liberian capital, capital of Liberia
+          - Tripoli, Tarabulus Al-Gharb, capital of Libya
+          - Vaduz, capital of Liechtenstein
+          - Luxembourg-Ville, Luxembourg, Luxemburg, Luxembourg City, capital of Luxembourg
+          - Skopje, Skoplje, Uskub
+          - Antananarivo, capital of Madagascar
+          - Lilongwe, capital of Malawi
+          - Putrajaya, capital of Malaysia
+          - Male
+          - Bamako
+          - Valletta, Valetta, capital of Malta
+          - Nouakchott
+          - Port Louis
+          - Monaco-Ville
+          - Ulan Bator, Ulaanbaatar, Urga, Kulun, capital of Mongolia
+          - Rabat, capital of Morocco
+          - Maputo, capital of Mozambique
+          - Wellington, capital of New Zealand
+          - Niamey, capital of Niger
+          - Abuja, capital of Nigeria, Nigerian capital
+          - Muscat, Masqat, capital of Oman
+          - Islamabad, capital of Pakistan
+          - Asuncion, capital of Paraguay
+          - Lima, capital of Peru
+          - Manila, capital of the Philippines
+          - Warszawa, Warsaw, capital of Poland
+          - Lisbon, Lisboa, capital of Portugal
+          - Doha, Bida, El Beda, capital of Qatar
+          - Basseterre
+          - Castries
+          - Kingstown
+          - Apia, capital of Western Samoa
+          - San Marino, capital of San Marino
+          - Sao Tome
+          - Riyadh, capital of Saudi Arabia
+            - Mecca
+          - Dakar, capital of Senegal
+          - Victoria, capital of Seychelles
+          - Freetown, capital of Sierra Leone
+          - Singapore, capital of Singapore
+          - Honiara
+          - Mogadishu, Mogadiscio, capital of Somalia
+          - Pretoria, capital of South Africa
+          - Moscow, capital of the Russian Federation, Russian capital
+          - Minsk, capital of Belarus
+          - Tallinn, Tallin, capital of Estonia
+          - Riga, capital of Latvia
+          - Vilnius, Vilna, Vilno, Wilno, capital of Lithuania
+          - Kishinev, Chisinau, capital of Moldova
+          - Kyyiv, Kiev, capital of the Ukraine
+          - Yerevan, Jerevan, Erivan, capital of Armenia
+          - Baku, capital of Azerbaijan
+          - Tbilisi, Tiflis, capital of Georgia
+          - Astana, Akmola, capital of Kazakhstan
+          - Bishkek, Biskek, Frunze, capital of Kyrgyzstan
+          - Dushanbe, Dusanbe, Dyushambe, Stalinabad, capital of Tajikistan
+          - Ashkhabad, capital of Turkmenistan
+          - Tashkent, Taskent, capital of Uzbek
+          - Madrid, capital of Spain, Spanish capital
+          - Khartoum, capital of Sudan
+          - Paramaribo, capital of Suriname
+          - Mbabane, capital of Swaziland
+          - Bern, Berne, capital of Switzerland
+          - Dimash, Damascus, capital of Syria
+          - Dar es Salaam, capital of Tanzania
+          - Bangkok, capital of Thailand, Krung Thep
+          - Tunis, capital of Tunisia
+          - Ankara, Turkish capital, capital of Turkey, Angora
+          - Kampala, capital of Uganda
+          - Abu Dhabi, United Arab Emirates's capital
+          - Washington, Washington D.C., American capital, capital of the United States
+            - Potomac
+          - Montevideo, capital of Uruguay
+          - Port Vila, Vila, capital of Vanuatu
+          - Caracas, capital of Venezuela
+          - Hanoi, capital of Vietnam
+          - Sana, Sanaa, Sana'a
+          - Lusaka, capital of Zambia
+          - Harare, Salisbury, capital of Zimbabwe
+        - provincial capital
+          - Edmonton
+          - Victoria
+          - Winnipeg
+          - Fredericton
+          - Saint John's, St. John's
+          - Halifax
+          - Toronto
+          - Charlottetown
+          - Quebec, Quebec City
+          - Regina
+          - Whitehorse
+          - Darwin
+        - state capital
+          - Brisbane
+          - Sydney
+          - Melbourne
+          - Hobart
+          - Adelaide
+          - Perth
+          - Montgomery, capital of Alabama
+          - Juneau, capital of Alaska
+          - Phoenix, capital of Arizona
+          - Little Rock, capital of Arkansas
+          - Sacramento, capital of California
+          - Denver, Mile-High City, capital of Colorado
+          - Hartford, capital of Connecticut
+          - Dover, capital of Delaware
+          - Tallahassee, capital of Florida
+          - Atlanta, capital of Georgia
+          - Honolulu, capital of Hawaii, Hawaiian capital
+          - Boise, capital of Idaho
+          - Springfield, capital of Illinois
+          - Indianapolis, capital of Indiana
+          - Des Moines, capital of Iowa
+          - Topeka, capital of Kansas
+          - Frankfort, capital of Kentucky
+          - Baton Rouge, capital of Louisiana
+          - Augusta, capital of Maine
+          - Annapolis, capital of Maryland
+          - Boston, Hub of the Universe, Bean Town, Beantown, capital of Massachusetts
+          - Lansing, capital of Michigan
+          - Saint Paul, St. Paul, capital of Minnesota
+          - Jackson, capital of Mississippi
+          - Jefferson City, capital of Missouri
+          - Helena, capital of Montana
+          - Lincoln, capital of Nebraska
+          - Carson City, capital of Nevada
+          - Concord, capital of New Hampshire
+          - Trenton, capital of New Jersey
+          - Santa Fe, capital of New Mexico
+          - Albany, capital of New York
+          - Raleigh, capital of North Carolina
+          - Bismarck, capital of North Dakota
+          - Columbus, capital of Ohio
+          - Oklahoma City, capital of Oklahoma
+          - Salem, capital of Oregon
+          - Harrisburg, capital of Pennsylvania
+          - Providence, capital of Rhode Island
+          - Columbia, capital of South Carolina
+          - Pierre, capital of South Dakota
+          - Nashville, capital of Tennessee
+          - Austin, capital of Texas
+          - Salt Lake City, capital of Utah
+          - Montpelier, capital of Vermont
+          - Richmond, capital of Virginia
+          - Olympia, capital of Washington
+          - Charleston, capital of West Virginia
+          - Madison, capital of Wisconsin
+          - Cheyenne, capital of Wyoming
+        - Colossae
+        - Herat
+        - Kandahar, Qandahar
+        - Mazar-i-Sharif
+        - Durres, Durazzo
+        - Annaba
+        - Blida
+        - Oran
+        - Constantine
+        - Huambo, Nova Lisboa
+        - Lobito
+        - Hamilton
+        - Bahia Blanca
+        - Cordoba, Cordova
+        - Moron
+        - Rosario
+        - Vicente Lopez
+        - Dobrich, Tolbukhin
+        - Plovdiv, Philippopolis
+        - Varna
+        - Mandalay
+        - Moulmein, Mawlamyine
+        - Douala
+        - Kandy
+        - Antofagasta
+        - Concepcion
+        - Punta Arenas
+        - Temuco
+        - Valparaiso
+        - Vina del Mar
+        - Chongqing, Chungking
+        - Guangzhou, Kuangchou, Kwangchow, Canton
+        - Lanzhou, Lanchou, Lanchow
+        - Dalian, Talien, Dairen
+        - Luoyang, Loyang
+        - Lushun, Port Arthur
+        - Hangzhou, Hangchow
+        - Nanchang, Nan-chang
+        - Nanning, Nan-ning
+        - Nanjing, Nanking
+        - Shanghai
+        - Shenyang, Mukden, Moukden, Fengtien
+        - Taiyuan
+        - Tangshan
+        - Tianjin, Tientsin, T'ien-ching
+        - Wuhan
+        - Xian, Sian, Singan, Changan, Hsian
+        - Hohhot
+        - Taichung
+        - Hong Kong
+        - Barranquilla
+        - Cali
+        - Medellin
+        - Cartagena
+        - Soledad
+        - Goma
+        - Kananga, Luluabourg
+        - Lubumbashi, Elisabethville
+        - Abidjan
+        - San Pedro Sula
+        - Santa Ana
+        - Colon, Aspinwall
+        - Merida
+        - Campeche
+        - Cancun
+        - Acapulco, Acapulco de Juarez
+        - Chihuahua
+        - Ciudad Juarez, Juarez
+        - Ciudad Victoria
+        - Culiacan
+        - Durango, Victoria de Durango
+        - Guadalajara
+        - Hermosillo
+        - Leon
+        - Matamoros
+        - Mazatlan
+        - Mexicali
+        - Monterrey
+        - Oaxaca, Oaxaca de Juarez
+        - Orizaba
+        - Puebla, Puebla de Zaragoza, Heroica Puebla de Zaragoza
+        - San Luis Potosi
+        - Tepic
+        - Tampico
+        - Torreon
+        - Tijuana
+        - Tuxtla Gutierrez
+        - Veracruz
+        - Villahermosa, Villa Hermosa
+        - Santiago de Cuba, Santiago
+        - Guantanamo
+        - Santiago de los Caballeros, Santiago
+        - San Juan
+        - Montego Bay
+        - Brno, Brunn
+        - Ostrava
+        - Cotonou
+        - Arhus, Aarhus
+        - Aalborg, Alborg
+        - Bergen
+        - Stavanger
+        - Trondheim, Nidaros
+        - Malmo
+        - Lund
+        - Goteborg, Goeteborg, Gothenburg
+        - Uppsala, Upsala
+        - Aachen, Aken, Aix-la-Chapelle
+        - Bremen
+        - Bremerhaven
+        - Chemnitz, Karl-Marx-Stadt
+        - Dortmund
+        - Dresden
+        - Leipzig
+        - Solingen
+        - Weimar
+        - Bonn
+        - Cologne, Koln
+        - Braunschweig, Brunswick
+        - Dusseldorf
+        - Essen
+        - Frankfurt on the Main, Frankfurt, Frankfort
+        - Halle, Halle-an-der-Saale
+        - Hamburg
+        - Hannover, Hanover
+        - Lubeck
+        - Mannheim
+        - Munich, Muenchen
+        - Nuremberg, Nurnberg
+        - Potsdam
+        - Rostock
+        - Stuttgart
+        - Wiesbaden
+        - Wurzburg, Wuerzburg
+        - Guayaquil
+        - Espoo
+        - Tampere, Tammerfors
+        - Corinth, Korinthos
+        - Argos
+        - Delphi
+        - Mycenae
+        - Sparta
+        - Ephesus
+        - Patras, Patrai
+        - Troy, Ilion, Ilium
+        - Thebes
+        - Thessaloniki, Salonika, Salonica, Thessalonica
+        - Nablus
+        - Sodom
+        - Gomorrah, Gomorrha
+        - Tel Aviv, Tel Aviv-Yalo, Tel Aviv-Jaffa
+        - Hefa, Haifa
+        - Jaffa, Joppa, Yafo
+        - Samaria
+        - Byzantium
+        - Pompeii
+        - Herculaneum
+        - Aquila, L'Aquila, Aquila degli Abruzzi
+        - Bolzano
+        - Brescia
+        - Ferrara
+        - Naples, Napoli
+        - Messina
+        - Bologna
+        - Brindisi
+        - Genoa, Genova
+        - Cremona
+        - La Spezia
+        - Milan, Milano
+        - Pisa
+        - Syracuse, Siracusa
+        - Turin, Torino
+        - Bari
+        - Palermo
+        - Firenze, Florence
+        - Trento, Trent
+        - Padua, Padova, Patavium
+        - Venice, Venezia
+        - Verona
+        - Brasov
+        - Constantina
+        - Sarajevo
+        - Dubrovnik, Ragusa
+        - Split
+        - Banff
+        - Calgary
+        - Vancouver
+        - Saint John, St. John
+        - Hamilton
+        - Sudbury
+        - Thunder Bay
+        - Windsor
+        - Montreal
+        - Saskatoon
+        - Graz
+        - Linz, Lentia
+        - Salzburg
+        - Innsbruck
+        - Chittagong
+        - Antwerpen, Antwerp, Anvers
+        - Bruges, City of Bridges
+        - Charleroi
+        - Gent, Gand, Ghent
+        - Liege, Luik
+        - Namur
+        - Santa Cruz
+        - Sucre
+        - Belem, Para, Feliz Lusitania, Santa Maria de Belem, St. Mary of Bethlehem
+        - Belo Horizonte
+        - Curitiba
+        - Joao Pessoa
+        - Governador Valadares
+        - Limeira
+        - Natal
+        - Osasco
+        - Rio de Janeiro, Rio
+        - Recife, Pernambuco
+        - Santos
+        - Sao Bernardo do Campo
+        - Sao Goncalo
+        - Sao Joao de Meriti
+        - Sao Jose dos Campos
+        - Sao Louis
+        - Sao Paulo
+        - Lancaster
+        - Manchester
+        - Hull, Kingston-upon Hull
+        - Liverpool
+        - Birmingham, Brummagem
+        - Oxford
+        - Cambridge
+        - Brighton
+        - Bristol
+        - Leeds
+        - Leicester
+        - Newcastle, Newcastle-upon-Tyne
+        - Portsmouth, Pompey
+        - Coventry
+        - Gloucester
+        - Reading
+        - Sheffield
+        - Winchester
+        - Worcester
+        - Northampton
+        - Cork
+        - Galway
+        - Limerick
+        - Waterford
+        - Aberdeen
+        - Glasgow
+        - Newport
+        - Swansea
+        - Alexandria, El Iskandriyah
+        - Aswan, Assuan, Assouan
+        - Giza, El Giza, Gizeh
+        - Memphis
+        - Luxor, El-Aksur
+        - Thebes
+        - Suez
+        - Delhi, Old Delhi
+        - Bangalore
+        - Jabalpur, Jubbulpore
+        - Kolkata, Calcutta
+        - Mumbai, Bombay
+        - Agra
+        - Hyderabad
+        - Chennai, Madras
+        - Lucknow
+        - Mysore
+        - Salem
+        - Bandung
+        - Medan
+        - Semarang, Samarang
+        - Abadan
+        - Bam
+        - Mashhad, Meshed
+        - Isfahan, Esfahan, Aspadana
+        - Rasht, Resht
+        - Shiraz
+        - Tabriz
+        - Urmia, Orumiyeh
+        - Qum
+        - Persepolis
+        - Basra, Basia
+        - Kerbala, Karbala, Kerbela
+        - Kirkuk
+        - Mosul
+        - Philippi
+        - Edirne, Adrianople, Adrianopolis
+        - Babylon
+        - Ur
+        - Assur, Asur, Ashur
+        - Nineveh
+        - Utica
+        - Asahikawa
+        - Nagano
+        - Nagoya
+        - Omiya
+        - Osaka
+        - Yokohama
+        - Naha City
+        - Kobe
+        - Kyoto
+        - Hiroshima
+        - Sapporo
+        - Kitakyushu
+        - Fukuoka
+        - Nagasaki
+        - Toyohashi
+        - Toyonaki
+        - Toyota
+        - Al Aqabah, Aqaba, Akaba
+        - Az Zarqa, Zarqa
+        - Kisumu
+        - Mombasa
+        - Nakuru
+        - Bordeaux
+        - Brest
+        - Cannes
+        - Dijon
+        - Grenoble
+        - Le Havre
+        - Lille
+        - Lyon, Lyons
+        - Marseille, Marseilles
+        - Nancy
+        - Nantes
+        - Nice
+        - Orleans
+        - Rheims, Reims
+        - Strasbourg, Strassburg
+        - Toulon
+        - Toulouse
+        - Tours
+        - Versailles
+        - Kumasi
+        - Tamale
+        - Apeldoorn
+        - Arnhem
+        - The Hague, 's Gravenhage, Den Haag
+        - Eindhoven
+        - Nijmegen
+        - Rotterdam
+        - Leiden, Leyden
+        - Utrecht
+        - Thorshavn
+        - Inchon, Incheon, Chemulpo
+        - Kwangju
+        - Taegu, Tegu
+        - Pusan
+        - Tarabulus, Tripoli, Tarabulus Ash-Sham, Trablous
+        - Sayda, Saida, Sidon
+        - Sur, Tyre
+        - Benghazi
+        - Blantyre
+        - Zomba
+        - Kuala Lumpur
+        - Timbuktu
+        - Casablanca
+        - Fez, Fes
+        - Marrakesh, Marrakech
+        - Oujda
+        - Tangier, Tangiers
+        - Beira
+        - Auckland
+        - Christchurch
+        - Ibadan
+        - Katsina
+        - Lagos
+        - Maiduguri, Yerwa-Maiduguri
+        - Zaria
+        - Faisalabad, Lyallpur
+        - Hyderabad
+        - Karachi
+        - Lahore
+        - Peshawar
+        - Rawalpindi
+        - Arequipa
+        - Caloocan
+        - Cebu, Cebu City
+        - Quezon City
+        - Bydgoszcz, Bromberg
+        - Cracow, Krakow, Krakau
+        - Czestochowa
+        - Gdansk, Danzig
+        - Katowice
+        - Lodz
+        - Lublin
+        - Wroclaw, Breslau
+        - Zabrze
+        - Braga
+        - Porto, Oporto
+        - Setubal
+        - Papeete
+        - Medina, Al Madinah
+        - Jeddah, Jed'dah, Jiddah, Jidda
+        - Tabuk
+        - Taif
+        - Hargeisa
+        - Cape Town
+        - Johannesburg
+        - Kimberley
+        - Durban
+        - Bloemfontein
+        - Soweto
+        - Astrakhan
+        - Cherepovets
+        - Grozny, Groznyy
+        - Kaluga
+        - Khabarovsk
+        - Kursk
+        - Nizhnyi Novgorod, Nizhni Novgorod, Gorki, Gorky, Gorkiy
+        - Kazan
+        - St. Petersburg, Leningrad, Peterburg, Petrograd, Saint Petersburg
+        - Murmansk
+        - Nalchik
+        - Novgorod
+        - Perm, Molotov
+        - Rostov, Rostov on Don, Rostov na Donu
+        - Saratov
+        - Smolensk
+        - Ufa
+        - Volgograd, Stalingrad, Tsaritsyn
+        - Novosibirsk
+        - Chelyabinsk
+        - Omsk
+        - Vladivostok
+        - Homyel, Homel, Gomel
+        - Pinsk
+        - Tartu
+        - Liepaja
+        - Daugavpils
+        - Klaipeda, Memel
+        - Kaunas, Kovna, Kovno
+        - Donetsk, Donetske, Stalino
+        - Chernobyl
+        - Dneprodzerzhinsk
+        - Dnipropetrovsk, Yekaterinoslav
+        - Kharkov, Kharkiv
+        - Odessa, Odesa
+        - Sebastopol, Sevastopol
+        - Yalta
+        - Almaty, Alma-Ata
+        - Samarkand, Samarcand
+        - Barcelona
+        - Cadiz
+        - Cartagena
+        - Cordoba, Cordova
+        - Granada
+        - Jerez, Jerez de la Frontera
+        - Leon
+        - Logrono
+        - Malaga
+        - Oviedo
+        - San Sebastian
+        - Sevilla, Seville
+        - Toledo
+        - Zaragoza, Saragossa
+        - Valencia
+        - Nyala
+        - Port Sudan
+        - Omdurman
+        - Basel, Basle, Bale
+        - Geneva, Geneve, Genf
+        - Lausanne
+        - Zurich
+        - Halab, Aleppo, Alep
+        - Al Ladhiqiyah, Latakia
+        - Dodoma
+        - Mbeya
+        - Mwanza
+        - Tabora
+        - Tanga
+        - Ariana
+        - Ehadhamen
+        - Gafsa
+        - Sfax, Safaqis
+        - Sousse, Susa, Susah
+        - Adana, Seyhan
+        - Antalya, Adalia
+        - Halicarnassus
+        - Istanbul, Stambul, Stamboul, Constantinople
+        - Bursa, Brusa
+        - Izmir, Smyrna
+        - Pergamum
+        - Sardis
+        - Jinja
+        - Gulu
+        - Dubai
+        - Birmingham, Pittsburgh of the South
+        - Huntsville
+        - Mobile
+        - Anchorage
+        - Mesa
+        - Tucson
+        - Anaheim
+        - Bakersfield
+        - Berkeley
+        - Beverly Hills
+        - Chula Vista
+        - Fresno
+        - Long Beach
+        - Los Angeles, City of the Angels
+        - Oakland
+        - Pasadena
+        - Riverside
+        - San Bernardino
+        - San Diego
+        - San Francisco
+        - San Jose
+        - Santa Ana
+        - Santa Clara
+        - Colorado Springs
+        - Pueblo
+        - Bridgeport
+        - New Haven
+        - Waterbury
+        - Wilmington
+        - Fort Lauderdale
+        - Jacksonville
+        - Miami
+        - Miami Beach
+        - Orlando
+        - St. Augustine, Saint Augustine
+        - St. Petersburg, Saint Petersburg
+        - Tampa
+        - Augusta
+        - Columbus
+        - Macon
+        - Savannah
+        - Chicago, Windy City
+        - Decatur
+        - Peoria
+        - Rockford
+        - Evansville
+        - Fort Wayne
+        - Gary
+        - South Bend
+        - Davenport
+        - Cedar Rapids
+        - Sioux City
+        - Kansas City
+        - Wichita
+        - Lexington
+        - Louisville
+        - New Orleans
+        - Shreveport
+        - Portland
+        - Baltimore
+        - Cambridge
+        - Springfield
+        - Worcester
+        - Salem
+        - Ann Arbor
+        - Detroit, Motor City, Motown
+        - Flint
+        - Grand Rapids
+        - Duluth
+        - Minneapolis
+        - Independence
+        - Kansas City
+        - Saint Louis, St. Louis, Gateway to the West
+        - Springfield
+        - Billings
+        - Omaha
+        - Las Vegas
+        - Reno
+        - Manchester
+        - Atlantic City
+        - Bayonne
+        - Camden
+        - Jersey City
+        - Newark
+        - Paterson
+        - Albuquerque
+        - Buffalo
+        - New York, New York City, Greater New York
+        - Binghamton
+        - Niagara Falls
+        - Rochester
+        - Schenectady
+        - Syracuse
+        - Utica
+        - Charlotte, Queen City
+        - Durham
+        - Greensboro
+        - Greenville
+        - Winston-Salem
+        - Fargo
+        - Akron
+        - Cleveland
+        - Cincinnati
+        - Dayton
+        - Toledo
+        - Youngstown
+        - Tulsa
+        - Eugene
+        - Portland
+        - Allentown
+        - Erie
+        - Chester
+        - Philadelphia, City of Brotherly Love
+        - Pittsburgh
+        - Scranton
+        - Newport
+        - Charleston
+        - Sioux Falls
+        - Chattanooga
+        - Knoxville
+        - Memphis
+        - Abilene
+        - Amarillo
+        - Arlington
+        - Beaumont
+        - Brownsville
+        - Corpus Christi
+        - Dallas
+        - El Paso
+        - Fort Worth
+        - Garland
+        - Houston
+        - Laredo
+        - Lubbock
+        - Odessa
+        - Plano
+        - San Antonio
+        - Waco
+        - Wichita Falls
+        - Provo
+        - Burlington
+        - Newport News
+        - Norfolk
+        - Lynchburg
+        - Portsmouth
+        - Roanoke
+        - Virginia Beach
+        - Seattle
+        - Spokane
+        - Tacoma
+        - Beckley
+        - Clarksburg
+        - Huntington
+        - Morgantown
+        - Parkersburg
+        - Wheeling
+        - Green Bay
+        - Milwaukee
+        - Racine
+        - Casper
+        - Vatican City, Citta del Vaticano
+        - Ciudad Bolivar
+        - Cumana
+        - Maracaibo
+        - Maracay
+        - Valencia
+        - Ho Chi Minh City, Saigon
+        - Haiphong
+        - Aden
+        - Hodeida, Al-Hudaydah
+        - Mukalla, Al-Mukalla
+        - Bulawayo
+      - town
+        - burg
+        - boom town
+        - cow town, cowtown
+        - ghost town
+        - hometown
+        - Main Street
+        - market town
+        - Jalalabad
+        - Batna
+        - Djanet
+        - Hippo, Hippo Regius
+        - Reggane
+        - Timgad
+        - Timimoun
+        - Nogales
+        - Santa Maria del Tule
+        - Pilsen, Plzen
+        - Austerlitz
+        - Viborg
+        - Hameln, Hamelin
+        - Hohenlinden
+        - Massawa
+        - Mariehamn, Maarianhamina
+        - Knossos, Cnossos, Cnossus
+        - Actium
+        - Plataea
+        - Stagira, Stagirus
+        - Acre, Akko, Akka, Accho
+        - Nazareth
+        - Bethlehem, Bayt Lahm, Bethlehem Ephrathah, Bethlehem-Judah
+        - Anzio
+        - Tivoli, Tibur
+        - Agrigento, Acragas
+        - Nanaimo
+        - Churchill
+        - Yellowknife
+        - Kingston
+        - Sault Sainte Marie
+        - Dawson
+        - Wagga Wagga
+        - Wagram
+        - Aalst
+        - Waterloo
+        - Bath
+        - Blackpool
+        - Stratford-on-Avon, Stratford-upon-Avon
+        - Sunderland
+        - Hastings
+        - Canterbury
+        - Naseby
+        - Bangor
+        - Tara
+        - Ayr
+        - Aberdare
+        - Bangor
+        - Nag Hammadi
+        - Saqqara, Saqqarah, Sakkara
+        - Avignon
+        - Calais
+        - Chablis
+        - Chartres
+        - Cherbourg
+        - Dunkirk, Dunkerque
+        - Valenciennes
+        - Vichy
+        - Vienne
+        - Thule
+        - Monte Carlo
+        - El Aaium
+        - Cuzco, Cusco
+        - Dhahran
+        - Lubavitch
+        - Interlaken
+        - Abydos
+        - Antioch, Antakya, Antakiya
+        - Chalcedon, Kadikoy
+        - Entebbe
+        - Decatur
+        - Gadsden
+        - Selma
+        - Tuscaloosa
+        - Tuskegee
+        - Nome
+        - Sitka
+        - Skagway
+        - Flagstaff
+        - Nogales
+        - Prescott
+        - Yuma
+        - Fayetteville
+        - Fort Smith
+        - Hot Springs
+        - Jonesboro
+        - Pine Bluff
+        - Texarkana
+        - Barstow
+        - Eureka
+        - Monterey
+        - Palo Alto
+        - Redding
+        - San Mateo
+        - San Pablo
+        - Santa Barbara
+        - Santa Cruz
+        - Boulder
+        - Farmington
+        - New London
+        - Daytona Beach
+        - Fort Myers
+        - Gainesville
+        - Key West
+        - Melbourne
+        - Palm Beach
+        - Panama City
+        - Pensacola
+        - Sarasota
+        - West Palm Beach
+        - Albany
+        - Athens
+        - Brunswick
+        - Oxford
+        - Valdosta
+        - Vidalia
+        - Hilo
+        - Coeur d'Alene
+        - Idaho Falls
+        - Lewiston
+        - Nampa
+        - Pocatello
+        - Sun Valley
+        - Twin Falls
+        - Cairo
+        - Carbondale
+        - Champaign
+        - East Saint Louis
+        - Moline
+        - Rock Island
+        - Urbana
+        - Bloomington
+        - Lafayette
+        - Muncie
+        - Council Bluffs
+        - Clinton
+        - Dubuque
+        - Mason City
+        - Ottumwa
+        - Dodge City
+        - Abilene
+        - Hays
+        - Lawrence
+        - Salina
+        - Bowling Green
+        - Owensboro
+        - Paducah
+        - Alexandria
+        - Lafayette
+        - Monroe
+        - Morgan City
+        - Bangor
+        - Brunswick
+        - Lewiston
+        - Orono
+        - Aberdeen
+        - Frederick
+        - Hagerstown
+        - Concord
+        - Gloucester
+        - Lexington
+        - Medford
+        - Pittsfield
+        - Plymouth
+        - Williamstown
+        - Alpena
+        - Houghton
+        - Jackson
+        - Kalamazoo
+        - Marquette
+        - Monroe
+        - Saginaw
+        - Traverse City
+        - Bemidji
+        - Hibbing
+        - Mankato
+        - Rochester
+        - Saint Cloud, St. Cloud
+        - Virginia
+        - Biloxi
+        - Columbus
+        - Greenville
+        - Hattiesburg
+        - Meridian
+        - Natchez
+        - Tupelo
+        - Vicksburg
+        - Cape Girardeau
+        - Columbia
+        - Hannibal
+        - Poplar Bluff
+        - Saint Joseph, St. Joseph
+        - Sedalia
+        - Bozeman
+        - Butte
+        - Great Falls
+        - Missoula
+        - Grand Island
+        - North Platte
+        - Portsmouth
+        - Morristown
+        - New Brunswick
+        - Princeton
+        - Carlsbad
+        - Farmington
+        - Gallup
+        - Las Cruces
+        - Los Alamos
+        - Roswell
+        - Silver City
+        - Taos
+        - Cooperstown
+        - Ithaca
+        - Elmont
+        - Kingston
+        - Newburgh
+        - Saratoga Springs
+        - Watertown
+        - Asheville
+        - Chapel Hill
+        - Fayetteville
+        - Goldsboro
+        - Wilmington
+        - Athens
+        - Mansfield
+        - Bartlesville
+        - Enid
+        - Lawton
+        - McAlester
+        - Muskogee
+        - Bend
+        - Klamath Falls
+        - Medford
+        - Altoona
+        - Bethlehem
+        - Gettysburg
+        - Hershey
+        - Florence
+        - Greenville
+        - Aberdeen
+        - Rapid City
+        - Columbia
+        - Jackson
+        - Johnson City
+        - Bryan
+        - Del Rio
+        - Galveston
+        - Lufkin
+        - McAllen
+        - Midland
+        - Paris
+        - San Angelo
+        - Sherman
+        - Texarkana
+        - Tyler
+        - Victoria
+        - Ogden
+        - Bennington
+        - Brattleboro
+        - Rutland
+        - Blacksburg
+        - Fredericksburg
+        - Petersburg
+        - Aberdeen
+        - Bellingham
+        - Kennewick
+        - Vancouver
+        - Walla Walla
+        - Yakima
+        - Fayetteville
+        - Harpers Ferry, Harper's Ferry
+        - Appleton
+        - Eau Claire
+        - La Crosse
+        - Superior
+        - Watertown
+        - Wausau
+        - Jackson
+        - Lander
+        - Laramie
+        - Rock Springs
+    - new town
+    - barrio
+    - Twin Cities
+  - Victoria Land
+  - Wilkes Land
+  - West, western United States
+    - Wild West
+  - wilderness, wild
+    - barren, waste, wasteland
+      - heath, heathland
+    - bush
+      - outback
+        - Never-Never
+    - frontier
+  - killing field
+  - East Africa
+  - Cappadocia
+  - Galatia
+  - Phrygia
+  - Pontus
+  - Illyria
+  - Caribbean
+  - Bengal
+  - Patagonia
+  - pampas
+  - Southeast Asia
+  - Manchuria
+  - Turkistan, Turkestan
+  - French Indochina
+  - Mesoamerica
+  - Czechoslovakia
+  - Moravia
+  - Bohemia
+  - northern Europe
+  - Scandinavia
+  - Saxony, Sachsen, Saxe
+  - Rhineland, Rheinland
+  - Brandenburg
+  - Prussia, Preussen
+  - Ruhr, Ruhr Valley
+  - Thuringia
+  - Karelia
+  - Epirus
+  - Laconia
+  - Lycia
+  - Lydia
+  - Thessalia, Thessaly
+  - Arcadia
+  - Middle East, Mideast, Near East
+    - Mashriq
+  - Fertile Crescent
+  - West Bank
+  - Galilee
+  - Gaza Strip, Gaza
+  - Golan Heights, Golan
+  - Palestine, Canaan, Holy Land, Promised Land
+  - Judah, Juda
+  - Judea, Judaea
+  - Philistia
+  - Byzantine Empire, Byzantium, Eastern Roman Empire
+  - Western Roman Empire, Western Empire
+  - Serbia, Srbija
+  - Montenegro, Crna Gora
+  - Dalmatia
+  - Labrador
+  - Maritime Provinces, Maritimes, Canadian Maritime Provinces
+  - Klondike
+  - Austria-Hungary
+  - British Empire
+  - Cumbria
+  - New Forest
+  - East Anglia
+  - Lancashire
+  - Yorkshire
+  - Northumbria
+  - West Country
+  - Wessex
+  - Ulster
+  - Caledonia
+  - Hindustan
+  - Sikkim
+  - Kanara, Canara
+  - Punjab
+  - Gujarat, Gujerat
+  - Maharashtra
+  - Gulf States
+  - Elam, Susiana
+  - Levant
+  - Macedon, Macedonia, Makedonija
+  - Thrace
+  - Mesopotamia
+  - Babylonia, Chaldaea, Chaldea
+  - Chaldea, Chaldaea
+  - Sumer
+  - Assyria
+  - Phoenicia, Phenicia
+  - Gaul, Gallia
+  - Riviera
+  - French region
+    - French Riviera, Cote d'Azur
+    - Alsace, Alsatia, Elsass
+    - Anjou
+    - Aquitaine, Aquitania
+    - Artois
+    - Auvergne
+    - Basse-Normandie, Lower-Normandy
+    - Bourgogne, Burgundy
+    - Bretagne, Brittany, Breiz
+    - Centre
+    - Champagne, Champagne-Ardenne
+    - Corse, Corsica
+    - Franche-Comte
+    - Gascogne, Gascony
+    - Haute-Normandie, Upper-Normandy
+    - Ile-de-France
+    - Languedoc-Roussillon
+    - Limousin
+    - Lorraine, Lothringen
+    - Martinique
+    - Mayenne
+    - Midi-Pyrenees
+    - Nord-Pas-de-Calais
+    - Pays de la Loire
+    - Picardie, Picardy
+    - Poitou-Charentes, Poitou
+    - Rhone-Alpes
+    - Provence
+  - Midi
+  - Normandie, Normandy
+  - Orleanais
+  - Lyonnais
+  - Savoy
+  - Guiana
+  - Friesland
+  - Frisia
+  - Thule, ultima Thule
+  - Lappland, Lapland
+  - Tartary, Tatary
+  - Mongolia
+  - Western Sahara, Spanish Sahara
+  - Kashmir, Cashmere, Jammu and Kashmir
+  - Parthia
+  - Nejd, Najd
+  - Hejaz, Hedjaz, Hijaz
+  - Chechnya, Chechenia, Chechen Republic
+  - Siberia
+  - European Russia
+  - Baltic State, Baltic Republic
+    - Estonia, Esthonia, Republic of Estonia
+    - Latvia, Republic of Latvia
+    - Lithuania, Republic of Lithuania, Lietuva
+  - Livonia
+  - Colchis
+  - Donets Basin, Donbass, Donbas
+  - Iberia
+  - Latin America
+  - Galicia
+  - Leon
+  - Sudan, Soudan
+  - Tanganyika
+  - Kurdistan
+  - Iraqi Kurdistan
+  - Ionia
+  - East Coast
+  - West Coast
+  - Colony
+    - Connecticut
+    - Delaware
+    - Georgia
+    - Maryland
+    - Massachusetts, Massachusetts Bay Colony
+    - New Hampshire
+    - New Jersey
+    - New York
+    - North Carolina
+    - Pennsylvania
+    - Rhode Island
+    - South Carolina
+    - Virginia
+  - New England
+  - Mid-Atlantic states
+  - Confederacy, Confederate States, Confederate States of America, South, Dixie, Dixieland
+  - South
+    - Old South
+    - Alabama, Heart of Dixie, Camellia State, AL
+  - Deep South
+  - Sunbelt
+  - Tidewater, Tidewater region
+  - Piedmont
+  - North
+  - Carolina, Carolinas
+  - Dakota
+  - Bluegrass, Bluegrass Country, Bluegrass Region
+  - Low Countries
+  - Lusitania
+  - Silesia, Slask, Slezsko, Schlesien
+  - Big Sur
+  - Silicon Valley
+  - Sub-Saharan Africa, Black Africa
+  - Scythia
+  - North Africa
+  - West Africa
+  - Dar al-Islam, House of Islam
+  - Dar al-harb, House of War

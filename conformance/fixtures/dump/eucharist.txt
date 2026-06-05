@@ -1,0 +1,25 @@
+term: Eucharist
+[Definitions]
+  - (noun) a Christian sacrament commemorating the Last Supper by consecrating bread and wine
+[Synonyms]
+  - Holy Eucharist
+  - sacrament of the Eucharist
+  - Holy Sacrament
+  - Liturgy
+  - Eucharistic liturgy
+  - Lord's Supper
+[Derived forms]
+  - Eucharistic
+[Is a kind of]
+  - sacrament
+    - religious ceremony, religious ritual
+      - ceremony
+        - activity
+          - act, deed, human action, human activity
+            - event
+              - psychological feature
+                - abstraction, abstract entity
+                  - entity
+[Parts]
+  - Offertory
+  - Communion, Holy Communion, sacramental manduction, manduction

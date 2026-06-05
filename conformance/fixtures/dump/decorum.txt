@@ -1,0 +1,24 @@
+term: decorum
+[Definitions]
+  - (noun) propriety in manners and conduct
+[Synonyms]
+  - decorousness
+[Antonyms]
+  - indecorum (direct)
+      -> indecorousness
+[Derived forms]
+  - becoming
+  - comely
+  - comme il faut
+  - decent
+  - decorous
+  - seemly
+[Is a kind of]
+  - propriety, properness, correctitude
+    - demeanor, demeanour, behavior, behaviour, conduct, deportment
+      - trait
+        - attribute
+          - abstraction, abstract entity
+            - entity
+[Kinds]
+  - becomingness

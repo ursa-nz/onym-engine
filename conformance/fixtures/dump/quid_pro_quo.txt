@@ -1,0 +1,17 @@
+term: quid pro quo
+[Definitions]
+  - (noun) something for something; that which a party receives (or is promised) in return for something he does or gives or promises
+[Synonyms]
+  - quid
+[Is a kind of]
+  - retainer, consideration
+    - fee
+      - fixed charge, fixed cost, fixed costs
+        - charge
+          - cost
+            - outgo, spending, expenditure, outlay
+              - transferred property, transferred possession
+                - possession
+                  - relation
+                    - abstraction, abstract entity
+                      - entity

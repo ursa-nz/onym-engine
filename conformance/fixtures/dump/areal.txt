@@ -1,0 +1,11 @@
+term: areal
+[Definitions]
+  - (adjective) of or relating to or involving an area
+[Derived forms]
+  - area
+  - country
+  - expanse
+  - surface area
+[Pertains to]
+  - area, country
+    - region

@@ -1,0 +1,13 @@
+term: tropical rain forest
+[Definitions]
+  - (noun) a rain forest in a tropical area
+[Synonyms]
+  - selva
+[Is a kind of]
+  - rain forest, rainforest
+    - forest, wood, woods
+      - vegetation, flora, botany
+        - collection, aggregation, accumulation, assemblage
+          - group, grouping
+            - abstraction, abstract entity
+              - entity

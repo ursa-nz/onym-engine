@@ -1,0 +1,21 @@
+term: ice cream
+[Definitions]
+  - (noun) frozen dessert containing cream and sugar and flavoring
+[Is a kind of]
+  - frozen dessert
+    - dessert, sweet, afters
+      - course
+        - nutriment, nourishment, nutrition, sustenance, aliment, alimentation, victuals
+          - food, nutrient
+            - substance
+              - matter
+                - physical entity
+                  - entity
+[Kinds]
+  - chocolate ice cream
+    - choc-ice
+  - Neapolitan ice cream
+  - peach ice cream
+  - strawberry ice cream
+  - tutti-frutti
+  - vanilla ice cream

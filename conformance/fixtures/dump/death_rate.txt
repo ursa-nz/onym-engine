@@ -1,0 +1,16 @@
+term: death rate
+[Definitions]
+  - (noun) the ratio of deaths in an area to the population of that area; expressed per 1000 per year
+[Synonyms]
+  - mortality
+  - mortality rate
+  - fatality rate
+[Is a kind of]
+  - rate
+    - magnitude relation, quantitative relation
+      - relation
+        - abstraction, abstract entity
+          - entity
+[Kinds]
+  - infant deathrate, infant mortality, infant mortality rate
+  - neonatal mortality, neonatal mortality rate

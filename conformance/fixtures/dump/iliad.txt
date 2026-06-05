@@ -1,0 +1,12 @@
+term: Iliad
+[Definitions]
+  - (noun) a Greek epic poem (attributed to Homer) describing the siege of Troy
+[Is a kind of]
+  - epic poem, heroic poem, epic, epos
+    - poem, verse form
+      - literary composition, literary work
+        - writing, written material, piece of writing
+          - written communication, written language, black and white
+            - communication
+              - abstraction, abstract entity
+                - entity

@@ -1,0 +1,16 @@
+term: drawl
+[Definitions]
+  - (noun) a slow speech pattern with prolonged vowels
+  - (verb) lengthen and slow down or draw out
+      "drawl one's vowels"
+[Derived forms]
+  - drawler
+[Is a kind of]
+  - accent, speech pattern
+    - pronunciation
+      - utterance, vocalization
+        - auditory communication
+          - communication
+            - abstraction, abstract entity
+              - entity
+  - pronounce, articulate, enounce, sound out, enunciate, say

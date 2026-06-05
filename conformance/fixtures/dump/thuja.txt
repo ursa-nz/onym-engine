@@ -1,0 +1,24 @@
+term: Thuja
+[Definitions]
+  - (noun) red cedar
+[Synonyms]
+  - genus Thuja
+[Is a kind of]
+  - gymnosperm genus
+    - genus
+      - taxonomic group, taxonomic category, taxon
+        - biological group
+          - group, grouping
+            - abstraction, abstract entity
+              - entity
+[Part of]
+  - Cupressaceae, family Cupressaceae, cypress family
+    - Coniferales, order Coniferales
+      - Coniferopsida, class Coniferopsida, Coniferophytina, subdivision Coniferophytina, Coniferophyta
+        - Gymnospermae, class Gymnospermae, Gymnospermophyta, division Gymnospermophyta
+          - Spermatophyta, division Spermatophyta
+            - Plantae, kingdom Plantae, plant kingdom
+[Parts]
+  - western red cedar, red cedar, canoe cedar, Thuja plicata
+  - American arborvitae, northern white cedar, white cedar, Thuja occidentalis
+  - Oriental arborvitae, Thuja orientalis, Platycladus orientalis

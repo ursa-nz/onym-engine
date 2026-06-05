@@ -1,0 +1,47 @@
+term: squire
+[Definitions]
+  - (noun) young nobleman attendant on a knight
+  - (noun) an English country landowner
+  - (noun) a man who attends or escorts a woman
+  - (verb) attend upon as a squire; serve as a squire
+[Synonyms]
+  - gallant
+[Is a kind of]
+  - attendant, attender, tender
+    - assistant, helper, help, supporter
+      - worker
+        - person, individual, someone, somebody, mortal, soul
+          - organism, being
+            - living thing, animate thing
+              - whole, unit
+                - object, physical object
+                  - physical entity
+                    - entity
+          - causal agent, cause, causal agency
+            - physical entity
+              - entity
+  - landowner, landholder, property owner
+    - holder
+      - owner, possessor
+        - person, individual, someone, somebody, mortal, soul
+          - organism, being
+            - living thing, animate thing
+              - whole, unit
+                - object, physical object
+                  - physical entity
+                    - entity
+          - causal agent, cause, causal agency
+            - physical entity
+              - entity
+  - escort
+    - accompany
+      - travel, go, move, locomote
+[Kinds]
+  - armiger, armor-bearer
+[Domains]
+  - United Kingdom
+  - UK
+  - U.K.
+  - Britain
+  - United Kingdom of Great Britain and Northern Ireland
+  - Great Britain

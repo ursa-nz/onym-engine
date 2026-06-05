@@ -1,0 +1,11 @@
+term: 79
+[Definitions]
+  - (adjective) being nine more than seventy
+[Synonyms]
+  - seventy-nine
+  - ilxxx
+[Antonyms]
+  - cardinal (indirect)
+      -> ordinal
+[Similar to]
+  - cardinal

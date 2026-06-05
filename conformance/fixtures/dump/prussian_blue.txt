@@ -1,0 +1,26 @@
+term: Prussian blue
+[Definitions]
+  - (noun) any of various blue pigments
+  - (noun) a dark greenish-blue color
+[Synonyms]
+  - iron blue
+[Is a kind of]
+  - pigment
+    - coloring material, colouring material, color, colour
+      - material, stuff
+        - substance
+          - matter
+            - physical entity
+              - entity
+          - part, portion, component part, component, constituent
+            - relation
+              - abstraction, abstract entity
+                - entity
+  - blue, blueness
+    - chromatic color, chromatic colour, spectral color, spectral colour
+      - color, colour, coloring, colouring
+        - visual property
+          - property
+            - attribute
+              - abstraction, abstract entity
+                - entity

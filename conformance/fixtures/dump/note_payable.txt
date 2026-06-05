@@ -1,0 +1,10 @@
+term: note payable
+[Definitions]
+  - (noun) a note promising to pay a certain amount of money at a certain time
+[Is a kind of]
+  - note, promissory note, note of hand
+    - debt instrument, obligation, certificate of indebtedness
+      - document
+        - communication
+          - abstraction, abstract entity
+            - entity

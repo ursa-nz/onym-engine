@@ -1,0 +1,27 @@
+term: family Tetragoniaceae
+[Definitions]
+  - (noun) succulent herbs or small shrubs mostly of South Africa but also New Zealand and North America: carpetweeds; fig marigolds
+[Synonyms]
+  - Aizoaceae
+  - family Aizoaceae
+  - Tetragoniaceae
+  - carpetweed family
+[Is a kind of]
+  - caryophylloid dicot family
+    - dicot family, magnoliopsid family
+      - family
+        - taxonomic group, taxonomic category, taxon
+          - biological group
+            - group, grouping
+              - abstraction, abstract entity
+                - entity
+[Part of]
+  - Caryophyllales, order Caryophyllales, Chenopodiales, order-Chenopodiales
+[Parts]
+  - Carpobrotus, genus Carpobrotus
+  - Dorotheanthus, genus Dorotheanthus
+  - genus Lithops
+  - Mesembryanthemum, genus Mesembryanthemum
+  - Molluga, genus Molluga
+  - Pleiospilos, genus Pleiospilos
+  - Tetragonia, genus Tetragonia

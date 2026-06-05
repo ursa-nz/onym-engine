@@ -1,0 +1,12 @@
+term: plant cell
+[Definitions]
+  - (noun) a cell that is a structural and functional unit of a plant
+[Is a kind of]
+  - cell
+    - living thing, animate thing
+      - whole, unit
+        - object, physical object
+          - physical entity
+            - entity
+[Parts]
+  - cell wall

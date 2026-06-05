@@ -1,0 +1,116 @@
+term: varied
+[Definitions]
+  - (adjective) characterized by variety
+      "immigrants' varied ethnic and religious traditions"
+      "his work is interesting and varied"
+  - (adjective) widely different
+      "varied motives prompt people to join a political party"
+      "varied ethnic traditions of the immigrants"
+  - (adjective) broken away from sameness or identity or duplication
+      "her quickly varied answers indicated uncertainty"
+  - (verb) become different in some particular way, without permanently losing one's or its former characteristics or essence
+      "her mood changes in accordance with the weather"
+      "The supermarket's selection of vegetables varies according to the season"
+  - (verb) be at variance with; be out of line with
+  - (verb) be subject to change in accordance with a variable
+      "Prices vary"
+      "His moods vary depending on the weather"
+  - (verb) make something more diverse and varied
+      "Vary the menu"
+[Synonyms]
+  - change
+  - alter
+  - deviate
+  - diverge
+  - depart
+  - variegate
+  - motley
+  - wide-ranging
+[Antonyms]
+  - unvaried (direct)
+      -> unvarying
+  - diversified (indirect)
+      -> undiversified
+  - changed (indirect)
+      -> unchanged
+[Derived forms]
+  - varying
+  - variable
+  - variant
+  - version
+  - variation
+  - edition
+  - mutant
+  - mutation
+  - sport
+  - variance
+  - discrepancy
+  - magnetic declination
+  - magnetic variation
+  - fluctuation
+  - random variable
+  - variate
+  - stochastic variable
+  - chance variable
+  - variedness
+[Similar to]
+  - many-sided
+  - multifaceted
+  - miscellaneous
+  - multifarious
+  - omnifarious
+  - varicolored
+  - varicoloured
+  - variegated
+  - variform
+  - varying
+  - variable
+  - versatile
+  - various
+  - diversified
+  - changed
+[Attributes]
+  - diverseness
+  - diversity
+  - multifariousness
+  - variety
+[Is a kind of]
+  - differ
+  - diversify
+    - change, alter, modify
+[Kinds]
+  - alternate, jump
+  - crackle
+  - modulate
+  - avianize, avianise
+  - move
+    - step
+    - scroll
+    - sink, pass, lapse
+  - adapt, accommodate
+    - adjust
+    - gear, pitch
+      - popularize, popularise
+    - fit
+    - anglicise, anglicize
+    - shoehorn
+    - tailor, orient
+    - domesticate, tame
+    - domesticate, cultivate, naturalize, naturalise, tame
+    - Christianize
+    - naturalize, naturalise
+    - electrify, wire
+    - transcribe
+  - let out, widen
+  - take in
+  - diversify, branch out, broaden
+  - diversify, radiate
+  - specialize, specialise, narrow, narrow down
+    - overspecialize, overspecialise
+  - honeycomb
+  - break
+  - aberrate
+  - contradict, belie, negate
+  - co-vary
+  - drift
+  - checker, chequer

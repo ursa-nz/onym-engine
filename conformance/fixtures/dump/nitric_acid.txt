@@ -1,0 +1,21 @@
+term: nitric acid
+[Definitions]
+  - (noun) acid used especially in the production of fertilizers and explosives and rocket fuels
+[Synonyms]
+  - aqua fortis
+[Derived forms]
+  - nitrate
+  - nitrify
+[Is a kind of]
+  - acid
+    - compound, chemical compound
+      - chemical, chemical substance
+        - material, stuff
+          - substance
+            - matter
+              - physical entity
+                - entity
+            - part, portion, component part, component, constituent
+              - relation
+                - abstraction, abstract entity
+                  - entity

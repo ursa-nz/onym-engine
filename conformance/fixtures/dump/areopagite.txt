@@ -1,0 +1,19 @@
+term: Areopagite
+[Definitions]
+  - (noun) a member of the council of the Areopagus
+[Is a kind of]
+  - member, fellow member
+    - associate
+      - peer, equal, match, compeer
+        - person, individual, someone, somebody, mortal, soul
+          - organism, being
+            - living thing, animate thing
+              - whole, unit
+                - object, physical object
+                  - physical entity
+                    - entity
+          - causal agent, cause, causal agency
+            - physical entity
+              - entity
+[Part of]
+  - Areopagus

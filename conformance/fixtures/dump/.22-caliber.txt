@@ -1,0 +1,10 @@
+term: .22-caliber
+[Definitions]
+  - (adjective) of or relating to the bore of a gun (or its ammunition) that measures twenty-two hundredths of an inch in diameter
+      "a .22 caliber pistol"
+[Synonyms]
+  - .22 calibre
+  - .22-calibre
+[Pertains to]
+  - bore, gauge, caliber, calibre
+    - diameter, diam

@@ -1,0 +1,4 @@
+term: bannerlike
+[Definitions]
+  - (adverb) like a banner
+      "She waved her scarf at him bannerlike"

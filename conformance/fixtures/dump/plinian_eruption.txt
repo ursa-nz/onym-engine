@@ -1,0 +1,11 @@
+term: Plinian eruption
+[Definitions]
+  - (noun) a volcanic eruption in which a stream of gas and ash is violently ejected to a height of several miles
+[Is a kind of]
+  - volcanic eruption, eruption
+    - discharge
+      - happening, occurrence, occurrent, natural event
+        - event
+          - psychological feature
+            - abstraction, abstract entity
+              - entity

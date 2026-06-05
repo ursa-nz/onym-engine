@@ -1,0 +1,20 @@
+term: galingale
+[Definitions]
+  - (noun) European sedge having rough-edged leaves and spikelets of reddish flowers and aromatic roots
+[Synonyms]
+  - galangal
+  - Cyperus longus
+[Is a kind of]
+  - sedge
+    - marsh plant, bog plant, swamp plant
+      - aquatic plant, water plant, hydrophyte, hydrophytic plant
+        - vascular plant, tracheophyte
+          - plant, flora, plant life
+            - organism, being
+              - living thing, animate thing
+                - whole, unit
+                  - object, physical object
+                    - physical entity
+                      - entity
+[Part of]
+  - Cyperus, genus Cyperus

@@ -1,0 +1,7 @@
+term: radiolucent
+[Definitions]
+  - (adjective) almost complete transparent to X-rays or other forms of radiation
+      "radiolucent tissues"
+[Antonyms]
+  - radiopaque (direct)
+      -> radio-opaque

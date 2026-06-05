@@ -1,0 +1,20 @@
+term: slaveholding
+[Definitions]
+  - (noun) the practice of owning slaves
+  - (adjective) allowing slavery
+      "the slaveholding South"
+[Synonyms]
+  - slavery
+[Antonyms]
+  - unfree (indirect)
+      -> free
+[Similar to]
+  - unfree
+[Is a kind of]
+  - practice, pattern
+    - activity
+      - act, deed, human action, human activity
+        - event
+          - psychological feature
+            - abstraction, abstract entity
+              - entity

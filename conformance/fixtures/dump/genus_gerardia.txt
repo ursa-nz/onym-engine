@@ -1,0 +1,16 @@
+term: genus Gerardia
+[Definitions]
+  - (noun) genus of annual or perennial herbs with showy pink or purple or yellow flowers; plants often assigned to genera Aureolaria or Agalinis
+[Is a kind of]
+  - asterid dicot genus
+    - dicot genus, magnoliopsid genus
+      - genus
+        - taxonomic group, taxonomic category, taxon
+          - biological group
+            - group, grouping
+              - abstraction, abstract entity
+                - entity
+[Part of]
+  - Scrophulariaceae, family Scrophulariaceae, figwort family, foxglove family
+[Parts]
+  - gerardia

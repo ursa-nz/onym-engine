@@ -1,0 +1,29 @@
+term: B complex
+[Definitions]
+  - (noun) originally thought to be a single vitamin but now separated into several B vitamins
+[Synonyms]
+  - B-complex vitamin
+  - vitamin B complex
+  - vitamin B
+  - B vitamin
+  - B
+[Is a kind of]
+  - water-soluble vitamin
+    - vitamin
+      - nutriment, nourishment, nutrition, sustenance, aliment, alimentation, victuals
+        - food, nutrient
+          - substance
+            - matter
+              - physical entity
+                - entity
+[Kinds]
+  - choline
+  - inositol
+  - pantothenic acid, pantothen
+  - vitamin B1, thiamine, thiamin, aneurin, antiberiberi factor
+  - vitamin B12, cobalamin, cyanocobalamin, antipernicious anemia factor
+  - vitamin B2, vitamin G, riboflavin, lactoflavin, ovoflavin, hepatoflavin
+  - vitamin B6, pyridoxine, pyridoxal, pyridoxamine, adermin
+  - vitamin Bc, vitamin M, folate, folic acid, folacin, pteroylglutamic acid, pteroylmonoglutamic acid
+  - niacin, nicotinic acid
+  - biotin, vitamin H

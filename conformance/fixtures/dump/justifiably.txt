@@ -1,0 +1,9 @@
+term: justifiably
+[Definitions]
+  - (adverb) with good reason
+      "he is justifiably bitter"
+[Antonyms]
+  - unjustifiably (direct)
+      -> inexcusably
+[Pertains to]
+  - justifiable

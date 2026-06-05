@@ -1,0 +1,10 @@
+term: Pasteurian
+[Definitions]
+  - (adjective) of or relating to Louis Pasteur or his experiments
+[Derived forms]
+  - Pasteur
+  - Louis Pasteur
+[Pertains to]
+  - Pasteur, Louis Pasteur
+    - chemist
+    - biologist, life scientist

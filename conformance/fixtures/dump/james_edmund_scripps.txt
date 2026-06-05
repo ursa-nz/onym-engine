@@ -1,0 +1,21 @@
+term: James Edmund Scripps
+[Definitions]
+  - (noun) United States newspaper publisher and half-brother of Edward Wyllis Scripps (1835-1908)
+[Synonyms]
+  - Scripps
+[Is a kind of]
+  - publisher, newspaper publisher
+    - owner, proprietor
+      - businessman, man of affairs
+        - businessperson, bourgeois
+          - capitalist
+            - person, individual, someone, somebody, mortal, soul
+              - organism, being
+                - living thing, animate thing
+                  - whole, unit
+                    - object, physical object
+                      - physical entity
+                        - entity
+              - causal agent, cause, causal agency
+                - physical entity
+                  - entity

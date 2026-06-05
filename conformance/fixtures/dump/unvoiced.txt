@@ -1,0 +1,31 @@
+term: unvoiced
+[Definitions]
+  - (adjective) produced without vibration of the vocal cords
+      "unvoiced consonants such as `p' and `k' and `s'"
+  - (adjective) not made explicit
+      "the unexpressed terms of the agreement"
+      "things left unsaid"
+      "some kind of unspoken agreement"
+      "his action is clear but his reason remains unstated"
+[Synonyms]
+  - voiceless
+  - surd
+  - hard
+  - unexpressed
+  - unsaid
+  - unstated
+  - unuttered
+  - unverbalized
+  - unverbalised
+  - unspoken
+[Antonyms]
+  - voiced (direct)
+      -> sonant
+      -> soft
+  - implicit (indirect)
+      -> explicit
+      -> expressed
+[Similar to]
+  - whispered
+  - implicit
+  - inexplicit

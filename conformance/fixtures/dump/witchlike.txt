@@ -1,0 +1,8 @@
+term: witchlike
+[Definitions]
+  - (adjective) being or having the character of witchcraft
+[Antonyms]
+  - supernatural (indirect)
+      -> natural
+[Similar to]
+  - supernatural

@@ -1,0 +1,23 @@
+term: flying dragon
+[Definitions]
+  - (noun) any of several small tropical Asian lizards capable of gliding by spreading winglike membranes on each side of the body
+[Synonyms]
+  - dragon
+  - flying lizard
+[Is a kind of]
+  - agamid, agamid lizard
+    - lizard
+      - saurian
+        - diapsid, diapsid reptile
+          - reptile, reptilian
+            - vertebrate, craniate
+              - chordate
+                - animal, animate being, beast, brute, creature, fauna
+                  - organism, being
+                    - living thing, animate thing
+                      - whole, unit
+                        - object, physical object
+                          - physical entity
+                            - entity
+[Part of]
+  - Draco, genus Draco

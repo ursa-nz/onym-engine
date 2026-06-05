@@ -1,0 +1,13 @@
+term: hydrolysis
+[Definitions]
+  - (noun) a chemical reaction in which water reacts with a compound to produce other compounds; involves the splitting of a bond and the addition of the hydrogen cation and the hydroxide anion from the water
+[Derived forms]
+  - hydrolize
+  - hydrolise
+[Is a kind of]
+  - chemical reaction, reaction
+    - chemical process, chemical change, chemical action
+      - natural process, natural action, action, activity
+        - process, physical process
+          - physical entity
+            - entity

@@ -1,0 +1,43 @@
+term: Einstein
+[Definitions]
+  - (noun) physicist born in Germany who formulated the special theory of relativity and the general theory of relativity; Einstein also proposed that light consists of discrete quantized bundles of energy (later called photons) (1879-1955)
+  - (noun) someone who has exceptional intellectual ability and originality
+      "Mozart was a child genius"
+      "he's smart but he's no Einstein"
+[Synonyms]
+  - Albert Einstein
+  - genius
+  - mastermind
+  - brain
+  - brainiac
+[Derived forms]
+  - Einsteinian
+[Is a kind of]
+  - physicist
+    - scientist
+      - person, individual, someone, somebody, mortal, soul
+        - organism, being
+          - living thing, animate thing
+            - whole, unit
+              - object, physical object
+                - physical entity
+                  - entity
+        - causal agent, cause, causal agency
+          - physical entity
+            - entity
+  - intellectual, intellect
+    - person, individual, someone, somebody, mortal, soul
+      - organism, being
+        - living thing, animate thing
+          - whole, unit
+            - object, physical object
+              - physical entity
+                - entity
+      - causal agent, cause, causal agency
+        - physical entity
+          - entity
+[Kinds]
+  - prodigy
+    - boy wonder
+    - child prodigy, infant prodigy, wonder child
+    - girl wonder

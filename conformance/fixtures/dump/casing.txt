@@ -1,0 +1,97 @@
+term: casing
+[Definitions]
+  - (noun) the housing or outer covering of something
+      "the clock has a walnut case"
+  - (noun) the outermost covering of a pneumatic tire
+  - (noun) the enclosing frame around a door or window opening
+      "the casings had rotted away and had to be replaced"
+  - (verb) look over, usually with the intention to rob
+      "They men cased the housed"
+  - (verb) enclose in, or as if in, a case
+      "my feet were encased in mud"
+[Synonyms]
+  - shell
+  - encase
+  - incase
+[Derived forms]
+  - encase
+  - incase
+  - case
+  - caseful
+  - sheath
+  - shell
+  - casing
+  - display case
+  - showcase
+  - vitrine
+[Is a kind of]
+  - housing
+    - protective covering, protective cover, protection
+      - covering
+        - artifact, artefact
+          - whole, unit
+            - object, physical object
+              - physical entity
+                - entity
+  - covering
+    - artifact, artefact
+      - whole, unit
+        - object, physical object
+          - physical entity
+            - entity
+  - framework
+    - supporting structure
+      - structure, construction
+        - artifact, artefact
+          - whole, unit
+            - object, physical object
+              - physical entity
+                - entity
+  - inspect
+    - examine, see
+  - enclose, close in, inclose, shut in
+    - surround, environ, ring, skirt, border
+      - touch, adjoin, meet, contact
+[Kinds]
+  - boot
+  - gearbox, gear box, gear case
+  - jacket
+  - pack
+    - containerize, containerise
+    - bag
+      - pouch
+    - bundle, bundle up, roll up
+    - stow
+  - box, package
+  - sack
+  - crate
+[Part of]
+  - grandfather clock, longcase clock
+  - pneumatic tire, pneumatic tyre
+  - doorway, door, room access, threshold
+  - window
+[Parts]
+  - housing
+    - protective covering, protective cover, protection
+      - covering
+        - artifact, artefact
+          - whole, unit
+            - part, portion
+            - section, segment
+  - covering
+    - artifact, artefact
+      - whole, unit
+        - part, portion
+        - section, segment
+  - framework
+    - backing, mount
+    - brace, bracing
+    - supporting structure
+      - structure, construction
+        - foundation, base, fundament, foot, groundwork, substructure, understructure
+        - plate
+        - structural member
+        - artifact, artefact
+          - whole, unit
+            - part, portion
+            - section, segment

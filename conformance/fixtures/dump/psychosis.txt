@@ -1,0 +1,22 @@
+term: psychosis
+[Definitions]
+  - (noun) any severe mental disorder in which contact with reality is lost or highly distorted
+[Derived forms]
+  - psychotic
+[Is a kind of]
+  - mental illness, mental disease, psychopathy
+    - psychological state, psychological condition, mental state, mental condition
+      - condition, status
+        - state
+          - attribute
+            - abstraction, abstract entity
+              - entity
+[Kinds]
+  - delirium tremens, DTs
+  - paranoia
+  - schizophrenia, schizophrenic disorder, schizophrenic psychosis, dementia praecox
+    - borderline schizophrenia, latent schizophrenia
+    - catatonic schizophrenia, catatonic type schizophrenia, catatonia
+    - hebephrenia, hebephrenic schizophrenia, disorganized schizophrenia, disorganized type schizophrenia
+    - paranoid schizophrenia, paranoic type schizophrenia, paraphrenic schizophrenia, paraphrenia
+    - acute schizophrenic episode, reactive schizophrenia

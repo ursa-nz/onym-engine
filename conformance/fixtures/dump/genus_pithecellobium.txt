@@ -1,0 +1,21 @@
+term: genus Pithecellobium
+[Definitions]
+  - (noun) thorny shrubs and trees of tropical and subtropical America and Asia
+[Synonyms]
+  - Pithecellobium
+  - Pithecolobium
+  - genus Pithecolobium
+[Is a kind of]
+  - rosid dicot genus
+    - dicot genus, magnoliopsid genus
+      - genus
+        - taxonomic group, taxonomic category, taxon
+          - biological group
+            - group, grouping
+              - abstraction, abstract entity
+                - entity
+[Part of]
+  - Mimosoideae, subfamily Mimosoideae
+[Parts]
+  - manila tamarind, camachile, huamachil, wild tamarind, Pithecellobium dulce
+  - cat's-claw, catclaw, black bead, Pithecellodium unguis-cati

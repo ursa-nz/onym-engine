@@ -1,0 +1,19 @@
+term: low-cal
+[Definitions]
+  - (adjective) having relatively few calories
+      "diet cola"
+      "light (or lite) beer"
+      "lite (or light) mayonnaise"
+      "a low-cal diet"
+[Synonyms]
+  - light
+  - lite
+  - calorie-free
+[Antonyms]
+  - nonfat (indirect)
+      -> fatty
+      -> fat
+[Similar to]
+  - nonfat
+  - fat-free
+  - fatless

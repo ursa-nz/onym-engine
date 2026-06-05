@@ -1,0 +1,17 @@
+term: cabin liner
+[Definitions]
+  - (noun) a liner with cabins for passengers
+[Is a kind of]
+  - liner, ocean liner
+    - passenger ship
+      - ship
+        - vessel, watercraft
+          - craft
+            - vehicle
+              - conveyance, transport
+                - instrumentality, instrumentation
+                  - artifact, artefact
+                    - whole, unit
+                      - object, physical object
+                        - physical entity
+                          - entity

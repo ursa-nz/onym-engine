@@ -1,0 +1,20 @@
+term: family Microhylidae
+[Definitions]
+  - (noun) narrow-mouthed toads and sheep frogs; some burrow and some are arboreal; found worldwide
+[Synonyms]
+  - Microhylidae
+  - Brevicipitidae
+  - family Brevicipitidae
+[Is a kind of]
+  - amphibian family
+    - family
+      - taxonomic group, taxonomic category, taxon
+        - biological group
+          - group, grouping
+            - abstraction, abstract entity
+              - entity
+[Part of]
+  - Salientia, order Salientia, Anura, order Anura, Batrachia, order Batrachia
+[Parts]
+  - Gastrophryne, genus Gastrophryne
+  - Hypopachus, genus Hypopachus

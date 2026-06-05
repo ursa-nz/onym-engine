@@ -1,0 +1,14 @@
+term: acariosis
+[Definitions]
+  - (noun) infestation with itch mites
+[Synonyms]
+  - acariasis
+  - acaridiasis
+[Is a kind of]
+  - infestation
+    - fullness
+      - condition, status
+        - state
+          - attribute
+            - abstraction, abstract entity
+              - entity

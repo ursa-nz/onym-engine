@@ -1,0 +1,34 @@
+term: Alexander VI
+[Definitions]
+  - (noun) Pope and father of Cesare Borgia and Lucrezia Borgia (1431-1503)
+[Synonyms]
+  - Pope Alexander VI
+  - Borgia
+  - Rodrigo Borgia
+[Is a kind of]
+  - pope, Catholic Pope, Roman Catholic Pope, pontiff, Holy Father, Vicar of Christ, Bishop of Rome
+    - spiritual leader
+      - leader
+        - person, individual, someone, somebody, mortal, soul
+          - organism, being
+            - living thing, animate thing
+              - whole, unit
+                - object, physical object
+                  - physical entity
+                    - entity
+          - causal agent, cause, causal agency
+            - physical entity
+              - entity
+    - Catholic
+      - Christian
+        - religious person
+          - person, individual, someone, somebody, mortal, soul
+            - organism, being
+              - living thing, animate thing
+                - whole, unit
+                  - object, physical object
+                    - physical entity
+                      - entity
+            - causal agent, cause, causal agency
+              - physical entity
+                - entity

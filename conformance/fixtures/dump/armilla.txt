@@ -1,0 +1,60 @@
+term: armilla
+[Definitions]
+  - (noun) a celestial globe consisting of metal hoops; used by early astronomers to determine the positions of stars
+  - (noun) (archeology) a bracelet worn around the wrist or arm
+[Synonyms]
+  - armillary sphere
+[Is a kind of]
+  - celestial globe
+    - globe
+      - sphere
+        - artifact, artefact
+          - whole, unit
+            - object, physical object
+              - physical entity
+                - entity
+      - model, simulation
+        - representation
+          - creation
+            - artifact, artefact
+              - whole, unit
+                - object, physical object
+                  - physical entity
+                    - entity
+  - bracelet, bangle
+    - jewelry, jewellery
+      - adornment
+        - decoration, ornament, ornamentation
+          - artifact, artefact
+            - whole, unit
+              - object, physical object
+                - physical entity
+                  - entity
+[Parts]
+  - celestial globe
+    - globe
+      - sphere
+        - artifact, artefact
+          - whole, unit
+            - part, portion
+            - section, segment
+      - model, simulation
+        - representation
+          - creation
+            - artifact, artefact
+              - whole, unit
+                - part, portion
+                - section, segment
+  - bracelet, bangle
+    - clasp
+    - jewelry, jewellery
+      - gem, gemstone, stone
+      - adornment
+        - decoration, ornament, ornamentation
+          - artifact, artefact
+            - whole, unit
+              - part, portion
+              - section, segment
+[Domains]
+  - archeology
+  - archaeology

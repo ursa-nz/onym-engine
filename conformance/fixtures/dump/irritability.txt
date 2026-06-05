@@ -1,0 +1,60 @@
+term: irritability
+[Definitions]
+  - (noun) an irritable petulant feeling
+  - (noun) excessive sensitivity of an organ or body part
+  - (noun) a disposition to exhibit uncontrolled anger
+      "his temper was well known to all his employees"
+[Synonyms]
+  - crossness
+  - fretfulness
+  - fussiness
+  - peevishness
+  - petulance
+  - choler
+  - excitability
+  - temper
+  - biliousness
+  - pettishness
+  - snappishness
+  - surliness
+[Derived forms]
+  - cranky
+  - fractious
+  - irritable
+  - nettlesome
+  - peevish
+  - peckish
+  - pettish
+  - petulant
+  - scratchy
+  - testy
+  - tetchy
+  - techy
+[Is a kind of]
+  - ill humor, ill humour, distemper
+    - temper, mood, humor, humour
+      - feeling
+        - state
+          - attribute
+            - abstraction, abstract entity
+              - entity
+  - responsiveness, reactivity
+    - sensitivity, sensitiveness, sensibility
+      - sense, sensation, sentience, sentiency, sensory faculty
+        - faculty, mental faculty, module
+          - ability, power
+            - cognition, knowledge, noesis
+              - psychological feature
+                - abstraction, abstract entity
+                  - entity
+  - ill nature
+    - disposition, temperament
+      - nature
+        - trait
+          - attribute
+            - abstraction, abstract entity
+              - entity
+[Kinds]
+  - testiness, touchiness, tetchiness
+  - pet
+  - querulousness

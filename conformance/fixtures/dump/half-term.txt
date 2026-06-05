@@ -1,0 +1,20 @@
+term: half-term
+[Definitions]
+  - (noun) a short vacation about halfway through a school term
+      "he came to visit at half-term"
+[Is a kind of]
+  - vacation, holiday
+    - leisure, leisure time
+      - time off
+        - time period, period of time, period
+          - fundamental quantity, fundamental measure
+            - measure, quantity, amount
+              - abstraction, abstract entity
+                - entity
+[Domains]
+  - United Kingdom
+  - UK
+  - U.K.
+  - Britain
+  - United Kingdom of Great Britain and Northern Ireland
+  - Great Britain

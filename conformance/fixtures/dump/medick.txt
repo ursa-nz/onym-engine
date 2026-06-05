@@ -1,0 +1,65 @@
+term: medick
+[Definitions]
+  - (noun) any of several Old World herbs of the genus Medicago having small flowers and trifoliate compound leaves
+[Synonyms]
+  - medic
+  - trefoil
+[Is a kind of]
+  - herb, herbaceous plant
+    - vascular plant, tracheophyte
+      - plant, flora, plant life
+        - organism, being
+          - living thing, animate thing
+            - whole, unit
+              - object, physical object
+                - physical entity
+                  - entity
+[Kinds]
+  - moon trefoil, Medicago arborea
+  - sickle alfalfa, sickle lucerne, sickle medick, Medicago falcata
+  - Calvary clover, Medicago intertexta, Medicago echinus
+  - black medick, hop clover, yellow trefoil, nonesuch clover, Medicago lupulina
+  - alfalfa, lucerne, Medicago sativa
+[Part of]
+  - Medicago, genus Medicago
+[Parts]
+  - herb, herbaceous plant
+    - vegetable, veggie, veg
+    - vascular plant, tracheophyte
+      - vascular system
+        - vessel, vas
+        - vascular tissue
+      - duct
+      - vascular tissue
+      - plant, flora, plant life
+        - hood, cap
+        - plant part, plant structure
+        - organism, being
+          - tissue
+          - cell
+            - cell membrane, cytomembrane, plasma membrane
+            - energid, protoplast
+            - cytoplasm, cytol
+              - cytoskeleton
+              - microsome
+              - Golgi body, Golgi apparatus, Golgi complex, dictyosome
+            - nucleus, cell nucleus, karyon
+              - nucleolus, nucleole
+              - chromatin, chromatin granule
+              - achromatin
+              - linin
+              - chromosome
+                - nucleolus organizer, nucleolus organiser, nucleolar organizer, nucleolar organiser
+                - chromatin, chromatin granule
+                - gene, cistron, factor
+                - chromatid
+                - centromere, kinetochore
+                - telomere
+            - organelle, cell organelle, cell organ
+            - vacuole
+          - body part
+            - corpus
+          - living thing, animate thing
+            - whole, unit
+              - part, portion
+              - section, segment

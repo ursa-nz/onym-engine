@@ -1,0 +1,27 @@
+term: budding
+[Definitions]
+  - (noun) reproduction of some unicellular organisms (such as yeasts) by growth and specialization followed by the separation by constriction of a part of the parent
+  - (adjective) beginning to develop
+      "a budding genius"
+  - (verb) develop buds
+      "The hibiscus is budding!"
+  - (verb) start to grow or develop
+      "a budding friendship"
+[Antonyms]
+  - undeveloped (indirect)
+      -> developed
+[Similar to]
+  - undeveloped
+[Is a kind of]
+  - asexual reproduction, agamogenesis
+    - reproduction
+      - organic process, biological process
+        - process, physical process
+          - physical entity
+            - entity
+  - develop
+    - grow
+      - increase
+        - change magnitude
+          - change
+  - begin, start

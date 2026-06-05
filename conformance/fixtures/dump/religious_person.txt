@@ -1,0 +1,296 @@
+term: religious person
+[Definitions]
+  - (noun) a person who manifests devotion to a deity
+[Antonyms]
+  - nonreligious person (direct)
+[Is a kind of]
+  - person, individual, someone, somebody, mortal, soul
+    - organism, being
+      - living thing, animate thing
+        - whole, unit
+          - object, physical object
+            - physical entity
+              - entity
+    - causal agent, cause, causal agency
+      - physical entity
+        - entity
+[Kinds]
+  - religionist
+  - Christian
+    - Adventist, Second Adventist
+    - gentile
+    - gentile, non-Jew, goy
+      - shegetz
+    - Protestant
+      - WASP, white Anglo-Saxon Protestant
+      - Anabaptist
+        - Mennonite
+          - Amish
+      - Christian Scientist
+      - Baptist
+        - Dunker, Dunkard, Tunker
+        - Northern Baptist
+        - Southern Baptist
+      - Congregationalist
+      - Nonconformist, chapelgoer
+      - Anglican
+      - Episcopalian
+      - fundamentalist
+      - Jehovah's Witness
+      - Latter-Day Saint, Mormon
+        - Smith, Joseph Smith
+      - Methodist
+        - Wesleyan
+      - Orangeman
+      - Pentecostal, Pentecostalist
+      - Presbyterian
+      - Puritan
+    - Friend, Quaker
+      - Penn, William Penn
+    - Catholic
+      - Anglican Catholic
+      - Greek Catholic
+      - Roman Catholic
+        - papist
+        - ultramontane
+      - Uniat, Uniate, Uniate Christian
+      - pope, Catholic Pope, Roman Catholic Pope, pontiff, Holy Father, Vicar of Christ, Bishop of Rome
+        - antipope
+          - Clement III, Guibert of Ravenna
+        - Alexander VI, Pope Alexander VI, Borgia, Rodrigo Borgia
+        - Benedict XIV, Prospero Lambertini
+        - Benedict XV, Giacomo della Chiesa
+        - Boniface VIII, Benedetto Caetani
+        - Calixtus II, Guy of Burgundy
+        - Calixtus III, Borgia, Alfonso Borgia
+        - Clement VII, Giulio de' Medici
+        - Clement XI, Giovanni Francesco Albani
+        - Clement XIV, Lorenzo Ganganelli
+        - Gregory, Gregory I, Saint Gregory I, St. Gregory I, Gregory the Great
+        - Gregory, Gregory VII, Hildebrand
+        - Gregory, Gregory XII, Angelo Correr
+        - Gregory, Gregory XIII, Ugo Buoncompagni
+        - Gregory, Gregory XVI, Bartolomeo Alberto Capillari
+        - Innocent III, Lotario di Segni
+        - Innocent VIII, Giovanni Battista Cibo
+        - Innocent XI, Benedetto Odescalchi
+        - Innocent XII, Antonio Pignatelli
+        - John XXIII, Angelo Guiseppe Roncalli
+        - John Paul I, Albino Luciano
+        - John Paul II, Karol Wojtyla
+        - Leo I, St. Leo I, Leo the Great
+        - Leo III
+        - Leo IX, Bruno, Bruno of Toul
+        - Leo X, Giovanni de'Medici
+        - Leo XIII, Gioacchino Pecci, Giovanni Vincenzo Pecci
+        - Martin V, Oddone Colonna
+        - Nicholas V, Tomasso Parentucelli
+        - Paul III, Alessandro Farnese
+        - Paul VI, Giovanni Battista Montini
+        - Pius II, Aeneas Silvius, Enea Silvio Piccolomini
+        - Pius V, Antonio Ghislieri
+        - Pius VI, Giovanni Angelo Braschi, Giannangelo Braschi
+        - Pius VII, Barnaba Chiaramonti, Luigi Barnaba Gregorio Chiaramonti
+        - Pius IX, Giovanni Mastai-Ferretti, Giovanni Maria Mastai-Ferretti
+        - Pius X, Giuseppe Sarto, Giuseppe Melchiorre Sarto
+        - Pius XI, Achille Ratti, Ambrogio Damiano Achille Ratti
+        - Pius XII, Eugenio Pacelli
+        - Sixtus IV, Francesco della Rovere
+        - Sylvester II, Gerbert
+        - Urban II, Odo, Odo of Lagery, Otho, Otho of Lagery
+        - Urban V, Guillaume de Grimoard
+        - Urban VI, Bartolomeo Prignano
+        - Urban VIII, Maffeo Barberini
+    - Old Catholic
+    - Copt
+    - Apostle
+      - Andrew, Saint Andrew, St. Andrew, Saint Andrew the Apostle
+      - James, Saint James, St. James, Saint James the Apostle, St. James the Apostle
+      - John, Saint John, St. John, Saint John the Apostle, St. John the Apostle, John the Evangelist, John the Divine
+      - Judas, Judas Iscariot
+      - Jude, Saint Jude, St. Jude, Judas, Thaddaeus
+      - Matthew, Saint Matthew, St. Matthew, Saint Matthew the Apostle, St. Matthew the Apostle, Levi
+      - Peter, Simon Peter, Saint Peter, St. Peter, Saint Peter the Apostle, St. Peter the Apostle
+      - Simon, St. Simon, Simon Zelotes, Simon the Zealot, Simon the Canaanite
+      - Thomas, Saint Thomas, St. Thomas, doubting Thomas, Thomas the doubting Apostle
+    - Apostle, Apostelic Father
+      - Luke, Saint Luke, St. Luke
+      - Mark, Saint Mark, St. Mark
+      - Patrick, Saint Patrick, St. Patrick
+      - Paul, Saint Paul, St. Paul, Apostle Paul, Paul the Apostle, Apostle of the Gentiles, Saul, Saul of Tarsus
+    - arianist
+    - born-again Christian
+    - communicant
+    - Melkite, Melchite
+    - Melkite, Melchite
+    - Nazarene
+    - Shaker
+    - Tractarian
+    - Timothy
+    - Titus
+  - non-Catholic
+  - Muslim, Moslem
+    - Islamist
+    - Jihadist
+    - Shiite, Shi'ite, Shiite Muslim, Shi'ite Muslim, Shia Muslim
+    - Sunnite, Sunni, Sunni Muslim
+    - Moor
+    - assassin
+    - begum
+    - caliph, calif, kaliph, kalif, khalif, khalifah
+      - Ali
+    - fakir, fakeer, faqir, faquir
+      - dervish
+        - whirling dervish, whirler
+    - hakim, hakeem
+    - hakim
+    - imam, imaum
+    - mujahid
+    - mujtihad
+    - Mullah, Mollah, Mulla
+    - Muslimah
+      - niqaabi
+    - Saracen
+    - Sufi
+    - Wahhabi, Wahabi
+    - Fatima, Fatimah
+  - Buddhist
+    - Mon
+  - Hindu, Hindoo
+    - swami
+    - chela
+    - Hare Krishna
+    - Shaktist
+    - Shivaist
+    - Vaishnava
+    - sadhu, saddhu
+    - sannyasi, sannyasin, sanyasi
+  - abstainer, ascetic
+    - puritan
+    - stylite
+  - agnostic
+  - anointer
+  - believer, worshiper, worshipper
+    - theist
+      - polytheist
+    - devil worshiper
+      - Satanist, diabolist
+    - monotheist
+    - mystic, religious mystic
+      - Buddha, Siddhartha, Gautama, Gautama Siddhartha, Gautama Buddha
+      - Chuang-tzu
+      - quietist
+      - Boehme, Jakob Boehme, Bohme, Jakob Bohme, Boehm, Jakob Boehm, Behmen, Jakob Behmen
+      - Eckhart, Johannes Eckhart, Meister Eckhart
+    - numerologist
+    - pantheist
+    - pilgrim
+      - hajji, hadji, haji
+    - sun worshiper
+    - theosophist
+  - celibate
+  - churchgoer, church member
+    - congregant
+    - Holy Roller
+    - parishioner
+  - coreligionist
+  - Mandaean, Mandean
+  - missionary, missioner
+    - Buck, Pearl Buck, Pearl Sydenstricker Buck
+    - Marquette, Jacques Marquette, Pere Jacques Marquette
+    - Paul, Saint Paul, St. Paul, Apostle Paul, Paul the Apostle, Apostle of the Gentiles, Saul, Saul of Tarsus
+    - Schweitzer, Albert Schweitzer
+    - Serra, Junipero Serra, Miguel Jose Serra
+    - Teresa, Mother Teresa, Theresa, Mother Theresa, Agnes Gonxha Bojaxhiu
+  - Moonie
+  - oblate
+  - Nazarene, Ebionite
+  - novitiate, novice
+  - pagan
+    - Wiccan, witch
+  - Parsee, Parsi
+  - penitent
+    - flagellant
+  - prayer, supplicant
+    - beadsman, bedesman
+  - prophet
+    - Amos
+    - Daniel
+    - Elijah
+    - Ezekiel, Ezechiel
+    - Habakkuk
+    - Haggai, Aggeus
+    - Hosea
+    - Isaiah
+    - Jeremiah
+    - Jesus, Jesus of Nazareth, the Nazarene, Jesus Christ, Christ, Savior, Saviour, Good Shepherd, Redeemer, Deliverer
+      - El Nino
+    - Joel
+    - Jonah
+    - Malachi, Malachias
+    - Manes
+    - Micah, Micheas
+    - Mohammed, Mohammad, Muhammad, Mahomet, Mahound
+    - Mormon
+    - Moses
+    - Nahum
+    - Obadiah, Abdias
+    - Samuel
+    - Zechariah, Zacharias
+    - Zephaniah, Sophonias
+    - Zoroaster, Zarathustra
+  - religious
+    - friar, mendicant
+      - Carmelite, White Friar
+      - Dominican, Black Friar, Blackfriar, friar preacher
+        - Savonarola, Girolamo Savonarola
+      - Franciscan, Grey Friar
+      - Augustinian
+        - Austin Friar
+    - monk, monastic
+      - Brother
+      - Carthusian
+      - Trappist, Cistercian
+      - Bacon, Roger Bacon
+      - Benedict, Saint Benedict, St. Benedict
+      - Mendel, Gregor Mendel, Johann Mendel
+      - Pelagius
+    - Benedictine
+    - Jesuit
+    - nun
+      - Sister
+      - Teresa, Mother Teresa, Theresa, Mother Theresa, Agnes Gonxha Bojaxhiu
+    - eremite
+      - anchorite, hermit
+    - cenobite, coenobite
+    - superior
+      - abbess, mother superior, prioress
+        - mother
+        - Bridget, Saint Bridget, St. Bridget, Brigid, Saint Brigid, St. Brigid, Bride, Saint Bride, St. Bride
+        - Heloise
+      - abbot, archimandrite
+        - abbe
+      - prior
+    - votary
+    - Merton, Thomas Merton
+  - religious leader
+    - ayatollah
+    - guru
+    - Guru
+    - Mahdi
+    - Al-hakim
+    - Asanga
+    - Joshua
+    - Khomeini, Ruholla Khomeini, Ayatollah Khomeini, Ayatollah Ruholla Khomeini
+    - Moon, Sun Myung Moon
+    - Nanak, Guru Nanak
+    - Russell, Charles Taze Russell
+    - Seton, Elizabeth Seton, Saint Elizabeth Ann Bayley Seton, Mother Seton
+    - Wise, Isaac Mayer Wise
+    - Wise, Stephen Samuel Wise
+    - Young, Brigham Young
+  - Sabbatarian
+  - sacrificer
+  - tritheist
+  - Eddy, Mary Baker Eddy, Mary Morse Baker Eddy
+  - Fox, George Fox

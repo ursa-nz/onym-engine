@@ -1,0 +1,20 @@
+term: Scott Joplin
+[Definitions]
+  - (noun) United States composer who was the first creator of ragtime to write down his compositions (1868-1917)
+[Synonyms]
+  - Joplin
+[Is a kind of]
+  - composer
+    - musician
+      - artist, creative person
+        - creator
+          - person, individual, someone, somebody, mortal, soul
+            - organism, being
+              - living thing, animate thing
+                - whole, unit
+                  - object, physical object
+                    - physical entity
+                      - entity
+            - causal agent, cause, causal agency
+              - physical entity
+                - entity

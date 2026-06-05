@@ -1,0 +1,11 @@
+term: oncologic
+[Definitions]
+  - (adjective) of or relating to or practicing oncology
+      "oncological nurse"
+[Synonyms]
+  - oncological
+[Derived forms]
+  - oncology
+[Pertains to]
+  - oncology
+    - medicine, medical specialty

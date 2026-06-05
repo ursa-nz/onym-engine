@@ -1,0 +1,21 @@
+term: diesel engine
+[Definitions]
+  - (noun) an internal-combustion engine that burns heavy oil
+[Synonyms]
+  - diesel
+  - diesel motor
+[Is a kind of]
+  - internal-combustion engine, ICE
+    - heat engine
+      - engine
+        - motor
+          - machine
+            - device
+              - instrumentality, instrumentation
+                - artifact, artefact
+                  - whole, unit
+                    - object, physical object
+                      - physical entity
+                        - entity
+[Part of]
+  - diesel locomotive

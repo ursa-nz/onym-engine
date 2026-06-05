@@ -1,0 +1,20 @@
+term: enarthrosis
+[Definitions]
+  - (noun) a freely moving joint in which a sphere on the head of one bone fits into a rounded cavity in the other bone
+[Synonyms]
+  - ball-and-socket joint
+  - spheroid joint
+  - cotyloid joint
+  - enarthrodial joint
+  - articulatio spheroidea
+[Is a kind of]
+  - synovial joint, articulatio synovialis, diarthrosis
+    - joint, articulation, articulatio
+      - body part
+        - part, piece
+          - thing
+            - physical entity
+              - entity
+[Kinds]
+  - shoulder, shoulder joint, articulatio humeri
+  - hip, hip joint, coxa, articulatio coxae

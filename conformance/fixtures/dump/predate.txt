@@ -1,0 +1,33 @@
+term: predate
+[Definitions]
+  - (verb) be earlier in time; go back further
+      "Stone tools precede bronze tools"
+  - (verb) come before
+      "Most English adjectives precede the noun they modify"
+  - (verb) prey on or hunt for
+      "These mammals predate certain eggs"
+  - (verb) establish something as being earlier relative to something else
+[Synonyms]
+  - precede
+  - forego
+  - forgo
+  - antecede
+  - antedate
+  - raven
+  - prey
+  - foredate
+[Antonyms]
+  - postdate (direct)
+      -> follow
+[Derived forms]
+  - depredation
+  - predation
+[Is a kind of]
+  - lie
+    - be
+  - forage
+    - feed, eat
+      - consume, ingest, take in, take, have
+  - chronologize, chronologise
+    - date
+      - determine, set

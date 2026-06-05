@@ -1,0 +1,15 @@
+term: librarianship
+[Definitions]
+  - (noun) the position of librarian
+[Derived forms]
+  - librarian
+  - bibliothec
+[Is a kind of]
+  - position, post, berth, office, spot, billet, place, situation
+    - occupation, business, job, line of work, line
+      - activity
+        - act, deed, human action, human activity
+          - event
+            - psychological feature
+              - abstraction, abstract entity
+                - entity

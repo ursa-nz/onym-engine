@@ -1,0 +1,242 @@
+term: Greek mythology
+[Definitions]
+  - (noun) the mythology of the ancient Greeks
+[Is a kind of]
+  - classical mythology
+    - mythology
+      - collection, aggregation, accumulation, assemblage
+        - group, grouping
+          - abstraction, abstract entity
+            - entity
+[Domains]
+  - Dionysian
+  - Trojan War
+  - Augean stables
+  - Pandora's box
+  - Temple of Apollo
+  - Oracle of Apollo
+  - Delphic oracle
+  - oracle of Delphi
+  - Elysium
+  - Elysian Fields
+  - Charybdis
+  - Colchis
+  - Acheron
+  - River Acheron
+  - Cocytus
+  - River Cocytus
+  - Lethe
+  - River Lethe
+  - Parnassus
+  - Mount Parnassus
+  - Liakoura
+  - Styx
+  - River Styx
+  - Augeas
+  - Alcyone
+  - Halcyon
+  - Demogorgon
+  - Argus
+  - Cadmus
+  - Calypso
+  - sea nymph
+  - Cyclops
+  - Scylla
+  - Stentor
+  - Cerberus
+  - hellhound
+  - Charon
+  - Chimera
+  - Chimaera
+  - Chiron
+  - Circe
+  - Dardanus
+  - Ganymede
+  - Geryon
+  - Gorgon
+  - Grace
+  - Aglaia
+  - Euphrosyne
+  - Thalia
+  - Harpy
+  - Hydra
+  - Hyperborean
+  - Hypnos
+  - Niobe
+  - Perseus
+  - Andromeda
+  - Cepheus
+  - Cassiopeia
+  - Medusa
+  - Stheno
+  - Euryale
+  - Minotaur
+  - Narcissus
+  - Nemean lion
+  - Bellerophon
+  - Paris
+  - Patroclus
+  - Pegasus
+  - Python
+  - Sarpedon
+  - Sphinx
+  - Typhoeus
+  - Typhon
+  - Adonis
+  - Echo
+  - Hesperides
+  - Atlantides
+  - Hyades
+  - Oread
+  - Pleiades
+  - Sterope
+  - Asterope
+  - water nymph
+  - Daphne
+  - naiad
+  - Nereid
+  - Thetis
+  - Oceanid
+  - Apollo
+  - Phoebus
+  - Phoebus Apollo
+  - Hero
+  - Leander
+  - Pygmalion
+  - Galatea
+  - Ares
+  - Eris
+  - Thanatos
+  - Nyx
+  - Artemis
+  - Cynthia
+  - Boreas
+  - Athena
+  - Athene
+  - Pallas
+  - Pallas Athena
+  - Pallas Athene
+  - Chaos
+  - Cronus
+  - Demeter
+  - Dionysus
+  - Doris
+  - Erebus
+  - Eros
+  - Daedalus
+  - Daedal
+  - Damon and Pythias
+  - Gaea
+  - Gaia
+  - Ge
+  - Hebe
+  - Helios
+  - Icarus
+  - Hecate
+  - Hephaestus
+  - Hephaistos
+  - Hermes
+  - Hermaphroditus
+  - Hygeia
+  - Io
+  - Hestia
+  - Hymen
+  - Hyperion
+  - Calliope
+  - Clio
+  - Erato
+  - Euterpe
+  - Melpomene
+  - Polyhymnia
+  - Terpsichore
+  - Urania
+  - Nemesis
+  - Nereus
+  - Nike
+  - Ouranos
+  - Uranus
+  - Pan
+  - goat god
+  - Pasiphae
+  - Pontus
+  - Pontos
+  - Poseidon
+  - Proteus
+  - Persephone
+  - Despoina
+  - Kore
+  - Cora
+  - Procrustes
+  - Phaethon
+  - Pluto
+  - Hades
+  - Aides
+  - Aidoneus
+  - Pythia
+  - Pythoness
+  - Rhadamanthus
+  - Selene
+  - Eos
+  - Eurydice
+  - Orion
+  - Orpheus
+  - Titan
+  - Titaness
+  - Triton
+  - Tyche
+  - Zephyr
+  - Zeus
+  - Oceanus
+  - Cocus
+  - Crius
+  - Iapetus
+  - Atlas
+  - Epimetheus
+  - Prometheus
+  - Thea
+  - Theia
+  - Themis
+  - Mnemosyne
+  - Phoebe
+  - Tethys
+  - Psyche
+  - Pandora
+  - Argonaut
+  - Jason
+  - Medea
+  - Laertes
+  - Odysseus
+  - Penelope
+  - Theseus
+  - Tantalus
+  - Atreus
+  - Agamemnon
+  - Menelaus
+  - Iphigenia
+  - Clytemnestra
+  - Aegisthus
+  - Orestes
+  - Cassandra
+  - Antigone
+  - Creon
+  - Jocasta
+  - Electra
+  - Laocoon
+  - Laius
+  - Myrmidon
+  - Oedipus
+  - King Oedipus
+  - Oedipus Rex
+  - Tiresias
+  - Hector
+  - Helen
+  - Helen of Troy
+  - Leda
+  - Amazon
+  - maenad
+  - bacchant
+  - bacchante
+  - Nestor
+  - Philemon
+  - Priam
+  - ichor

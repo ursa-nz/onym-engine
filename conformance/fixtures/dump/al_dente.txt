@@ -1,0 +1,12 @@
+term: al dente
+[Definitions]
+  - (adjective) of pasta cooked so as to be firm when eaten
+[Antonyms]
+  - hard (indirect)
+      -> soft
+[Similar to]
+  - hard
+[Domains]
+  - Italy
+  - Italian Republic
+  - Italia

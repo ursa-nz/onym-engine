@@ -1,0 +1,20 @@
+term: Schizaea
+[Definitions]
+  - (noun) type genus of the Schizaeaceae cosmopolitan especially in tropics; small leptosporangiate ferns: curly grass fern
+[Synonyms]
+  - genus Schizaea
+[Is a kind of]
+  - fern genus
+    - genus
+      - taxonomic group, taxonomic category, taxon
+        - biological group
+          - group, grouping
+            - abstraction, abstract entity
+              - entity
+[Part of]
+  - Schizaeaceae, family Schizaeaceae
+    - Filicopsida, class Filicopsida, Filicinae, class Filicinae
+      - Pteridophyta, division Pteridophyta
+        - Plantae, kingdom Plantae, plant kingdom
+[Parts]
+  - curly grass, curly grass fern, Schizaea pusilla

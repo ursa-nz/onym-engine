@@ -1,0 +1,25 @@
+term: sheepshead porgy
+[Definitions]
+  - (noun) from Florida and Bahamas to Brazil
+[Synonyms]
+  - Calamus penna
+[Is a kind of]
+  - porgy
+    - sea bream, bream
+      - percoid fish, percoid, percoidean
+        - spiny-finned fish, acanthopterygian
+          - teleost fish, teleost, teleostan
+            - bony fish
+              - fish
+                - aquatic vertebrate
+                  - vertebrate, craniate
+                    - chordate
+                      - animal, animate being, beast, brute, creature, fauna
+                        - organism, being
+                          - living thing, animate thing
+                            - whole, unit
+                              - object, physical object
+                                - physical entity
+                                  - entity
+[Part of]
+  - Calamus, genus Calamus

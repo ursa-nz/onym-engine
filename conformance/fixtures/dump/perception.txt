@@ -1,0 +1,189 @@
+term: perception
+[Definitions]
+  - (noun) the representation of what is perceived; basic component in the formation of a concept
+  - (noun) a way of conceiving something
+      "Luther had a new perception of the Bible"
+  - (noun) the process of perceiving
+  - (noun) knowledge gained by perceiving
+      "a man admired for the depth of his perception"
+  - (noun) becoming aware of something via the senses
+[Synonyms]
+  - percept
+  - perceptual experience
+  - sensing
+[Derived forms]
+  - perceive
+  - perceptual
+  - comprehend
+[Is a kind of]
+  - representation, mental representation, internal representation
+    - content, cognitive content, mental object
+      - cognition, knowledge, noesis
+        - psychological feature
+          - abstraction, abstract entity
+            - entity
+  - conceptualization, conceptualisation, conceptuality
+    - concept, conception, construct
+      - idea, thought
+        - content, cognitive content, mental object
+          - cognition, knowledge, noesis
+            - psychological feature
+              - abstraction, abstract entity
+                - entity
+  - basic cognitive process
+    - process, cognitive process, mental process, operation, cognitive operation
+      - cognition, knowledge, noesis
+        - psychological feature
+          - abstraction, abstract entity
+            - entity
+  - cognition, knowledge, noesis
+    - psychological feature
+      - abstraction, abstract entity
+        - entity
+  - sensory activity
+    - activity
+      - act, deed, human action, human activity
+        - event
+          - psychological feature
+            - abstraction, abstract entity
+              - entity
+[Kinds]
+  - figure
+  - ground
+  - visual percept, visual image
+    - eye candy
+    - field, field of view
+      - microscopic field
+      - operative field
+    - sight
+    - view, aspect, prospect, scene, vista, panorama
+      - background, ground
+      - coast
+      - exposure
+      - foreground
+      - glimpse
+      - middle distance
+      - side view
+        - profile
+      - tableau
+    - visual field, field of vision, field of regard
+  - constancy, perceptual constancy
+    - brightness constancy
+    - color constancy, colour constancy
+    - shape constancy
+    - size constancy
+  - detection, sensing
+  - visual perception, beholding, seeing
+    - contrast
+    - face recognition
+    - object recognition
+    - visual space
+    - fusion, optical fusion
+  - auditory perception, sound perception
+    - speech perception
+    - musical perception
+      - melody, tonal pattern
+  - sensation, esthesis, aesthesis, sense experience, sense impression, sense datum
+    - threshold, limen
+      - absolute threshold
+        - pain threshold
+      - difference threshold, differential threshold, difference limen, differential limen
+        - just-noticeable difference, jnd
+    - masking
+    - vision, visual sensation
+    - smell, odor, odour, olfactory sensation, olfactory perception
+      - scent
+        - musk
+      - aroma, fragrance, perfume, scent
+        - incense
+      - malodor, malodour, stench, stink, reek, fetor, foetor, mephitis
+        - niff, pong
+      - acridity
+    - taste, taste sensation, gustatory sensation, taste perception, gustatory perception
+      - relish, flavor, flavour, sapidity, savor, savour, smack, nip, tang
+        - lemon
+        - vanilla
+      - sweet, sweetness, sugariness
+      - sour, sourness, tartness
+        - acidity, acidulousness
+      - bitter, bitterness
+      - salt, saltiness, salinity
+      - astringency, astringence
+      - finish
+      - flatness
+      - mellowness
+    - sound, auditory sensation
+      - music, euphony
+        - music of the spheres
+      - music
+        - piano music
+      - tone, pure tone
+        - harmonic
+          - fundamental, fundamental frequency, first harmonic
+          - overtone, partial, partial tone
+      - noise, dissonance, racket
+      - dub
+    - synesthesia, synaesthesia
+      - chromesthesia, chromaesthesia
+        - colored hearing, colored audition
+  - somesthesia, somaesthesia, somatesthesia, somatic sensation
+    - feeling
+      - constriction, tightness
+    - prickling, tingle, tingling
+      - pins and needles
+    - pressure, pressure sensation
+    - pain, pain sensation, painful sensation
+      - mittelschmerz
+      - phantom limb pain
+      - twinge
+    - temperature
+      - heat, warmth
+      - cold, coldness
+      - comfort zone
+  - touch, touch sensation, tactual sensation, tactile sensation, feeling
+    - creepiness
+    - cutaneous sensation, haptic sensation, skin sensation
+      - tickle
+      - itch, itchiness, itching
+        - pruritus
+          - pruritus ani
+          - pruritus vulvae
+      - topognosia, topognosis
+      - urtication
+  - discernment, perceptiveness
+  - penetration, insight
+  - cognizance
+  - look, looking, looking at
+    - glance, glimpse, coup d'oeil
+      - eye-beaming
+      - side-glance, side-look
+    - scrutiny
+    - peek, peep
+    - squint
+    - stare
+      - gaze, regard
+      - glare, glower
+      - contemplation
+      - gape
+    - evil eye
+    - sightseeing, rubber-necking
+    - observation, observance, watching
+      - monitoring
+      - sighting
+        - landfall
+      - stargazing
+    - lookout, outlook
+    - view, survey, sight
+      - eyeful
+    - dekko
+  - listening, hearing
+    - auscultation
+      - percussion, pleximetry
+      - succussion
+    - relistening, rehearing
+  - lipreading
+  - taste, tasting
+  - smell, smelling
+    - sniff, snuff
+[Parts]
+  - form, shape, pattern

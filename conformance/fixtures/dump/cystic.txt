@@ -1,0 +1,12 @@
+term: cystic
+[Definitions]
+  - (adjective) of or relating to a normal cyst (as the gallbladder or urinary bladder)
+  - (adjective) of or relating to or resembling a cyst
+[Derived forms]
+  - vesicle
+  - cyst
+[Pertains to]
+  - vesicle, cyst
+    - sac
+  - cyst
+    - pathology

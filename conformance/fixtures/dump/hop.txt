@@ -1,0 +1,73 @@
+term: hop
+[Definitions]
+  - (verb) jump lightly
+  - (verb) move quickly from one place to another
+      "The streets hop with crowds"
+      "The crowds hop in the streets"
+  - (verb) travel by means of an aircraft, bus, etc.
+      "She hopped a train to Chicago"
+      "He hopped rides all over the country"
+  - (verb) traverse as if by a short airplane trip
+      "Hop the Pacific Ocean"
+  - (verb) jump across
+      "He hopped the bush"
+  - (verb) make a jump forward or upward
+  - (noun) the act of hopping; jumping upward or forward (especially on one foot)
+  - (noun) twining perennials having cordate leaves and flowers arranged in conelike spikes; the dried flowers of this plant are used in brewing to add the characteristic bitter taste to beer
+  - (noun) an informal dance where popular music is played
+[Synonyms]
+  - hops
+  - record hop
+  - skip
+  - hop-skip
+[Derived forms]
+  - skip
+  - hop-skip
+  - record hop
+  - hopper
+  - grounder
+  - ground ball
+  - groundball
+[Is a kind of]
+  - jump, jumping
+    - propulsion, actuation
+      - act, deed, human action, human activity
+        - event
+          - psychological feature
+            - abstraction, abstract entity
+              - entity
+  - vine
+    - vascular plant, tracheophyte
+      - plant, flora, plant life
+        - organism, being
+          - living thing, animate thing
+            - whole, unit
+              - object, physical object
+                - physical entity
+                  - entity
+  - dance
+    - party
+      - affair, occasion, social occasion, function, social function
+        - social event
+          - event
+            - psychological feature
+              - abstraction, abstract entity
+                - entity
+  - jump, leap, bound, spring
+    - move
+  - move
+  - travel
+    - travel, go, move, locomote
+  - traverse, track, cover, cross, pass over, get over, get across, cut through, cut across
+    - pass, go through, go across
+      - travel, go, move, locomote
+  - clear, top
+    - pass, overtake, overhaul
+      - advance, progress, pass on, move on, march on, go on
+        - travel, go, move, locomote
+[Kinds]
+  - common hop, common hops, bine, European hop, Humulus lupulus
+  - American hop, Humulus americanus
+  - Japanese hop, Humulus japonicus
+[Part of]
+  - Humulus, genus Humulus

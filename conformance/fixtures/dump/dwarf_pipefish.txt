@@ -1,0 +1,22 @@
+term: dwarf pipefish
+[Definitions]
+  - (noun) small (4 inches) fish found off the Florida Gulf Coast
+[Synonyms]
+  - Syngnathus hildebrandi
+[Is a kind of]
+  - pipefish, needlefish
+    - teleost fish, teleost, teleostan
+      - bony fish
+        - fish
+          - aquatic vertebrate
+            - vertebrate, craniate
+              - chordate
+                - animal, animate being, beast, brute, creature, fauna
+                  - organism, being
+                    - living thing, animate thing
+                      - whole, unit
+                        - object, physical object
+                          - physical entity
+                            - entity
+[Part of]
+  - Syngnathus, genus Syngnathus

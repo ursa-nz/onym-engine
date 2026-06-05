@@ -1,0 +1,57 @@
+term: bilge
+[Definitions]
+  - (noun) water accumulated in the bilge of a ship
+  - (noun) where the sides of the vessel curve in to form the bottom
+  - (verb) cause to leak
+      "the collision bilged the vessel"
+  - (verb) take in water at the bilge
+      "the tanker bilged"
+[Synonyms]
+  - bilge water
+  - take in water
+[Derived forms]
+  - bilgy
+  - take in water
+  - bilge water
+[Causes]
+  - take in water
+[Is a kind of]
+  - water, H2O
+    - binary compound
+      - compound, chemical compound
+        - chemical, chemical substance
+          - material, stuff
+            - substance
+              - matter
+                - physical entity
+                  - entity
+              - part, portion, component part, component, constituent
+                - relation
+                  - abstraction, abstract entity
+                    - entity
+    - liquid
+      - fluid
+        - matter
+          - physical entity
+            - entity
+  - bottom, underside, undersurface
+    - side, face
+      - surface
+        - boundary, bound, bounds
+          - extremity
+            - region, part
+              - location
+                - object, physical object
+                  - physical entity
+                    - entity
+  - damage
+    - change, alter, modify
+  - leak
+[Kinds]
+  - bilges
+[Part of]
+  - vessel, watercraft
+[Parts]
+  - water, H2O
+    - hydrogen, H, atomic number 1
+    - oxygen, O, atomic number 8

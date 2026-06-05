@@ -1,0 +1,31 @@
+term: external respiration
+[Definitions]
+  - (noun) the bodily process of inhalation and exhalation; the process of taking in oxygen from inhaled air and releasing carbon dioxide by exhalation
+[Synonyms]
+  - breathing
+  - respiration
+  - ventilation
+[Is a kind of]
+  - bodily process, body process, bodily function, activity
+    - organic process, biological process
+      - process, physical process
+        - physical entity
+          - entity
+[Kinds]
+  - artificial respiration
+  - abdominal breathing
+  - eupnea, eupnoea
+  - hyperpnea
+  - hypopnea
+  - hyperventilation
+  - panting, heaving
+  - periodic breathing, Cheyne-Stokes respiration
+  - smoke, smoking
+    - puffing
+  - snore, snoring, stertor
+  - snuffle, sniffle, snivel
+  - wheeze
+  - second wind
+[Parts]
+  - exhalation, expiration, breathing out
+  - inhalation, inspiration, aspiration, intake, breathing in

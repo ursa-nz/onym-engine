@@ -1,0 +1,9 @@
+term: raffishly
+[Definitions]
+  - (adverb) in a rakish manner
+      "she wore her hat rakishly at an angle"
+[Synonyms]
+  - rakishly
+  - carelessly
+[Pertains to]
+  - dapper, dashing, jaunty, natty, raffish, rakish, spiffy, snappy, spruce

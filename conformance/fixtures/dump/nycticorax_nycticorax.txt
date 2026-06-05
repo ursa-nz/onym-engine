@@ -1,0 +1,22 @@
+term: Nycticorax nycticorax
+[Definitions]
+  - (noun) night heron of both Old and New Worlds
+[Synonyms]
+  - black-crowned night heron
+[Is a kind of]
+  - night heron, night raven
+    - heron
+      - wading bird, wader
+        - aquatic bird
+          - bird
+            - vertebrate, craniate
+              - chordate
+                - animal, animate being, beast, brute, creature, fauna
+                  - organism, being
+                    - living thing, animate thing
+                      - whole, unit
+                        - object, physical object
+                          - physical entity
+                            - entity
+[Part of]
+  - Nycticorax, genus Nycticorax

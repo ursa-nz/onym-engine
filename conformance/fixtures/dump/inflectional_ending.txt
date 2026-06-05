@@ -1,0 +1,13 @@
+term: inflectional ending
+[Definitions]
+  - (noun) an inflection that is added at the end of a root word
+[Synonyms]
+  - inflectional suffix
+[Is a kind of]
+  - ending, termination
+    - morpheme
+      - language unit, linguistic unit
+        - part, portion, component part, component, constituent
+          - relation
+            - abstraction, abstract entity
+              - entity

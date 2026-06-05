@@ -1,0 +1,200 @@
+term: blood
+[Definitions]
+  - (noun) the fluid (red in vertebrates) that is pumped through the body by the heart and contains plasma, blood cells, and platelets
+      "blood carries oxygen and nutrients to the tissues and carries away waste products"
+      "the ancients believed that blood was the seat of the emotions"
+  - (noun) temperament or disposition
+      "a person of hot blood"
+  - (noun) a dissolute man in fashionable society
+  - (noun) the descendants of one individual
+      "his entire lineage has been warriors"
+  - (noun) people viewed as members of a group
+      "we need more young blood in this organization"
+  - (verb) smear with blood, as in a hunting initiation rite, where the face of a person is smeared with the blood of the kill
+[Synonyms]
+  - rake
+  - rakehell
+  - profligate
+  - rip
+  - roue
+  - lineage
+  - line
+  - line of descent
+  - descent
+  - bloodline
+  - blood line
+  - pedigree
+  - ancestry
+  - origin
+  - parentage
+  - stemma
+  - stock
+[Derived forms]
+  - bloody
+[Is a kind of]
+  - liquid body substance, bodily fluid, body fluid, humor, humour
+    - body substance
+      - substance
+        - matter
+          - physical entity
+            - entity
+        - part, portion, component part, component, constituent
+          - relation
+            - abstraction, abstract entity
+              - entity
+  - disposition, temperament
+    - nature
+      - trait
+        - attribute
+          - abstraction, abstract entity
+            - entity
+  - libertine, debauchee, rounder
+    - bad person
+      - person, individual, someone, somebody, mortal, soul
+        - organism, being
+          - living thing, animate thing
+            - whole, unit
+              - object, physical object
+                - physical entity
+                  - entity
+        - causal agent, cause, causal agency
+          - physical entity
+            - entity
+  - genealogy, family tree
+    - kin, kin group, kinship group, kindred, clan, tribe
+      - social group
+        - group, grouping
+          - abstraction, abstract entity
+            - entity
+  - people
+    - group, grouping
+      - abstraction, abstract entity
+        - entity
+  - daub, smear
+    - cover
+[Kinds]
+  - arterial blood
+  - blood group, blood type
+    - A, type A, group A
+    - B, type B, group B
+    - AB, type AB, group AB
+    - O, type O, group O
+    - Rh-positive blood type, Rh positive
+    - Rh-negative blood type, Rh-negative blood, Rh negative
+  - gore
+  - lifeblood
+  - bloodstream, blood stream
+  - blood clot, grume
+  - cord blood
+  - menorrhea, menstrual blood, menstrual flow
+  - venous blood
+  - whole blood
+  - family, family line, folk, kinfolk, kinsfolk, sept, phratry
+    - people
+    - homefolk
+    - house
+      - royalty, royal family, royal line, royal house
+        - Hanover, House of Hanover, Hanoverian line
+        - Habsburg, Hapsburg
+        - Hohenzollern
+        - Lancaster, House of Lancaster, Lancastrian line
+        - Plantagenet, Plantagenet line
+        - Romanov, Romanoff
+        - Saxe-Coburg-Gotha
+        - Stuart
+        - York, House of York
+      - Medici
+    - dynasty
+      - Bourbon, Bourbon dynasty
+      - Capetian dynasty
+      - Carolingian dynasty, Carlovingian dynasty
+      - Flavian dynasty
+      - Han, Han dynasty
+      - Hanover, House of Hanover, Hanoverian line
+      - Habsburg, Hapsburg
+      - Hohenzollern
+      - Lancaster, House of Lancaster, Lancastrian line
+      - Liao, Liao dynasty
+      - Merovingian, Merovingian dynasty
+      - Ming, Ming dynasty
+      - Ottoman, Ottoman dynasty
+      - Plantagenet, Plantagenet line
+      - Ptolemy, Ptolemaic dynasty
+      - Qin, Qin dynasty, Ch'in, Ch'in dynasty
+      - Qing, Qing dynasty, Ch'ing, Ch'ing dynasty, Manchu, Manchu dynasty
+      - Romanov, Romanoff
+      - Saxe-Coburg-Gotha
+      - Seljuk
+      - Shang, Shang dynasty
+      - Stuart
+      - Sung, Sung dynasty, Song, Song dynasty
+      - Tang, Tang dynasty
+      - Tudor, House of Tudor
+      - Umayyad, Ommiad, Omayyad
+      - Valois
+      - Wei, Wei dynasty
+      - Windsor, House of Windsor
+      - York, House of York
+      - Yuan, Yuan dynasty, Mongol dynasty
+      - Zhou, Zhou dynasty, Chou, Chou dynasty, Chow, Chow dynasty
+    - name, gens
+  - side
+[Parts]
+  - serum, blood serum
+    - serum albumin
+    - serum globulin
+    - opsonin
+  - blood cell, blood corpuscle, corpuscle
+  - disposition, temperament
+    - cheerfulness, cheer, sunniness, sunshine
+    - uncheerfulness
+  - libertine, debauchee, rounder
+    - bad person
+      - person, individual, someone, somebody, mortal, soul
+        - personality
+          - trait
+          - character, fiber, fibre
+            - thoughtfulness
+            - responsibility, responsibleness
+            - integrity
+          - nature
+        - human body, physical body, material body, soma, build, figure, physique, anatomy, shape, bod, chassis, frame, form, flesh
+        - organism, being
+          - tissue
+          - cell
+            - cell membrane, cytomembrane, plasma membrane
+            - energid, protoplast
+            - cytoplasm, cytol
+              - cytoskeleton
+              - microsome
+              - Golgi body, Golgi apparatus, Golgi complex, dictyosome
+            - nucleus, cell nucleus, karyon
+              - nucleolus, nucleole
+              - chromatin, chromatin granule
+              - achromatin
+              - linin
+              - chromosome
+                - nucleolus organizer, nucleolus organiser, nucleolar organizer, nucleolar organiser
+                - chromatin, chromatin granule
+                - gene, cistron, factor
+                - chromatid
+                - centromere, kinetochore
+                - telomere
+            - organelle, cell organelle, cell organ
+            - vacuole
+          - body part
+            - corpus
+          - living thing, animate thing
+            - whole, unit
+              - part, portion
+              - section, segment
+  - genealogy, family tree
+    - kin, kin group, kinship group, kindred, clan, tribe
+      - relative, relation
+      - clansman, clanswoman, clan member
+      - tribesman
+  - people
+    - person, individual, someone, somebody, mortal, soul
+[Domains]
+  - vertebrate
+  - craniate

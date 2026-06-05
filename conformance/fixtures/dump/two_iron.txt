@@ -1,0 +1,17 @@
+term: two iron
+[Definitions]
+  - (noun) long iron with a nearly vertical face
+[Synonyms]
+  - midiron
+[Is a kind of]
+  - iron
+    - golf club, golf-club, club
+      - golf equipment
+        - sports equipment
+          - equipment
+            - instrumentality, instrumentation
+              - artifact, artefact
+                - whole, unit
+                  - object, physical object
+                    - physical entity
+                      - entity

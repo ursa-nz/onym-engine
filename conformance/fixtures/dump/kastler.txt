@@ -1,0 +1,18 @@
+term: Kastler
+[Definitions]
+  - (noun) French physicist (1902-1984)
+[Synonyms]
+  - Alfred Kastler
+[Is a kind of]
+  - physicist
+    - scientist
+      - person, individual, someone, somebody, mortal, soul
+        - organism, being
+          - living thing, animate thing
+            - whole, unit
+              - object, physical object
+                - physical entity
+                  - entity
+        - causal agent, cause, causal agency
+          - physical entity
+            - entity

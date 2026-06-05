@@ -1,0 +1,11 @@
+term: ingrowing
+[Definitions]
+  - (adjective) growing abnormally into the flesh
+      "an ingrown toenail"
+[Synonyms]
+  - ingrown
+[Antonyms]
+  - unhealthy (indirect)
+      -> healthy
+[Similar to]
+  - unhealthy

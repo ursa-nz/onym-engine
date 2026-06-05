@@ -1,0 +1,59 @@
+#!/bin/sh
+# SPDX-FileCopyrightText: 2026 ursa.nz <code@ursa.nz>
+# SPDX-License-Identifier: GPL-3.0-or-later
+#
+# Checks a dumper against the committed fixtures.
+#
+# Usage: run-conformance [DUMPER [ARG...]]
+#
+# DUMPER takes the same form as for gen-fixtures and has the same
+# default. The script regenerates every fixture into a temporary
+# directory by running gen-fixtures with ONYM_FIXTURES_DIR pointed at
+# it, then diffs each file against fixtures/. It prints one PASS or
+# FAIL line per file and a final summary, and exits nonzero if any
+# file differs, is missing or is unexpected. Suitable for CI and for
+# running by hand.
+
+set -eu
+
+here=$(CDPATH='' cd -- "$(dirname -- "$0")" && pwd)
+
+if [ ! -d "$here/fixtures" ]; then
+  echo "run-conformance: no fixtures directory; run gen-fixtures first" >&2
+  exit 2
+fi
+
+tmp=$(mktemp -d)
+trap 'rm -rf "$tmp"' EXIT INT TERM
+
+ONYM_FIXTURES_DIR="$tmp/actual" "$here/gen-fixtures" "$@"
+
+# Build the union of relative file paths on both sides so that missing
+# and unexpected files are reported, not just content differences.
+(cd "$here/fixtures" && find . -type f | sort) > "$tmp/expected.list"
+(cd "$tmp/actual" && find . -type f | sort) > "$tmp/actual.list"
+sort -u "$tmp/expected.list" "$tmp/actual.list" > "$tmp/union.list"
+
+pass=0
+fail=0
+while IFS= read -r rel; do
+  rel=${rel#./}
+  if [ ! -f "$here/fixtures/$rel" ]; then
+    echo "FAIL $rel (not in fixtures)"
+    fail=$((fail + 1))
+  elif [ ! -f "$tmp/actual/$rel" ]; then
+    echo "FAIL $rel (not regenerated)"
+    fail=$((fail + 1))
+  elif diff -q -- "$here/fixtures/$rel" "$tmp/actual/$rel" > /dev/null; then
+    echo "PASS $rel"
+    pass=$((pass + 1))
+  else
+    echo "FAIL $rel (content differs)"
+    fail=$((fail + 1))
+  fi
+done < "$tmp/union.list"
+
+echo "conformance: $pass passed, $fail failed"
+if [ "$fail" -ne 0 ]; then
+  exit 1
+fi

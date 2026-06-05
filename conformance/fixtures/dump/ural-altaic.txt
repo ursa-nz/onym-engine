@@ -1,0 +1,60 @@
+term: Ural-Altaic
+[Definitions]
+  - (noun) a (postulated) group of languages including many of the indigenous languages of Russia (but not Russian)
+[Is a kind of]
+  - natural language, tongue
+    - language, linguistic communication
+      - communication
+        - abstraction, abstract entity
+          - entity
+[Kinds]
+  - Altaic, Altaic language
+    - Turki, Turkic, Turko-Tatar, Turkic language
+      - Turkish
+      - Turkmen, Turkoman, Turcoman
+      - Azerbaijani
+      - Kazak, Kazakh
+      - Tatar
+      - Uzbek, Uzbeg, Uzbak, Usbek, Usbeg
+      - Uighur, Uigur, Uygur
+      - Yakut
+      - Kirghiz, Kirgiz, Khirghiz
+      - Karakalpak
+      - Chuvash
+      - Chagatai, Jagatai, Jaghatai, Eastern Turki
+    - Tungusic, Tungusic language
+      - Tungus, Tunguz, Evenki, Ewenki
+      - Manchu
+    - Mongolian, Mongolic, Mongolic language
+      - Khalkha, Khalka, Kalka
+    - Korean
+    - Japanese
+      - Ryukyuan
+  - Uralic, Uralic language
+    - Finno-Ugric, Finno-Ugrian
+      - Fennic, Finnic, Non-Ugric
+        - Permic
+          - Udmurt, Votyak
+          - Komi, Zyrian
+        - Volgaic
+          - Cheremis, Cheremiss, Mari
+          - Mordva, Mordvin, Mordvinian
+        - Baltic-Finnic
+          - Livonian
+          - Estonian, Esthonian
+          - Karelian, Carelian
+          - Ludian
+          - Finnish, Suomi
+          - Veps, Vepse, Vepsian
+          - Ingrian
+      - Ugric, Ugrian
+        - Hungarian, Magyar
+        - Khanty, Ostyak
+        - Mansi, Vogul
+    - Lappic, Lappish
+      - Lapp, Sami, Saami, Same, Saame
+    - Samoyedic, Samoyed
+      - Nenets, Nentsi, Nentsy, Yurak-Samoyed
+      - Enets, Entsi, Entsy, Yenisei, Yenisei-Samoyed, Yeniseian
+      - Nganasan
+      - Selkup, Ostyak-Samoyed

@@ -1,0 +1,13 @@
+term: intricacy
+[Definitions]
+  - (noun) marked by elaborately complex detail
+[Synonyms]
+  - elaborateness
+  - elaboration
+  - involution
+[Is a kind of]
+  - complexity, complexness
+    - quality
+      - attribute
+        - abstraction, abstract entity
+          - entity

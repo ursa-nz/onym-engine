@@ -1,0 +1,11 @@
+term: kill oneself
+[Definitions]
+  - (verb) strain oneself more than is healthy
+[Synonyms]
+  - overexert oneself
+[Is a kind of]
+  - strive, reach, strain
+    - tug, labor, labour, push, drive
+      - fight, struggle
+        - try, seek, attempt, essay, assay
+          - act, move

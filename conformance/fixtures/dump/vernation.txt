@@ -1,0 +1,13 @@
+term: vernation
+[Definitions]
+  - (noun) (botany) the arrangement of young leaves in a leaf bud before it opens
+[Is a kind of]
+  - arrangement
+    - group, grouping
+      - abstraction, abstract entity
+        - entity
+[Part of]
+  - leaf bud
+[Domains]
+  - botany
+  - phytology

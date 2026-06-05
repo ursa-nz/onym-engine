@@ -1,0 +1,20 @@
+term: Australopithecus robustus
+[Definitions]
+  - (noun) large-toothed hominid of southern Africa; from 1.5 to 2 million years ago; formerly Paranthropus
+[Is a kind of]
+  - australopithecine
+    - hominid
+      - primate
+        - placental, placental mammal, eutherian, eutherian mammal
+          - mammal, mammalian
+            - vertebrate, craniate
+              - chordate
+                - animal, animate being, beast, brute, creature, fauna
+                  - organism, being
+                    - living thing, animate thing
+                      - whole, unit
+                        - object, physical object
+                          - physical entity
+                            - entity
+[Part of]
+  - genus Australopithecus, Australopithecus

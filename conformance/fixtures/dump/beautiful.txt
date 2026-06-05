@@ -1,0 +1,58 @@
+term: beautiful
+[Definitions]
+  - (adjective) delighting the senses or exciting intellectual or emotional admiration
+      "a beautiful child"
+      "beautiful country"
+      "a beautiful painting"
+      "a beautiful theory"
+      "a beautiful party"
+  - (adjective) (of weather) highly enjoyable
+      "what a beautiful day"
+[Antonyms]
+  - ugly (direct)
+      -> disfigured
+      -> evil-looking
+      -> fugly
+      -> grotesque
+      -> monstrous
+      -> hideous
+      -> repulsive
+      -> ill-favored
+      -> ill-favoured
+      -> scrofulous
+      -> unlovely
+      -> unpicturesque
+      -> unsightly
+  - pleasant (indirect)
+      -> unpleasant
+[Similar to]
+  - beauteous
+  - bonny
+  - bonnie
+  - comely
+  - fair
+  - sightly
+  - dishy
+  - exquisite
+  - fine-looking
+  - good-looking
+  - better-looking
+  - handsome
+  - well-favored
+  - well-favoured
+  - glorious
+  - resplendent
+  - splendid
+  - splendiferous
+  - gorgeous
+  - lovely
+  - picturesque
+  - pretty
+  - pretty-pretty
+  - pulchritudinous
+  - ravishing
+  - scenic
+  - stunning
+  - pleasant
+[Attributes]
+  - beauty

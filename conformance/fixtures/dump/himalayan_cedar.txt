@@ -1,0 +1,21 @@
+term: Himalayan cedar
+[Definitions]
+  - (noun) tall East Indian cedar having spreading branches with nodding tips; highly valued for its appearance as well as its timber
+[Synonyms]
+  - deodar
+  - deodar cedar
+  - Cedrus deodara
+[Is a kind of]
+  - cedar, cedar tree, true cedar
+    - conifer, coniferous tree
+      - gymnospermous tree
+        - tree
+          - woody plant, ligneous plant
+            - vascular plant, tracheophyte
+              - plant, flora, plant life
+                - organism, being
+                  - living thing, animate thing
+                    - whole, unit
+                      - object, physical object
+                        - physical entity
+                          - entity

@@ -1,0 +1,43 @@
+term: rustle
+[Definitions]
+  - (verb) make a dry crackling sound
+      "rustling silk"
+      "the dry leaves were rustling in the breeze"
+  - (verb) take illegally
+      "rustle cattle"
+  - (verb) forage food
+  - (noun) a light noise, like the noise of silk clothing or leaves blowing in the wind
+[Synonyms]
+  - rustling
+  - whisper
+  - whispering
+  - lift
+[Derived forms]
+  - rustling
+  - whisper
+  - whispering
+  - rustler
+  - cattle thief
+[Is a kind of]
+  - noise
+    - sound
+      - happening, occurrence, occurrent, natural event
+        - event
+          - psychological feature
+            - abstraction, abstract entity
+              - entity
+  - sound, go
+    - cause to be perceived
+  - steal
+    - take
+  - scrounge, forage
+    - hunt, run, hunt down, track down
+      - capture, catch
+        - get, acquire
+[Domains]
+  - crime
+  - offense
+  - criminal offense
+  - criminal offence
+  - offence
+  - law-breaking

@@ -1,0 +1,28 @@
+term: elaborateness
+[Definitions]
+  - (noun) marked by elaborately complex detail
+  - (noun) an ornate appearance; being elaborately (even excessively) decorated
+[Synonyms]
+  - elaboration
+  - intricacy
+  - involution
+  - ornateness
+[Derived forms]
+  - detailed
+  - elaborate
+  - elaborated
+  - luxuriant
+[Is a kind of]
+  - complexity, complexness
+    - quality
+      - attribute
+        - abstraction, abstract entity
+          - entity
+  - appearance, visual aspect
+    - quality
+      - attribute
+        - abstraction, abstract entity
+          - entity
+[Kinds]
+  - flamboyance, floridness, floridity, showiness
+  - fussiness

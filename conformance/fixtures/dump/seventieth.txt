@@ -1,0 +1,20 @@
+term: seventieth
+[Definitions]
+  - (noun) position 70 in a countable series of things
+  - (adjective) the ordinal number of seventy in counting order
+[Synonyms]
+  - 70th
+[Antonyms]
+  - ordinal (indirect)
+      -> cardinal
+[Derived forms]
+  - 70th
+[Similar to]
+  - ordinal
+[Is a kind of]
+  - rank
+    - status, position
+      - state
+        - attribute
+          - abstraction, abstract entity
+            - entity

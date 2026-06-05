@@ -1,0 +1,15 @@
+term: tidewater stream
+[Definitions]
+  - (noun) a stream in which the effects of the tide extend far upstream
+[Synonyms]
+  - tidal river
+  - tidewater river
+  - tidal stream
+[Is a kind of]
+  - stream, watercourse
+    - body of water, water
+      - thing
+        - physical entity
+          - entity
+[Part of]
+  - tidewater

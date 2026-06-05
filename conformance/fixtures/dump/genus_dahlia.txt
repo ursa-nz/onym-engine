@@ -1,0 +1,16 @@
+term: genus Dahlia
+[Definitions]
+  - (noun) genus of perennial tuberous plants of Mexico and Central America
+[Is a kind of]
+  - asterid dicot genus
+    - dicot genus, magnoliopsid genus
+      - genus
+        - taxonomic group, taxonomic category, taxon
+          - biological group
+            - group, grouping
+              - abstraction, abstract entity
+                - entity
+[Part of]
+  - Compositae, family Compositae, Asteraceae, family Asteraceae, aster family
+[Parts]
+  - dahlia, Dahlia pinnata

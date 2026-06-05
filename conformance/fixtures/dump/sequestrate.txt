@@ -1,0 +1,21 @@
+term: sequestrate
+[Definitions]
+  - (verb) keep away from others
+      "He sequestered himself in his study to write a book"
+  - (verb) set apart from others
+      "The dentist sequesters the tooth he is working on"
+[Synonyms]
+  - seclude
+  - sequester
+  - withdraw
+  - keep apart
+  - set apart
+  - isolate
+[Is a kind of]
+  - isolate, insulate
+    - discriminate, separate, single out
+      - distinguish, separate, differentiate, secern, secernate, severalize, severalise, tell, tell apart
+        - identify, place
+          - determine, set
+  - separate, disunite, divide, part
+    - move, displace

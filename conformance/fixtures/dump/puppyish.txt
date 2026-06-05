@@ -1,0 +1,11 @@
+term: puppyish
+[Definitions]
+  - (adjective) characteristic of a puppy
+[Synonyms]
+  - puppylike
+[Antonyms]
+  - young (indirect)
+      -> old
+[Similar to]
+  - young
+  - immature

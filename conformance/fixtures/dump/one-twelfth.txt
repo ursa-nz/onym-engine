@@ -1,0 +1,18 @@
+term: one-twelfth
+[Definitions]
+  - (noun) one part in twelve equal parts
+[Synonyms]
+  - twelfth
+  - twelfth part
+  - duodecimal
+[Is a kind of]
+  - common fraction, simple fraction
+    - fraction
+      - rational number, rational
+        - real number, real
+          - complex number, complex quantity, imaginary number, imaginary
+            - number
+              - definite quantity
+                - measure, quantity, amount
+                  - abstraction, abstract entity
+                    - entity

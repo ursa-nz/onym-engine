@@ -1,0 +1,10 @@
+term: softish
+[Definitions]
+  - (adjective) somewhat soft
+[Synonyms]
+  - semisoft
+[Antonyms]
+  - soft (indirect)
+      -> hard
+[Similar to]
+  - soft

@@ -1,0 +1,86 @@
+term: shore bird
+[Definitions]
+  - (noun) any of numerous wading birds that frequent mostly seashores and estuaries
+[Synonyms]
+  - shorebird
+  - limicoline bird
+[Is a kind of]
+  - wading bird, wader
+    - aquatic bird
+      - bird
+        - vertebrate, craniate
+          - chordate
+            - animal, animate being, beast, brute, creature, fauna
+              - organism, being
+                - living thing, animate thing
+                  - whole, unit
+                    - object, physical object
+                      - physical entity
+                        - entity
+[Kinds]
+  - plover
+    - piping plover, Charadrius melodus
+    - killdeer, kildeer, killdeer plover, Charadrius vociferus
+    - dotterel, dotrel, Charadrius morinellus, Eudromias morinellus
+    - golden plover
+    - lapwing, green plover, peewit, pewit
+    - turnstone
+      - ruddy turnstone, Arenaria interpres
+      - black turnstone, Arenaria-Melanocephala
+  - sandpiper
+    - European sandpiper, Actitis hypoleucos
+    - spotted sandpiper, Actitis macularia
+    - least sandpiper, stint, Erolia minutilla
+    - red-backed sandpiper, dunlin, Erolia alpina
+    - greenshank, Tringa nebularia
+    - redshank, Tringa totanus
+    - yellowlegs
+      - greater yellowlegs, Tringa melanoleuca
+      - lesser yellowlegs, Tringa flavipes
+    - pectoral sandpiper, jacksnipe, Calidris melanotos
+    - knot, greyback, grayback, Calidris canutus
+    - curlew sandpiper, Calidris Ferruginea
+    - sanderling, Crocethia alba
+    - upland sandpiper, upland plover, Bartramian sandpiper, Bartramia longicauda
+    - ruff, Philomachus pugnax
+      - reeve
+    - tattler
+      - Polynesian tattler, Heteroscelus incanus
+      - willet, Catoptrophorus semipalmatus
+  - surfbird, Aphriza virgata
+  - woodcock
+    - Eurasian woodcock, Scolopax rusticola
+    - American woodcock, woodcock snipe, Philohela minor
+  - snipe
+    - whole snipe, Gallinago gallinago
+    - Wilson's snipe, Gallinago gallinago delicata
+    - great snipe, woodcock snipe, Gallinago media
+    - jacksnipe, half snipe, Limnocryptes minima
+    - dowitcher
+      - greyback, grayback, Limnodromus griseus
+      - red-breasted snipe, Limnodromus scolopaceus
+  - curlew
+    - European curlew, Numenius arquata
+    - Eskimo curlew, Numenius borealis
+  - godwit
+    - Hudsonian godwit, Limosa haemastica
+  - stilt, stiltbird, longlegs, long-legs, stilt plover, Himantopus stilt
+    - black-necked stilt, Himantopus mexicanus
+    - black-winged stilt, Himantopus himantopus
+    - white-headed stilt, Himantopus himantopus leucocephalus
+    - kaki, Himantopus novae-zelandiae
+  - stilt, Australian stilt
+    - banded stilt, Cladorhyncus leucocephalum
+  - avocet
+  - oystercatcher, oyster catcher
+  - phalarope
+    - red phalarope, Phalaropus fulicarius
+    - northern phalarope, Lobipes lobatus
+    - Wilson's phalarope, Steganopus tricolor
+  - pratincole, glareole
+  - courser
+    - cream-colored courser, Cursorius cursor
+    - crocodile bird, Pluvianus aegyptius
+  - stone curlew, thick-knee, Burhinus oedicnemus
+[Part of]
+  - Charadrii, suborder Charadrii

@@ -1,0 +1,34 @@
+term: backpacking
+[Definitions]
+  - (noun) carrying something in a pack on the back
+      "the backpacking of oxygen is essential for astronauts"
+  - (verb) hike with a backpack
+      "Every summer they are backpacking in the Rockies"
+[Synonyms]
+  - packing
+  - pack
+[Derived forms]
+  - back pack
+  - knapsack
+  - packsack
+  - rucksack
+  - haversack
+[Entails]
+  - pack
+[Is a kind of]
+  - carry
+    - transportation, transport, transfer, transferral, conveyance
+      - movement
+        - change
+          - action
+            - act, deed, human action, human activity
+              - event
+                - psychological feature
+                  - abstraction, abstract entity
+                    - entity
+  - hike
+    - walk
+      - travel, go, move, locomote
+[Domains]
+  - sport
+  - athletics

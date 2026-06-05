@@ -1,0 +1,51 @@
+term: consecrate
+[Definitions]
+  - (verb) appoint to a clerical posts
+      "he was ordained in the Church"
+  - (verb) give entirely to a specific person, activity, or cause
+      "She committed herself to the work of God"
+      "give one's talents to a good cause"
+      "consecrate your life to the church"
+  - (verb) dedicate to a deity by a vow
+  - (verb) render holy by means of religious rites
+  - (adjective) solemnly dedicated to or set apart for a high purpose
+      "a life consecrated to science"
+      "the consecrated chapel"
+      "a chapel dedicated to the dead of World War II"
+[Synonyms]
+  - ordain
+  - ordinate
+  - order
+  - give
+  - dedicate
+  - commit
+  - devote
+  - vow
+  - bless
+  - hallow
+  - sanctify
+  - consecrated
+  - dedicated
+[Antonyms]
+  - desecrate (direct)
+      -> unhallow
+      -> deconsecrate
+[Derived forms]
+  - consecration
+[Similar to]
+  - ordained
+  - votive
+[Is a kind of]
+  - invest, vest, enthrone
+    - install, instal
+  - use, utilize, utilise, apply, employ
+  - give, dedicate, commit, devote
+    - use, utilize, utilise, apply, employ
+  - declare
+    - state, say, tell
+      - express, verbalize, verbalise, utter, give tongue to
+[Kinds]
+  - vow
+  - rededicate
+  - apply
+  - reconsecrate

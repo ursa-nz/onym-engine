@@ -1,0 +1,25 @@
+term: immunosuppressor
+[Definitions]
+  - (noun) a drug that lowers the body's normal immune response
+[Synonyms]
+  - immunosuppressant
+  - immunosuppressive drug
+  - immunosuppressive
+  - immune suppressant drug
+[Is a kind of]
+  - medicine, medication, medicament, medicinal drug
+    - drug
+      - agent
+        - causal agent, cause, causal agency
+          - physical entity
+            - entity
+        - substance
+          - matter
+            - physical entity
+              - entity
+[Kinds]
+  - mercaptopurine, Purinethol
+  - methotrexate, methotrexate sodium, amethopterin
+[Parts]
+  - medicine, medication, medicament, medicinal drug
+    - physostigmine

@@ -1,0 +1,21 @@
+term: admission price
+[Definitions]
+  - (noun) the fee charged for admission
+[Synonyms]
+  - entrance fee
+  - admission
+  - admission charge
+  - admission fee
+  - price of admission
+  - entrance money
+[Is a kind of]
+  - fee
+    - fixed charge, fixed cost, fixed costs
+      - charge
+        - cost
+          - outgo, spending, expenditure, outlay
+            - transferred property, transferred possession
+              - possession
+                - relation
+                  - abstraction, abstract entity
+                    - entity

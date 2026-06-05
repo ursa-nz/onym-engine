@@ -1,0 +1,18 @@
+term: Girard
+[Definitions]
+  - (noun) United States financier (born in France) who helped finance the War of 1812 (1750-1831)
+[Synonyms]
+  - Stephen Girard
+[Is a kind of]
+  - financier, moneyman
+    - capitalist
+      - person, individual, someone, somebody, mortal, soul
+        - organism, being
+          - living thing, animate thing
+            - whole, unit
+              - object, physical object
+                - physical entity
+                  - entity
+        - causal agent, cause, causal agency
+          - physical entity
+            - entity

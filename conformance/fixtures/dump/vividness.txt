@@ -1,0 +1,40 @@
+term: vividness
+[Definitions]
+  - (noun) interest and variety and intensity
+      "the Puritan Period was lacking in color"
+      "the characters were delineated with exceptional vividness"
+  - (noun) chromatic purity: freedom from dilution with white and hence vivid in hue
+[Synonyms]
+  - color
+  - colour
+  - saturation
+  - chroma
+  - intensity
+[Derived forms]
+  - graphic
+  - lifelike
+  - pictorial
+  - vivid
+  - intense
+  - bright
+  - brilliant
+[Attributes]
+  - colorful
+  - colourful
+  - colorless
+  - colourless
+[Is a kind of]
+  - interest, interestingness
+    - power, powerfulness
+      - quality
+        - attribute
+          - abstraction, abstract entity
+            - entity
+  - color property
+    - visual property
+      - property
+        - attribute
+          - abstraction, abstract entity
+            - entity
+[Part of]
+  - chromatic color, chromatic colour, spectral color, spectral colour

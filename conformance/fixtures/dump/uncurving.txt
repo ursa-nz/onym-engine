@@ -1,0 +1,11 @@
+term: uncurving
+[Definitions]
+  - (adjective) having no curves
+[Synonyms]
+  - uncurved
+[Antonyms]
+  - straight (indirect)
+      -> curved
+      -> curving
+[Similar to]
+  - straight

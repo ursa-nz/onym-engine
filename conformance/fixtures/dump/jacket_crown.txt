@@ -1,0 +1,22 @@
+term: jacket crown
+[Definitions]
+  - (noun) (dentistry) dental appliance consisting of an artificial crown for a broken or decayed tooth
+      "tomorrow my dentist will fit me for a crown"
+[Synonyms]
+  - crown
+  - crownwork
+  - jacket
+  - cap
+[Is a kind of]
+  - dental appliance
+    - device
+      - instrumentality, instrumentation
+        - artifact, artefact
+          - whole, unit
+            - object, physical object
+              - physical entity
+                - entity
+[Domains]
+  - dentistry
+  - dental medicine
+  - odontology

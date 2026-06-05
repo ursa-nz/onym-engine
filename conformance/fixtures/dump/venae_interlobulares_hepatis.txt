@@ -1,0 +1,16 @@
+term: venae interlobulares hepatis
+[Definitions]
+  - (noun) interlobular veins of the liver
+[Is a kind of]
+  - vein, vena, venous blood vessel
+    - blood vessel
+      - vessel, vas
+        - tube, tube-shaped structure
+          - structure, anatomical structure, complex body part, bodily structure, body structure
+            - body part
+              - part, piece
+                - thing
+                  - physical entity
+                    - entity
+[Part of]
+  - liver

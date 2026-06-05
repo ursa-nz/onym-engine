@@ -1,0 +1,56 @@
+term: damascene
+[Definitions]
+  - (adjective) of or relating to or characteristic of Damascus or its people
+      "damascene city gates"
+  - (adjective) (of metals) decorated or inlaid with a wavy pattern of different (especially precious) metals
+      "a damascened sword"
+  - (verb) inlay metal with gold and silver
+  - (noun) a native or inhabitant of Damascus
+  - (noun) a design produced by inlaying gold or silver into steel
+[Antonyms]
+  - fancy (indirect)
+      -> plain
+[Similar to]
+  - fancy
+[Pertains to]
+  - Dimash, Damascus, capital of Syria
+    - national capital
+[Is a kind of]
+  - Syrian
+    - Asian, Asiatic
+      - inhabitant, habitant, dweller, denizen, indweller
+        - person, individual, someone, somebody, mortal, soul
+          - organism, being
+            - living thing, animate thing
+              - whole, unit
+                - object, physical object
+                  - physical entity
+                    - entity
+          - causal agent, cause, causal agency
+            - physical entity
+              - entity
+      - person of color, person of colour
+        - person, individual, someone, somebody, mortal, soul
+          - organism, being
+            - living thing, animate thing
+              - whole, unit
+                - object, physical object
+                  - physical entity
+                    - entity
+          - causal agent, cause, causal agency
+            - physical entity
+              - entity
+  - design, pattern, figure
+    - decoration, ornament, ornamentation
+      - artifact, artefact
+        - whole, unit
+          - object, physical object
+            - physical entity
+              - entity
+  - inlay
+    - decorate, adorn, grace, ornament, embellish, beautify
+      - change, alter, modify
+[Part of]
+  - Dimash, Damascus, capital of Syria
+[Domains]
+  - handicraft

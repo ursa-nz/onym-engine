@@ -1,0 +1,29 @@
+term: yellow ocher
+[Definitions]
+  - (noun) pigment consisting of a limonite mixed with clay and silica
+[Synonyms]
+  - yellow ochre
+[Is a kind of]
+  - ocher, ochre
+    - earth color
+      - mineral
+        - material, stuff
+          - substance
+            - matter
+              - physical entity
+                - entity
+            - part, portion, component part, component, constituent
+              - relation
+                - abstraction, abstract entity
+                  - entity
+      - pigment
+        - coloring material, colouring material, color, colour
+          - material, stuff
+            - substance
+              - matter
+                - physical entity
+                  - entity
+              - part, portion, component part, component, constituent
+                - relation
+                  - abstraction, abstract entity
+                    - entity

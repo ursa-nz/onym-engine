@@ -1,0 +1,11 @@
+term: carrot juice
+[Definitions]
+  - (noun) usually freshly squeezed juice of carrots
+[Is a kind of]
+  - juice
+    - foodstuff, food product
+      - food, nutrient
+        - substance
+          - matter
+            - physical entity
+              - entity

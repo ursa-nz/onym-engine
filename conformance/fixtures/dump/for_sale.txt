@@ -1,0 +1,12 @@
+term: for sale
+[Definitions]
+  - (adjective) available for purchase
+      "purchasable goods"
+      "many houses in the area are for sale"
+[Synonyms]
+  - purchasable
+[Antonyms]
+  - available (indirect)
+      -> unavailable
+[Similar to]
+  - available

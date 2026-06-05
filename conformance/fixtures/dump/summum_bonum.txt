@@ -1,0 +1,10 @@
+term: summum bonum
+[Definitions]
+  - (noun) the supreme good in which all moral values are included or from which they are derived
+[Is a kind of]
+  - good, goodness
+    - morality
+      - quality
+        - attribute
+          - abstraction, abstract entity
+            - entity

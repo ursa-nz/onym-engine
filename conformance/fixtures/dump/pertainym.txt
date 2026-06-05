@@ -1,0 +1,16 @@
+term: pertainym
+[Definitions]
+  - (noun) meaning relating to or pertaining to
+[Is a kind of]
+  - relational adjective, classifying adjective
+    - adjective
+      - modifier, qualifier
+        - content word, open-class word
+          - word
+            - language unit, linguistic unit
+              - part, portion, component part, component, constituent
+                - relation
+                  - abstraction, abstract entity
+                    - entity
+[Domains]
+  - colloquialism

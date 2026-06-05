@@ -1,0 +1,17 @@
+term: Newgate
+[Definitions]
+  - (noun) a former prison in London notorious for its unsanitary conditions and burnt down in riots in 1780; a new prison was built on the same spot but was torn down in 1902
+[Is a kind of]
+  - prison, prison house
+    - correctional institution
+      - penal institution, penal facility
+        - institution
+          - establishment
+            - structure, construction
+              - artifact, artefact
+                - whole, unit
+                  - object, physical object
+                    - physical entity
+                      - entity
+[Part of]
+  - London, Greater London, British capital, capital of the United Kingdom

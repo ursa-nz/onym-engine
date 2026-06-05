@@ -1,0 +1,30 @@
+term: agriculturist
+[Definitions]
+  - (noun) someone concerned with the science or art or business of cultivating the soil
+[Synonyms]
+  - agriculturalist
+  - cultivator
+  - grower
+  - raiser
+[Derived forms]
+  - agribusiness
+  - agriculture
+  - factory farm
+  - farming
+  - husbandry
+[Is a kind of]
+  - farmer, husbandman, granger, sodbuster
+    - creator
+      - person, individual, someone, somebody, mortal, soul
+        - organism, being
+          - living thing, animate thing
+            - whole, unit
+              - object, physical object
+                - physical entity
+                  - entity
+        - causal agent, cause, causal agency
+          - physical entity
+            - entity
+[Kinds]
+  - fruit grower
+  - viticulturist

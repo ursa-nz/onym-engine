@@ -1,0 +1,14 @@
+term: hook on
+[Definitions]
+  - (verb) adopt
+      "take up new ideas"
+[Synonyms]
+  - take up
+  - latch on
+  - fasten on
+  - seize on
+[Is a kind of]
+  - espouse, embrace, adopt, sweep up
+    - accept
+      - evaluate, pass judgment, judge
+        - think, cogitate, cerebrate

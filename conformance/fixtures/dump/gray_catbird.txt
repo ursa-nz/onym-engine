@@ -1,0 +1,22 @@
+term: gray catbird
+[Definitions]
+  - (noun) North American songbird whose call resembles a cat's mewing
+[Synonyms]
+  - catbird
+  - grey catbird
+  - Dumetella carolinensis
+[Is a kind of]
+  - oscine, oscine bird
+    - passerine, passeriform bird
+      - bird
+        - vertebrate, craniate
+          - chordate
+            - animal, animate being, beast, brute, creature, fauna
+              - organism, being
+                - living thing, animate thing
+                  - whole, unit
+                    - object, physical object
+                      - physical entity
+                        - entity
+[Part of]
+  - Dumetella, genus Dumetella

@@ -1,0 +1,17 @@
+term: mealy sage
+[Definitions]
+  - (noun) Texas sage having intensely blue flowers
+[Synonyms]
+  - blue sage
+  - Salvia farinacea
+[Is a kind of]
+  - sage, salvia
+    - herb, herbaceous plant
+      - vascular plant, tracheophyte
+        - plant, flora, plant life
+          - organism, being
+            - living thing, animate thing
+              - whole, unit
+                - object, physical object
+                  - physical entity
+                    - entity

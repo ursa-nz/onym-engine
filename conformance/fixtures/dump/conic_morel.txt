@@ -1,0 +1,21 @@
+term: conic morel
+[Definitions]
+  - (noun) a morel whose pitted fertile body is attached to the stalk with little free skirt around it; the fertile body is grey when young and black in old age
+[Synonyms]
+  - black morel
+  - Morchella conica
+  - Morchella angusticeps
+  - narrowhead morel
+[Is a kind of]
+  - morel
+    - mushroom
+      - basidiomycete, basidiomycetous fungi
+        - fungus
+          - organism, being
+            - living thing, animate thing
+              - whole, unit
+                - object, physical object
+                  - physical entity
+                    - entity
+[Part of]
+  - Morchellaceae, family Morchellaceae

@@ -1,0 +1,22 @@
+term: cubeb vine
+[Definitions]
+  - (noun) tropical southeast Asian shrubby vine bearing spicy berrylike fruits
+[Synonyms]
+  - cubeb
+  - Java pepper
+  - Piper cubeba
+[Is a kind of]
+  - true pepper, pepper vine
+    - vine
+      - vascular plant, tracheophyte
+        - plant, flora, plant life
+          - organism, being
+            - living thing, animate thing
+              - whole, unit
+                - object, physical object
+                  - physical entity
+                    - entity
+[Part of]
+  - Piper, genus Piper
+[Parts]
+  - cubeb

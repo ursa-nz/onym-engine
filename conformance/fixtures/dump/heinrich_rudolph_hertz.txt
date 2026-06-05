@@ -1,0 +1,19 @@
+term: Heinrich Rudolph Hertz
+[Definitions]
+  - (noun) German physicist who was the first to produce electromagnetic waves artificially (1857-1894)
+[Synonyms]
+  - Hertz
+  - Heinrich Hertz
+[Is a kind of]
+  - physicist
+    - scientist
+      - person, individual, someone, somebody, mortal, soul
+        - organism, being
+          - living thing, animate thing
+            - whole, unit
+              - object, physical object
+                - physical entity
+                  - entity
+        - causal agent, cause, causal agency
+          - physical entity
+            - entity

@@ -1,0 +1,19 @@
+term: launchpad
+[Definitions]
+  - (noun) a platform from which rockets or space craft are launched
+[Synonyms]
+  - launching pad
+  - launch pad
+  - launch area
+  - pad
+[Is a kind of]
+  - platform
+    - horizontal surface, level
+      - surface
+        - artifact, artefact
+          - whole, unit
+            - object, physical object
+              - physical entity
+                - entity
+[Part of]
+  - launching site

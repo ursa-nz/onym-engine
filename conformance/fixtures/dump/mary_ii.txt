@@ -1,0 +1,19 @@
+term: Mary II
+[Definitions]
+  - (noun) Queen of England and Scotland and Ireland; she was the eldest daughter of James II and ruled jointly with her husband William III (1662-1694)
+[Is a kind of]
+  - Queen of England
+    - queen, queen regnant, female monarch
+      - female aristocrat
+        - aristocrat, blue blood, patrician
+          - leader
+            - person, individual, someone, somebody, mortal, soul
+              - organism, being
+                - living thing, animate thing
+                  - whole, unit
+                    - object, physical object
+                      - physical entity
+                        - entity
+              - causal agent, cause, causal agency
+                - physical entity
+                  - entity

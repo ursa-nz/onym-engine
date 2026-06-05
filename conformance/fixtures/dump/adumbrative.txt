@@ -1,0 +1,12 @@
+term: adumbrative
+[Definitions]
+  - (adjective) indistinctly prophetic
+[Synonyms]
+  - foreshadowing
+  - prefigurative
+[Antonyms]
+  - prophetic (indirect)
+      -> unprophetic
+[Similar to]
+  - prophetic
+  - prophetical

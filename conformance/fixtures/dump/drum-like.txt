@@ -1,0 +1,10 @@
+term: drum-like
+[Definitions]
+  - (adjective) shaped in a form resembling a drum
+[Synonyms]
+  - drum-shaped
+[Antonyms]
+  - formed (indirect)
+      -> unformed
+[Similar to]
+  - formed

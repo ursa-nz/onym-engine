@@ -1,0 +1,20 @@
+# SPDX-FileCopyrightText: 2026 ursa.nz <code@ursa.nz>
+# SPDX-License-Identifier: GPL-3.0-or-later
+
+version = 1
+
+# The conformance fixtures and corpus are derived from the WordNet 3.0 lexical database from
+# Princeton University, redistributed under the permissive WordNet licence. Declared here because
+# the data files carry no inline header.
+[[annotations]]
+path = ["conformance/fixtures/**", "conformance/corpus.txt"]
+precedence = "aggregate"
+SPDX-FileCopyrightText = "2006 Princeton University"
+SPDX-License-Identifier = "LicenseRef-WordNet"
+
+# Config files that cannot carry, or do not warrant, an inline header.
+[[annotations]]
+path = [".gitignore", ".editorconfig"]
+precedence = "aggregate"
+SPDX-FileCopyrightText = "2026 ursa.nz <code@ursa.nz>"
+SPDX-License-Identifier = "GPL-3.0-or-later"

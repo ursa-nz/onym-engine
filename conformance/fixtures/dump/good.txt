@@ -1,0 +1,1218 @@
+term: good
+[Definitions]
+  - (adjective) having desirable or positive qualities especially those suitable for a thing specified
+      "good news from the hospital"
+      "a good report card"
+      "when she was good she was very very good"
+      "a good knife is one good for cutting"
+      "this stump will make a good picnic table"
+      "a good check"
+      "a good joke"
+      "a good exterior paint"
+      "a good secretary"
+      "a good dress for the office"
+  - (adjective) having the normally expected amount
+      "gives full measure"
+      "gives good measure"
+      "a good mile from here"
+  - (adjective) morally admirable
+  - (adjective) deserving of esteem and respect
+      "all respectable companies give guarantees"
+      "ruined the family's good name"
+  - (adjective) promoting or enhancing well-being
+      "an arms limitation agreement beneficial to all countries"
+      "the beneficial effects of a temperate climate"
+      "the experience was good for her"
+  - (adjective) agreeable or pleasing
+      "we all had a good time"
+      "good manners"
+  - (adjective) of moral excellence
+      "a genuinely good person"
+      "a just cause"
+      "an upright and respectable man"
+  - (adjective) having or showing knowledge and skill and aptitude
+      "adept in handicrafts"
+      "an adept juggler"
+      "an expert job"
+      "a good mechanic"
+      "a practiced marksman"
+      "a proficient engineer"
+      "a lesser-known but no less skillful composer"
+      "the effect was achieved by skillful retouching"
+  - (adjective) thorough
+      "had a good workout"
+      "gave the house a good cleaning"
+  - (adjective) with or in a close or intimate relationship
+      "a good friend"
+      "my sisters and brothers are near and dear"
+  - (adjective) financially sound
+      "a good investment"
+      "a secure investment"
+  - (adjective) most suitable or right for a particular purpose
+      "a good time to plant tomatoes"
+      "the right time to act"
+      "the time is ripe for great sociological changes"
+  - (adjective) resulting favorably
+      "it's a good thing that I wasn't there"
+      "it is good that you stayed"
+      "it is well that no one saw you"
+      "all's well that ends well"
+  - (adjective) exerting force or influence
+      "the law is effective immediately"
+      "a warranty good for two years"
+      "the law is already in effect (or in force)"
+  - (adjective) capable of pleasing
+      "good looks"
+  - (adjective) appealing to the mind
+      "good music"
+      "a serious book"
+  - (adjective) in excellent physical condition
+      "good teeth"
+      "I still have one good leg"
+      "a sound mind in a sound body"
+  - (adjective) tending to promote physical well-being; beneficial to health
+      "beneficial effects of a balanced diet"
+      "a good night's sleep"
+      "the salutary influence of pure air"
+  - (adjective) not forged
+      "a good dollar bill"
+  - (adjective) not left to spoil
+      "the meat is still good"
+  - (adjective) generally admired
+      "good taste"
+  - (noun) benefit
+      "for your own good"
+      "what's the good of worrying?"
+  - (noun) moral excellence or admirableness
+      "there is much good to be found in people"
+  - (noun) that which is pleasing or valuable or useful
+      "weigh the good against the bad"
+      "among the highest goods of all are happiness and self-realization"
+  - (noun) articles of commerce
+  - (adverb) (often used as a combining form) in a good or proper or satisfactory manner or to a high standard (`good' is a nonstandard dialectal variant for `well')
+      "the children behaved well"
+      "a task well done"
+      "the party went well"
+      "he slept well"
+      "a well-argued thesis"
+      "a well-seasoned dish"
+      "a well-planned party"
+      "the baby can walk pretty good"
+  - (adverb) completely and absolutely (`good' is sometimes used informally for `thoroughly')
+      "he was soundly defeated"
+      "we beat him good"
+[Synonyms]
+  - goodness
+  - commodity
+  - trade good
+  - full
+  - estimable
+  - honorable
+  - respectable
+  - beneficial
+  - just
+  - upright
+  - adept
+  - expert
+  - practiced
+  - proficient
+  - skillful
+  - skilful
+  - dear
+  - near
+  - dependable
+  - safe
+  - secure
+  - right
+  - ripe
+  - well
+  - effective
+  - in effect
+  - in force
+  - serious
+  - sound
+  - salutary
+  - honest
+  - undecomposed
+  - unspoiled
+  - unspoilt
+  - thoroughly
+  - soundly
+[Antonyms]
+  - evil (direct)
+      -> evilness
+      -> atrocious
+      -> flagitious
+      -> grievous
+      -> monstrous
+      -> bad
+      -> black
+      -> dark
+      -> sinister
+      -> corruptive
+      -> perversive
+      -> pestiferous
+      -> demonic
+      -> diabolic
+      -> diabolical
+      -> fiendish
+      -> hellish
+      -> infernal
+      -> satanic
+      -> unholy
+      -> despicable
+      -> ugly
+      -> vile
+      -> slimy
+      -> unworthy
+      -> worthless
+      -> wretched
+      -> devilish
+      -> mephistophelian
+      -> mephistophelean
+      -> evil-minded
+  - bad (direct)
+      -> badness
+      -> atrocious
+      -> abominable
+      -> awful
+      -> dreadful
+      -> painful
+      -> terrible
+      -> unspeakable
+      -> corked
+      -> corky
+      -> deplorable
+      -> distressing
+      -> lamentable
+      -> pitiful
+      -> sad
+      -> sorry
+      -> fearful
+      -> frightful
+      -> hard
+      -> tough
+      -> hopeless
+      -> horrid
+      -> icky
+      -> crappy
+      -> lousy
+      -> rotten
+      -> shitty
+      -> stinking
+      -> stinky
+      -> ill
+      -> incompetent
+      -> unskilled
+      -> mediocre
+      -> naughty
+      -> negative
+      -> poor
+      -> pretty
+      -> rubber
+      -> no-good
+      -> severe
+      -> swingeing
+      -> uncool
+      -> unfavorable
+      -> unfavourable
+      -> unsuitable
+  - ample (indirect)
+      -> meager
+      -> meagre
+      -> meagerly
+      -> stingy
+      -> scrimpy
+  - reputable (indirect)
+      -> disreputable
+  - advantageous (indirect)
+      -> disadvantageous
+  - nice (indirect)
+      -> nasty
+      -> awful
+  - righteous (indirect)
+      -> unrighteous
+  - skilled (indirect)
+      -> unskilled
+  - complete (indirect)
+      -> incomplete
+      -> uncomplete
+  - close (indirect)
+      -> distant
+      -> remote
+  - sound (indirect)
+      -> unsound
+  - opportune (indirect)
+      -> inopportune
+  - fortunate (indirect)
+      -> unfortunate
+  - operative (indirect)
+      -> inoperative
+  - pleasing (indirect)
+      -> displeasing
+  - intellectual (indirect)
+      -> nonintellectual
+  - healthy (indirect)
+      -> unhealthy
+  - healthful (indirect)
+      -> unhealthful
+  - genuine (indirect)
+      -> counterfeit
+      -> imitative
+  - fresh (indirect)
+      -> stale
+  - discriminating (indirect)
+      -> undiscriminating
+      -> indiscriminating
+[Derived forms]
+  - goodness
+[Similar to]
+  - bang-up
+  - bully
+  - corking
+  - cracking
+  - dandy
+  - great
+  - groovy
+  - keen
+  - neat
+  - nifty
+  - not bad
+  - peachy
+  - slap-up
+  - swell
+  - smashing
+  - good enough
+  - goodish
+  - hot
+  - redeeming
+  - satisfactory
+  - acceptable
+  - solid
+  - superb
+  - well-behaved
+  - well behaved
+  - ample
+  - angelic
+  - angelical
+  - beatific
+  - saintlike
+  - saintly
+  - sainted
+  - goody-goody
+  - redemptive
+  - saving
+  - white
+  - reputable
+  - advantageous
+  - nice
+  - righteous
+  - skilled
+  - complete
+  - close
+  - sound
+  - opportune
+  - fortunate
+  - operative
+  - pleasing
+  - intellectual
+  - healthy
+  - healthful
+  - genuine
+  - echt
+  - fresh
+  - discriminating
+[Attributes]
+  - quality
+  - goodness
+[Is a kind of]
+  - advantage, vantage
+    - asset, plus
+      - quality
+        - attribute
+          - abstraction, abstract entity
+            - entity
+  - morality
+    - quality
+      - attribute
+        - abstraction, abstract entity
+          - entity
+  - quality
+    - attribute
+      - abstraction, abstract entity
+        - entity
+  - artifact, artefact
+    - whole, unit
+      - object, physical object
+        - physical entity
+          - entity
+[Kinds]
+  - common good, commonweal
+  - kindness
+    - generosity, generousness
+      - charitableness
+      - bounty, bounteousness
+      - bigheartedness
+      - liberality, liberalness
+        - munificence, largess, largesse, magnanimity, openhandedness
+      - unselfishness
+        - altruism, selflessness
+    - benevolence
+      - charity, brotherly love
+    - loving-kindness
+    - consideration, considerateness, thoughtfulness
+      - attentiveness
+      - tact, tactfulness
+        - delicacy, diplomacy, discreetness, finesse
+        - savoir-faire, address
+  - beneficence
+    - grace, grace of God, free grace
+  - benignity, benignancy, graciousness
+  - virtue, virtuousness, moral excellence
+  - virtue
+    - cardinal virtue
+      - natural virtue
+        - justice, justness
+          - fairness, equity
+            - non-discrimination
+            - sportsmanship
+          - right, rightfulness
+        - temperance, moderation
+          - sobriety, dryness
+          - abstemiousness
+        - prudence
+          - providence
+            - foresight, foresightedness, foresightfulness
+          - frugality, frugalness
+            - parsimony, parsimoniousness, thrift, penny-pinching
+            - economy, thriftiness
+        - fortitude
+          - backbone, grit, guts, moxie, sand, gumption
+      - theological virtue, supernatural virtue
+        - charity, brotherly love
+        - hope
+        - religion, faith, religious belief
+          - apophatism
+          - cataphatism
+          - doctrine of analogy, analogy
+          - cult, cultus, religious cult
+            - cargo cult
+            - macumba
+            - obeah, obi
+            - Rastafarianism
+            - voodoo, vodoun, voodooism, hoodooism
+              - hoodoo
+          - cult
+          - ecclesiasticism
+          - mysticism, religious mysticism
+            - quietism
+            - Sufism
+          - nature worship
+          - revealed religion
+          - theism
+            - monotheism
+              - Judaism
+                - Orthodox Judaism
+                  - Hasidism, Hassidism, Chasidism, Chassidism
+                    - Chabad, Chabad Hasidism
+                - Conservative Judaism
+                - Reform Judaism
+              - Islam, Islamism, Mohammedanism, Muhammadanism, Muslimism
+                - Mahdism
+                - Salafism, Salafi movement
+                - Shiism
+                  - Ismailism
+                - Wahhabism, Wahabism
+            - polytheism
+              - tritheism
+            - pantheism
+            - pantheism
+          - paganism, pagan religion, heathenism
+            - druidism
+          - Christianity, Christian religion
+            - Adventism, Second Adventism
+              - Seventh-Day Adventism
+            - Catholicism, Catholicity
+              - Romanism, Roman Catholicism, papism
+              - Eastern Catholicism
+            - Albigensianism, Catharism
+            - Donatism
+            - Protestantism
+              - predestinarianism
+              - Anglicanism
+                - Anglo-Catholicism, High Anglicanism
+              - Arminianism
+              - Calvinism
+              - Christian Science
+              - Lutheranism
+              - Unitarianism
+              - Trinitarianism
+              - Congregationalism
+              - Mennonitism
+              - evangelicalism
+                - revivalism
+              - fundamentalism
+              - Methodism
+              - Wesleyanism, Wesleyism
+              - Anabaptism
+              - Baptistic doctrine
+              - Mormonism
+              - pentecostalism
+              - Presbyterianism
+              - Puritanism
+            - Tractarianism, Puseyism
+          - Hinduism, Hindooism
+            - Darsana
+            - Mimamsa
+            - Vedanta
+            - Krishnaism
+            - Shivaism, Sivaism
+            - Shaktism, Saktism
+            - Vaishnavism, Vaisnavism, Vishnuism
+            - yoga
+            - Vedism
+          - Brahmanism, Brahminism
+          - Jainism
+          - Sikhism
+          - Buddhism
+            - Mahayana, Mahayana Buddhism
+              - Yogacara
+            - Theravada, Theravada Buddhism
+              - Hinayana, Hinayana Buddhism
+            - Lamaism, Tibetan Buddhism
+            - Zen, Zen Buddhism
+            - Shingon
+            - Tantra, Tantrism
+          - Taoism, Hsuan Chiao
+          - Shinto, Shintoism
+          - Manichaeism, Manichaeanism
+          - Mithraism, Mithraicism
+          - Zoroastrianism, Mazdaism
+            - Parsiism, Parseeism
+          - Bahaism
+          - shamanism, Asian shamanism
+          - shamanism
+          - Wicca
+  - saintliness
+  - summum bonum
+  - worthiness
+    - deservingness, merit, meritoriousness
+    - praiseworthiness, laudability, laudableness
+    - quotability
+    - roadworthiness
+  - desirability, desirableness
+  - benefit, welfare
+    - advantage, reward
+    - sake, interest
+      - behalf
+  - better
+  - optimum
+  - wisdom, wiseness, soundness
+    - advisability
+    - reasonableness
+      - sensibleness
+  - basic, staple
+  - consumer goods
+    - clothing, article of clothing, vesture, wear, wearable, habiliment
+      - accessory, accoutrement, accouterment
+        - belt
+          - baldric, baldrick
+          - cartridge belt
+            - bandoleer, bandolier
+          - holster
+          - money belt
+          - safety belt, life belt, safety harness
+            - seat belt, seatbelt
+          - Sam Browne belt
+        - furnishing, trappings
+      - apparel, wearing apparel, dress, clothes
+        - workwear
+          - jean, blue jean, denim
+            - Levi's, levis
+          - work-shirt
+      - array, raiment, regalia
+        - war paint
+      - attire, garb, dress
+        - ao dai
+        - costume
+          - fancy dress, masquerade, masquerade costume
+        - costume
+          - academic costume
+          - rigout
+        - costume
+        - costume
+        - disguise
+          - fancy dress, masquerade, masquerade costume
+          - mask
+            - domino, half mask, eye mask
+            - false face
+        - ecclesiastical attire, ecclesiastical robe
+        - finery
+          - Sunday best, Sunday clothes
+        - formalwear, eveningwear, evening dress, evening clothes
+          - balldress
+          - dinner dress, dinner gown, formal, evening gown
+          - dinner jacket, tux, tuxedo, black tie
+          - dress suit, full dress, tailcoat, tail coat, tails, white tie, white tie and tails
+        - habit
+          - frock
+          - monastic habit
+          - nun's habit
+        - habit, riding habit
+        - hairpiece, false hair, postiche
+          - Afro-wig
+          - switch
+          - toupee, toupe
+          - wig
+            - grizzle
+            - horsehair wig
+            - periwig, peruke
+        - morning dress
+        - outfit, getup, rig, turnout
+          - bib-and-tucker
+          - ensemble
+            - sailor suit
+          - playsuit
+          - trousseau
+        - sportswear, athletic wear, activewear
+          - gym suit
+          - running suit
+      - beachwear
+      - black
+      - blue
+      - change
+      - civilian clothing, civilian dress, civilian garb, plain clothes
+        - civies, civvies
+        - mufti
+      - drag
+      - footwear
+        - hosiery, hose
+          - sock
+            - anklet, anklets, bobbysock, bobbysocks
+            - argyle, argyll
+            - athletic sock, sweat sock, varsity sock
+            - knee-high, knee-hi
+            - tabi, tabis
+          - stocking
+            - boothose
+            - Christmas stocking
+            - knee-high, knee-hi
+            - nylons, nylon stocking, rayons, rayon stocking, silk stocking
+            - support hose, support stocking
+          - tights, leotards
+            - maillot
+            - pantyhose
+      - garment
+        - breechcloth, breechclout, loincloth
+          - dhoti
+        - burqa, burka
+        - camlet
+        - diaper, nappy, napkin
+        - fur
+        - gown, surgical gown, scrubs
+        - haik, haick
+        - hand-me-down
+        - head covering, veil
+          - chador, chadar, chaddar, chuddar
+          - face veil
+            - niqab
+          - yashmak, yashmac
+        - hose
+        - ironing
+          - flatwork, flat wash
+        - jump suit, jumpsuit
+        - kanzu
+        - laundry, wash, washing, washables
+        - legging, leging, leg covering
+          - chap
+          - gaiter
+          - puttee
+          - spat, gaiter
+        - leotard, unitard, body suit, cat suit
+        - mending
+        - motley
+        - neckwear
+          - cravat
+            - ascot
+            - neckcloth, stock
+          - necktie, tie
+            - bolo tie, bolo, bola tie, bola
+            - bow tie, bow-tie, bowtie
+              - black tie
+              - white tie
+            - four-in-hand
+            - old school tie
+            - string tie
+            - Windsor tie
+        - overgarment, outer garment
+          - aba
+          - cloak
+            - burnous, burnoose, burnouse
+            - caftan, kaftan
+            - cape, mantle
+              - chlamys
+              - mantelet, mantilla
+              - pelisse
+              - tippet
+            - capote, hooded cloak
+            - capuchin
+            - cope
+            - dolman
+            - domino
+            - jellaba
+            - opera cloak, opera hood
+            - pallium
+            - poncho
+            - shawl
+              - prayer shawl, tallith, tallis
+              - serape, sarape
+            - toga
+              - toga virilis
+            - tunic
+              - chiton
+              - gymslip
+              - kameez
+              - kirtle
+              - surcoat
+              - tabard
+            - wrap, wrapper
+          - coat
+            - box coat
+            - coatee
+            - cutaway
+            - duffel coat, duffle coat
+            - frock coat
+              - Prince Albert
+            - fur coat
+              - mink, mink coat
+              - sable coat
+            - greatcoat, overcoat, topcoat
+              - capote, hooded coat
+              - chesterfield
+              - surtout
+              - ulster
+            - jacket
+              - banyan, banian
+              - bed jacket
+              - blazer, sport jacket, sport coat, sports jacket, sports coat
+              - bolero
+              - bomber jacket
+              - bush jacket
+              - dolman, dolman jacket
+              - donkey jacket
+              - double-breasted jacket
+              - doublet
+              - dressing sack, dressing sacque
+              - Eton jacket
+              - hug-me-tight
+              - jerkin
+              - jumper
+              - lumberjack, lumber jacket
+              - Mao jacket
+              - mess jacket, monkey jacket, shell jacket
+              - Norfolk jacket
+              - parka, windbreaker, windcheater, anorak
+                - cagoule
+                - ski parka, ski jacket
+              - pea jacket, peacoat
+              - sack, sacque
+              - single-breasted jacket
+              - swallow-tailed coat, swallowtail, morning coat
+            - lab coat, laboratory coat
+            - mackinaw, Mackinaw coat
+            - newmarket
+            - raincoat, waterproof
+              - Burberry
+              - macintosh, mackintosh, mac, mack
+                - oilskin, slicker
+              - trench coat
+            - sack coat
+            - sheepskin coat, afghan
+            - surcoat
+            - topper
+          - izar
+          - snowsuit
+        - peplos, peplus, peplum
+        - raglan
+        - reversible
+        - robe
+          - abaya
+          - bathrobe
+          - dressing gown, robe-de-chambre, lounging robe
+          - kimono
+        - romper, romper suit
+        - sackcloth
+        - scapular, scapulary
+        - scarf
+          - feather boa, boa
+          - fichu
+          - kerchief
+            - headscarf
+              - babushka
+              - hijab
+              - khimar
+            - neckerchief
+          - lambrequin
+          - mantilla
+          - muffler
+          - patka
+          - rebozo
+          - sable
+          - stole
+          - tudung
+        - sealskin
+        - separate
+        - shirt
+          - camise
+          - dashiki, daishiki
+          - dress shirt, evening shirt
+          - hair shirt
+          - jersey, T-shirt, tee shirt
+            - turtleneck, turtle, polo-neck
+          - kurta
+          - polo shirt, sport shirt
+          - tank top
+          - work-shirt
+        - silks
+        - skirt
+          - ballet skirt, tutu
+          - culotte
+          - full skirt
+          - gathered skirt
+            - dirndl
+          - grass skirt
+          - hobble skirt
+          - hoopskirt, crinoline
+          - kilt
+          - lavalava
+          - maxi
+          - miniskirt, mini
+          - overskirt
+          - sarong
+        - stomacher
+        - straitjacket, straightjacket
+        - suit, suit of clothes
+          - business suit
+            - three-piece suit
+            - two-piece, two-piece suit, lounge suit
+          - double-breasted suit
+          - pinstripe
+          - single-breasted suit
+          - slack suit
+            - pants suit, pantsuit
+          - zoot suit
+        - sunsuit
+        - swaddling clothes, swaddling bands
+        - sweater, jumper
+          - cardigan
+          - pullover, slipover
+            - sweatshirt
+          - turtleneck, turtle, polo-neck
+        - sweat suit, sweatsuit, sweats, workout suit
+        - swimsuit, swimwear, bathing suit, swimming costume, bathing costume
+          - bikini, two-piece
+          - maillot, tank suit
+          - swimming trunks, bathing trunks
+        - trouser
+        - trouser, pant
+          - bellbottom trousers, bell-bottoms, bellbottom pants
+          - breeches, knee breeches, knee pants, knickerbockers, knickers
+            - britches
+            - buckskins
+            - plus fours
+            - trunk hose
+          - chino
+          - churidars
+          - cords, corduroys
+          - flannel, gabardine, tweed, white
+          - jean, blue jean, denim
+            - Levi's, levis
+          - jodhpurs, jodhpur breeches, riding breeches
+          - long trousers, long pants
+          - pajama, pyjama
+          - pantaloon
+          - pedal pusher, toreador pants
+          - salwar, shalwar
+          - short pants, shorts, trunks
+            - Bermuda shorts, Jamaica shorts
+            - hot pants
+            - lederhosen
+          - slacks
+          - stretch pants
+          - sweat pants, sweatpants
+          - trews
+        - undergarment, unmentionable
+          - body stocking
+          - brassiere, bra, bandeau
+            - uplift
+          - camisole, underbodice
+          - chemise, shimmy, shift, slip, teddy
+          - foundation garment, foundation
+            - corset, girdle, stays
+              - panty girdle
+            - roll-on
+          - garter belt, suspender belt
+          - long underwear, union suit
+          - petticoat, half-slip, underskirt
+            - crinoline
+          - singlet, vest, undershirt
+          - underpants
+            - bikini pants
+            - bloomers, pants, drawers, knickers
+            - briefs, Jockey shorts
+            - drawers, underdrawers, shorts, boxers, boxershorts
+            - pantie, panty, scanty, step-in
+            - thong
+          - underwear, underclothes, underclothing
+            - BVD, BVD's
+            - lingerie, intimate apparel
+              - nightgown, gown, nightie, night-robe, nightdress
+              - undies
+            - long johns
+            - Skivvies
+        - vest, waistcoat
+          - bulletproof vest
+        - weeds, widow's weeds
+        - wet suit
+        - wraparound
+      - grey, gray
+      - handwear, hand wear
+        - glove
+          - batting glove
+          - gauntlet, gantlet
+          - gauntlet, gantlet, metal glove
+          - golf glove
+          - kid glove, suede glove
+          - mitten
+        - muff
+      - headdress, headgear
+        - cap
+          - balaclava, balaclava helmet
+          - Balmoral, bluebonnet
+          - baseball cap, jockey cap, golf cap
+          - bathing cap, swimming cap
+          - beret
+          - biggin
+          - biretta, berretta, birretta
+          - calpac, calpack, kalpac
+          - cloth cap, flat cap
+          - cockscomb, coxcomb
+          - coonskin cap, coonskin
+          - fez, tarboosh
+          - garrison cap, overseas cap
+          - Glengarry
+          - kalansuwa
+          - kepi, peaked cap, service cap, yachting cap
+          - liberty cap
+          - mobcap
+          - mortarboard
+          - nightcap
+          - pinner
+          - sailor cap
+          - shower cap
+          - ski cap, stocking cap, toboggan cap
+          - skullcap
+            - beanie, beany
+            - coif
+            - yarmulke, yarmulka, yarmelke
+          - tam, tam-o'-shanter, tammy
+          - watch cap
+          - wishing cap
+        - hat, chapeau, lid
+          - bearskin, busby, shako
+          - boater, leghorn, Panama, Panama hat, sailor, skimmer, straw hat
+          - bonnet, poke bonnet
+            - sunbonnet
+          - bowler hat, bowler, derby hat, derby, plug hat
+          - campaign hat
+          - cavalier hat, slouch hat
+          - cocked hat
+            - bicorn, bicorne
+            - tricorn, tricorne
+          - cowboy hat, ten-gallon hat
+          - deerstalker
+          - dress hat, high hat, opera hat, silk hat, stovepipe, top hat, topper, beaver
+          - dunce cap, dunce's cap, fool's cap
+          - fedora, felt hat, homburg, Stetson, trilby
+          - fur hat
+            - beaver, castor
+          - millinery, woman's hat
+            - church hat
+            - cloche
+            - picture hat
+            - pillbox, toque, turban
+          - shovel hat
+          - snap-brim hat
+            - porkpie, porkpie hat
+          - sombrero
+          - sou'wester
+          - sunhat, sun hat
+            - pith hat, pith helmet, sun helmet, topee, topi
+            - sunbonnet
+          - titfer
+          - toque
+          - tyrolean, tirolean
+        - helmet
+          - batting helmet
+          - crash helmet
+            - skid lid
+          - football helmet
+          - hard hat, tin hat, safety hat
+          - headpiece
+          - space helmet
+        - hood
+          - calash, caleche
+          - camail, aventail, ventail
+          - cowl
+        - jewelled headdress, jeweled headdress
+          - crown, diadem
+            - coronet
+          - tiara
+        - kaffiyeh
+        - miter, mitre
+        - topknot
+        - turban
+        - wimple
+      - knitwear
+      - leisure wear
+      - loungewear
+        - lounger
+        - lounging jacket, smoking jacket
+        - lounging pajama, lounging pyjama
+      - man's clothing
+        - athletic supporter, supporter, suspensor, jockstrap, jock
+        - brace, suspender, gallus
+        - dress hat, high hat, opera hat, silk hat, stovepipe, top hat, topper, beaver
+      - neckpiece
+        - collar
+        - fur-piece
+      - nightwear, sleepwear, nightclothes
+        - nightgown, gown, nightie, night-robe, nightdress
+        - nightshirt
+        - pajama, pyjama, pj's, jammies
+          - sleeper
+      - outerwear, overclothes
+        - gown, robe
+          - academic gown, academic robe, judge's robe
+            - Geneva gown
+          - vestment
+            - alb
+            - cassock
+              - soutane
+            - chasuble
+            - humeral veil, veil
+            - pallium
+            - pontifical
+            - surplice
+      - protective garment
+        - apron
+        - arm guard, arm pad
+        - athletic supporter, supporter, suspensor, jockstrap, jock
+        - biohazard suit
+        - body pad
+        - chest protector
+        - coverall
+          - duster, gaberdine, gabardine, smock, dust coat
+          - jumper
+          - overall, boilersuit, boilers suit
+        - diving suit, diving dress
+        - elbow pad
+        - foul-weather gear
+        - hip pad
+        - knee pad
+        - pressure suit
+          - anti-G suit, G suit
+          - spacesuit
+        - shin guard, shinpad
+        - shoulder pad
+        - thigh pad
+        - throat protector
+        - wrist pad
+      - ready-to-wear
+      - slip-on
+      - slops
+      - street clothes
+      - tailor-made
+      - togs, threads, duds
+      - uniform
+        - jump suit
+        - livery
+        - military uniform
+          - battle dress
+          - dress uniform
+            - dress blues, dress whites
+          - fatigues
+          - full-dress uniform
+          - khakis
+          - olive drab, olive-drab uniform
+          - regimentals
+      - vestiture
+      - woman's clothing
+        - A-line
+        - brassiere, bra, bandeau
+          - uplift
+        - dress, frock
+          - caftan, kaftan
+          - chemise, sack, shift
+          - coatdress
+          - cocktail dress, sheath
+          - dirndl
+          - gown
+            - ball gown
+            - bridal gown, wedding gown, wedding dress
+            - dinner dress, dinner gown, formal, evening gown
+            - mantua
+            - tea gown
+          - jumper, pinafore, pinny
+          - kirtle
+          - morning dress
+          - Mother Hubbard, muumuu
+          - polonaise
+          - sari, saree
+          - shirtdress
+          - strapless
+          - sundress
+        - G-string, thong
+        - negligee, neglige, peignoir, wrapper, housecoat
+          - brunch coat
+          - camisole
+        - top
+          - blouse
+            - garibaldi
+            - guimpe
+            - middy, middy blouse
+            - shirtwaist, shirtwaister
+          - bodice
+          - bustier
+          - halter
+      - work-clothing, work-clothes
+        - overall
+    - durables, durable goods, consumer durables
+      - appliance
+        - dryer, drier
+          - clothes dryer, clothes drier
+            - mangle
+            - spin dryer, spin drier
+            - tumble-dryer, tumble drier
+            - wringer
+          - hand blower, blow dryer, blow drier, hair dryer, hair drier
+        - home appliance, household appliance
+          - curling iron
+          - iron, smoothing iron
+            - flatiron
+            - goffer, gauffer, goffering iron, gauffering iron
+            - steam iron
+            - travel iron
+          - kitchen appliance
+            - coffee maker
+              - espresso maker
+              - Silex
+            - disposal, electric pig, garbage disposal
+            - food processor
+            - hot plate, hotplate
+            - ice maker
+            - microwave, microwave oven
+            - oven
+              - broiler
+              - Dutch oven
+              - gas oven
+              - rotisserie
+              - tandoor
+            - stove, kitchen stove, range, kitchen range, cooking stove
+              - charcoal burner
+              - cookstove
+              - electric range
+              - gas range, gas stove, gas cooker
+              - potbelly, potbelly stove
+              - Primus stove, Primus
+              - spirit stove
+            - toaster
+            - toaster oven
+            - waffle iron
+          - sewing machine
+            - serger
+          - trouser press, pants presser
+          - vacuum, vacuum cleaner
+            - Hoover
+          - white goods
+            - clothes dryer, clothes drier
+              - mangle
+              - spin dryer, spin drier
+              - tumble-dryer, tumble drier
+              - wringer
+            - dishwasher, dish washer, dishwashing machine
+            - electric range
+            - refrigerator, icebox
+              - cooler, ice chest
+              - electric refrigerator, fridge
+                - deep-freeze, Deepfreeze, deep freezer, freezer
+                - ice machine
+            - washer, automatic washer, washing machine
+    - fashion
+    - grocery, foodstuff
+      - greengrocery
+      - packaged goods
+  - drygoods, soft goods
+    - haberdashery, men's furnishings
+    - white goods, household linen
+      - ironing
+        - flatwork, flat wash
+      - laundry, wash, washing, washables
+      - linen
+        - bath linen
+          - bath mat
+          - bath towel
+            - Turkish towel, terry towel
+          - washcloth, washrag, flannel, face cloth
+        - bed linen
+          - case, pillowcase, slip, pillow slip
+          - pillow sham
+          - sheet, bed sheet
+            - fitted sheet, contour sheet
+        - doily, doyley, doyly
+        - table linen, napery
+          - damask
+          - napkin, table napkin, serviette
+            - bib
+            - dinner napkin
+            - tea napkin
+          - place mat
+          - tablecloth
+            - tea cloth
+          - tray cloth
+  - entrant
+  - export, exportation
+  - fancy goods
+  - fungible
+  - future
+    - oil future, petroleum future
+    - soybean future
+    - wheat future
+  - import, importation
+  - merchandise, ware, product
+    - cargo, lading, freight, load, loading, payload, shipment, consignment
+    - contraband
+    - feature
+      - drawing card, loss leader, leader
+    - generic
+      - generic drug
+    - ironmongery
+    - irregular, second
+    - line, product line, line of products, line of merchandise, business line, line of business
+      - sideline
+    - number
+    - refill
+    - release
+    - schlock, shlock, dreck
+    - software package, software product
+    - stock, inventory
+    - top of the line
+    - yard goods, piece goods
+  - middling
+  - shopping
+  - sporting goods
+  - worldly possession, worldly good
+  - salvage
+[Domains]
+  - combining form
+  - colloquialism

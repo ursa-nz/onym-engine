@@ -1,0 +1,189 @@
+term: american
+[Definitions]
+  - (adjective) of or relating to the United States of America or its people or language or culture
+      "American citizens"
+      "American English"
+      "the American dream"
+  - (adjective) of or relating to or characteristic of the continents and islands of the Americas
+      "the American hemisphere"
+      "American flora and fauna"
+  - (noun) a native or inhabitant of the United States
+  - (noun) the English language as used in the United States
+  - (noun) a native or inhabitant of a North American or Central American or South American country
+[Synonyms]
+  - American English
+  - American language
+[Derived forms]
+  - Americanize
+  - Americanise
+  - American English
+  - American language
+  - United States
+  - United States of America
+  - America
+  - the States
+  - US
+  - U.S.
+  - USA
+  - U.S.A.
+[Pertains to]
+  - United States, United States of America, America, the States, US, U.S., USA, U.S.A.
+    - North American country, North American nation
+  - America
+    - land, dry land, earth, ground, solid ground, terra firma
+[Is a kind of]
+  - inhabitant, habitant, dweller, denizen, indweller
+    - person, individual, someone, somebody, mortal, soul
+      - organism, being
+        - living thing, animate thing
+          - whole, unit
+            - object, physical object
+              - physical entity
+                - entity
+      - causal agent, cause, causal agency
+        - physical entity
+          - entity
+  - English, English language
+    - West Germanic, West Germanic language
+      - Germanic, Germanic language
+        - Indo-European, Indo-European language, Indo-Hittite
+          - natural language, tongue
+            - language, linguistic communication
+              - communication
+                - abstraction, abstract entity
+                  - entity
+[Kinds]
+  - African-American, African American, Afro-American, Black American
+  - Asian American
+  - Creole
+  - Anglo-American
+  - Alabaman, Alabamian
+  - Alaskan
+    - Alaska Native, Alaskan Native, Native Alaskan
+  - Arizonan, Arizonian
+  - Arkansan, Arkansawyer
+  - Bay Stater
+  - Bostonian
+  - Californian
+  - Carolinian
+  - Coloradan
+  - Connecticuter
+  - Delawarean, Delawarian
+  - Floridian
+  - Franco-American
+  - German American
+  - Georgian
+  - Hawaiian
+    - Native Hawaiian
+  - Idahoan
+  - Illinoisan
+  - Indianan, Hoosier
+  - Iowan
+  - Kansan
+  - Kentuckian, Bluegrass Stater
+  - Louisianan, Louisianian
+  - Mainer, Down Easter
+  - Marylander
+  - Michigander, Wolverine
+  - Minnesotan, Gopher
+  - Mississippian
+  - Missourian
+  - Montanan
+  - Nebraskan, Cornhusker
+  - Nevadan
+  - New Hampshirite, Granite Stater
+  - New Jerseyan, New Jerseyite, Garden Stater
+  - New Mexican
+  - New Yorker
+    - East-sider
+    - West-sider
+  - North Carolinian, Tarheel
+  - North Dakotan
+  - Ohioan, Buckeye
+  - Oklahoman, Sooner
+  - Oregonian, Beaver
+  - Pennsylvanian, Keystone Stater
+  - Rhode Islander
+  - South Carolinian
+  - South Dakotan
+  - Tennessean, Volunteer
+  - Texan
+  - Utahan
+  - Vermonter
+  - Virginian
+  - Washingtonian
+  - West Virginian
+  - Wisconsinite, Badger
+  - Wyomingite
+  - Puerto Rican
+  - Yankee, Yank, Yankee-Doodle
+  - Appalachian
+  - New Englander, Yankee
+  - Nisei
+  - Southerner
+    - Confederate
+      - Confederate soldier
+        - bushwhacker
+        - Rebel, Reb, Johnny Reb, Johnny, greyback
+    - good old boy, good ole boy, good ol' boy
+  - Spanish American, Hispanic American, Hispanic
+    - criollo
+  - Tory
+  - Yankee, Yank, Northerner
+    - Federal, Federal soldier, Union soldier
+  - African American Vernacular English, AAVE, African American English, Black English, Black English Vernacular, Black Vernacular, Black Vernacular English, Ebonics
+  - Latin American, Latino
+    - spic, spik, spick
+    - transmigrante
+  - North American
+    - Bermudan, Bermudian
+    - Canadian
+      - French Canadian
+        - Acadian
+          - Cajun
+        - Canuck
+      - Nova Scotian, bluenose
+      - Quebecois
+    - Central American
+      - Costa Rican
+      - Guatemalan
+      - Honduran
+      - Mexican
+        - Chicano
+        - greaser, wetback, taco
+        - Mexican-American, Mexicano
+      - Nicaraguan
+        - Contra
+      - Panamanian
+  - South American
+    - Argentinian
+    - Bolivian
+    - Brazilian
+      - Carioca
+    - Chilean
+    - Colombian
+    - Ecuadorian, Ecuadoran
+    - Salvadoran, Salvadorian, Salvadorean
+    - Guyanese
+    - Paraguayan
+    - Peruvian
+    - Uruguayan
+    - Venezuelan
+  - Mesoamerican
+  - West Indian
+    - Anguillan
+    - Antiguan
+    - Bahamian
+    - Barbadian
+    - Cuban
+    - Haitian
+    - Jamaican
+    - Montserratian
+    - Grenadian
+    - Dominican
+    - Tobagonian
+[Part of]
+  - United States, United States of America, America, the States, US, U.S., USA, U.S.A.
+  - North America
+  - Central America
+  - South America

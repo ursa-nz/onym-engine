@@ -1,0 +1,23 @@
+term: reserve account
+[Definitions]
+  - (noun) funds taken out of earnings to provide for anticipated future payments
+[Synonyms]
+  - reserve fund
+[Is a kind of]
+  - reserve, backlog, stockpile
+    - accumulation
+      - net income, net, net profit, lucre, profit, profits, earnings
+        - income
+          - financial gain
+            - gain
+              - sum, sum of money, amount, amount of money
+                - assets
+                  - possession
+                    - relation
+                      - abstraction, abstract entity
+                        - entity
+[Kinds]
+  - hidden reserve
+    - cookie jar reserve
+  - pool
+  - valuation reserve, valuation account, allowance, allowance account

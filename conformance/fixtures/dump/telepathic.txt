@@ -1,0 +1,13 @@
+term: telepathic
+[Definitions]
+  - (adjective) communicating without apparent physical signals
+[Antonyms]
+  - extrasensory (indirect)
+      -> sensory
+      -> sensorial
+[Derived forms]
+  - telepathy
+  - thought transference
+[Similar to]
+  - extrasensory
+  - paranormal

@@ -1,0 +1,19 @@
+term: Odets
+[Definitions]
+  - (noun) United States playwright (1906-1963)
+[Synonyms]
+  - Clifford Odets
+[Is a kind of]
+  - dramatist, playwright
+    - writer, author
+      - communicator
+        - person, individual, someone, somebody, mortal, soul
+          - organism, being
+            - living thing, animate thing
+              - whole, unit
+                - object, physical object
+                  - physical entity
+                    - entity
+          - causal agent, cause, causal agency
+            - physical entity
+              - entity

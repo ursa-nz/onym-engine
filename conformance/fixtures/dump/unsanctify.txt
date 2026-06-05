@@ -1,0 +1,8 @@
+term: unsanctify
+[Definitions]
+  - (verb) remove the sanctification from or make unsanctified
+[Derived forms]
+  - profaneness
+  - unsanctification
+[Is a kind of]
+  - change, alter, modify

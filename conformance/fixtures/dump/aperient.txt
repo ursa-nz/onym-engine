@@ -1,0 +1,39 @@
+term: aperient
+[Definitions]
+  - (noun) a purging medicine; stimulates evacuation of the bowels
+  - (adjective) mildly laxative
+[Synonyms]
+  - purgative
+  - cathartic
+  - physic
+[Antonyms]
+  - laxative (indirect)
+      -> costive
+[Derived forms]
+  - purgative
+  - cathartic
+  - physic
+[Similar to]
+  - laxative
+[Is a kind of]
+  - medicine, medication, medicament, medicinal drug
+    - drug
+      - agent
+        - causal agent, cause, causal agency
+          - physical entity
+            - entity
+        - substance
+          - matter
+            - physical entity
+              - entity
+[Kinds]
+  - aloes, bitter aloes
+  - castor oil
+  - Epsom salts
+  - laxative
+    - phenolphthalein
+  - milk of magnesia
+  - Seidlitz powder, Seidlitz powders, Rochelle powder
+[Parts]
+  - medicine, medication, medicament, medicinal drug
+    - physostigmine

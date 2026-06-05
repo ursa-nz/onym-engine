@@ -1,0 +1,24 @@
+term: disarrayed
+[Definitions]
+  - (adjective) in disarray
+      "disarrayed bedclothes"
+  - (verb) bring disorder to
+[Synonyms]
+  - disorder
+[Antonyms]
+  - disarranged (indirect)
+      -> arranged
+      -> ordered
+[Derived forms]
+  - disorderliness
+[Similar to]
+  - disarranged
+[Is a kind of]
+  - change, alter, modify
+[Kinds]
+  - mess, mess up
+  - perturb, derange, throw out of kilter
+  - disarrange
+    - randomize, randomise
+  - scramble, jumble, throw together
+    - tumble

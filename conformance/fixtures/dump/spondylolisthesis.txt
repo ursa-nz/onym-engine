@@ -1,0 +1,14 @@
+term: spondylolisthesis
+[Definitions]
+  - (noun) a forward dislocation of one vertebra over the one beneath it producing pressure on spinal nerves
+[Is a kind of]
+  - dislocation
+    - injury, hurt, harm, trauma
+      - ill health, unhealthiness, health problem
+        - pathological state
+          - physical condition, physiological state, physiological condition
+            - condition, status
+              - state
+                - attribute
+                  - abstraction, abstract entity
+                    - entity

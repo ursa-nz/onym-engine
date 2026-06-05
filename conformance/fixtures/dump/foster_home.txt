@@ -1,0 +1,11 @@
+term: foster home
+[Definitions]
+  - (noun) a household in which an orphaned or delinquent child is placed (usually by a social-service agency)
+[Is a kind of]
+  - family, household, house, home, menage
+    - unit, social unit
+      - organization, organisation
+        - social group
+          - group, grouping
+            - abstraction, abstract entity
+              - entity

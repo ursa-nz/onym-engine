@@ -1,0 +1,75 @@
+term: turreae
+[Definitions]
+  - (noun) any of numerous trees and shrubs grown for their beautiful glossy foliage and sweetly fragrant starry flowers
+[Is a kind of]
+  - tree
+    - woody plant, ligneous plant
+      - vascular plant, tracheophyte
+        - plant, flora, plant life
+          - organism, being
+            - living thing, animate thing
+              - whole, unit
+                - object, physical object
+                  - physical entity
+                    - entity
+[Part of]
+  - genus Turreae
+    - Meliaceae, family Meliaceae, mahogany family
+      - Geraniales, order Geraniales
+        - Rosidae, subclass Rosidae
+          - Dicotyledones, class Dicotyledones, Dicotyledonae, class Dicotyledonae, Magnoliopsida, class Magnoliopsida
+            - Angiospermae, class Angiospermae, Magnoliophyta, division Magnoliophyta, Anthophyta, division Anthophyta
+              - Spermatophyta, division Spermatophyta
+                - Plantae, kingdom Plantae, plant kingdom
+[Parts]
+  - tree
+    - sapwood
+    - heartwood, duramen
+    - stump, tree stump
+    - crown, treetop
+    - limb, tree branch
+    - trunk, tree trunk, bole
+      - bark
+    - burl
+    - woody plant, ligneous plant
+      - lignum
+      - xylem
+        - tracheid
+      - vascular plant, tracheophyte
+        - vascular system
+          - vessel, vas
+          - vascular tissue
+        - duct
+        - vascular tissue
+        - plant, flora, plant life
+          - hood, cap
+          - plant part, plant structure
+          - organism, being
+            - tissue
+            - cell
+              - cell membrane, cytomembrane, plasma membrane
+              - energid, protoplast
+              - cytoplasm, cytol
+                - cytoskeleton
+                - microsome
+                - Golgi body, Golgi apparatus, Golgi complex, dictyosome
+              - nucleus, cell nucleus, karyon
+                - nucleolus, nucleole
+                - chromatin, chromatin granule
+                - achromatin
+                - linin
+                - chromosome
+                  - nucleolus organizer, nucleolus organiser, nucleolar organizer, nucleolar organiser
+                  - chromatin, chromatin granule
+                  - gene, cistron, factor
+                  - chromatid
+                  - centromere, kinetochore
+                  - telomere
+              - organelle, cell organelle, cell organ
+              - vacuole
+            - body part
+              - corpus
+            - living thing, animate thing
+              - whole, unit
+                - part, portion
+                - section, segment

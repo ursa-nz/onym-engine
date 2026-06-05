@@ -1,0 +1,23 @@
+term: marmalade tree
+[Definitions]
+  - (noun) tropical American tree having wood like mahogany and sweet edible egg-shaped fruit; in some classifications placed in the genus Calocarpum
+[Synonyms]
+  - mammee
+  - sapote
+  - Pouteria zapota
+  - Calocarpum zapota
+[Is a kind of]
+  - tree
+    - woody plant, ligneous plant
+      - vascular plant, tracheophyte
+        - plant, flora, plant life
+          - organism, being
+            - living thing, animate thing
+              - whole, unit
+                - object, physical object
+                  - physical entity
+                    - entity
+[Part of]
+  - Pouteria, genus Pouteria
+[Parts]
+  - sapote, mammee, marmalade plum

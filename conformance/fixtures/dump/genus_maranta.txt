@@ -1,0 +1,15 @@
+term: genus Maranta
+[Definitions]
+  - (noun) herbs of tropical America
+[Is a kind of]
+  - monocot genus, liliopsid genus
+    - genus
+      - taxonomic group, taxonomic category, taxon
+        - biological group
+          - group, grouping
+            - abstraction, abstract entity
+              - entity
+[Part of]
+  - Marantaceae, family Marantaceae, arrowroot family
+[Parts]
+  - maranta

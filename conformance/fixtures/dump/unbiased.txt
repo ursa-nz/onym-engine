@@ -1,0 +1,19 @@
+term: unbiased
+[Definitions]
+  - (adjective) characterized by a lack of partiality
+      "a properly indifferent jury"
+      "an unbiasgoted account of her family problems"
+  - (adjective) without bias
+[Synonyms]
+  - indifferent
+  - unbiassed
+[Antonyms]
+  - impartial (indirect)
+      -> partial
+  - nonpartisan (indirect)
+      -> partisan
+      -> partizan
+[Similar to]
+  - impartial
+  - nonpartisan
+  - nonpartizan

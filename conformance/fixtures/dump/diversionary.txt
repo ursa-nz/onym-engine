@@ -1,0 +1,15 @@
+term: diversionary
+[Definitions]
+  - (adjective) (of tactics e.g.) likely or designed to confuse or deceive
+[Antonyms]
+  - indirect (indirect)
+      -> direct
+[Derived forms]
+  - diversion
+  - deviation
+  - digression
+  - deflection
+  - deflexion
+  - divagation
+[Similar to]
+  - indirect

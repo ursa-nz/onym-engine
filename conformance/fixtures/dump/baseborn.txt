@@ -1,0 +1,21 @@
+term: baseborn
+[Definitions]
+  - (adjective) of low birth or station (`base' is archaic in this sense)
+      "baseborn wretches with dirty faces"
+      "of humble (or lowly) birth"
+  - (adjective) illegitimate
+[Synonyms]
+  - base
+  - humble
+  - lowly
+[Antonyms]
+  - lowborn (indirect)
+      -> noble
+  - illegitimate (indirect)
+      -> legitimate
+[Similar to]
+  - lowborn
+  - illegitimate
+[Domains]
+  - archaism
+  - archaicism

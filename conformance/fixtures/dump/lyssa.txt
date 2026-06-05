@@ -1,0 +1,20 @@
+term: lyssa
+[Definitions]
+  - (noun) an acute viral disease of the nervous system of warm-blooded animals (usually transmitted by the bite of a rabid animal); rabies is fatal if the virus reaches the brain
+[Synonyms]
+  - rabies
+  - hydrophobia
+  - madness
+[Is a kind of]
+  - zoonosis, zoonotic disease
+    - animal disease
+      - disease
+        - illness, unwellness, malady, sickness
+          - ill health, unhealthiness, health problem
+            - pathological state
+              - physical condition, physiological state, physiological condition
+                - condition, status
+                  - state
+                    - attribute
+                      - abstraction, abstract entity
+                        - entity

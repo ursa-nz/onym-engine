@@ -1,0 +1,41 @@
+term: eructation
+[Definitions]
+  - (noun) (of volcanos) pouring out fumes or lava (or a deposit so formed)
+  - (noun) a reflex that expels gas noisily from the stomach through the mouth
+[Synonyms]
+  - eruption
+  - extravasation
+  - belch
+  - belching
+  - burp
+  - burping
+[Derived forms]
+  - spew
+  - spew out
+  - eruct
+  - burp
+  - bubble
+  - belch
+[Is a kind of]
+  - action, activity, activeness
+    - state
+      - attribute
+        - abstraction, abstract entity
+          - entity
+  - reflex, reflex response, reflex action, instinctive reflex, innate reflex, inborn reflex, unconditioned reflex, physiological reaction
+    - reaction, response
+      - bodily process, body process, bodily function, activity
+        - organic process, biological process
+          - process, physical process
+            - physical entity
+              - entity
+  - expulsion, projection, ejection, forcing out
+    - propulsion, actuation
+      - act, deed, human action, human activity
+        - event
+          - psychological feature
+            - abstraction, abstract entity
+              - entity
+[Domains]
+  - vent
+  - volcano

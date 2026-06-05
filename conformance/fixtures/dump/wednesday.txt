@@ -1,0 +1,15 @@
+term: Wednesday
+[Definitions]
+  - (noun) the fourth day of the week; the third working day
+[Synonyms]
+  - Midweek
+  - Wed
+[Is a kind of]
+  - weekday
+    - day of the week
+      - calendar day, civil day
+        - time period, period of time, period
+          - fundamental quantity, fundamental measure
+            - measure, quantity, amount
+              - abstraction, abstract entity
+                - entity

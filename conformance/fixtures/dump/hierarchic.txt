@@ -1,0 +1,15 @@
+term: hierarchic
+[Definitions]
+  - (adjective) classified according to various criteria into successive levels or layers
+      "it has been said that only a hierarchical society with a leisure class at the top can produce works of art"
+      "in her hierarchical set of values honesty comes first"
+[Synonyms]
+  - hierarchical
+  - hierarchal
+[Similar to]
+  - class-conscious
+  - stratified
+  - gradable
+  - graded
+  - ranked
+  - vertical

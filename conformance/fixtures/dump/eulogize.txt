@@ -1,0 +1,14 @@
+term: eulogize
+[Definitions]
+  - (verb) praise formally and eloquently
+      "The dead woman was eulogized at the funeral"
+[Synonyms]
+  - eulogise
+[Derived forms]
+  - eulogy
+  - eulogium
+[Is a kind of]
+  - praise
+    - measure, evaluate, valuate, assess, appraise, value
+      - evaluate, pass judgment, judge
+        - think, cogitate, cerebrate

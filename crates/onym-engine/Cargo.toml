@@ -1,0 +1,14 @@
+# SPDX-FileCopyrightText: 2026 ursa.nz <code@ursa.nz>
+# SPDX-License-Identifier: GPL-3.0-or-later
+
+[package]
+name = "onym-engine"
+version = "0.0.1"
+edition = "2024"
+license = "GPL-3.0-or-later"
+description = "The WordNet 3.0 engine behind Onym and Onymdroid: model, morphology, lemma index, and lookup rules"
+repository = "https://forge.ursa.nz/ursa-nz/onym-engine"
+
+# The engine is std-only by design. This section stays empty so the promise is explicit, and a
+# dependency arrives as a policy change rather than a routine addition.
+[dependencies]

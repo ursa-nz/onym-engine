@@ -1,0 +1,53 @@
+term: ruination
+[Definitions]
+  - (noun) an irrecoverable state of devastation and destruction
+      "you have brought ruin on this entire family"
+  - (noun) an event that results in destruction
+  - (noun) failure that results in a loss of position or reputation
+  - (noun) destruction achieved by causing something to be wrecked or ruined
+[Synonyms]
+  - ruin
+  - downfall
+  - laying waste
+  - ruining
+  - wrecking
+[Derived forms]
+  - ruin
+  - destroy
+[Is a kind of]
+  - devastation, desolation
+    - deterioration, impairment
+      - decay
+        - unsoundness
+          - condition, status
+            - state
+              - attribute
+                - abstraction, abstract entity
+                  - entity
+  - destruction, demolition, wipeout
+    - ending, conclusion, finish
+      - happening, occurrence, occurrent, natural event
+        - event
+          - psychological feature
+            - abstraction, abstract entity
+              - entity
+  - failure
+    - happening, occurrence, occurrent, natural event
+      - event
+        - psychological feature
+          - abstraction, abstract entity
+            - entity
+  - destruction, devastation
+    - termination, ending, conclusion
+      - change of state
+        - change
+          - action
+            - act, deed, human action, human activity
+              - event
+                - psychological feature
+                  - abstraction, abstract entity
+                    - entity
+[Kinds]
+  - devastation, desolation
+  - shipwreck
+  - finish

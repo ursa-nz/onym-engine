@@ -1,0 +1,13 @@
+term: syllogise
+[Definitions]
+  - (verb) reason by syllogisms
+[Synonyms]
+  - syllogize
+[Derived forms]
+  - syllogist
+  - syllogizer
+  - syllogiser
+  - syllogism
+[Is a kind of]
+  - reason, reason out, conclude
+    - think, cogitate, cerebrate

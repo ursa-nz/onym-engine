@@ -1,0 +1,9 @@
+term: Isthmus of Suez
+[Definitions]
+  - (noun) the isthmus in northeastern Egypt that connects Africa and Asia
+[Is a kind of]
+  - isthmus
+    - land, dry land, earth, ground, solid ground, terra firma
+      - object, physical object
+        - physical entity
+          - entity

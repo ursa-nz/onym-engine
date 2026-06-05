@@ -1,0 +1,46 @@
+term: woodworking plane
+[Definitions]
+  - (noun) a carpenter's hand tool with an adjustable blade for smoothing or shaping wood
+      "the cabinetmaker used a plane for the finish work"
+[Synonyms]
+  - plane
+  - carpenter's plane
+[Is a kind of]
+  - edge tool
+    - cutter, cutlery, cutting tool
+      - cutting implement
+        - tool
+          - implement
+            - instrumentality, instrumentation
+              - artifact, artefact
+                - whole, unit
+                  - object, physical object
+                    - physical entity
+                      - entity
+  - hand tool
+    - tool
+      - implement
+        - instrumentality, instrumentation
+          - artifact, artefact
+            - whole, unit
+              - object, physical object
+                - physical entity
+                  - entity
+[Kinds]
+  - beading plane
+  - block plane
+  - bullnose, bullnosed plane
+  - chamfer plane
+  - circular plane, compass plane
+  - combination plane
+  - dovetail plane
+  - fore plane
+  - jack plane
+  - jointer, jointer plane, jointing plane, long plane
+  - match plane, tonguing and grooving plane
+  - openside plane, rabbet plane
+    - dado plane
+  - router plane
+  - scrub plane
+  - smooth plane, smoothing plane
+  - spokeshave

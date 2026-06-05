@@ -1,0 +1,16 @@
+term: reprehensibility
+[Definitions]
+  - (noun) being reprehensible; worthy of and deserving reprehension or reproof
+[Derived forms]
+  - condemnable
+  - criminal
+  - deplorable
+  - reprehensible
+  - vicious
+[Is a kind of]
+  - evil, evilness
+    - immorality
+      - quality
+        - attribute
+          - abstraction, abstract entity
+            - entity

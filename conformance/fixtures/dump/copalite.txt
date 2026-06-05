@@ -1,0 +1,33 @@
+term: copalite
+[Definitions]
+  - (noun) partly mineralized copal dug from the ground
+[Synonyms]
+  - copaline
+  - fossil copal
+[Is a kind of]
+  - copal
+    - natural resin
+      - resin, rosin
+        - organic compound
+          - compound, chemical compound
+            - chemical, chemical substance
+              - material, stuff
+                - substance
+                  - matter
+                    - physical entity
+                      - entity
+                  - part, portion, component part, component, constituent
+                    - relation
+                      - abstraction, abstract entity
+                        - entity
+      - plant product
+        - plant material, plant substance
+          - material, stuff
+            - substance
+              - matter
+                - physical entity
+                  - entity
+              - part, portion, component part, component, constituent
+                - relation
+                  - abstraction, abstract entity
+                    - entity

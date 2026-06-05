@@ -1,0 +1,19 @@
+term: solemnization
+[Definitions]
+  - (noun) the public performance of a sacrament or solemn ceremony with all appropriate ritual
+      "the celebration of marriage"
+[Synonyms]
+  - celebration
+  - solemnisation
+[Derived forms]
+  - solemnize
+  - solemnise
+[Is a kind of]
+  - ritual
+    - practice, pattern
+      - activity
+        - act, deed, human action, human activity
+          - event
+            - psychological feature
+              - abstraction, abstract entity
+                - entity

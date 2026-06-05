@@ -1,0 +1,13 @@
+term: team sport
+[Definitions]
+  - (noun) a sport that involves competition between teams of players
+      "baseball is a team sport by golf is not"
+[Is a kind of]
+  - sport, athletics
+    - diversion, recreation
+      - activity
+        - act, deed, human action, human activity
+          - event
+            - psychological feature
+              - abstraction, abstract entity
+                - entity

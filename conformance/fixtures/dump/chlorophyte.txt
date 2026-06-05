@@ -1,0 +1,23 @@
+term: chlorophyte
+[Definitions]
+  - (noun) algae that are clear green in color; often growing on wet ricks or damp wood or the surface of stagnant water
+[Synonyms]
+  - green algae
+[Is a kind of]
+  - alga, algae
+    - protoctist
+      - microorganism, micro-organism
+        - organism, being
+          - living thing, animate thing
+            - whole, unit
+              - object, physical object
+                - physical entity
+                  - entity
+[Kinds]
+  - sea lettuce, laver
+  - pond scum
+  - spirogyra
+  - stonewort
+  - desmid
+[Part of]
+  - Chlorophyta, division Chlorophyta

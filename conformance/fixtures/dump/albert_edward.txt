@@ -1,0 +1,37 @@
+term: Albert Edward
+[Definitions]
+  - (noun) King of England from 1901 to 1910; son of Victoria and Prince Albert; famous for his elegant sporting ways (1841-1910)
+[Synonyms]
+  - Edward
+  - Edward VII
+[Is a kind of]
+  - King of England, King of Great Britain
+    - king, male monarch, Rex
+      - sovereign, crowned head, monarch
+        - ruler, swayer
+          - person, individual, someone, somebody, mortal, soul
+            - organism, being
+              - living thing, animate thing
+                - whole, unit
+                  - object, physical object
+                    - physical entity
+                      - entity
+            - causal agent, cause, causal agency
+              - physical entity
+                - entity
+        - head of state, chief of state
+          - representative
+            - negotiator, negotiant, treater
+              - communicator
+                - person, individual, someone, somebody, mortal, soul
+                  - organism, being
+                    - living thing, animate thing
+                      - whole, unit
+                        - object, physical object
+                          - physical entity
+                            - entity
+                  - causal agent, cause, causal agency
+                    - physical entity
+                      - entity
+[Part of]
+  - Saxe-Coburg-Gotha

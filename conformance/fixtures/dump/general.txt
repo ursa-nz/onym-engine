@@ -1,0 +1,219 @@
+term: general
+[Definitions]
+  - (adjective) applying to all or most members of a category or group
+      "the general public"
+      "general assistance"
+      "a general rule"
+      "in general terms"
+      "comprehensible to the general reader"
+  - (adjective) not specialized or limited to one class of things
+      "general studies"
+      "general knowledge"
+  - (adjective) prevailing among and common to the general public
+      "the general discontent"
+  - (adjective) affecting the entire body
+      "a general anesthetic"
+      "general symptoms"
+  - (adjective) somewhat indefinite
+      "bearing a general resemblance to the original"
+      "a general description of the merchandise"
+  - (adjective) of worldwide scope or applicability
+      "an issue of cosmopolitan import"
+      "the shrewdest political and ecumenical comment of our time- Christopher Morley"
+      "universal experience"
+  - (noun) a general officer of the highest rank
+  - (noun) the head of a religious order or congregation
+  - (noun) a fact about the whole (as opposed to particular)
+      "he discussed the general but neglected the particular"
+  - (verb) command as a general
+      "We are generaled by an incompetent!"
+[Synonyms]
+  - full general
+  - superior general
+  - cosmopolitan
+  - ecumenical
+  - oecumenical
+  - universal
+  - worldwide
+  - world-wide
+[Antonyms]
+  - particular (direct)
+      -> specific
+  - specific (direct)
+      -> particular
+      -> ad hoc
+      -> circumstantial
+      -> limited
+      -> special
+      -> peculiar
+      -> particularized
+      -> particularised
+      -> proper
+      -> unique
+  - undiversified (indirect)
+      -> diversified
+  - common (indirect)
+      -> uncommon
+  - local (direct)
+      -> localized
+      -> localised
+      -> topical
+  - imprecise (indirect)
+      -> precise
+  - comprehensive (indirect)
+      -> noncomprehensive
+      -> incomprehensive
+[Derived forms]
+  - generalship
+  - generalcy
+  - full general
+  - generality
+  - generalization
+  - generalisation
+[Similar to]
+  - broad
+  - unspecific
+  - general-purpose
+  - all-purpose
+  - generic
+  - gross
+  - overall
+  - pandemic
+  - universal
+  - widespread
+  - undiversified
+  - common
+  - systemic
+  - imprecise
+  - comprehensive
+[Attributes]
+  - generality
+[Is a kind of]
+  - general officer
+    - commissioned military officer
+      - commissioned officer
+        - military officer, officer
+          - serviceman, military man, man, military personnel
+            - skilled worker, trained worker, skilled workman
+              - worker
+                - person, individual, someone, somebody, mortal, soul
+                  - organism, being
+                    - living thing, animate thing
+                      - whole, unit
+                        - object, physical object
+                          - physical entity
+                            - entity
+                  - causal agent, cause, causal agency
+                    - physical entity
+                      - entity
+  - head, chief, top dog
+    - leader
+      - person, individual, someone, somebody, mortal, soul
+        - organism, being
+          - living thing, animate thing
+            - whole, unit
+              - object, physical object
+                - physical entity
+                  - entity
+        - causal agent, cause, causal agency
+          - physical entity
+            - entity
+  - fact
+    - information
+      - cognition, knowledge, noesis
+        - psychological feature
+          - abstraction, abstract entity
+            - entity
+  - command
+    - dominate, master
+      - control, command
+[Kinds]
+  - Agricola, Gnaeus Julius Agricola
+  - Alcibiades
+  - Antigonus, Antigonus Cyclops, Monophthalmos
+  - Antony, Anthony, Mark Antony, Mark Anthony, Antonius, Marcus Antonius
+  - Arnold, Benedict Arnold
+  - Belisarius
+  - Belshazzar
+  - Blucher, von Blucher, G. L. von Blucher, Gebhard Leberecht von Blucher
+  - Bolivar, Simon Bolivar, El Libertador
+  - Bradley, Omar Bradley, Omar Nelson Bradley
+  - Bragg, Braxton Bragg
+  - Burgoyne, John Burgoyne, Gentleman Johnny
+  - Burnside, A. E. Burnside, Ambrose Everett Burnside
+  - Caesar, Julius Caesar, Gaius Julius Caesar
+  - Chiang Kai-shek, Chiang Chung-cheng
+  - Churchill, John Churchill, Duke of Marlborough, First Duke of Marlborough
+  - Clark, Mark Clark, Mark Wayne Clark
+  - Clausewitz, Karl von Clausewitz
+  - Clay, Lucius Clay, Lucius DuBignon Clay
+  - Clive, Robert Clive, Baron Clive, Baron Clive of Plassey
+  - Cornwallis, Charles Cornwallis, First Marquess Cornwallis
+  - Cromwell, Oliver Cromwell, Ironsides
+  - Cumberland, William Augustus, Duke of Cumberland, Butcher Cumberland
+  - Custer, George Armstrong Custer, General Custer
+  - Dayan, Moshe Dayan
+  - de Gaulle, General de Gaulle, Charles de Gaulle, General Charles de Gaulle, Charles Andre Joseph Marie de Gaulle
+  - Demetrius, Demetrius I, Demetrius Poliorcetes
+  - Doolittle, Jimmy Doolittle, James Harold Doolittle
+  - Dowding, Hugh Dowding, Baron Hugh Caswall Tremenheere Dowding, Dowdy
+  - Eisenhower, Dwight Eisenhower, Dwight D. Eisenhower, Dwight David Eisenhower, Ike, President Eisenhower
+  - Eugene, Prince Eugene of Savoy
+  - Flaminius, Gaius Flaminius
+  - Franco, Francisco Franco, El Caudillo, General Franco
+  - Garibaldi, Giuseppe Garibaldi
+  - Grant, Ulysses Grant, Ulysses S. Grant, Ulysses Simpson Grant, Hiram Ulysses Grant, President Grant
+  - Groves, Leslie Richard Groves
+  - Hannibal
+  - Harris, Bomber Harris, Sir Arthur Travers Harris
+  - Hasdrubal
+  - Hindenburg, Paul von Hindenburg, Paul Ludwig von Beneckendorff und von Hindenburg
+  - Holofernes
+  - Hooker, Joseph Hooker, Fighting Joe Hooker
+  - Houston, Sam Houston, Samuel Houston
+  - Jackson, Andrew Jackson, Old Hickory
+  - Jackson, Thomas Jackson, Thomas J. Jackson, Thomas Jonathan Jackson, Stonewall Jackson
+  - Johnston, J. E. Johnston, Joseph Eggleston Johnston
+  - Josephus, Flavius Josephus, Joseph ben Matthias
+  - Lee, Robert E. Lee, Robert Edward Lee
+  - Lucullus, Licinius Lucullus, Lucius Licinius Lucullus
+  - Luculus, Lucius Licinius Luculus
+  - Lysander
+  - Lysimachus
+  - MacArthur, Douglas MacArthur
+  - Marshall, George Marshall, George Catlett Marshall
+  - Meade, George Gordon Meade
+  - Miltiades
+  - Mitchell, William Mitchell, Billy Mitchell
+  - Montgomery, Bernard Law Montgomery, Sir Bernard Law Montgomery, 1st Viscount Montgomery of Alamein
+  - Napoleon, Napoleon I, Napoleon Bonaparte, Bonaparte, Little Corporal
+  - Ney, Michel Ney, Duc d'Elchingen
+  - Pershing, John Joseph Pershing, Black Jack Pershing
+  - Pickett, George Edward Pickett
+  - Pompey, Gnaeus Pompeius Magnus, Pompey the Great
+  - Powell, Colin Powell, Colin luther Powell
+  - Rochambeau, Comte de Rochambeau, Jean Baptiste Donatien de Vimeur
+  - Santa Anna, Santa Ana, Antonio Lopez de Santa Anna, Antonio Lopez de Santa Ana
+  - Saxe, Hermann Maurice Saxe, comte de Saxe, Marshal Saxe
+  - Scipio, Scipio Africanus, Scipio Africanus Major, Publius Cornelius Scipio, Publius Cornelius Scipio Africanus Major, Scipio the Elder
+  - Scott, Winfield Scott
+  - Seleucus, Seleucus I, Seleucus I Nicator
+  - Sherman, William Tecumseh Sherman
+  - Siraj-ud-daula
+  - Stilwell, Joseph Warren Stilwell, Vinegar Joe Stilwell, Uncle Joe
+  - Sulla, Lucius Cornelius Sulla Felix
+  - Wallenstein, Albrecht Eusebius Wenzel von Wallenstein
+  - Washington, George Washington, President Washington
+  - Wavell, Archibald Percival Wavell, First Earl Wavell
+  - Wayne, Anthony Wayne, Mad Anthony Wayne
+  - Wellington, Duke of Wellington, First Duke of Wellington, Arthur Wellesley, Iron Duke
+  - Xenophon
+  - Zhukov, Georgi Zhukov, Georgi Konstantinovich Zhukov
+[Domains]
+  - military
+  - armed forces
+  - armed services
+  - military machine
+  - war machine
+  - medicine
+  - medical specialty

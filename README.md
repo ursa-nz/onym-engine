@@ -1,0 +1,51 @@
+<!--
+SPDX-FileCopyrightText: 2026 ursa.nz <code@ursa.nz>
+SPDX-License-Identifier: GPL-3.0-or-later
+-->
+
+# onym-engine
+
+onym-engine is the WordNet 3.0 engine behind Onym and Onymdroid, written in Rust. It is std-only
+with zero dependencies. One crate carries the model, the morphology, the lemma index, and the
+lookup rules, so both applications share one engine with one behaviour. It replaces the abandoned
+WordNet C library (libwordnet), the engine Onym vendored from Artha, and the extJWNL library
+Onymdroid uses today.
+
+## Status
+
+Pre-release. The spec and the conformance kit lead; the Rust core follows. `spec/engine.md` is the
+contract, and the conformance kit in `conformance/` proves any implementation against it.
+
+## Data
+
+The engine reads the WordNet 3.0 database files from a directory the caller supplies. The
+reference data comes from Debian's `wordnet-base` package. This repository ships no database.
+
+## Building and testing
+
+The crate builds with stable Rust and Cargo:
+
+```
+cargo build
+cargo test
+```
+
+The conformance kit proves the engine against the spec, given a WordNet database directory:
+
+```
+conformance/run-conformance
+```
+
+## Licence
+
+onym-engine is free software under the GPL, version 3 or later. Full licence texts live in
+[LICENSES/](LICENSES/), and the repository is [REUSE](https://reuse.software)-compliant.
+
+## Acknowledgements
+
+- Word data from [WordNet](https://wordnet.princeton.edu), the lexical database from Princeton
+  University, under its own permissive licence.
+- Engine behaviour derived from [Artha](https://github.com/sria91/artha), an earlier WordNet
+  thesaurus by Sundaram Ramaswamy.
+- Crafted on Kaurna Pangkarra, in Australia, with respect to the Kaurna people, their language,
+  and their continuing connection to this Country.

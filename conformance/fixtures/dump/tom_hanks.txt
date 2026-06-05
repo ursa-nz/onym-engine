@@ -1,0 +1,20 @@
+term: Tom Hanks
+[Definitions]
+  - (noun) United States film actor (born in 1956)
+[Synonyms]
+  - Hanks
+  - Thomas J. Hanks
+[Is a kind of]
+  - actor, histrion, player, thespian, role player
+    - performer, performing artist
+      - entertainer
+        - person, individual, someone, somebody, mortal, soul
+          - organism, being
+            - living thing, animate thing
+              - whole, unit
+                - object, physical object
+                  - physical entity
+                    - entity
+          - causal agent, cause, causal agency
+            - physical entity
+              - entity

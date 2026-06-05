@@ -1,0 +1,61 @@
+term: scintillation
+[Definitions]
+  - (noun) (physics) a flash of light that is produced in a phosphor when it absorbs a photon or ionizing particle
+  - (noun) a rapid change in brightness; a brief spark or flash
+  - (noun) a brilliant display of wit
+  - (noun) the quality of shining with a bright reflected light
+  - (noun) the twinkling of the stars caused when changes in the density of the earth's atmosphere produce uneven refraction of starlight
+[Synonyms]
+  - twinkle
+  - sparkling
+  - glitter
+  - glister
+  - glisten
+  - sparkle
+[Derived forms]
+  - scintillate
+  - sparkle
+  - coruscate
+  - twinkle
+  - winkle
+[Is a kind of]
+  - light, visible light, visible radiation
+    - actinic radiation, actinic ray
+      - electromagnetic radiation, electromagnetic wave, nonparticulate radiation
+        - radiation
+          - energy, free energy
+            - physical phenomenon
+              - natural phenomenon
+                - phenomenon
+                  - process, physical process
+                    - physical entity
+                      - entity
+  - change, alteration, modification
+    - happening, occurrence, occurrent, natural event
+      - event
+        - psychological feature
+          - abstraction, abstract entity
+            - entity
+  - brilliance, genius
+    - intelligence
+      - ability, power
+        - cognition, knowledge, noesis
+          - psychological feature
+            - abstraction, abstract entity
+              - entity
+  - brightness
+    - light, lightness
+      - visual property
+        - property
+          - attribute
+            - abstraction, abstract entity
+              - entity
+  - fluctuation, wavering
+    - irregularity, unregularity
+      - quality
+        - attribute
+          - abstraction, abstract entity
+            - entity
+[Domains]
+  - physics
+  - natural philosophy

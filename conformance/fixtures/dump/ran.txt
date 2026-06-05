@@ -1,0 +1,413 @@
+term: run
+[Definitions]
+  - (verb) move fast by using one's feet, with one foot off the ground at any given time
+      "Don't run--you'll be out of breath"
+      "The children ran to the store"
+  - (verb) flee; take to one's heels; cut and run
+      "If you see this man, run!"
+      "The burglars escaped before the police showed up"
+  - (verb) stretch out over a distance, space, time, or scope; run or extend between two points or beyond a certain point
+      "Service runs all the way to Cranbury"
+      "His knowledge doesn't go very far"
+      "My memory extends back to my fourth year of life"
+      "The facts extend beyond a consideration of her personal assets"
+  - (verb) direct or control; projects, businesses, etc.
+      "She is running a relief operation in the Sudan"
+  - (verb) have a particular form
+      "the story or argument runs as follows"
+      "as the saying goes..."
+  - (verb) move along, of liquids
+      "Water flowed into the cave"
+      "the Missouri feeds into the Mississippi"
+  - (verb) perform as expected when applied
+      "The washing machine won't go unless it's plugged in"
+      "Does this old car still run well?"
+      "This old radio doesn't work anymore"
+  - (verb) change or be different within limits
+      "Estimates for the losses in the earthquake range as high as $2 billion"
+      "Interest rates run from 5 to 10 percent"
+      "The instruments ranged from tuba to cymbals"
+      "My students range from very bright to dull"
+  - (verb) run, stand, or compete for an office or a position
+      "Who's running for treasurer this year?"
+  - (verb) cause to emit recorded audio or video
+      "They ran the tapes over and over again"
+      "I'll play you my favorite record"
+      "He never tires of playing that video"
+  - (verb) move about freely and without restraint, or act as if running around in an uncontrolled way
+      "who are these people running around in the building?"
+      "She runs around telling everyone of her troubles"
+      "let the dogs run free"
+  - (verb) have a tendency or disposition to do or be something; be inclined
+      "She tends to be nervous before her lectures"
+      "These dresses run small"
+      "He inclined to corpulence"
+  - (verb) be operating, running or functioning
+      "The car is still running--turn it off!"
+  - (verb) change from one state to another
+      "run amok"
+      "run rogue"
+      "run riot"
+  - (verb) cause to perform
+      "run a subject"
+      "run a process"
+  - (verb) be affected by; be subjected to
+      "run a temperature"
+      "run a risk"
+  - (verb) continue to exist
+      "These stories die hard"
+      "The legend of Elvis endures"
+  - (verb) occur persistently
+      "Musical talent runs in the family"
+  - (verb) carry out a process or program, as on a computer or a machine
+      "Run the dishwasher"
+      "run a new program on the Mac"
+      "the computer executed the instruction"
+  - (verb) include as the content; broadcast or publicize
+      "We ran the ad three times"
+      "This paper carries a restaurant review"
+      "All major networks carried the press conference"
+  - (verb) carry out
+      "run an errand"
+  - (verb) pass over, across, or through
+      "He ran his eyes over her body"
+      "She ran her fingers along the carved figurine"
+      "He drew her hair through his fingers"
+  - (verb) cause something to pass or lead somewhere
+      "Run the wire behind the cabinet"
+  - (verb) make without a miss
+  - (verb) deal in illegally, such as arms or liquor
+  - (verb) cause an animal to move fast
+      "run the dogs"
+  - (verb) be diffused
+      "These dyes and colors are guaranteed not to run"
+  - (verb) sail before the wind
+  - (verb) cover by running; run a certain distance
+      "She ran 10 miles that day"
+  - (verb) extend or continue for a certain period of time
+      "The film runs 5 hours"
+  - (verb) set animals loose to graze
+  - (verb) keep company
+      "the heifers run with the bulls to produce offspring"
+  - (verb) run with the ball; in such sports as football
+  - (verb) travel rapidly, by any (unspecified) means
+      "Run to the store!"
+      "She always runs to Italy, because she has a lover there"
+  - (verb) travel a route regularly
+      "Ships ply the waters near the coast"
+  - (verb) pursue for food or sport (as of wild animals)
+      "Goering often hunted wild boars in Poland"
+      "The dogs are running deer"
+      "The Duke hunted in these woods"
+  - (verb) compete in a race
+      "he is running the Marathon this year"
+      "let's race and see who gets there first"
+  - (verb) progress by being changed
+      "The speech has to go through several more drafts"
+      "run through your presentation before the meeting"
+  - (verb) reduce or cause to be reduced from a solid to a liquid state, usually by heating
+      "melt butter"
+      "melt down gold"
+      "The wax melted in the sun"
+  - (verb) come unraveled or undone as if by snagging
+      "Her nylons were running"
+  - (verb) become undone
+      "the sweater unraveled"
+[Synonyms]
+  - scat
+  - scarper
+  - turn tail
+  - lam
+  - run away
+  - hightail it
+  - bunk
+  - head for the hills
+  - take to the woods
+  - escape
+  - fly the coop
+  - break away
+  - go
+  - pass
+  - lead
+  - extend
+  - operate
+  - flow
+  - feed
+  - course
+  - function
+  - work
+  - range
+  - campaign
+  - play
+  - tend
+  - be given
+  - lean
+  - incline
+  - prevail
+  - persist
+  - die hard
+  - endure
+  - execute
+  - carry
+  - guide
+  - draw
+  - black market
+  - bleed
+  - run for
+  - consort
+  - ply
+  - hunt
+  - hunt down
+  - track down
+  - race
+  - move
+  - melt
+  - melt down
+  - ladder
+  - unravel
+[Antonyms]
+  - idle (direct)
+      -> tick over
+[Derived forms]
+  - running
+  - footrace
+  - foot race
+  - runner
+  - rivulet
+  - rill
+  - runnel
+  - streamlet
+  - discharge
+  - outpouring
+  - political campaign
+  - campaign
+  - tally
+  - running play
+  - running game
+  - track
+  - test
+  - trial
+  - ladder
+  - ravel
+[Is a kind of]
+  - travel rapidly, speed, hurry, zip
+    - travel, go, move, locomote
+  - leave, go forth, go away
+  - be
+  - direct
+    - manage, deal, care, handle
+      - control, command
+  - move
+  - race
+    - compete, vie, contend
+  - travel, go, move, locomote
+  - function, work, operate, go
+  - become, go, get
+    - change state, turn
+      - change
+  - process, treat
+    - affect, impact, bear upon, bear on, touch on, touch
+      - change, alter, modify
+  - incur
+    - subject
+      - affect, impact, bear upon, bear on, touch on, touch
+        - change, alter, modify
+  - continue
+    - be
+  - occur
+    - appear, come along
+  - enforce, implement, apply
+    - compel, oblige, obligate
+      - induce, stimulate, cause, have, get, make
+  - circulate, circularize, circularise, distribute, disseminate, propagate, broadcast, spread, diffuse, disperse, pass around
+    - publicize, publicise, air, bare
+      - tell
+        - inform
+          - communicate, intercommunicate
+            - interact
+              - act, move
+  - carry through, accomplish, execute, carry out, action, fulfill, fulfil
+    - complete, finish
+      - end, terminate
+        - change, alter, modify
+    - effect, effectuate, set up
+      - cause, do, make
+        - make, create
+  - pass, make pass
+  - succeed, win, come through, bring home the bacon, deliver the goods
+  - trade, merchandise
+  - move, displace
+  - diffuse, spread, spread out, fan out
+    - spread, distribute
+  - sail
+    - boat
+      - ride
+        - travel
+          - travel, go, move, locomote
+  - pass, go through, go across
+    - travel, go, move, locomote
+  - last, endure
+    - measure
+      - be
+  - free, liberate, release, unloose, unloosen, loose
+  - accompany
+    - travel, go, move, locomote
+  - travel, trip, jaunt
+  - capture, catch
+    - get, acquire
+  - compete, vie, contend
+  - change
+  - dissolve, resolve, break up
+    - change integrity
+      - change
+  - break, separate, split up, fall apart, come apart
+    - change integrity
+      - change
+  - disintegrate
+    - change integrity
+      - change
+[Kinds]
+  - trot, jog, clip
+  - scurry, scamper, skitter, scuttle
+    - crab
+  - romp
+  - run bases
+  - streak
+  - outrun
+  - jog
+  - sprint
+  - lope
+  - rush
+  - hare
+  - flee, fly, take flight
+    - break
+    - stampede
+    - abscond, bolt, absquatulate, decamp, run off, go off, make off
+      - levant
+    - elope, run off
+    - escape, get away, break loose
+      - break, break out, break away
+      - shake, shake off, throw off, escape from
+      - elude, evade, bilk
+      - slip
+      - run away
+      - escape, get away
+    - high-tail
+    - defect, desert
+      - rat
+  - skedaddle
+  - come
+  - radiate, ray
+  - go far, go deep
+  - financier
+  - work
+  - block
+  - warm up
+  - flush
+    - wash down, flush down
+  - jet, gush
+  - tide, surge
+  - circulate
+    - ventilate
+  - eddy, purl, whirlpool, swirl, whirl
+  - waste, run off
+  - run down
+  - pour
+    - spurt, spirt, gush, spout
+      - pump
+      - blow
+      - whoosh
+    - regurgitate
+  - spill, run out
+    - overflow, overrun, well over, run over, brim over
+      - geyser
+  - stream, well out
+    - spin
+      - centrifuge, centrifugate
+        - ultracentrifuge
+  - trickle, dribble, filter
+    - leach, percolate
+  - drain, run out
+  - seep, ooze
+  - gutter
+  - double
+  - roll
+  - cut
+  - service, serve
+  - stump
+  - rerun
+  - whistlestop
+  - cross-file, register
+    - slate
+  - take kindly to
+  - suffer
+  - gravitate
+  - carry over
+  - reverberate
+  - step
+  - rub
+    - brush
+    - pumice
+    - gauge
+    - puree, strain
+    - rosin
+    - sponge down, sponge off
+    - worry
+    - scrub, scour
+      - holystone
+    - scour, abrade
+    - smear, blur, smudge, smutch
+      - resmudge
+      - dust
+    - scrape, grate
+      - paw
+    - wipe, pass over
+      - sponge
+      - squeegee
+      - sweep, broom
+      - towel
+      - whisk, whisk off
+    - grate
+  - thread
+  - crock
+  - snipe
+  - whale
+  - still-hunt, ambush
+  - turtle
+  - drive
+  - rabbit
+  - fowl
+    - grouse
+  - poach
+  - seal
+  - ferret
+  - course
+  - foxhunt
+  - jacklight, jack
+  - hawk
+  - falcon
+  - scrounge, forage
+    - rustle
+  - show
+  - place
+  - boat-race
+  - horse-race
+    - jockey
+  - campaign
+    - stump
+    - rerun
+    - whistlestop
+    - cross-file, register
+      - slate
+  - speed skate
+  - fuse
+  - try, render
+[Domains]
+  - sport
+  - athletics
+  - crime
+  - offense
+  - criminal offense
+  - criminal offence
+  - offence
+  - law-breaking

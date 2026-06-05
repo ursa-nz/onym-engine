@@ -1,0 +1,60 @@
+term: spearmint
+[Definitions]
+  - (noun) common garden herb having clusters of small purplish flowers and yielding an oil used as a flavoring
+[Synonyms]
+  - Mentha spicata
+[Is a kind of]
+  - mint
+    - herb, herbaceous plant
+      - vascular plant, tracheophyte
+        - plant, flora, plant life
+          - organism, being
+            - living thing, animate thing
+              - whole, unit
+                - object, physical object
+                  - physical entity
+                    - entity
+[Parts]
+  - spearmint oil
+  - mint
+    - mint
+    - herb, herbaceous plant
+      - vegetable, veggie, veg
+      - vascular plant, tracheophyte
+        - vascular system
+          - vessel, vas
+          - vascular tissue
+        - duct
+        - vascular tissue
+        - plant, flora, plant life
+          - hood, cap
+          - plant part, plant structure
+          - organism, being
+            - tissue
+            - cell
+              - cell membrane, cytomembrane, plasma membrane
+              - energid, protoplast
+              - cytoplasm, cytol
+                - cytoskeleton
+                - microsome
+                - Golgi body, Golgi apparatus, Golgi complex, dictyosome
+              - nucleus, cell nucleus, karyon
+                - nucleolus, nucleole
+                - chromatin, chromatin granule
+                - achromatin
+                - linin
+                - chromosome
+                  - nucleolus organizer, nucleolus organiser, nucleolar organizer, nucleolar organiser
+                  - chromatin, chromatin granule
+                  - gene, cistron, factor
+                  - chromatid
+                  - centromere, kinetochore
+                  - telomere
+              - organelle, cell organelle, cell organ
+              - vacuole
+            - body part
+              - corpus
+            - living thing, animate thing
+              - whole, unit
+                - part, portion
+                - section, segment

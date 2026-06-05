@@ -1,0 +1,8 @@
+term: plaster over
+[Definitions]
+  - (verb) apply a heavy coat to
+[Synonyms]
+  - plaster
+  - stick on
+[Is a kind of]
+  - cover

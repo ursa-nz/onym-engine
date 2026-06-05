@@ -1,0 +1,61 @@
+term: transient
+[Definitions]
+  - (noun) one who stays for only a short time
+      "transient laborers"
+  - (noun) (physics) a short-lived oscillation in a system caused by a sudden change of voltage or current or load
+  - (adjective) of a mental act; causing effects outside the mind
+  - (adjective) lasting a very short time
+      "the ephemeral joys of childhood"
+      "a passing fancy"
+      "youth's transient beauty"
+      "love is transitory but it is eternal"
+      "fugacious blossoms"
+[Synonyms]
+  - transeunt
+  - ephemeral
+  - passing
+  - short-lived
+  - transitory
+  - fugacious
+[Antonyms]
+  - impermanent (indirect)
+      -> permanent
+      -> lasting
+[Derived forms]
+  - ephemeral
+  - passing
+  - short-lived
+  - transitory
+  - fugacious
+  - transience
+  - transiency
+  - transitoriness
+  - brevity
+  - briefness
+[Similar to]
+  - impermanent
+  - temporary
+[Is a kind of]
+  - traveler, traveller
+    - person, individual, someone, somebody, mortal, soul
+      - organism, being
+        - living thing, animate thing
+          - whole, unit
+            - object, physical object
+              - physical entity
+                - entity
+      - causal agent, cause, causal agency
+        - physical entity
+          - entity
+  - oscillation, vibration
+    - wave, undulation
+      - movement, motion
+        - happening, occurrence, occurrent, natural event
+          - event
+            - psychological feature
+              - abstraction, abstract entity
+                - entity
+[Domains]
+  - physics
+  - natural philosophy
+  - philosophy

@@ -1,0 +1,17 @@
+term: potato tuberworm
+[Definitions]
+  - (noun) larva of potato moth; mines in leaves and stems of e.g. potatoes and tobacco
+[Synonyms]
+  - Phthorimaea operculella
+[Is a kind of]
+  - caterpillar
+    - larva
+      - animal, animate being, beast, brute, creature, fauna
+        - organism, being
+          - living thing, animate thing
+            - whole, unit
+              - object, physical object
+                - physical entity
+                  - entity
+[Part of]
+  - Phthorimaea, genus Phthorimaea

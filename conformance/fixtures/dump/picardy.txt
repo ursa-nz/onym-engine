@@ -1,0 +1,15 @@
+term: Picardy
+[Definitions]
+  - (noun) a region of northern France on the English Channel
+[Synonyms]
+  - Picardie
+[Is a kind of]
+  - French region
+    - geographical area, geographic area, geographical region, geographic region
+      - region
+        - location
+          - object, physical object
+            - physical entity
+              - entity
+[Part of]
+  - France, French Republic

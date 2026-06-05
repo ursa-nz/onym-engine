@@ -1,0 +1,14 @@
+term: unreceptive
+[Definitions]
+  - (adjective) not receptive
+[Antonyms]
+  - receptive (direct)
+      -> open
+      -> acceptive
+      -> acceptant
+      -> admissive
+      -> assimilative
+      -> hospitable
+[Similar to]
+  - closed
+  - unsympathetic

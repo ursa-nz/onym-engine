@@ -1,0 +1,63 @@
+term: Kr
+[Definitions]
+  - (noun) a colorless element that is one of the six inert gasses; occurs in trace amounts in air
+  - (noun) a communist organization formed in Cambodia in 1970; became a terrorist organization in 1975 when it captured Phnom Penh and created a government that killed an estimated three million people; was defeated by Vietnamese troops but remained active until 1999
+[Synonyms]
+  - krypton
+  - atomic number 36
+  - Khmer Rouge
+  - Party of Democratic Kampuchea
+  - Communist Party of Kampuchea
+[Is a kind of]
+  - chemical element, element
+    - substance
+      - matter
+        - physical entity
+          - entity
+      - part, portion, component part, component, constituent
+        - relation
+          - abstraction, abstract entity
+            - entity
+  - noble gas, inert gas, argonon
+    - chemical element, element
+      - substance
+        - matter
+          - physical entity
+            - entity
+        - part, portion, component part, component, constituent
+          - relation
+            - abstraction, abstract entity
+              - entity
+    - gas
+      - fluid
+        - matter
+          - physical entity
+            - entity
+  - terrorist organization, terrorist group, foreign terrorist organization, FTO
+    - political movement
+      - movement, social movement, front
+        - social group
+          - group, grouping
+            - abstraction, abstract entity
+              - entity
+[Part of]
+  - air
+[Parts]
+  - chemical element, element
+    - atom
+      - elementary particle, fundamental particle
+      - nucleus
+        - nucleon
+  - noble gas, inert gas, argonon
+    - chemical element, element
+      - atom
+        - elementary particle, fundamental particle
+        - nucleus
+          - nucleon
+[Domains]
+  - terrorism
+  - act of terrorism
+  - terrorist act
+  - Cambodia
+  - Kingdom of Cambodia
+  - Kampuchea

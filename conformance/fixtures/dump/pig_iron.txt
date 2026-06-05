@@ -1,0 +1,23 @@
+term: pig iron
+[Definitions]
+  - (noun) crude iron tapped from a blast furnace
+[Is a kind of]
+  - iron, Fe, atomic number 26
+    - metallic element, metal
+      - chemical element, element
+        - substance
+          - matter
+            - physical entity
+              - entity
+          - part, portion, component part, component, constituent
+            - relation
+              - abstraction, abstract entity
+                - entity
+[Kinds]
+  - basic iron
+  - cinder pig
+  - mine pig
+  - spiegeleisen, spiegel, spiegel iron
+[Part of]
+  - wrought iron
+  - cast iron

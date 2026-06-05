@@ -1,0 +1,19 @@
+term: sublease
+[Definitions]
+  - (noun) a lease from one lessee to another
+  - (verb) lease or rent all or part of (a leased or rented property) to another person
+      "We sublet our apartment over the summer"
+[Synonyms]
+  - sublet
+[Derived forms]
+  - sublet
+[Is a kind of]
+  - lease, rental, letting
+    - property, belongings, holding
+      - possession
+        - relation
+          - abstraction, abstract entity
+            - entity
+  - lease, let, rent
+    - give
+      - transfer

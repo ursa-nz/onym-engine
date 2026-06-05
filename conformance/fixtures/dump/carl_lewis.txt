@@ -1,0 +1,34 @@
+term: Carl Lewis
+[Definitions]
+  - (noun) United States athlete who won gold medals at the Olympics for his skill in sprinting and jumping (born in 1961)
+[Synonyms]
+  - Lewis
+  - Frederick Carleton Lewis
+[Is a kind of]
+  - sprinter
+    - runner
+      - athlete, jock
+        - contestant
+          - person, individual, someone, somebody, mortal, soul
+            - organism, being
+              - living thing, animate thing
+                - whole, unit
+                  - object, physical object
+                    - physical entity
+                      - entity
+            - causal agent, cause, causal agency
+              - physical entity
+                - entity
+  - jumper
+    - athlete, jock
+      - contestant
+        - person, individual, someone, somebody, mortal, soul
+          - organism, being
+            - living thing, animate thing
+              - whole, unit
+                - object, physical object
+                  - physical entity
+                    - entity
+          - causal agent, cause, causal agency
+            - physical entity
+              - entity

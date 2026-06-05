@@ -1,0 +1,134 @@
+term: cereal
+[Definitions]
+  - (noun) grass whose starchy grains are used as food: wheat; rice; rye; oats; maize; buckwheat; millet
+  - (noun) foodstuff prepared from the starchy grains of cereal grasses
+  - (noun) a breakfast food prepared from grain
+  - (adjective) made of grain or relating to grain or the plants that produce it
+      "a cereal beverage"
+      "cereal grasses"
+[Synonyms]
+  - cereal grass
+  - grain
+  - food grain
+[Derived forms]
+  - cereal grass
+  - grain
+  - food grain
+[Pertains to]
+  - grain, caryopsis
+    - seed
+[Is a kind of]
+  - grass
+    - gramineous plant, graminaceous plant
+      - herb, herbaceous plant
+        - vascular plant, tracheophyte
+          - plant, flora, plant life
+            - organism, being
+              - living thing, animate thing
+                - whole, unit
+                  - object, physical object
+                    - physical entity
+                      - entity
+  - foodstuff, food product
+    - food, nutrient
+      - substance
+        - matter
+          - physical entity
+            - entity
+  - breakfast food
+    - food, solid food
+      - solid
+        - matter
+          - physical entity
+            - entity
+[Kinds]
+  - oat
+    - cereal oat, Avena sativa
+    - wild oat, wild oat grass, Avena fatua
+    - slender wild oat, Avena barbata
+    - wild red oat, animated oat, Avene sterilis
+  - barley
+    - common barley, Hordeum vulgare
+    - barley grass, wall barley, Hordeum murinum
+    - squirreltail barley, foxtail barley, squirreltail grass, Hordeum jubatum
+    - little barley, Hordeum pusillum
+  - rice
+    - cultivated rice, Oryza sativa
+  - ricegrass, rice grass
+    - mountain rice, silkgrass, silk grass, Indian millet, Oryzopsis hymenoides
+    - smilo, smilo grass, Oryzopsis miliacea
+  - pearl millet, bulrush millet, cattail millet, Pennisetum glaucum, Pennisetum Americanum
+  - rye, Secale cereale
+  - millet
+    - barnyard grass, barn grass, barn millet, Echinochloa crusgalli
+    - Japanese millet, billion-dollar grass, Japanese barnyard millet, sanwa millet, Echinochloa frumentacea
+    - yardgrass, yard grass, wire grass, goose grass, Eleusine indica
+    - finger millet, ragi, ragee, African millet, coracan, corakan, kurakkan, Eleusine coracana
+    - panic grass
+      - witchgrass, witch grass, old witchgrass, old witch grass, tumble grass, Panicum capillare
+      - switch grass, Panicum virgatum
+      - broomcorn millet, hog millet, Panicum miliaceum
+      - goose grass, Texas millet, Panicum Texanum
+    - sorghum
+      - great millet, kaffir, kafir corn, kaffir corn, Sorghum bicolor
+      - grain sorghum
+        - durra, doura, dourah, Egyptian corn, Indian millet, Guinea corn
+        - feterita, federita, Sorghum vulgare caudatum
+        - hegari
+        - kaoliang
+        - milo, milo maize
+        - shallu, Sorghum vulgare rosburghii
+      - sorgo, sorgho, sweet sorghum, sugar sorghum
+      - Johnson grass, Aleppo grass, means grass, evergreen millet, Sorghum halepense
+      - broomcorn, Sorghum vulgare technicum
+  - grain
+  - wheat
+    - durum, durum wheat, hard wheat, Triticum durum, Triticum turgidum, macaroni wheat
+    - soft wheat
+    - common wheat, Triticum aestivum
+    - spelt, Triticum spelta, Triticum aestivum spelta
+    - emmer, starch wheat, two-grain spelt, Triticum dicoccum
+    - wild wheat, wild emmer, Triticum dicoccum dicoccoides
+  - corn, maize, Indian corn, Zea mays
+    - field corn
+      - dent corn, Zea mays indentata
+      - flint corn, flint maize, Yankee corn, Zea mays indurata
+      - soft corn, flour corn, squaw corn, Zea mays amylacea
+    - sweet corn, sugar corn, green corn, sweet corn plant, Zea mays rugosa, Zea saccharata
+    - popcorn, Zea mays everta
+  - corn
+  - wild rice, Zizania aquatica
+  - corn, edible corn
+    - sweet corn, green corn
+    - hominy
+      - lye hominy
+      - pearl hominy
+    - popcorn
+  - grist
+  - groats
+  - barley, barleycorn
+    - pearl barley
+  - buckwheat
+  - wheat, wheat berry
+    - bulgur, bulghur, bulgur wheat
+    - cracked wheat
+  - wild rice, Indian rice
+  - malt
+    - wort
+  - Pablum
+  - hot cereal
+    - mush, cornmeal mush
+      - atole
+      - hasty pudding
+      - polenta
+    - grits, hominy grits
+    - kasha
+    - frumenty
+  - cold cereal, dry cereal
+    - granola
+    - raisin bran
+    - corn flake
+    - bran flake
+    - wheatflake
+    - puffed rice
+    - puffed wheat

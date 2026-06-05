@@ -1,0 +1,18 @@
+term: herpetology
+[Definitions]
+  - (noun) the branch of zoology concerned with reptiles and amphibians
+[Derived forms]
+  - herpetologist
+[Is a kind of]
+  - zoology, zoological science
+    - biology, biological science
+      - life science, bioscience
+        - natural science
+          - science, scientific discipline
+            - discipline, subject, subject area, subject field, field, field of study, study, bailiwick
+              - knowledge domain, knowledge base, domain
+                - content, cognitive content, mental object
+                  - cognition, knowledge, noesis
+                    - psychological feature
+                      - abstraction, abstract entity
+                        - entity

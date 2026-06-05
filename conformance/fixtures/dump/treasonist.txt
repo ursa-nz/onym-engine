@@ -1,0 +1,34 @@
+term: treasonist
+[Definitions]
+  - (noun) someone who betrays his country by committing treason
+[Synonyms]
+  - traitor
+[Derived forms]
+  - treason
+  - subversiveness
+  - traitorousness
+  - treachery
+  - betrayal
+  - perfidy
+  - high treason
+  - lese majesty
+[Is a kind of]
+  - criminal, felon, crook, outlaw, malefactor
+    - principal
+      - wrongdoer, offender
+        - bad person
+          - person, individual, someone, somebody, mortal, soul
+            - organism, being
+              - living thing, animate thing
+                - whole, unit
+                  - object, physical object
+                    - physical entity
+                      - entity
+            - causal agent, cause, causal agency
+              - physical entity
+                - entity
+[Kinds]
+  - collaborator, collaborationist, quisling
+  - fifth columnist, saboteur
+  - traitress
+  - Arnold, Benedict Arnold

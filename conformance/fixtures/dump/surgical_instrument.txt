@@ -1,0 +1,27 @@
+term: surgical instrument
+[Definitions]
+  - (noun) a medical instrument used in surgery
+[Is a kind of]
+  - medical instrument
+    - instrument
+      - device
+        - instrumentality, instrumentation
+          - artifact, artefact
+            - whole, unit
+              - object, physical object
+                - physical entity
+                  - entity
+[Kinds]
+  - curette, curet
+  - dermatome
+  - dilator, dilater
+  - hemostat, haemostat
+  - photocoagulator
+  - probe
+  - retractor
+  - snare
+  - surgical knife
+    - catling
+    - lancet, lance
+    - scalpel
+  - trepan, trephine

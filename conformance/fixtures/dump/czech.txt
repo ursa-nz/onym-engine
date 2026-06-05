@@ -1,0 +1,42 @@
+term: czech
+[Definitions]
+  - (adjective) of or relating to Czechoslovakia or its people or their language
+      "The Czech border"
+      "Czechoslovak nationalists"
+      "The Czechoslovakian population"
+  - (noun) a native of inhabitant of the Czech Republic
+  - (noun) a native or inhabitant of the former republic of Czechoslovakia
+  - (noun) the Slavic language of Czechs
+[Synonyms]
+  - Czechoslovakian
+  - Czechoslovak
+[Derived forms]
+  - Czechoslovakian
+  - Czechoslovak
+[Pertains to]
+  - Czechoslovakia
+    - geographical area, geographic area, geographical region, geographic region
+[Is a kind of]
+  - European
+    - inhabitant, habitant, dweller, denizen, indweller
+      - person, individual, someone, somebody, mortal, soul
+        - organism, being
+          - living thing, animate thing
+            - whole, unit
+              - object, physical object
+                - physical entity
+                  - entity
+        - causal agent, cause, causal agency
+          - physical entity
+            - entity
+  - Slavic, Slavic language, Slavonic, Slavonic language
+    - Balto-Slavic, Balto-Slavic language, Balto-Slavonic
+      - Indo-European, Indo-European language, Indo-Hittite
+        - natural language, tongue
+          - language, linguistic communication
+            - communication
+              - abstraction, abstract entity
+                - entity
+[Part of]
+  - Czech Republic
+  - Czechoslovakia

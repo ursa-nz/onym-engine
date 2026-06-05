@@ -1,0 +1,845 @@
+# SPDX-FileCopyrightText: 2026 ursa.nz <code@ursa.nz>
+# SPDX-License-Identifier: GPL-3.0-or-later
+#
+# Conformance corpus for the Onym engine. One word per line. Lines that
+# start with '#' are comments and blank lines are ignored. Multi-word
+# lemmas keep their spaces here; gen-fixtures converts spaces to
+# underscores when it names the fixture files.
+
+# Hand-curated edge cases.
+
+# Indirect antonyms through similar-to links.
+beautiful
+fast
+good
+
+# Deep hyponym and hypernym trees.
+animal
+dog
+
+# Holonym and meronym grouping.
+hand
+tree
+
+# Multi-word lemmas.
+ice cream
+hot dog
+
+# Morphology: exceptions and regular detachment.
+ran
+better
+best
+mice
+children
+feet
+geese
+oxen
+running
+
+# Miss that should produce suggestions.
+wrod
+
+# Variant truncation fix words.
+shore bird
+ash bin
+
+# Tree attachment fix words.
+door
+sing
+casing
+
+# Headword case.
+utopian
+
+# Domains gating.
+chequing account
+nadolol
+
+# Multi-word lemma with a flat tree.
+pica-pica
+
+# Proper noun and plain noun controls.
+Einstein
+abalone
+
+# Stratified sample: the 1st, 201st, 401st and so on lemma from each of
+# the WordNet index files (index.noun, index.verb, index.adj,
+# index.adv), with underscores converted to spaces.
+'hood
+abandoned ship
+abruptio placentae
+acariosis
+achaian
+acromial process
+adams
+admission price
+aepyorniformes
+after part
+agriculturist
+airfare
+albert edward
+alexander vi
+all-day sucker
+alnus maritima
+alumbloom
+american
+amicus curiae brief
+amusd
+anatotitan
+angel food cake
+animalism
+anoxic anoxia
+antiarrhythmic drug
+antonio gaudi
+apomict
+aptitude
+arcadic
+areopagite
+armilla
+artaxerxes i
+articulatio coxae
+ash bin
+assiduity
+ataxia
+atomic number 57
+auction block
+australopithecus robustus
+avant-garde
+b complex
+backpacking
+bakelite
+balsam
+bannockburn
+barnburner
+basic cognitive process
+batidaceae
+bay rum
+beauty shop
+begonia
+belt maker
+berkshire hills
+bezique
+bilge
+biometry
+biteplate
+black marketeer
+blasting cap
+blood
+blue pea
+bocci
+boltzmann's constant
+book of obadiah
+bosnia
+bowdler
+brain-worker
+breach of warranty
+bridge partner
+broca's gyrus
+browsing
+budding
+bullyboy
+burrill bernard crohn
+butterball
+cabin liner
+calabash pipe
+call loan
+camel racing
+cancer
+cantilever bridge
+capital of japan
+capsella
+carchariidae
+carl lewis
+carrot juice
+caspar bartholin
+cataract
+caustic remark
+celioscopy
+centrepiece
+cerulean
+chaldaean
+character reference
+chastening
+chemical reaction
+chicken run
+chinese anise
+chlorophyte
+christiaan huygens
+chukaku-ha
+cinnamomum zeylanicum
+city of brotherly love
+class chrysophyceae
+cleaning woman
+clintonia
+clovis
+coat of paint
+codger
+cold chisel
+color tube
+comfortableness
+common factor
+community center
+compulsivity
+conditioned reaction
+conic morel
+constrictor
+contriver
+copalite
+coriandrum
+corpus mamillare
+cost of capital
+countercoup
+cow
+crankshaft
+crenate leaf
+crocodylus porosus
+crown prince
+cubeb vine
+cupid
+cut-in
+cylindrical lining
+czech
+damascene
+dark field illumination
+dawn horse
+death rate
+decorum
+degree fahrenheit
+demogorgon
+department of mathematics
+desert willow
+deviant
+dianthus latifolius
+diesel engine
+dinette
+direct object
+disesteem
+dissociative disorder
+divorced man
+dogshit
+door
+double star
+dragon lizard
+drip pot
+dry wall
+dumpiness
+dwarf pipefish
+earplug
+ebv
+edgar degas
+efficacy
+elaborateness
+electrical work
+elevator man
+embroideress
+enarthrosis
+engineer's chain
+entombment
+epilachna
+equus
+eructation
+estazolam
+eucharist
+european flatfish
+evolutionism
+exodontist
+external respiration
+facer
+fall
+family araucariaceae
+family colchicaceae
+family graminaceae
+family microhylidae
+family pomatomidae
+family tetragoniaceae
+farm animal
+favorableness
+felis concolor
+ferry
+field-emission microscope
+filicales
+finno-ugric
+first name
+fl
+flaw
+florin
+flying dragon
+fool
+foreshadowing
+foster home
+francis albert sinatra
+frederico garcia lorca
+freshener
+front room
+full skirt
+fussiness
+galingale
+ganoidei
+gas line
+gayal
+genetic disease
+genus aethionema
+genus apocynum
+genus blechnum
+genus castanea
+genus clostridium
+genus dahlia
+genus enterobius
+genus gerardia
+genus hudsonia
+genus leonotis
+genus maranta
+genus nasua
+genus paralichthys
+genus pithecellobium
+genus punica
+genus schizosaccharomyces
+genus streptocarpus
+genus trimorphodon
+geographical region
+gerea
+giant reed
+girard
+glis glis
+gnaphalium sylvaticum
+golden glow
+good night
+government income
+grandfather
+gray catbird
+greek mythology
+grey partridge
+ground sloth
+guelder rose
+gummite
+gynogenesis
+haemoptysis
+half-term
+hand cream
+hard-cooked egg
+harry sinclair lewis
+hayseed
+heartiness
+heinrich rudolph hertz
+hematopoeitic stem cell
+hepatic duct
+herpetology
+hideyo noguchi
+himalayan cedar
+hittite
+holly-leaved cherry
+homo soloensis
+hop
+horsetail lichen
+house snake
+human
+hurting
+hydrolysis
+hyperidrosis
+hyrax
+ictonyx
+iliad
+immunosuppressor
+inadvertency
+independence
+indonesia
+inflectional ending
+inning
+insulator
+internal cerebral vein
+intricacy
+ipsedixitism
+irritability
+isthmus of suez
+jacket crown
+james edmund scripps
+jaspers
+jerusalem sage
+joewood
+john tradescant
+journeyman
+jund-ul-islam
+kakatoe galerita
+kastler
+keratoconjunctivitis
+kidnapper
+kinosternon
+knightliness
+kr
+labetalol hydrochloride
+lady diana frances spencer
+lamellicorn beetle
+lanius borealis
+laser beam
+launchpad
+le chatelier
+lech walesa
+leipoa ocellata
+leper lily
+letup
+librarianship
+lightbulb
+linaria vulgaris
+linus pauling
+lithium carbonate
+llb
+lodging house
+longcase clock
+lotte
+low temperature
+lulli
+lx
+lyssa
+mad apple
+magnolia fraseri
+major tranquilizer
+malignant tumor
+manchu dynasty
+manta birostris
+mare
+marmalade tree
+mary ii
+mastitis
+maurice barrymore
+mealy sage
+medick
+melee
+menses
+merlangus
+metazoan
+mflop
+mid-fifties
+military blockade
+mimidae
+minute of arc
+mitella diphylla
+moeller's glossitis
+moneran
+monotheism
+moreau river
+mother hen
+mountain pride
+mud
+munda
+mushroom cloud
+mutual understanding
+myrtaceous tree
+namib desert
+nasua
+naval brass
+nefazodone
+nephritis
+neurolinguist
+newgate
+nigella damascena
+nitric acid
+non-standard speech
+norman conquest
+note payable
+nucleus
+nycticorax nycticorax
+obsessivity
+odets
+oil pressure
+olfactory bulb
+one-twelfth
+operations research
+orange pekoe
+order foraminifera
+order taxales
+oriya
+oscitance
+ousting
+overmantel
+oyabun
+paeonia
+palestine liberation front
+panga
+papua
+parcheesi
+parsons table
+passiflora maliformis
+patronne
+peach tree
+peeper
+pennon
+perception
+peristedion
+pertainym
+petty spurge
+phenergan
+pholiota squarrosoides
+phylloclade
+picardy
+pig iron
+pinctada margaritifera
+pipe bomb
+pitressin
+plant cell
+platyrrhini
+plinian eruption
+pochard
+poker plant
+polonaise
+pomatomidae
+populus canescens
+possessor
+potato tuberworm
+powwow
+preconceived idea
+president franklin roosevelt
+priggishness
+prison cell
+professing
+propeller
+protestant episcopal church
+prussian blue
+psychosis
+puck
+punjabi
+puss
+pyrus communis
+quartering
+quid pro quo
+racing skate
+rag doll
+ramon lully
+raspberry bush
+razz
+receivables
+red-letter day
+redox
+regional anaesthesia
+religious person
+reprehensibility
+reserve account
+reticulitermes flanipes
+rh
+rhus radicans
+riding bitt
+rinse
+robert alexander schumann
+rocket base
+romanoff
+roseola infantum
+rowing club
+ruination
+rustle
+saddle hackle
+saint francis of assisi
+salix lucida
+sambucus pubens
+sang
+sarcoma
+saurischia
+scalper
+schizaea
+scintillation
+scott joplin
+sculpture
+seam
+secret
+seigneur
+sellers
+senselessness
+serin
+seven-spot
+shah of iran
+sheepshead porgy
+ship's officer
+shore bird
+shrubbery
+sidney webb
+sillabub
+simultaneous equations
+sir hans adolf krebs
+sium suave
+skirmisher
+slenderness
+small cranberry
+snake doctor
+so
+sodium sulphate
+solemnization
+sonority
+sourball
+space writer
+spearmint
+sphaeralcea fasciculata
+spinocerebellar disorder
+spondylolisthesis
+spring cress
+squire
+stage fright
+staple fiber
+statutory offence
+stenotaphrum secundatum
+stigmatization
+stomp
+strait of gibraltar
+striated muscle tissue
+study hall
+subdivision basidiomycota
+suborder sauropoda
+suet
+summum bonum
+superior thalamostriate vein
+surgical instrument
+swamp lily
+swertia
+symphoricarpos alba
+systems program
+tagetes patula
+tam-o'-shanter
+tapeline
+tattoo
+team sport
+telephone line
+tendinitis
+terrestrial dynamical time
+texas fever
+themis
+thigh pad
+thoracotomy
+thuja
+tidewater stream
+timpani
+tlingit
+tom hanks
+topminnow
+tours
+trade stoppage
+transient
+treasonist
+tribal sheikh
+trimorphodon
+tropical rain forest
+try square
+tung oil
+turreae
+two iron
+ukrayina
+uncouthness
+uniocular dichromat
+unperson
+ural-altaic
+usaf
+vagabond
+vapidness
+vegetable oyster
+venae interlobulares hepatis
+vernation
+viborg
+vilnius
+virologist
+vividness
+vouchee
+walker
+warhead
+water chute
+wave-particle duality
+wednesday
+westerly
+whimsicality
+white line
+whorehouse
+wildcat
+willingness
+winner
+woe
+woodworking plane
+world traveler
+wye
+yafo
+yellow ocher
+yucatec
+zigadenus
+aah
+alchemize
+ascribe
+bargain down
+bespeckle
+bogey
+bristle at
+call
+caulk
+chuck
+coincide
+conflict
+countersign
+cut short
+deglycerolise
+detransitivise
+dismiss
+drawl
+embed
+eulogize
+fantasy
+fleet
+freak
+get it on
+golf
+hasp
+hook on
+incinerate
+invigilate
+kill oneself
+lexicalise
+lyric
+mess up
+motorise
+obliterate
+overhear
+paw
+plaster over
+predate
+pull someone's leg
+rap
+reexamine
+repute
+roll
+scald
+sequestrate
+sidetrack
+slosh
+spear up
+start out
+sublease
+syllogise
+tease apart
+top
+tune up
+unsanctify
+walk around
+wine and dine
+.22-caliber
+79
+acentric
+adumbrative
+al dente
+ambiguous
+angry
+aperient
+areal
+asymmetric
+avocado
+baseborn
+bewitched
+black-and-tan
+bonzer
+bristlelike
+buxom
+cardiovascular
+cereal
+christianly
+clothesless
+commensurate
+consecrate
+correspondent
+cross-modal
+cystic
+deep-seated
+despoiled
+disarrayed
+diversionary
+drum-like
+egocentric
+endowed
+eternal
+exportable
+fast asleep
+firm
+for sale
+frivolous
+general
+good
+gu
+hasidic
+hierarchic
+honorable
+hypotensive
+impermissible
+inconstant
+ingrowing
+interrupted
+isotropous
+knifelike
+lazy
+limbed
+low-cal
+maladaptive
+meaningful
+microscopical
+moneymaking
+multifarious
+needlelike
+non-poisonous
+nonprognosticative
+oblanceolate
+oncologic
+other
+packed
+pasteurian
+permutable
+pinnated
+polyestrous
+preexisting
+proletarian
+puppyish
+radiolucent
+red-orange
+resilient
+robed
+saccadic
+scheduled
+self-limited
+seventieth
+sick-abed
+slaveholding
+softish
+spick-and-span
+starred
+streaky
+sulphuretted
+symbolical
+telepathic
+thoreauvian
+top-down
+trifling
+tympanitic
+unbiased
+uncurving
+unerect
+unidirectional
+unmolested
+unreceptive
+unsound
+unvoiced
+varied
+vivace
+well-balanced
+witchlike
+yeatsian
+'tween
+anatomically
+bannerlike
+cerebrally
+creakingly
+displeasingly
+even so
+for the most part
+hand in hand
+implicitly
+indescribably
+justifiably
+meagerly
+nonlexically
+out of
+pleasingly
+raffishly
+secondarily
+soonest
+systematically
+tout ensemble
+unnoticeably
+west

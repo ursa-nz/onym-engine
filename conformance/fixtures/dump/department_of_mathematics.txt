@@ -1,0 +1,16 @@
+term: department of mathematics
+[Definitions]
+  - (noun) the academic department responsible for teaching and research in mathematics
+[Synonyms]
+  - mathematics department
+[Is a kind of]
+  - academic department
+    - department, section
+      - division
+        - administrative unit, administrative body
+          - unit, social unit
+            - organization, organisation
+              - social group
+                - group, grouping
+                  - abstraction, abstract entity
+                    - entity

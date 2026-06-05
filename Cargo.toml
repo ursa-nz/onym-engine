@@ -1,0 +1,6 @@
+# SPDX-FileCopyrightText: 2026 ursa.nz <code@ursa.nz>
+# SPDX-License-Identifier: GPL-3.0-or-later
+
+[workspace]
+members = ["crates/onym-engine"]
+resolver = "3"

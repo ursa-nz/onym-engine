@@ -1,0 +1,30 @@
+term: begonia
+[Definitions]
+  - (noun) any of numerous plants of the genus Begonia grown for their attractive glossy asymmetrical leaves and colorful flowers in usually terminal cymes or racemes
+[Is a kind of]
+  - flower
+    - angiosperm, flowering plant
+      - spermatophyte, phanerogam, seed plant
+        - vascular plant, tracheophyte
+          - plant, flora, plant life
+            - organism, being
+              - living thing, animate thing
+                - whole, unit
+                  - object, physical object
+                    - physical entity
+                      - entity
+[Kinds]
+  - fibrous-rooted begonia
+  - tuberous begonia
+    - hybrid tuberous begonia, Begonia tuberhybrida
+  - rhizomatous begonia
+  - Christmas begonia, blooming-fool begonia, Begonia cheimantha
+  - angel-wing begonia, Begonia cocchinea
+  - grape-leaf begonia, maple-leaf begonia, Begonia dregei
+  - beefsteak begonia, kidney begonia, Begonia erythrophylla, Begonia feastii
+  - star begonia, star-leaf begonia, Begonia heracleifolia
+  - rex begonia, king begonia, painted-leaf begonia, beefsteak geranium, Begonia rex
+  - wax begonia, Begonia semperflorens
+  - Socotra begonia, Begonia socotrana
+[Part of]
+  - genus Begonia

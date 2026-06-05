@@ -1,0 +1,20 @@
+term: Sir Hans Adolf Krebs
+[Definitions]
+  - (noun) English biochemist (born in Germany) who discovered the Krebs cycle (1900-1981)
+[Synonyms]
+  - Krebs
+  - Hans Adolf Krebs
+[Is a kind of]
+  - biochemist
+    - chemist
+      - scientist
+        - person, individual, someone, somebody, mortal, soul
+          - organism, being
+            - living thing, animate thing
+              - whole, unit
+                - object, physical object
+                  - physical entity
+                    - entity
+          - causal agent, cause, causal agency
+            - physical entity
+              - entity

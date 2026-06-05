@@ -1,0 +1,59 @@
+term: professing
+[Definitions]
+  - (noun) an open avowal (true or false) of some belief or opinion
+      "a profession of disagreement"
+  - (verb) practice as a profession, teach, or claim to be knowledgeable about
+      "She professes organic chemistry"
+  - (verb) confess one's faith in, or allegiance to
+      "The terrorists professed allegiance to their country"
+      "he professes to be a Communist"
+  - (verb) admit (to a wrongdoing)
+      "She confessed that she had taken the money"
+  - (verb) state freely
+      "The teacher professed that he was not generous when it came to giving good grades"
+  - (verb) receive into a religious order or congregation
+  - (verb) take vows, as in religious order
+      "she professed herself as a nun"
+  - (verb) state insincerely
+      "He professed innocence but later admitted his guilt"
+      "She pretended not to have known the suicide bomber"
+      "She pretends to be an expert on wine"
+[Synonyms]
+  - profession
+  - concede
+  - confess
+  - pretend
+[Derived forms]
+  - profess
+  - profession
+  - professing
+[Is a kind of]
+  - avowal, avouchment, affirmation
+    - assertion, averment, asseveration
+      - declaration
+        - statement
+          - message, content, subject matter, substance
+            - communication
+              - abstraction, abstract entity
+                - entity
+  - claim
+    - affirm
+  - declare
+    - state, say, tell
+      - express, verbalize, verbalise, utter, give tongue to
+  - admit, acknowledge
+    - declare, adjudge, hold
+      - evaluate, pass judgment, judge
+        - think, cogitate, cerebrate
+  - accept, admit, take, take on
+    - accept, take, have
+      - get, acquire
+  - vow
+    - pledge, plight
+      - promise, assure
+        - declare
+          - state, say, tell
+            - express, verbalize, verbalise, utter, give tongue to
+[Kinds]
+  - make a clean breast of, own up, fess up
+  - take the veil

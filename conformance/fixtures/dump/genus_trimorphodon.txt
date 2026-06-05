@@ -1,0 +1,17 @@
+term: genus Trimorphodon
+[Definitions]
+  - (noun) lyre snakes
+[Synonyms]
+  - Trimorphodon
+[Is a kind of]
+  - reptile genus
+    - genus
+      - taxonomic group, taxonomic category, taxon
+        - biological group
+          - group, grouping
+            - abstraction, abstract entity
+              - entity
+[Part of]
+  - Colubridae, family Colubridae
+[Parts]
+  - lyre snake

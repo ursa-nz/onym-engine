@@ -1,0 +1,65 @@
+term: foreshadowing
+[Definitions]
+  - (noun) the act of providing vague advance indications; representing beforehand
+  - (adjective) indistinctly prophetic
+  - (verb) indicate by signs
+      "These signs bode bad news"
+[Synonyms]
+  - prefiguration
+  - adumbration
+  - bode
+  - portend
+  - auspicate
+  - prognosticate
+  - omen
+  - presage
+  - betoken
+  - augur
+  - foretell
+  - prefigure
+  - forecast
+  - predict
+  - adumbrative
+  - prefigurative
+[Antonyms]
+  - prophetic (indirect)
+      -> unprophetic
+[Derived forms]
+  - bode
+  - portend
+  - auspicate
+  - prognosticate
+  - omen
+  - presage
+  - betoken
+  - foreshadow
+  - augur
+  - foretell
+  - prefigure
+  - forecast
+  - predict
+  - prefiguration
+  - foreshadowing
+  - adumbration
+[Similar to]
+  - prophetic
+  - prophetical
+[Is a kind of]
+  - prediction, anticipation, prevision
+    - reasoning, logical thinking, abstract thought
+      - thinking, thought, thought process, cerebration, intellection, mentation
+        - higher cognitive process
+          - process, cognitive process, mental process, operation, cognitive operation
+            - cognition, knowledge, noesis
+              - psychological feature
+                - abstraction, abstract entity
+                  - entity
+  - bespeak, betoken, indicate, point, signal
+    - tell
+      - inform
+        - communicate, intercommunicate
+          - interact
+            - act, move
+[Kinds]
+  - threaten
+  - foreshow

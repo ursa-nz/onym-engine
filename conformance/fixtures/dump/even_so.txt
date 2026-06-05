@@ -1,0 +1,16 @@
+term: even so
+[Definitions]
+  - (adverb) despite anything to the contrary (usually following a concession)
+      "although I'm a little afraid, however I'd like to try it"
+      "while we disliked each other, nevertheless we agreed"
+      "he was a stern yet fair master"
+      "granted that it is dangerous, all the same I still want to go"
+[Synonyms]
+  - however
+  - nevertheless
+  - withal
+  - still
+  - yet
+  - all the same
+  - nonetheless
+  - notwithstanding

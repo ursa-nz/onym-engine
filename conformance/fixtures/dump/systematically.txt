@@ -1,0 +1,10 @@
+term: systematically
+[Definitions]
+  - (adverb) in a systematic or consistent manner
+      "they systematically excluded women"
+[Synonyms]
+  - consistently
+[Antonyms]
+  - unsystematically (direct)
+[Pertains to]
+  - systematic

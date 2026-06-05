@@ -1,0 +1,17 @@
+term: skirmisher
+[Definitions]
+  - (noun) someone who skirmishes (e.g., as a member of a scouting party)
+[Derived forms]
+  - skirmish
+[Is a kind of]
+  - combatant, battler, belligerent, fighter, scrapper
+    - person, individual, someone, somebody, mortal, soul
+      - organism, being
+        - living thing, animate thing
+          - whole, unit
+            - object, physical object
+              - physical entity
+                - entity
+      - causal agent, cause, causal agency
+        - physical entity
+          - entity

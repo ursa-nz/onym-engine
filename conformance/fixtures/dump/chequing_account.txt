@@ -1,0 +1,30 @@
+term: chequing account
+[Definitions]
+  - (noun) a bank account against which the depositor can draw checks that are payable on demand
+[Synonyms]
+  - checking account
+  - current account
+[Is a kind of]
+  - bank account
+    - account, business relationship
+      - relationship
+        - state
+          - attribute
+            - abstraction, abstract entity
+              - entity
+[Domains]
+  - United Kingdom
+  - UK
+  - U.K.
+  - Britain
+  - United Kingdom of Great Britain and Northern Ireland
+  - Great Britain
+  - Canada
+  - United States
+  - United States of America
+  - America
+  - the States
+  - US
+  - U.S.
+  - USA
+  - U.S.A.

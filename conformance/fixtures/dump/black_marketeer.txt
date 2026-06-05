@@ -1,0 +1,31 @@
+term: black marketeer
+[Definitions]
+  - (noun) someone who engages illegally in trade in scarce or controlled commodities
+  - (verb) deal on the black market
+[Is a kind of]
+  - supplier, provider
+    - businessperson, bourgeois
+      - capitalist
+        - person, individual, someone, somebody, mortal, soul
+          - organism, being
+            - living thing, animate thing
+              - whole, unit
+                - object, physical object
+                  - physical entity
+                    - entity
+          - causal agent, cause, causal agency
+            - physical entity
+              - entity
+  - deal, sell, trade
+    - transact
+      - interact
+        - act, move
+[Part of]
+  - black market
+[Domains]
+  - crime
+  - offense
+  - criminal offense
+  - criminal offence
+  - offence
+  - law-breaking

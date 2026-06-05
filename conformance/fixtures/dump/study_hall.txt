@@ -1,0 +1,21 @@
+term: study hall
+[Definitions]
+  - (noun) a period of time during the school day that is set aside for study
+  - (noun) a classroom reserved for study
+[Is a kind of]
+  - time period, period of time, period
+    - fundamental quantity, fundamental measure
+      - measure, quantity, amount
+        - abstraction, abstract entity
+          - entity
+  - classroom, schoolroom
+    - room
+      - area
+        - structure, construction
+          - artifact, artefact
+            - whole, unit
+              - object, physical object
+                - physical entity
+                  - entity
+[Part of]
+  - school, schooltime, school day

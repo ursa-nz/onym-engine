@@ -1,0 +1,99 @@
+term: golf
+[Definitions]
+  - (noun) a game played on a large open course with 9 or 18 holes; the object is use as few strokes as possible in playing all the holes
+  - (verb) play golf
+[Synonyms]
+  - golf game
+[Derived forms]
+  - golfer
+  - golf player
+  - linksman
+  - golfing
+  - golf game
+[Is a kind of]
+  - outdoor game
+    - athletic game
+      - sport, athletics
+        - diversion, recreation
+          - activity
+            - act, deed, human action, human activity
+              - event
+                - psychological feature
+                  - abstraction, abstract entity
+                    - entity
+      - game
+        - activity
+          - act, deed, human action, human activity
+            - event
+              - psychological feature
+                - abstraction, abstract entity
+                  - entity
+  - play
+    - compete, vie, contend
+[Kinds]
+  - professional golf
+  - round of golf, round
+  - medal play, stroke play
+  - match play
+  - miniature golf
+  - clock golf
+[Domains]
+  - dormie
+  - dormy
+  - greenside
+  - approach
+  - approach shot
+  - chip
+  - chip shot
+  - driving iron
+  - one iron
+  - golf-club head
+  - club head
+  - club-head
+  - clubhead
+  - golf course
+  - links course
+  - golf equipment
+  - golf range
+  - driving range
+  - heel
+  - plus fours
+  - toe
+  - wedge
+  - whip
+  - loft
+  - address
+  - scratch
+  - card
+  - scorecard
+  - apron
+  - divot
+  - greenskeeper
+  - medalist
+  - medallist
+  - medal winner
+  - stroke
+  - birdie
+  - bogey
+  - double-bogey
+  - eagle
+  - double eagle
+  - par
+  - tee off
+  - ace
+  - caddie
+  - caddy
+  - hole up
+  - carry
+  - shank
+  - putt
+  - drive
+  - hole
+  - hole out
+  - slice
+  - hook
+  - sclaff
+  - tee
+  - tee up
+  - double birdie
+  - double bogey

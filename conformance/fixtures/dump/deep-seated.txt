@@ -1,0 +1,19 @@
+term: deep-seated
+[Definitions]
+  - (adjective) (used especially of ideas or principles) deeply rooted; firmly fixed or held
+      "deep-rooted prejudice"
+      "deep-seated differences of opinion"
+      "implanted convictions"
+      "ingrained habits of a lifetime"
+      "a deeply planted need"
+[Synonyms]
+  - deep-rooted
+  - implanted
+  - ingrained
+  - planted
+[Antonyms]
+  - established (indirect)
+      -> unestablished
+[Similar to]
+  - established
+  - constituted

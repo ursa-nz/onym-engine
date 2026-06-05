@@ -1,0 +1,6 @@
+term: nonlexically
+[Definitions]
+  - (adverb) without the use of words
+      "expressed nonlexically"
+[Pertains to]
+  - nonlexical

@@ -1,0 +1,65 @@
+term: topminnow
+[Definitions]
+  - (noun) small usually brightly-colored viviparous surface-feeding fishes of fresh or brackish warm waters; often used in mosquito control
+  - (noun) freshwater fish of Central America having a long swordlike tail; popular aquarium fish
+[Synonyms]
+  - poeciliid fish
+  - poeciliid
+  - live-bearer
+  - swordtail
+  - helleri
+  - Xyphophorus helleri
+[Is a kind of]
+  - cypriniform fish
+    - soft-finned fish, malacopterygian
+      - teleost fish, teleost, teleostan
+        - bony fish
+          - fish
+            - aquatic vertebrate
+              - vertebrate, craniate
+                - chordate
+                  - animal, animate being, beast, brute, creature, fauna
+                    - organism, being
+                      - living thing, animate thing
+                        - whole, unit
+                          - object, physical object
+                            - physical entity
+                              - entity
+  - cyprinodont
+    - cypriniform fish
+      - soft-finned fish, malacopterygian
+        - teleost fish, teleost, teleostan
+          - bony fish
+            - fish
+              - aquatic vertebrate
+                - vertebrate, craniate
+                  - chordate
+                    - animal, animate being, beast, brute, creature, fauna
+                      - organism, being
+                        - living thing, animate thing
+                          - whole, unit
+                            - object, physical object
+                              - physical entity
+                                - entity
+[Kinds]
+  - mosquitofish, Gambusia affinis
+  - platy, Platypoecilus maculatus
+  - mollie, molly
+[Part of]
+  - Poeciliidae, family Poeciliidae
+    - Cypriniformes, order Cypriniformes
+      - Malacopterygii, superorder Malacopterygii
+        - Teleostei, subclass Teleostei
+          - Osteichthyes, class Osteichthyes
+            - Vertebrata, subphylum Vertebrata, Craniata, subphylum Craniata
+              - Chordata, phylum Chordata
+                - Animalia, kingdom Animalia, animal kingdom
+  - Xyphophorus, genus Xyphophorus
+    - Cyprinodontidae, family Cyprinodontidae
+      - Cypriniformes, order Cypriniformes
+        - Malacopterygii, superorder Malacopterygii
+          - Teleostei, subclass Teleostei
+            - Osteichthyes, class Osteichthyes
+              - Vertebrata, subphylum Vertebrata, Craniata, subphylum Craniata
+                - Chordata, phylum Chordata
+                  - Animalia, kingdom Animalia, animal kingdom

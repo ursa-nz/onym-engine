@@ -1,0 +1,31 @@
+term: Lech Walesa
+[Definitions]
+  - (noun) Polish labor leader and statesman (born in 1943)
+[Synonyms]
+  - Walesa
+[Is a kind of]
+  - labor leader
+    - leader
+      - person, individual, someone, somebody, mortal, soul
+        - organism, being
+          - living thing, animate thing
+            - whole, unit
+              - object, physical object
+                - physical entity
+                  - entity
+        - causal agent, cause, causal agency
+          - physical entity
+            - entity
+  - statesman, solon, national leader
+    - politician, politico, pol, political leader
+      - leader
+        - person, individual, someone, somebody, mortal, soul
+          - organism, being
+            - living thing, animate thing
+              - whole, unit
+                - object, physical object
+                  - physical entity
+                    - entity
+          - causal agent, cause, causal agency
+            - physical entity
+              - entity

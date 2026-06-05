@@ -1,0 +1,38 @@
+term: powwow
+[Definitions]
+  - (noun) (informal) a quick private conference
+  - (noun) a council of or with Native Americans
+  - (verb) hold a powwow, talk, conference or meeting
+      "Sam wants to powwow with Sue"
+      "Sam and Sue powwow"
+[Synonyms]
+  - huddle
+[Derived forms]
+  - huddle
+[Is a kind of]
+  - conference, group discussion
+    - discussion, give-and-take, word
+      - speech, speech communication, spoken communication, spoken language, language, voice communication, oral communication
+        - auditory communication
+          - communication
+            - abstraction, abstract entity
+              - entity
+  - council
+    - meeting, group meeting
+      - gathering, assemblage
+        - social group
+          - group, grouping
+            - abstraction, abstract entity
+              - entity
+  - hash out, discuss, talk over
+    - talk of, talk about
+      - talk, speak, utter, mouth, verbalize, verbalise
+        - communicate, intercommunicate
+          - interact
+            - act, move
+[Parts]
+  - huddler
+  - council
+    - council member, councillor
+[Domains]
+  - colloquialism

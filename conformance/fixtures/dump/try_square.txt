@@ -1,0 +1,16 @@
+term: try square
+[Definitions]
+  - (noun) a square having a metal ruler set at right angles to another straight piece
+[Is a kind of]
+  - square
+    - hand tool
+      - tool
+        - implement
+          - instrumentality, instrumentation
+            - artifact, artefact
+              - whole, unit
+                - object, physical object
+                  - physical entity
+                    - entity
+[Kinds]
+  - set square

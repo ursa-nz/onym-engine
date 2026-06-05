@@ -1,0 +1,29 @@
+term: barnburner
+[Definitions]
+  - (noun) someone who burns down a barn
+  - (noun) an impressively successful event
+      "the rock concert was a real barnburner"
+[Is a kind of]
+  - arsonist, incendiary, firebug
+    - criminal, felon, crook, outlaw, malefactor
+      - principal
+        - wrongdoer, offender
+          - bad person
+            - person, individual, someone, somebody, mortal, soul
+              - organism, being
+                - living thing, animate thing
+                  - whole, unit
+                    - object, physical object
+                      - physical entity
+                        - entity
+              - causal agent, cause, causal agency
+                - physical entity
+                  - entity
+  - success
+    - happening, occurrence, occurrent, natural event
+      - event
+        - psychological feature
+          - abstraction, abstract entity
+            - entity
+[Domains]
+  - colloquialism

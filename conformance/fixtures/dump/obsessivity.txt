@@ -1,0 +1,14 @@
+term: obsessivity
+[Definitions]
+  - (noun) extreme compulsiveness
+[Synonyms]
+  - obsessiveness
+[Derived forms]
+  - obsessional
+  - obsessive
+[Is a kind of]
+  - compulsiveness, compulsivity
+    - trait
+      - attribute
+        - abstraction, abstract entity
+          - entity

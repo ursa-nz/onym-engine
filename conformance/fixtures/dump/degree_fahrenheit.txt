@@ -1,0 +1,13 @@
+term: degree Fahrenheit
+[Definitions]
+  - (noun) a degree on the Fahrenheit scale of temperature
+[Synonyms]
+  - F
+[Is a kind of]
+  - degree
+    - temperature unit
+      - unit of measurement, unit
+        - definite quantity
+          - measure, quantity, amount
+            - abstraction, abstract entity
+              - entity

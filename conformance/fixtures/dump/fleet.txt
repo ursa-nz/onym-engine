@@ -1,0 +1,71 @@
+term: fleet
+[Definitions]
+  - (adjective) moving very fast
+      "fleet of foot"
+      "the fleet scurrying of squirrels"
+      "a swift current"
+      "swift flight of an arrow"
+      "a swift runner"
+  - (noun) group of aircraft operating together under the same ownership
+  - (noun) group of motor vehicles operating together under the same ownership
+  - (noun) a group of steamships operating together under the same ownership
+  - (noun) a group of warships organized as a tactical unit
+  - (verb) move along rapidly and lightly; skim or dart
+      "The hummingbird flitted among the branches"
+  - (verb) disappear gradually
+      "The pain eventually passed off"
+[Synonyms]
+  - flit
+  - flutter
+  - dart
+  - evanesce
+  - fade
+  - blow over
+  - pass off
+  - pass
+  - swift
+[Antonyms]
+  - fast (indirect)
+      -> slow
+[Derived forms]
+  - fleetness
+[Similar to]
+  - fast
+[Is a kind of]
+  - collection, aggregation, accumulation, assemblage
+    - group, grouping
+      - abstraction, abstract entity
+        - entity
+  - steamship company, steamship line
+    - line
+      - carrier, common carrier
+        - business, concern, business concern, business organization, business organisation
+          - enterprise
+            - organization, organisation
+              - social group
+                - group, grouping
+                  - abstraction, abstract entity
+                    - entity
+  - travel rapidly, speed, hurry, zip
+    - travel, go, move, locomote
+  - disappear, vanish, go away
+[Kinds]
+  - motor pool
+  - argosy
+  - flotilla
+  - armada
+    - Spanish Armada, Invincible Armada
+  - battle fleet
+  - wolf pack
+  - butterfly
+[Part of]
+  - airline, airline business, airway
+  - bus line
+  - navy, naval forces
+[Parts]
+  - aircraft
+  - cab, hack, taxi, taxicab
+  - bus, autobus, coach, charabanc, double-decker, jitney, motorbus, motorcoach, omnibus, passenger vehicle
+  - ship
+  - guided missile frigate
+  - warship, war vessel, combat ship

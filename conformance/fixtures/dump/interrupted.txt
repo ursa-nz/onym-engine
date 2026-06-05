@@ -1,0 +1,82 @@
+term: interrupted
+[Definitions]
+  - (adjective) discontinued temporarily
+      "we resumed the interrupted discussion"
+  - (adjective) intermittently stopping and starting
+      "fitful (or interrupted) sleep"
+      "off-and-on static"
+  - (verb) make a break in
+      "We interrupt the program for the following messages"
+  - (verb) destroy the peace or tranquility of
+      "Don't interrupt me when I'm reading"
+  - (verb) interfere in someone else's activity
+      "Please don't interrupt me while I'm on the phone"
+  - (verb) terminate
+      "She interrupted her pregnancy"
+      "break a lucky streak"
+      "break the cycle of poverty"
+[Synonyms]
+  - disrupt
+  - break up
+  - cut off
+  - disturb
+  - break
+  - fitful
+  - off-and-on
+[Antonyms]
+  - discontinued (indirect)
+      -> continued
+  - broken (indirect)
+      -> unbroken
+[Derived forms]
+  - break
+  - interruption
+  - disruption
+  - gap
+  - interrupter
+[Similar to]
+  - discontinued
+  - broken
+[Is a kind of]
+  - break, break off, discontinue, stop
+    - end, terminate
+      - change, alter, modify
+  - act, move
+  - chime in, cut in, put in, butt in, chisel in, barge in, break in
+    - disrupt, break up, cut off
+      - break, break off, discontinue, stop
+        - end, terminate
+          - change, alter, modify
+  - end, terminate
+    - change, alter, modify
+[Kinds]
+  - cut, cut off
+  - punctuate
+  - break
+  - put away, put aside
+  - pause, intermit, break
+    - rest, breathe, catch one's breath, take a breather
+    - take five
+    - take ten
+  - chime in, cut in, put in, butt in, chisel in, barge in, break in
+    - disrupt
+      - cut in
+      - cut short
+  - burst in on, burst upon
+  - heckle
+  - interject, come in, interpose, put in, throw in, inject
+  - jam, block
+    - barrage jam
+    - point jam
+    - spot jam
+    - blanket jam
+  - stop, stop over
+    - call
+    - lay over, stop over
+  - take off, take time off
+  - cut in
+  - cut short
+  - hold on, stop
+  - cut short, break short, break off
+    - hang up
+  - freeze, suspend

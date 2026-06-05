@@ -1,0 +1,10 @@
+term: vivace
+[Definitions]
+  - (adjective) (of tempo) very fast and lively
+  - (adverb) lively, in music
+      "play this section vivace!"
+[Antonyms]
+  - fast (indirect)
+      -> slow
+[Similar to]
+  - fast

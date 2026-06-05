@@ -1,0 +1,38 @@
+term: military blockade
+[Definitions]
+  - (noun) the action of an armed force that surrounds a fortified place and isolates it while continuing to attack
+[Synonyms]
+  - siege
+  - besieging
+  - beleaguering
+[Is a kind of]
+  - blockade, encirclement
+    - military action, action
+      - group action
+        - act, deed, human action, human activity
+          - event
+            - psychological feature
+              - abstraction, abstract entity
+                - entity
+        - event
+          - psychological feature
+            - abstraction, abstract entity
+              - entity
+[Kinds]
+  - Alamo
+  - Atlanta, battle of Atlanta
+  - Bataan, Corregidor
+  - Dien Bien Phu
+  - Lucknow
+  - Orleans, siege of Orleans
+  - Petersburg, Petersburg Campaign
+  - Plevna, Pleven
+  - Syracuse, siege of Syracuse
+  - Vicksburg, siege of Vicksburg
+  - Yorktown, siege of Yorktown
+[Domains]
+  - military
+  - armed forces
+  - armed services
+  - military machine
+  - war machine

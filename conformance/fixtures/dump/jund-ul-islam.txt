@@ -1,0 +1,18 @@
+term: Jund-ul-Islam
+[Definitions]
+  - (noun) an Islamic extremist group of Kurds who oppose secular control with bombings and assassinations; believed to have ties with al-Qaeda
+[Synonyms]
+  - Soldiers of God
+[Is a kind of]
+  - terrorist organization, terrorist group, foreign terrorist organization, FTO
+    - political movement
+      - movement, social movement, front
+        - social group
+          - group, grouping
+            - abstraction, abstract entity
+              - entity
+[Domains]
+  - terrorism
+  - act of terrorism
+  - terrorist act
+  - Kurdistan

@@ -1,0 +1,16 @@
+term: dark field illumination
+[Definitions]
+  - (noun) a form of microscopic examination of living material by scattered light; specimens appear luminous against a dark background
+[Synonyms]
+  - dark ground illumination
+[Is a kind of]
+  - microscopy
+    - research
+      - investigation, investigating
+        - work
+          - activity
+            - act, deed, human action, human activity
+              - event
+                - psychological feature
+                  - abstraction, abstract entity
+                    - entity

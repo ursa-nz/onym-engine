@@ -1,0 +1,20 @@
+term: ash bin
+[Definitions]
+  - (noun) a bin that holds rubbish until it is collected
+[Synonyms]
+  - ashcan
+  - trash can
+  - garbage can
+  - wastebin
+  - dustbin
+  - trash barrel
+  - trash bin
+[Is a kind of]
+  - bin
+    - container
+      - instrumentality, instrumentation
+        - artifact, artefact
+          - whole, unit
+            - object, physical object
+              - physical entity
+                - entity

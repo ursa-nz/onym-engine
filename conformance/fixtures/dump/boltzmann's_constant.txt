@@ -1,0 +1,10 @@
+term: Boltzmann's constant
+[Definitions]
+  - (noun) constant used in the calculation of the ideal gas constant
+[Is a kind of]
+  - constant
+    - number
+      - definite quantity
+        - measure, quantity, amount
+          - abstraction, abstract entity
+            - entity

@@ -1,0 +1,25 @@
+term: senselessness
+[Definitions]
+  - (noun) total lack of meaning or ideas
+[Synonyms]
+  - inanity
+  - mindlessness
+  - vacuity
+  - pointlessness
+[Derived forms]
+  - otiose
+  - pointless
+  - purposeless
+  - senseless
+  - superfluous
+  - wasted
+[Is a kind of]
+  - meaninglessness
+    - insignificance
+      - unimportance
+        - value
+          - worth
+            - quality
+              - attribute
+                - abstraction, abstract entity
+                  - entity

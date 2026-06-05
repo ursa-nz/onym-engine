@@ -1,0 +1,18 @@
+term: Dianthus latifolius
+[Definitions]
+  - (noun) much-branched pink with flowers in clusters; closely related to sweet William
+[Synonyms]
+  - button pink
+[Is a kind of]
+  - pink, garden pink
+    - flower
+      - angiosperm, flowering plant
+        - spermatophyte, phanerogam, seed plant
+          - vascular plant, tracheophyte
+            - plant, flora, plant life
+              - organism, being
+                - living thing, animate thing
+                  - whole, unit
+                    - object, physical object
+                      - physical entity
+                        - entity

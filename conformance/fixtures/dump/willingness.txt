@@ -1,0 +1,24 @@
+term: willingness
+[Definitions]
+  - (noun) cheerful compliance
+      "he expressed his willingness to help"
+[Antonyms]
+  - unwillingness (direct)
+      -> involuntariness
+[Derived forms]
+  - willing
+[Is a kind of]
+  - disposition, temperament
+    - nature
+      - trait
+        - attribute
+          - abstraction, abstract entity
+            - entity
+[Kinds]
+  - readiness, eagerness, zeal, forwardness
+  - receptiveness, receptivity, openness
+  - wholeheartedness
+[Parts]
+  - disposition, temperament
+    - cheerfulness, cheer, sunniness, sunshine
+    - uncheerfulness

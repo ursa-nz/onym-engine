@@ -1,0 +1,32 @@
+term: Yafo
+[Definitions]
+  - (noun) a port in western Israel on the Mediterranean; incorporated into Tel Aviv in 1950
+[Synonyms]
+  - Jaffa
+  - Joppa
+[Is a kind of]
+  - city, metropolis, urban center
+    - municipality
+      - urban area, populated area
+        - geographical area, geographic area, geographical region, geographic region
+          - region
+            - location
+              - object, physical object
+                - physical entity
+                  - entity
+      - administrative district, administrative division, territorial division
+        - district, territory, territorial dominion, dominion
+          - region
+            - location
+              - object, physical object
+                - physical entity
+                  - entity
+  - port
+    - geographic point, geographical point
+      - point
+        - location
+          - object, physical object
+            - physical entity
+              - entity
+[Part of]
+  - Tel Aviv, Tel Aviv-Yalo, Tel Aviv-Jaffa

@@ -1,0 +1,16 @@
+term: family Colchicaceae
+[Definitions]
+  - (noun) one of many subfamilies into which some classification systems subdivide the Liliaceae but not widely accepted: genera Colchicum and Gloriosa
+[Synonyms]
+  - Colchicaceae
+[Is a kind of]
+  - liliid monocot family
+    - monocot family, liliopsid family
+      - family
+        - taxonomic group, taxonomic category, taxon
+          - biological group
+            - group, grouping
+              - abstraction, abstract entity
+                - entity
+[Part of]
+  - Liliaceae, family Liliaceae, lily family

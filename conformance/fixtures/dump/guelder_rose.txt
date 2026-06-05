@@ -1,0 +1,22 @@
+term: guelder rose
+[Definitions]
+  - (noun) deciduous thicket-forming Old World shrub with clusters of white flowers and small bright red berries
+[Synonyms]
+  - European cranberrybush
+  - European cranberry bush
+  - crampbark
+  - cranberry tree
+  - Viburnum opulus
+[Is a kind of]
+  - shrub, bush
+    - woody plant, ligneous plant
+      - vascular plant, tracheophyte
+        - plant, flora, plant life
+          - organism, being
+            - living thing, animate thing
+              - whole, unit
+                - object, physical object
+                  - physical entity
+                    - entity
+[Part of]
+  - Viburnum, genus Viburnum

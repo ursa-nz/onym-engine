@@ -1,0 +1,30 @@
+term: hyrax
+[Definitions]
+  - (noun) any of several small ungulate mammals of Africa and Asia with rodent-like incisors and feet with hooflike toes
+[Synonyms]
+  - coney
+  - cony
+  - dassie
+  - das
+[Is a kind of]
+  - placental, placental mammal, eutherian, eutherian mammal
+    - mammal, mammalian
+      - vertebrate, craniate
+        - chordate
+          - animal, animate being, beast, brute, creature, fauna
+            - organism, being
+              - living thing, animate thing
+                - whole, unit
+                  - object, physical object
+                    - physical entity
+                      - entity
+[Kinds]
+  - rock hyrax, rock rabbit, Procavia capensis
+[Part of]
+  - Procaviidae, family Procaviidae
+    - Hyracoidea, order Hyracoidea
+      - Eutheria, subclass Eutheria
+        - Mammalia, class Mammalia
+          - Vertebrata, subphylum Vertebrata, Craniata, subphylum Craniata
+            - Chordata, phylum Chordata
+              - Animalia, kingdom Animalia, animal kingdom

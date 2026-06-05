@@ -1,0 +1,16 @@
+term: inadvertency
+[Definitions]
+  - (noun) the trait of forgetting or ignoring your responsibilities
+[Synonyms]
+  - unmindfulness
+  - heedlessness
+  - inadvertence
+[Derived forms]
+  - accidental
+  - inadvertent
+[Is a kind of]
+  - attentiveness
+    - trait
+      - attribute
+        - abstraction, abstract entity
+          - entity

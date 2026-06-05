@@ -1,0 +1,23 @@
+term: hayseed
+[Definitions]
+  - (noun) a person who is not very intelligent or interested in culture
+[Synonyms]
+  - yokel
+  - rube
+  - hick
+  - yahoo
+  - bumpkin
+  - chawbacon
+[Is a kind of]
+  - rustic
+    - commoner, common man, common person
+      - person, individual, someone, somebody, mortal, soul
+        - organism, being
+          - living thing, animate thing
+            - whole, unit
+              - object, physical object
+                - physical entity
+                  - entity
+        - causal agent, cause, causal agency
+          - physical entity
+            - entity

@@ -1,0 +1,39 @@
+term: proletarian
+[Definitions]
+  - (noun) a member of the working class (not necessarily employed)
+      "workers of the world--unite!"
+  - (adjective) belonging to or characteristic of the proletariat
+[Synonyms]
+  - prole
+  - worker
+[Antonyms]
+  - upper-class (indirect)
+      -> middle-class
+  - lower-class (indirect)
+      -> upper-class
+[Derived forms]
+  - prole
+  - worker
+  - labor
+  - labour
+  - working class
+  - proletariat
+[Similar to]
+  - lower-class
+  - low-class
+[Is a kind of]
+  - commoner, common man, common person
+    - person, individual, someone, somebody, mortal, soul
+      - organism, being
+        - living thing, animate thing
+          - whole, unit
+            - object, physical object
+              - physical entity
+                - entity
+      - causal agent, cause, causal agency
+        - physical entity
+          - entity
+[Kinds]
+  - dogsbody
+[Part of]
+  - labor, labour, working class, proletariat

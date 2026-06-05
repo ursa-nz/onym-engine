@@ -1,0 +1,18 @@
+term: poker plant
+[Definitions]
+  - (noun) clump-forming plant of South Africa with spikes of scarlet flowers
+[Synonyms]
+  - Kniphofia uvaria
+[Is a kind of]
+  - kniphofia, tritoma, flame flower, flame-flower, flameflower
+    - herb, herbaceous plant
+      - vascular plant, tracheophyte
+        - plant, flora, plant life
+          - organism, being
+            - living thing, animate thing
+              - whole, unit
+                - object, physical object
+                  - physical entity
+                    - entity
+[Kinds]
+  - red-hot poker, Kniphofia praecox

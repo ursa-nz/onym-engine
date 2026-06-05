@@ -1,0 +1,13 @@
+term: needlelike
+[Definitions]
+  - (adjective) ending in a sharp point
+[Synonyms]
+  - acuate
+  - acute
+  - sharp
+[Antonyms]
+  - pointed (indirect)
+      -> pointless
+      -> unpointed
+[Similar to]
+  - pointed

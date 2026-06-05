@@ -1,0 +1,24 @@
+term: front room
+[Definitions]
+  - (noun) a room in a private house or establishment where people can sit and talk and relax
+[Synonyms]
+  - living room
+  - living-room
+  - sitting room
+  - parlor
+  - parlour
+[Is a kind of]
+  - room
+    - area
+      - structure, construction
+        - artifact, artefact
+          - whole, unit
+            - object, physical object
+              - physical entity
+                - entity
+[Kinds]
+  - common room
+  - morning room
+  - salon
+[Part of]
+  - dwelling, home, domicile, abode, habitation, dwelling house

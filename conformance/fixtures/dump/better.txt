@@ -1,0 +1,714 @@
+term: better
+[Definitions]
+  - (adjective) (comparative of `good') superior to another (of the same class or set or kind) in excellence or quality or desirability or suitability; more highly skilled than another
+      "You're a better man than I am, Gunga Din"
+      "a better coat"
+      "a better type of car"
+      "a suit with a better fit"
+      "a better chance of success"
+      "produced a better mousetrap"
+      "she's better in math than in history"
+  - (adjective) (comparative of `good') changed for the better in health or fitness
+      "her health is better now"
+      "I feel better"
+  - (adjective) (comparative and superlative of `well') wiser or more advantageous and hence advisable
+      "it would be better to speak to him"
+      "the White House thought it best not to respond"
+  - (adjective) more than half
+      "argued for the better part of an hour"
+  - (adverb) comparative of `well'; in a better or more excellent manner or more advantageously or attractively or to a greater degree etc.
+      "She had never sung better"
+      "a deed better left undone"
+      "better suited to the job"
+  - (adverb) from a position of superiority or authority
+      "father knows best"
+      "I know better."
+  - (noun) something superior in quality or condition or effect
+      "a change for the better"
+  - (noun) someone who bets
+  - (noun) a superior person having claim to precedence
+      "the common man has been kept in his place by his betters"
+  - (noun) the superior one of two alternatives
+      "chose the better of the two"
+  - (verb) surpass in excellence
+      "She bettered her own record"
+      "break a record"
+  - (verb) to make better
+      "The editor improved the manuscript with his changes"
+  - (verb) get better
+      "The weather improved toward evening"
+  - (adjective) having desirable or positive qualities especially those suitable for a thing specified
+      "good news from the hospital"
+      "a good report card"
+      "when she was good she was very very good"
+      "a good knife is one good for cutting"
+      "this stump will make a good picnic table"
+      "a good check"
+      "a good joke"
+      "a good exterior paint"
+      "a good secretary"
+      "a good dress for the office"
+  - (adjective) having the normally expected amount
+      "gives full measure"
+      "gives good measure"
+      "a good mile from here"
+  - (adjective) morally admirable
+  - (adjective) deserving of esteem and respect
+      "all respectable companies give guarantees"
+      "ruined the family's good name"
+  - (adjective) promoting or enhancing well-being
+      "an arms limitation agreement beneficial to all countries"
+      "the beneficial effects of a temperate climate"
+      "the experience was good for her"
+  - (adjective) agreeable or pleasing
+      "we all had a good time"
+      "good manners"
+  - (adjective) of moral excellence
+      "a genuinely good person"
+      "a just cause"
+      "an upright and respectable man"
+  - (adjective) having or showing knowledge and skill and aptitude
+      "adept in handicrafts"
+      "an adept juggler"
+      "an expert job"
+      "a good mechanic"
+      "a practiced marksman"
+      "a proficient engineer"
+      "a lesser-known but no less skillful composer"
+      "the effect was achieved by skillful retouching"
+  - (adjective) thorough
+      "had a good workout"
+      "gave the house a good cleaning"
+  - (adjective) with or in a close or intimate relationship
+      "a good friend"
+      "my sisters and brothers are near and dear"
+  - (adjective) financially sound
+      "a good investment"
+      "a secure investment"
+  - (adjective) most suitable or right for a particular purpose
+      "a good time to plant tomatoes"
+      "the right time to act"
+      "the time is ripe for great sociological changes"
+  - (adjective) resulting favorably
+      "it's a good thing that I wasn't there"
+      "it is good that you stayed"
+      "it is well that no one saw you"
+      "all's well that ends well"
+  - (adjective) exerting force or influence
+      "the law is effective immediately"
+      "a warranty good for two years"
+      "the law is already in effect (or in force)"
+  - (adjective) capable of pleasing
+      "good looks"
+  - (adjective) appealing to the mind
+      "good music"
+      "a serious book"
+  - (adjective) in excellent physical condition
+      "good teeth"
+      "I still have one good leg"
+      "a sound mind in a sound body"
+  - (adjective) tending to promote physical well-being; beneficial to health
+      "beneficial effects of a balanced diet"
+      "a good night's sleep"
+      "the salutary influence of pure air"
+  - (adjective) not forged
+      "a good dollar bill"
+  - (adjective) not left to spoil
+      "the meat is still good"
+  - (adjective) generally admired
+      "good taste"
+  - (adverb) (often used as a combining form) in a good or proper or satisfactory manner or to a high standard (`good' is a nonstandard dialectal variant for `well')
+      "the children behaved well"
+      "a task well done"
+      "the party went well"
+      "he slept well"
+      "a well-argued thesis"
+      "a well-seasoned dish"
+      "a well-planned party"
+      "the baby can walk pretty good"
+  - (adverb) thoroughly or completely; fully; often used as a combining form
+      "The problem is well understood"
+      "she was well informed"
+      "shake well before using"
+      "in order to avoid food poisoning be sure the meat is well cooked"
+      "well-done beef"
+      "well-satisfied customers"
+      "well-educated"
+  - (adverb) indicating high probability; in all likelihood
+      "I might well do it"
+      "a mistake that could easily have ended in disaster"
+      "you may well need your umbrella"
+      "he could equally well be trying to deceive us"
+  - (adverb) (used for emphasis or as an intensifier) entirely or fully
+      "a book well worth reading"
+      "was well aware of the difficulties ahead"
+      "suspected only too well what might be going on"
+  - (adverb) to a suitable or appropriate extent or degree
+      "the project was well underway"
+      "the fetus has well developed organs"
+      "his father was well pleased with his grades"
+  - (adverb) favorably; with approval
+      "their neighbors spoke well of them"
+      "he thought well of the book"
+  - (adverb) to a great extent or degree
+      "I'm afraid the film was well over budget"
+      "painting the room white made it seem considerably (or substantially) larger"
+      "the house has fallen considerably in value"
+      "the price went up substantially"
+  - (adverb) with great or especially intimate knowledge
+      "we knew them well"
+  - (adverb) with prudence or propriety
+      "You would do well to say nothing more"
+      "could not well refuse"
+  - (adverb) with skill or in a pleasing manner
+      "she dances well"
+      "he writes well"
+  - (adverb) in a manner affording benefit or advantage
+      "she married well"
+      "The children were settled advantageously in Seattle"
+  - (adverb) in financial comfort
+      "They live well"
+      "she has been able to live comfortably since her husband died"
+  - (adverb) without unusual distress or resentment; with good humor
+      "took the joke well"
+      "took the tragic news well"
+  - (adjective) in good health especially after having suffered illness or injury
+      "appears to be entirely well"
+      "the wound is nearly well"
+      "a well man"
+      "I think I'm well; at least I feel well"
+  - (adjective) resulting favorably
+      "it's a good thing that I wasn't there"
+      "it is good that you stayed"
+      "it is well that no one saw you"
+      "all's well that ends well"
+  - (adjective) wise or advantageous and hence advisable
+      "it would be well to start early"
+[Synonyms]
+  - bettor
+  - wagerer
+  - punter
+  - break
+  - improve
+  - amend
+  - ameliorate
+  - meliorate
+  - best
+  - full
+  - estimable
+  - honorable
+  - respectable
+  - beneficial
+  - just
+  - upright
+  - adept
+  - expert
+  - practiced
+  - proficient
+  - skillful
+  - skilful
+  - dear
+  - near
+  - dependable
+  - safe
+  - secure
+  - right
+  - ripe
+  - effective
+  - in effect
+  - in force
+  - serious
+  - sound
+  - salutary
+  - honest
+  - undecomposed
+  - unspoiled
+  - unspoilt
+  - easily
+  - considerably
+  - substantially
+  - intimately
+  - advantageously
+  - comfortably
+[Antonyms]
+  - worsen (direct)
+      -> aggravate
+      -> exacerbate
+      -> exasperate
+      -> decline
+  - worse (direct)
+      -> worsened
+  - advisable (indirect)
+      -> inadvisable
+      -> unadvisable
+  - major (indirect)
+      -> minor
+  - bad (direct)
+      -> atrocious
+      -> abominable
+      -> awful
+      -> dreadful
+      -> painful
+      -> terrible
+      -> unspeakable
+      -> corked
+      -> corky
+      -> deplorable
+      -> distressing
+      -> lamentable
+      -> pitiful
+      -> sad
+      -> sorry
+      -> fearful
+      -> frightful
+      -> hard
+      -> tough
+      -> hopeless
+      -> horrid
+      -> icky
+      -> crappy
+      -> lousy
+      -> rotten
+      -> shitty
+      -> stinking
+      -> stinky
+      -> ill
+      -> incompetent
+      -> unskilled
+      -> mediocre
+      -> naughty
+      -> negative
+      -> poor
+      -> pretty
+      -> rubber
+      -> no-good
+      -> severe
+      -> swingeing
+      -> uncool
+      -> unfavorable
+      -> unfavourable
+      -> unsuitable
+  - ample (indirect)
+      -> meager
+      -> meagre
+      -> meagerly
+      -> stingy
+      -> scrimpy
+  - evil (direct)
+      -> atrocious
+      -> flagitious
+      -> grievous
+      -> monstrous
+      -> bad
+      -> black
+      -> dark
+      -> sinister
+      -> corruptive
+      -> perversive
+      -> pestiferous
+      -> demonic
+      -> diabolic
+      -> diabolical
+      -> fiendish
+      -> hellish
+      -> infernal
+      -> satanic
+      -> unholy
+      -> despicable
+      -> ugly
+      -> vile
+      -> slimy
+      -> unworthy
+      -> worthless
+      -> wretched
+      -> devilish
+      -> mephistophelian
+      -> mephistophelean
+      -> evil-minded
+  - reputable (indirect)
+      -> disreputable
+  - advantageous (indirect)
+      -> disadvantageous
+  - nice (indirect)
+      -> nasty
+      -> awful
+  - righteous (indirect)
+      -> unrighteous
+  - skilled (indirect)
+      -> unskilled
+  - complete (indirect)
+      -> incomplete
+      -> uncomplete
+  - close (indirect)
+      -> distant
+      -> remote
+  - sound (indirect)
+      -> unsound
+  - opportune (indirect)
+      -> inopportune
+  - fortunate (indirect)
+      -> unfortunate
+  - operative (indirect)
+      -> inoperative
+  - pleasing (indirect)
+      -> displeasing
+  - intellectual (indirect)
+      -> nonintellectual
+  - healthy (indirect)
+      -> unhealthy
+  - healthful (indirect)
+      -> unhealthful
+  - genuine (indirect)
+      -> counterfeit
+      -> imitative
+  - fresh (indirect)
+      -> stale
+  - discriminating (indirect)
+      -> undiscriminating
+      -> indiscriminating
+  - ill (direct)
+      -> sick
+      -> afflicted
+      -> stricken
+      -> aguish
+      -> ailing
+      -> indisposed
+      -> peaked
+      -> poorly
+      -> sickly
+      -> unwell
+      -> under the weather
+      -> seedy
+      -> airsick
+      -> air sick
+      -> carsick
+      -> seasick
+      -> autistic
+      -> bedfast
+      -> bedridden
+      -> bedrid
+      -> sick-abed
+      -> bilious
+      -> liverish
+      -> livery
+      -> bronchitic
+      -> consumptive
+      -> convalescent
+      -> recovering
+      -> delirious
+      -> hallucinating
+      -> diabetic
+      -> dizzy
+      -> giddy
+      -> woozy
+      -> vertiginous
+      -> dyspeptic
+      -> faint
+      -> light
+      -> swooning
+      -> light-headed
+      -> lightheaded
+      -> feverish
+      -> feverous
+      -> funny
+      -> gouty
+      -> green
+      -> laid low
+      -> laid up
+      -> milk-sick
+      -> nauseated
+      -> nauseous
+      -> queasy
+      -> sickish
+      -> palsied
+      -> paralytic
+      -> paralyzed
+      -> paraplegic
+      -> rickety
+      -> rachitic
+      -> scrofulous
+      -> sneezy
+      -> spastic
+      -> tubercular
+      -> tuberculous
+      -> unhealed
+      -> upset
+      -> badly
+  - badly (direct)
+      -> disadvantageously
+[Derived forms]
+  - bet
+  - wager
+  - play
+  - break
+  - improve
+  - amend
+  - ameliorate
+  - meliorate
+  - amelioration
+  - melioration
+  - betterment
+  - improvement
+  - advance
+  - goodness
+  - health
+  - wellness
+[Similar to]
+  - amended
+  - finer
+  - improved
+  - fitter
+  - healthier
+  - advisable
+  - major
+  - bang-up
+  - bully
+  - corking
+  - cracking
+  - dandy
+  - great
+  - groovy
+  - keen
+  - neat
+  - nifty
+  - not bad
+  - peachy
+  - slap-up
+  - swell
+  - smashing
+  - good enough
+  - goodish
+  - hot
+  - redeeming
+  - satisfactory
+  - acceptable
+  - solid
+  - superb
+  - well-behaved
+  - well behaved
+  - ample
+  - angelic
+  - angelical
+  - beatific
+  - saintlike
+  - saintly
+  - sainted
+  - goody-goody
+  - redemptive
+  - saving
+  - white
+  - reputable
+  - advantageous
+  - nice
+  - righteous
+  - skilled
+  - complete
+  - close
+  - sound
+  - opportune
+  - fortunate
+  - operative
+  - pleasing
+  - intellectual
+  - healthy
+  - healthful
+  - genuine
+  - echt
+  - fresh
+  - discriminating
+  - asymptomatic
+  - symptomless
+  - cured
+  - healed
+  - recovered
+[Attributes]
+  - quality
+  - goodness
+[Causes]
+  - improve
+  - ameliorate
+  - meliorate
+[Is a kind of]
+  - good, goodness
+    - quality
+      - attribute
+        - abstraction, abstract entity
+          - entity
+  - gambler
+    - person, individual, someone, somebody, mortal, soul
+      - organism, being
+        - living thing, animate thing
+          - whole, unit
+            - object, physical object
+              - physical entity
+                - entity
+      - causal agent, cause, causal agency
+        - physical entity
+          - entity
+  - superior, higher-up, superordinate
+    - leader
+      - person, individual, someone, somebody, mortal, soul
+        - organism, being
+          - living thing, animate thing
+            - whole, unit
+              - object, physical object
+                - physical entity
+                  - entity
+        - causal agent, cause, causal agency
+          - physical entity
+            - entity
+  - surpass, outstrip, outmatch, outgo, exceed, outdo, surmount, outperform
+    - beat, beat out, crush, shell, trounce, vanquish
+      - get the better of, overcome, defeat
+  - change, alter, modify
+  - change state, turn
+    - change
+[Kinds]
+  - taker
+  - caller
+  - relieve, alleviate, palliate, assuage
+    - soothe
+    - comfort, ease
+  - help, aid
+    - bring around, cure, heal
+      - recuperate
+    - benefit, do good
+  - regenerate, revitalize
+    - rejuvenate
+  - enrich
+    - round out, fill out
+    - choke, throttle
+    - fertilize, fertilise, feed
+      - nitrify
+      - dung
+      - topdress
+  - build up, develop
+    - redevelop
+    - settle
+  - turn around
+  - help
+  - upgrade
+  - condition
+    - recondition
+  - emend
+  - iron out, straighten out, put right
+  - enhance
+    - follow up
+    - touch up, retouch
+  - repair, mend, fix, bushel, doctor, furbish up, restore, touch on
+    - tinker, fiddle
+    - fill
+      - close, fill up
+        - seal
+        - plug, stop up, secure
+          - stopper, stopple
+          - tampon
+          - chink
+          - cork, cork up
+        - coapt, conglutinate
+    - piece, patch
+    - cobble
+    - point, repoint
+    - trouble-shoot, troubleshoot
+    - patch, patch up
+    - sole, resole
+    - vamp, revamp
+    - heel, reheel
+    - darn
+  - reform
+  - fancify, beautify, embellish, prettify
+    - groom, neaten
+      - cleanse, clean
+        - bathe
+          - shower
+        - wash
+        - wash, lave
+          - sponge down
+          - scrub, scrub up
+          - gargle, rinse
+          - shampoo
+            - condition
+          - hush
+        - soap, lather
+        - bathe, bath
+          - foment
+        - douche
+        - floss
+        - decontaminate
+      - shave
+        - razor
+        - tonsure
+      - comb, comb out, disentangle
+        - slick, slick down, sleek down
+        - tease, fluff
+      - dress, arrange, set, do, coif, coiffe, coiffure
+        - bob
+        - wave
+          - marcel
+          - gauffer, goffer
+          - perm
+      - mousse, gel
+      - pomade
+      - clean up
+      - make up
+        - highlight
+        - lipstick
+        - rouge
+        - powder
+          - talc
+      - manicure
+      - barber
+      - pedicure
+      - doll up, do up, pretty up, glam up
+      - spruce up, spruce, slick up, smarten up
+      - perfume, scent
+    - dress, groom, curry
+    - dress up, window-dress
+    - spruce up, spruce, titivate, tittivate, smarten up, slick up, spiff up
+    - polish, smooth, smoothen, shine
+      - Simonize, Simonise
+      - slick, sleek
+      - buff, burnish, furbish
+      - gloss
+    - become, suit
+  - build
+  - perfect, hone
+    - optimize, optimise
+    - polish, round, round off, polish up, brush up
+  - polish, refine, fine-tune, down
+    - overrefine, over-refine
+    - educate, school, train, cultivate, civilize, civilise
+      - sophisticate
+  - purify, sublimate, make pure, distill
+    - refine, rectify
+    - purge
+  - fructify
+  - raise, lift
+  - advance
+  - educate
+    - socialize, socialise
+    - prepare, groom, train
+      - qualify, dispose
+        - habilitate
+        - capacitate
+    - co-educate, coeducate
+    - school
+      - home-school
+  - recuperate, recover, convalesce
+    - perk up, perk, percolate, pick up, gain vigor
+    - snap back
+  - heal
+    - scab
+    - skin over
+    - granulate
+  - reform, straighten out, see the light
+  - surge
+  - turn around, pick up
+  - get well, get over, bounce back
+  - mend, heal
+[Domains]
+  - comparative
+  - comparative degree
+  - combining form
+  - intensifier
+  - intensive

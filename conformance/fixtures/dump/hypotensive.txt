@@ -1,0 +1,32 @@
+term: hypotensive
+[Definitions]
+  - (noun) a person who has abnormally low blood pressure
+  - (adjective) having abnormally low blood pressure
+[Antonyms]
+  - normotensive (direct)
+  - hypertensive (direct)
+[Is a kind of]
+  - patient
+    - case
+      - person, individual, someone, somebody, mortal, soul
+        - organism, being
+          - living thing, animate thing
+            - whole, unit
+              - object, physical object
+                - physical entity
+                  - entity
+        - causal agent, cause, causal agency
+          - physical entity
+            - entity
+    - sick person, diseased person, sufferer
+      - unfortunate, unfortunate person
+        - person, individual, someone, somebody, mortal, soul
+          - organism, being
+            - living thing, animate thing
+              - whole, unit
+                - object, physical object
+                  - physical entity
+                    - entity
+          - causal agent, cause, causal agency
+            - physical entity
+              - entity

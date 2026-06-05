@@ -1,0 +1,41 @@
+term: kidnapper
+[Definitions]
+  - (noun) someone who unlawfully seizes and detains a victim (usually for ransom)
+[Synonyms]
+  - kidnaper
+  - abductor
+  - snatcher
+[Derived forms]
+  - kidnap
+  - nobble
+  - abduct
+  - snatch
+[Is a kind of]
+  - criminal, felon, crook, outlaw, malefactor
+    - principal
+      - wrongdoer, offender
+        - bad person
+          - person, individual, someone, somebody, mortal, soul
+            - organism, being
+              - living thing, animate thing
+                - whole, unit
+                  - object, physical object
+                    - physical entity
+                      - entity
+            - causal agent, cause, causal agency
+              - physical entity
+                - entity
+  - captor, capturer
+    - person, individual, someone, somebody, mortal, soul
+      - organism, being
+        - living thing, animate thing
+          - whole, unit
+            - object, physical object
+              - physical entity
+                - entity
+      - causal agent, cause, causal agency
+        - physical entity
+          - entity
+[Kinds]
+  - crimp, crimper
+  - shanghaier, seizer

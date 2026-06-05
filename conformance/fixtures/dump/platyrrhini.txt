@@ -1,0 +1,25 @@
+term: Platyrrhini
+[Definitions]
+  - (noun) New World monkeys: capuchin; douroucouli; howler monkey; saki; spider monkey; squirrel monkey; titi; uakari; woolly monkey; marmoset; tamarin
+[Synonyms]
+  - superfamily Platyrrhini
+[Is a kind of]
+  - mammal family
+    - family
+      - taxonomic group, taxonomic category, taxon
+        - biological group
+          - group, grouping
+            - abstraction, abstract entity
+              - entity
+[Part of]
+  - Anthropoidea, suborder Anthropoidea
+    - Primates, order Primates
+      - Eutheria, subclass Eutheria
+        - Mammalia, class Mammalia
+          - Vertebrata, subphylum Vertebrata, Craniata, subphylum Craniata
+            - Chordata, phylum Chordata
+              - Animalia, kingdom Animalia, animal kingdom
+[Parts]
+  - New World monkey, platyrrhine, platyrrhinian
+  - Callithricidae, family Callithricidae
+  - Cebidae, family Cebidae

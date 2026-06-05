@@ -1,0 +1,18 @@
+term: bullyboy
+[Definitions]
+  - (noun) a swaggering tough; usually one acting as an agent of a political faction
+[Is a kind of]
+  - bully, tough, hooligan, ruffian, roughneck, rowdy, yob, yobo, yobbo
+    - attacker, aggressor, assailant, assaulter
+      - wrongdoer, offender
+        - bad person
+          - person, individual, someone, somebody, mortal, soul
+            - organism, being
+              - living thing, animate thing
+                - whole, unit
+                  - object, physical object
+                    - physical entity
+                      - entity
+            - causal agent, cause, causal agency
+              - physical entity
+                - entity

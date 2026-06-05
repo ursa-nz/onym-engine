@@ -1,0 +1,61 @@
+term: fantasy
+[Definitions]
+  - (noun) imagination unrestricted by reality
+      "a schoolgirl fantasy"
+  - (noun) fiction with a large amount of imagination in it
+      "she made a lot of money writing romantic fantasies"
+  - (noun) something many people believe that is false
+      "they have the illusion that I am very wealthy"
+  - (verb) indulge in fantasies
+      "he is fantasizing when he says he plans to start his own company"
+[Synonyms]
+  - phantasy
+  - illusion
+  - fancy
+  - fantasize
+  - fantasise
+[Derived forms]
+  - fantastic
+  - fantastical
+  - wild
+  - fantasist
+  - fantasize
+  - fantasise
+  - illusion
+  - phantasy
+  - fancy
+[Is a kind of]
+  - imagination, imaginativeness, vision
+    - creativity, creativeness, creative thinking
+      - ability, power
+        - cognition, knowledge, noesis
+          - psychological feature
+            - abstraction, abstract entity
+              - entity
+  - fiction
+    - literary composition, literary work
+      - writing, written material, piece of writing
+        - written communication, written language, black and white
+          - communication
+            - abstraction, abstract entity
+              - entity
+  - misconception
+    - idea, thought
+      - content, cognitive content, mental object
+        - cognition, knowledge, noesis
+          - psychological feature
+            - abstraction, abstract entity
+              - entity
+  - imagine, conceive of, ideate, envisage
+    - create by mental act, create mentally
+      - make, create
+[Kinds]
+  - pipe dream, dream
+  - fantasy life, phantasy life
+  - fantasy world, phantasy world, fairyland
+    - paracosm
+  - science fiction
+    - cyberpunk
+  - bubble
+  - will-o'-the-wisp, ignis fatuus
+  - wishful thinking

@@ -1,0 +1,17 @@
+term: Reticulitermes flanipes
+[Definitions]
+  - (noun) destructive United States termite
+[Is a kind of]
+  - termite, white ant
+    - insect
+      - arthropod
+        - invertebrate
+          - animal, animate being, beast, brute, creature, fauna
+            - organism, being
+              - living thing, animate thing
+                - whole, unit
+                  - object, physical object
+                    - physical entity
+                      - entity
+[Part of]
+  - Reticulitermes, genus Reticulitermes

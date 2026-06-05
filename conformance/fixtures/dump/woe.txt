@@ -1,0 +1,26 @@
+term: woe
+[Definitions]
+  - (noun) misery resulting from affliction
+  - (noun) intense mournfulness
+[Synonyms]
+  - suffering
+  - woefulness
+[Is a kind of]
+  - misery, wretchedness, miserableness
+    - ill-being
+      - adversity, hardship, hard knocks
+        - misfortune, bad luck, tough luck, ill luck
+          - fortune, destiny, fate, luck, lot, circumstances, portion
+            - condition
+              - state
+                - attribute
+                  - abstraction, abstract entity
+                    - entity
+  - mournfulness, sorrowfulness, ruthfulness
+    - sorrow
+      - sadness, unhappiness
+        - feeling
+          - state
+            - attribute
+              - abstraction, abstract entity
+                - entity

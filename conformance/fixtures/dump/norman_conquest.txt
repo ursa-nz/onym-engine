@@ -1,0 +1,14 @@
+term: Norman Conquest
+[Definitions]
+  - (noun) the invasion and settlement of England by the Normans following the battle of Hastings (1066)
+[Is a kind of]
+  - conquest, conquering, subjection, subjugation
+    - capture, gaining control, seizure
+      - acquiring, getting
+        - act, deed, human action, human activity
+          - event
+            - psychological feature
+              - abstraction, abstract entity
+                - entity
+[Parts]
+  - Hastings, battle of Hastings

@@ -1,0 +1,9 @@
+term: aah
+[Definitions]
+  - (verb) express admiration and pleasure by uttering `ooh' or `aah'
+      "They oohed and aahed when they unwrapped the presents"
+[Synonyms]
+  - ooh
+[Is a kind of]
+  - exclaim, cry, cry out, outcry, call out, shout
+    - express, verbalize, verbalise, utter, give tongue to

@@ -1,0 +1,20 @@
+term: Maurice Barrymore
+[Definitions]
+  - (noun) United States actor; husband of Georgiana Emma Barrymore and father of Ethel Barrymore and John Barrymore and Lionel Barrymore (1847-1905)
+[Synonyms]
+  - Barrymore
+  - Herbert Blythe
+[Is a kind of]
+  - actor, histrion, player, thespian, role player
+    - performer, performing artist
+      - entertainer
+        - person, individual, someone, somebody, mortal, soul
+          - organism, being
+            - living thing, animate thing
+              - whole, unit
+                - object, physical object
+                  - physical entity
+                    - entity
+          - causal agent, cause, causal agency
+            - physical entity
+              - entity

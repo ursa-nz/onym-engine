@@ -1,0 +1,26 @@
+term: embed
+[Definitions]
+  - (verb) fix or set securely or deeply
+      "He planted a knee in the back of his opponent"
+      "The dentist implanted a tooth in the gum"
+  - (verb) attach to, as a journalist to a military unit when reporting on a war
+      "The young reporter was embedded with the Third Division"
+[Synonyms]
+  - implant
+  - engraft
+  - imbed
+  - plant
+[Is a kind of]
+  - insert, infix, enter, introduce
+    - attach
+      - connect, link, tie, link up
+  - group, aggroup
+    - meet, gather, assemble, forgather, foregather
+      - interact
+        - act, move
+[Kinds]
+  - pot
+    - repot
+  - nest
+  - bury, sink
+    - set, countersink

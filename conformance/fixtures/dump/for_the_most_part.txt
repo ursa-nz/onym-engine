@@ -1,0 +1,7 @@
+term: for the most part
+[Definitions]
+  - (adverb) in large part; mainly or chiefly
+      "These accounts are largely inactive"
+[Synonyms]
+  - largely
+  - mostly

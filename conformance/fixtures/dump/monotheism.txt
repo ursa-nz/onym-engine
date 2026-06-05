@@ -1,0 +1,39 @@
+term: monotheism
+[Definitions]
+  - (noun) belief in a single God
+[Antonyms]
+  - polytheism (direct)
+[Derived forms]
+  - monotheistic
+  - monotheist
+[Is a kind of]
+  - theism
+    - religion, faith, religious belief
+      - belief
+        - content, cognitive content, mental object
+          - cognition, knowledge, noesis
+            - psychological feature
+              - abstraction, abstract entity
+                - entity
+      - theological virtue, supernatural virtue
+        - cardinal virtue
+          - virtue
+            - good, goodness
+              - morality
+                - quality
+                  - attribute
+                    - abstraction, abstract entity
+                      - entity
+[Kinds]
+  - Judaism
+    - Orthodox Judaism
+      - Hasidism, Hassidism, Chasidism, Chassidism
+        - Chabad, Chabad Hasidism
+    - Conservative Judaism
+    - Reform Judaism
+  - Islam, Islamism, Mohammedanism, Muhammadanism, Muslimism
+    - Mahdism
+    - Salafism, Salafi movement
+    - Shiism
+      - Ismailism
+    - Wahhabism, Wahabism

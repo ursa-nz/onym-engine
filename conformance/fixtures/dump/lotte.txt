@@ -1,0 +1,37 @@
+term: lotte
+[Definitions]
+  - (noun) fishes having large mouths with a wormlike filament attached for luring prey
+[Synonyms]
+  - goosefish
+  - angler
+  - anglerfish
+  - angler fish
+  - monkfish
+  - allmouth
+  - Lophius Americanus
+[Is a kind of]
+  - spiny-finned fish, acanthopterygian
+    - teleost fish, teleost, teleostan
+      - bony fish
+        - fish
+          - aquatic vertebrate
+            - vertebrate, craniate
+              - chordate
+                - animal, animate being, beast, brute, creature, fauna
+                  - organism, being
+                    - living thing, animate thing
+                      - whole, unit
+                        - object, physical object
+                          - physical entity
+                            - entity
+[Part of]
+  - Lophiidae, family Lophiidae
+    - Pediculati, order Pediculati
+      - Acanthopterygii, superorder Acanthopterygii
+        - Teleostei, subclass Teleostei
+          - Osteichthyes, class Osteichthyes
+            - Vertebrata, subphylum Vertebrata, Craniata, subphylum Craniata
+              - Chordata, phylum Chordata
+                - Animalia, kingdom Animalia, animal kingdom
+[Parts]
+  - monkfish

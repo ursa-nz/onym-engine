@@ -1,0 +1,21 @@
+term: suborder Sauropoda
+[Definitions]
+  - (noun) any of the sauropod dinosaurs
+[Synonyms]
+  - Sauropoda
+[Is a kind of]
+  - animal order
+    - order
+      - taxonomic group, taxonomic category, taxon
+        - biological group
+          - group, grouping
+            - abstraction, abstract entity
+              - entity
+[Part of]
+  - Sauropodomorpha, suborder Sauropodomorpha
+[Parts]
+  - sauropod, sauropod dinosaur
+  - genus Apatosaurus, genus Brontosaurus
+  - genus Barosaurus
+  - genus Diplodocus
+  - Titanosauridae, family Titanosauridae

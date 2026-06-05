@@ -1,0 +1,79 @@
+term: goose
+[Definitions]
+  - (noun) web-footed long-necked typically gregarious migratory aquatic birds usually larger and less aquatic than ducks
+  - (noun) a man who is a stupid incompetent fool
+  - (noun) flesh of a goose (domestic or wild)
+[Synonyms]
+  - fathead
+  - goof
+  - goofball
+  - bozo
+  - jackass
+  - cuckoo
+  - twat
+  - zany
+[Derived forms]
+  - gosling
+  - anserine
+  - dopy
+  - dopey
+  - foolish
+  - goosey
+  - goosy
+  - gooselike
+  - jerky
+[Is a kind of]
+  - anseriform bird
+    - waterfowl, water bird, waterbird
+      - aquatic bird
+        - bird
+          - vertebrate, craniate
+            - chordate
+              - animal, animate being, beast, brute, creature, fauna
+                - organism, being
+                  - living thing, animate thing
+                    - whole, unit
+                      - object, physical object
+                        - physical entity
+                          - entity
+  - fool, sap, saphead, muggins, tomfool
+    - simpleton, simple
+      - person, individual, someone, somebody, mortal, soul
+        - organism, being
+          - living thing, animate thing
+            - whole, unit
+              - object, physical object
+                - physical entity
+                  - entity
+        - causal agent, cause, causal agency
+          - physical entity
+            - entity
+  - poultry
+    - bird, fowl
+      - meat
+        - food, solid food
+          - solid
+            - matter
+              - physical entity
+                - entity
+[Kinds]
+  - gosling
+  - gander
+  - Chinese goose, Anser cygnoides
+  - greylag, graylag, greylag goose, graylag goose, Anser anser
+  - blue goose, Chen caerulescens
+    - snow goose
+  - brant, brant goose, brent, brent goose
+    - common brant goose, Branta bernicla
+  - honker, Canada goose, Canadian goose, Branta canadensis
+  - barnacle goose, barnacle, Branta leucopsis
+[Part of]
+  - Anatidae, family Anatidae
+    - Anseriformes, order Anseriformes
+      - Aves, class Aves
+        - Vertebrata, subphylum Vertebrata, Craniata, subphylum Craniata
+          - Chordata, phylum Chordata
+            - Animalia, kingdom Animalia, animal kingdom
+  - gaggle
+[Parts]
+  - goose down

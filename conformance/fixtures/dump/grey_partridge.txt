@@ -1,0 +1,32 @@
+term: grey partridge
+[Definitions]
+  - (noun) common European partridge
+[Synonyms]
+  - Hungarian partridge
+  - gray partridge
+  - Perdix perdix
+[Is a kind of]
+  - partridge
+    - phasianid
+      - game bird
+        - game
+          - animal, animate being, beast, brute, creature, fauna
+            - organism, being
+              - living thing, animate thing
+                - whole, unit
+                  - object, physical object
+                    - physical entity
+                      - entity
+        - gallinaceous bird, gallinacean
+          - bird
+            - vertebrate, craniate
+              - chordate
+                - animal, animate being, beast, brute, creature, fauna
+                  - organism, being
+                    - living thing, animate thing
+                      - whole, unit
+                        - object, physical object
+                          - physical entity
+                            - entity
+[Part of]
+  - Perdix, genus Perdix

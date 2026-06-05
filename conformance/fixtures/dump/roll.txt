@@ -1,0 +1,389 @@
+term: roll
+[Definitions]
+  - (verb) move by turning over or rotating
+      "The child rolled down the hill"
+      "turn over on your left side"
+  - (verb) move along on or as if on wheels or a wheeled vehicle
+      "The President's convoy rolled past the crowds"
+  - (verb) occur in soft rounded shapes
+      "The hills rolled past"
+  - (verb) flatten or spread with a roller
+      "roll out the paper"
+  - (verb) emit, produce, or utter with a deep prolonged reverberating sound
+      "The thunder rolled"
+      "rolling drums"
+  - (verb) arrange or or coil around
+      "roll your hair around your finger"
+      "Twine the thread around the spool"
+      "She wrapped her arms around the child"
+  - (verb) begin operating or running
+      "The cameras were rolling"
+      "The presses are already rolling"
+  - (verb) shape by rolling
+      "roll a cigarette"
+  - (verb) execute a roll, in tumbling
+      "The gymnasts rolled and jumped"
+  - (verb) sell something to or obtain something from by energetic and especially underhanded activity
+  - (verb) move in a wavy pattern or with a rising and falling motion
+      "The curtains undulated"
+      "the waves rolled towards the beach"
+  - (verb) move about aimlessly or without any destination, often in search of food or employment
+      "The gypsies roamed the woods"
+      "roving vagabonds"
+      "the wandering Jew"
+      "The cattle roam across the prairie"
+      "the laborers drift from one town to the next"
+      "They rolled from town to town"
+  - (verb) move, rock, or sway from side to side
+      "The ship rolled on the heavy seas"
+  - (verb) cause to move by turning over or in a circular manner of as if on an axis
+      "She rolled the ball"
+      "They rolled their eyes at his words"
+  - (verb) pronounce with a roll, of the phoneme /r/
+      "She rolls her r's"
+  - (verb) boil vigorously
+      "The liquid was seething"
+      "The water rolled"
+  - (verb) take the shape of a roll or cylinder
+      "the carpet rolled out"
+      "Yarn rolls well"
+  - (verb) show certain properties when being rolled
+      "The carpet rolls unevenly"
+      "dried-out tobacco rolls badly"
+  - (noun) rotary motion of an object around its own axis
+      "wheels in axial rotation"
+  - (noun) a list of names
+      "his name was struck off the rolls"
+  - (noun) a long heavy sea wave as it advances towards the shore
+  - (noun) photographic film rolled up inside a container to protect it from light
+  - (noun) a round shape formed by a series of concentric circles (as formed by leaves or flower petals)
+  - (noun) a roll of currency notes (often taken as the resources of a person or business etc.)
+      "he shot his roll on a bob-tailed nag"
+  - (noun) small rounded bread either plain or sweet
+  - (noun) a deep prolonged sound (as of thunder or large bells)
+  - (noun) the sound of a drum (especially a snare drum) beaten rapidly and continuously
+  - (noun) a document that can be rolled up (as for storage)
+  - (noun) anything rolled up in cylindrical form
+  - (noun) the act of throwing dice
+  - (noun) walking with a swaying gait
+  - (noun) a flight maneuver; aircraft rotates about its longitudinal axis without changing direction or losing altitude
+  - (noun) the act of rolling something (as the ball in bowling)
+[Synonyms]
+  - axial rotation
+  - axial motion
+  - roster
+  - roller
+  - rolling wave
+  - coil
+  - whorl
+  - curl
+  - curlicue
+  - ringlet
+  - gyre
+  - scroll
+  - bankroll
+  - bun
+  - peal
+  - pealing
+  - rolling
+  - paradiddle
+  - drum roll
+  - cast
+  - bowl
+  - turn over
+  - wheel
+  - undulate
+  - roll out
+  - wind
+  - wrap
+  - twine
+  - hustle
+  - pluck
+  - flap
+  - wave
+  - wander
+  - swan
+  - stray
+  - tramp
+  - roam
+  - ramble
+  - rove
+  - range
+  - drift
+  - vagabond
+  - revolve
+  - seethe
+  - roll up
+[Derived forms]
+  - revolve
+  - wind
+  - wrap
+  - twine
+  - wheel
+  - turn over
+  - roll out
+  - undulate
+  - axial rotation
+  - axial motion
+  - roller
+  - wheeling
+  - rolling
+  - coil
+  - whorl
+  - curl
+  - curlicue
+  - ringlet
+  - gyre
+  - scroll
+  - paradiddle
+  - drum roll
+  - peal
+  - pealing
+  - curler
+  - hair curler
+  - crimper
+  - rolling wave
+[Is a kind of]
+  - rotation, revolution, gyration
+    - turning, turn
+      - movement, motion
+        - happening, occurrence, occurrent, natural event
+          - event
+            - psychological feature
+              - abstraction, abstract entity
+                - entity
+  - list, listing
+    - database
+      - information, info
+        - message, content, subject matter, substance
+          - communication
+            - abstraction, abstract entity
+              - entity
+  - wave, moving ridge
+    - movement, motion
+      - happening, occurrence, occurrent, natural event
+        - event
+          - psychological feature
+            - abstraction, abstract entity
+              - entity
+  - film, photographic film
+    - photographic paper, photographic material
+      - photographic equipment
+        - equipment
+          - instrumentality, instrumentation
+            - artifact, artefact
+              - whole, unit
+                - object, physical object
+                  - physical entity
+                    - entity
+  - round shape
+    - shape, form
+      - attribute
+        - abstraction, abstract entity
+          - entity
+  - funds, finances, monetary resource, cash in hand, pecuniary resource
+    - assets
+      - possession
+        - relation
+          - abstraction, abstract entity
+            - entity
+  - bread, breadstuff, staff of life
+    - baked goods
+      - food, solid food
+        - solid
+          - matter
+            - physical entity
+              - entity
+    - starches
+      - foodstuff, food product
+        - food, nutrient
+          - substance
+            - matter
+              - physical entity
+                - entity
+  - sound
+    - happening, occurrence, occurrent, natural event
+      - event
+        - psychological feature
+          - abstraction, abstract entity
+            - entity
+  - manuscript, holograph
+    - autograph
+      - writing, written material, piece of writing
+        - written communication, written language, black and white
+          - communication
+            - abstraction, abstract entity
+              - entity
+  - cylinder
+    - solid
+      - shape, form
+        - attribute
+          - abstraction, abstract entity
+            - entity
+  - throw
+    - gambling, gaming, play
+      - diversion, recreation
+        - activity
+          - act, deed, human action, human activity
+            - event
+              - psychological feature
+                - abstraction, abstract entity
+                  - entity
+      - vice
+        - transgression, evildoing
+          - wrongdoing, wrongful conduct, misconduct, actus reus
+            - activity
+              - act, deed, human action, human activity
+                - event
+                  - psychological feature
+                    - abstraction, abstract entity
+                      - entity
+  - gait
+    - walk, walking
+      - locomotion, travel
+        - motion, movement, move
+          - change
+            - action
+              - act, deed, human action, human activity
+                - event
+                  - psychological feature
+                    - abstraction, abstract entity
+                      - entity
+  - flight maneuver, airplane maneuver
+    - maneuver, manoeuvre, evasive action
+      - evasion
+        - escape, flight
+          - running away
+            - act, deed, human action, human activity
+              - event
+                - psychological feature
+                  - abstraction, abstract entity
+                    - entity
+  - propulsion, actuation
+    - act, deed, human action, human activity
+      - event
+        - psychological feature
+          - abstraction, abstract entity
+            - entity
+  - turn
+    - move
+  - travel, go, move, locomote
+  - flatten
+    - shape, form
+      - change, alter, modify
+  - sound, go
+    - cause to be perceived
+  - move, displace
+  - function, work, operate, go, run
+  - shape, form
+    - change, alter, modify
+  - tumble
+    - exercise, work out
+  - steal
+    - take
+  - move
+  - rock, sway, shake
+    - move back and forth
+      - move
+  - pronounce, articulate, enounce, sound out, enunciate, say
+  - churn, boil, moil, roil
+    - move
+  - change shape, change form, deform
+    - change
+  - change
+[Kinds]
+  - wallow
+  - batting order, card, lineup
+  - death-roll
+  - muster roll
+  - church roll
+  - rota
+  - waiting list
+  - corolla
+  - calyx
+    - hull
+    - pappus
+      - thistledown
+  - verticil
+  - tea bread
+  - frankfurter bun, hotdog bun
+  - hamburger bun, hamburger roll
+  - brioche
+  - crescent roll, croissant
+  - hard roll, Vienna roll
+  - soft roll
+  - kaiser roll
+  - Parker House roll
+  - clover-leaf roll
+  - onion roll
+    - bialy, bialystoker
+  - sweet roll, coffee roll
+    - cross bun, hot cross bun
+    - bear claw, bear paw
+    - cinnamon roll, cinnamon bun, cinnamon snail
+    - honey bun, sticky bun, caramel bun, schnecken
+    - pinwheel roll
+    - danish, danish pastry
+  - bagel, beigel
+    - onion bagel
+  - Dead Sea scrolls
+  - Megillah
+  - Torah
+  - bolt
+  - rouleau
+  - natural
+  - barrel roll
+  - snap roll
+  - rim
+  - bowl
+  - troll
+  - cog
+  - mill
+  - spool
+    - cheese
+  - reel
+    - reel off, unreel
+  - ball
+  - clue, clew
+  - coil, loop, curl
+  - luff
+  - maunder
+  - gallivant, gad, jazz around
+  - transit
+[Part of]
+  - craps
+  - bowling
+[Parts]
+  - list, listing
+    - item, point
+  - film, photographic film
+    - photographic paper, photographic material
+      - photographic equipment
+        - flood, floodlight, flood lamp, photoflood
+        - equipment
+          - instrumentality, instrumentation
+            - artifact, artefact
+              - whole, unit
+                - part, portion
+                - section, segment
+  - bread, breadstuff, staff of life
+    - flour
+    - baked goods
+      - crumb
+    - starches
+      - foodstuff, food product
+        - food, nutrient
+          - food, solid food
+  - manuscript, holograph
+    - autograph
+      - writing, written material, piece of writing
+        - epilogue, epilog
+        - written communication, written language, black and white
+          - leaf, folio
+  - gait
+    - walk, walking
+      - pace, stride, tread
+[Domains]
+  - commercial enterprise
+  - business enterprise
+  - business

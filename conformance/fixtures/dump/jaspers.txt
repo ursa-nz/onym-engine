@@ -1,0 +1,32 @@
+term: Jaspers
+[Definitions]
+  - (noun) German psychiatrist (1883-1969)
+  - (noun) an opaque form of quartz; red or yellow or brown or dark green in color; used for ornamentation or as a gemstone
+[Synonyms]
+  - Karl Jaspers
+  - Karl Theodor Jaspers
+[Is a kind of]
+  - psychiatrist, head-shrinker, shrink
+    - specialist, medical specialist
+      - doctor, doc, physician, MD, Dr., medico
+        - medical practitioner, medical man
+          - health professional, primary care provider, PCP, health care provider, caregiver
+            - professional, professional person
+              - adult, grownup
+                - person, individual, someone, somebody, mortal, soul
+                  - organism, being
+                    - living thing, animate thing
+                      - whole, unit
+                        - object, physical object
+                          - physical entity
+                            - entity
+                  - causal agent, cause, causal agency
+                    - physical entity
+                      - entity
+  - opaque gem
+    - gem, gemstone, stone
+      - crystal
+        - solid
+          - matter
+            - physical entity
+              - entity

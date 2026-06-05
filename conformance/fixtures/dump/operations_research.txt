@@ -1,0 +1,13 @@
+term: operations research
+[Definitions]
+  - (noun) research designed to determine most efficient way to do something
+[Is a kind of]
+  - research
+    - investigation, investigating
+      - work
+        - activity
+          - act, deed, human action, human activity
+            - event
+              - psychological feature
+                - abstraction, abstract entity
+                  - entity

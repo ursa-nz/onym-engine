@@ -1,0 +1,129 @@
+term: packed
+[Definitions]
+  - (adjective) filled to capacity
+      "a suitcase jammed with dirty clothes"
+      "stands jam-packed with fans"
+      "a packed theater"
+  - (adjective) pressed together or compressed
+      "packed snow"
+  - (verb) arrange in a container
+      "pack the books into the boxes"
+  - (verb) fill to capacity
+      "This singer always packs the concert halls"
+      "The murder trial packed the court house"
+  - (verb) compress into a wad
+      "wad paper into the box"
+  - (verb) carry, as on one's back
+      "Pack your tents to the top of the mountain"
+  - (verb) set up a committee or legislative body with one's own supporters so as to influence the outcome
+      "pack a jury"
+  - (verb) have with oneself; have on one's person
+      "She always takes an umbrella"
+      "I always carry money"
+      "She packs a gun when she goes into the mountains"
+  - (verb) press tightly together or cram
+      "The crowd packed the auditorium"
+  - (verb) hike with a backpack
+      "Every summer they are backpacking in the Rockies"
+  - (verb) press down tightly
+      "tamp the coffee grinds in the container to make espresso"
+  - (verb) seal with packing
+      "pack the faucet"
+  - (verb) have the property of being packable or of compacting easily
+      "This powder compacts easily"
+      "Such odd-shaped items do not pack well"
+  - (verb) load with a pack
+  - (verb) treat the body or any part of it by wrapping it, as with blankets or sheets, and applying compresses to it, or stuffing it to provide cover, containment, or therapy, or to absorb blood
+      "The nurse packed gauze in the wound"
+      "You had better pack your swollen ankle with ice"
+[Synonyms]
+  - bundle
+  - wad
+  - compact
+  - carry
+  - take
+  - throng
+  - mob
+  - pile
+  - jam
+  - backpack
+  - tamp down
+  - tamp
+  - load down
+  - jammed
+  - jam-packed
+[Antonyms]
+  - unpack (direct)
+      -> take out
+  - crowded (indirect)
+      -> uncrowded
+  - compact (indirect)
+      -> loose
+[Derived forms]
+  - packer
+  - bagger
+  - boxer
+  - package
+  - bundle
+  - packet
+  - parcel
+  - packing
+  - boxing
+  - packing material
+  - wadding
+  - backpacking
+  - backpacker
+  - meat packer
+[Similar to]
+  - crowded
+  - compact
+[Causes]
+  - throng
+  - mob
+  - pile
+  - jam
+[Is a kind of]
+  - encase, incase, case
+    - enclose, close in, inclose, shut in
+      - surround, environ, ring, skirt, border
+        - touch, adjoin, meet, contact
+  - fill, fill up, make full
+    - change, alter, modify
+  - arrange, set up
+    - put, set, place, pose, position, lay
+      - move, displace
+  - transport, carry
+    - move, displace
+  - appoint, name, nominate, constitute
+    - establish, found, plant, constitute, institute
+      - initiate, pioneer
+        - cause, do, make
+          - make, create
+  - have, feature
+  - crowd, crowd together
+    - meet, gather, assemble, forgather, foregather
+      - interact
+        - act, move
+  - hike
+    - walk
+      - travel, go, move, locomote
+  - compress, compact, pack together
+    - wedge, squeeze, force
+      - move, displace
+  - seal, seal off
+    - close, shut
+  - be
+  - load, lade, laden, load up
+    - fill, fill up, make full
+      - change, alter, modify
+  - treat, care for
+[Kinds]
+  - containerize, containerise
+  - bag
+    - pouch
+  - bundle, bundle up, roll up
+  - stow
+  - puddle
+[Domains]
+  - sport
+  - athletics

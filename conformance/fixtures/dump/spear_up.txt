@@ -1,0 +1,8 @@
+term: spear up
+[Definitions]
+  - (verb) thrust up like a spear
+      "The branch speared up into the air"
+[Synonyms]
+  - spear
+[Is a kind of]
+  - stick out, protrude, jut out, jut, project

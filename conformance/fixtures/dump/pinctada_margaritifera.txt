@@ -1,0 +1,19 @@
+term: Pinctada margaritifera
+[Definitions]
+  - (noun) tropical marine bivalve found chiefly off eastern Asia and Pacific coast of North America and Central America; a major source of pearls
+[Synonyms]
+  - pearl oyster
+[Is a kind of]
+  - oyster
+    - bivalve, pelecypod, lamellibranch
+      - mollusk, mollusc, shellfish
+        - invertebrate
+          - animal, animate being, beast, brute, creature, fauna
+            - organism, being
+              - living thing, animate thing
+                - whole, unit
+                  - object, physical object
+                    - physical entity
+                      - entity
+[Part of]
+  - Pinctada, genus Pinctada

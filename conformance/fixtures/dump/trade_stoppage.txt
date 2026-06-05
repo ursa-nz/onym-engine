@@ -1,0 +1,20 @@
+term: trade stoppage
+[Definitions]
+  - (noun) a government order imposing a trade barrier
+[Synonyms]
+  - embargo
+  - trade embargo
+[Is a kind of]
+  - trade barrier, import barrier
+    - protectionism
+      - economic policy
+        - policy
+          - argumentation, logical argument, argument, line of reasoning, line
+            - reasoning, logical thinking, abstract thought
+              - thinking, thought, thought process, cerebration, intellection, mentation
+                - higher cognitive process
+                  - process, cognitive process, mental process, operation, cognitive operation
+                    - cognition, knowledge, noesis
+                      - psychological feature
+                        - abstraction, abstract entity
+                          - entity

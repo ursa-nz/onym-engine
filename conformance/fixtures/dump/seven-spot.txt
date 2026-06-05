@@ -1,0 +1,19 @@
+term: seven-spot
+[Definitions]
+  - (noun) one of four playing cards in a deck with seven pips on the face
+[Synonyms]
+  - seven
+[Is a kind of]
+  - spot
+    - playing card
+      - card
+        - paper
+          - material, stuff
+            - substance
+              - matter
+                - physical entity
+                  - entity
+              - part, portion, component part, component, constituent
+                - relation
+                  - abstraction, abstract entity
+                    - entity

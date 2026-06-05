@@ -1,0 +1,26 @@
+term: serin
+[Definitions]
+  - (noun) any of various brown and yellow finches of parts of Europe
+[Is a kind of]
+  - finch
+    - oscine, oscine bird
+      - passerine, passeriform bird
+        - bird
+          - vertebrate, craniate
+            - chordate
+              - animal, animate being, beast, brute, creature, fauna
+                - organism, being
+                  - living thing, animate thing
+                    - whole, unit
+                      - object, physical object
+                        - physical entity
+                          - entity
+[Part of]
+  - Serinus, genus Serinus
+    - Fringillidae, family Fringillidae
+      - Oscines, suborder Oscines, Passeres, suborder Passeres
+        - Passeriformes, order Passeriformes
+          - Aves, class Aves
+            - Vertebrata, subphylum Vertebrata, Craniata, subphylum Craniata
+              - Chordata, phylum Chordata
+                - Animalia, kingdom Animalia, animal kingdom

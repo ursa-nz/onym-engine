@@ -1,0 +1,17 @@
+term: crown prince
+[Definitions]
+  - (noun) a male heir apparent to a throne
+[Is a kind of]
+  - prince
+    - aristocrat, blue blood, patrician
+      - leader
+        - person, individual, someone, somebody, mortal, soul
+          - organism, being
+            - living thing, animate thing
+              - whole, unit
+                - object, physical object
+                  - physical entity
+                    - entity
+          - causal agent, cause, causal agency
+            - physical entity
+              - entity

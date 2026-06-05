@@ -1,0 +1,12 @@
+term: limbed
+[Definitions]
+  - (adjective) having or as if having limbs, especially limbs of a specified kind (usually used in combination)
+      "strong-limbed"
+[Antonyms]
+  - limbless (direct)
+      -> boughless
+[Similar to]
+  - boughed
+  - flipper-like
+  - heavy-limbed
+  - sharp-limbed

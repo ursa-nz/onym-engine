@@ -1,0 +1,16 @@
+term: Coriandrum
+[Definitions]
+  - (noun) small genus of annual Mediterranean herbs
+[Synonyms]
+  - genus Coriandrum
+[Is a kind of]
+  - rosid dicot genus
+    - dicot genus, magnoliopsid genus
+      - genus
+        - taxonomic group, taxonomic category, taxon
+          - biological group
+            - group, grouping
+              - abstraction, abstract entity
+                - entity
+[Parts]
+  - coriander, coriander plant, Chinese parsley, cilantro, Coriandrum sativum

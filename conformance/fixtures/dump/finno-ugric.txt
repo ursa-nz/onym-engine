@@ -1,0 +1,33 @@
+term: Finno-Ugric
+[Definitions]
+  - (noun) a family of Uralic languages indigenous to Scandinavia and Hungary and Russia and western Siberia (prior to the Slavic expansion into those regions)
+[Synonyms]
+  - Finno-Ugrian
+[Is a kind of]
+  - Uralic, Uralic language
+    - Ural-Altaic
+      - natural language, tongue
+        - language, linguistic communication
+          - communication
+            - abstraction, abstract entity
+              - entity
+[Kinds]
+  - Fennic, Finnic, Non-Ugric
+    - Permic
+      - Udmurt, Votyak
+      - Komi, Zyrian
+    - Volgaic
+      - Cheremis, Cheremiss, Mari
+      - Mordva, Mordvin, Mordvinian
+    - Baltic-Finnic
+      - Livonian
+      - Estonian, Esthonian
+      - Karelian, Carelian
+      - Ludian
+      - Finnish, Suomi
+      - Veps, Vepse, Vepsian
+      - Ingrian
+  - Ugric, Ugrian
+    - Hungarian, Magyar
+    - Khanty, Ostyak
+    - Mansi, Vogul

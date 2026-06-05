@@ -1,0 +1,25 @@
+term: dogshit
+[Definitions]
+  - (noun) obscene words for unacceptable behavior
+      "I put up with a lot of bullshit from that jerk"
+      "what he said was mostly bull"
+[Synonyms]
+  - bullshit
+  - bull
+  - Irish bull
+  - horseshit
+  - shit
+  - crap
+[Is a kind of]
+  - bunk, bunkum, buncombe, guff, rot, hogwash
+    - drivel, garbage
+      - message, content, subject matter, substance
+        - communication
+          - abstraction, abstract entity
+            - entity
+[Domains]
+  - obscenity
+  - smut
+  - vulgarism
+  - filth
+  - dirty word

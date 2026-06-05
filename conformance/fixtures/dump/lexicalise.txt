@@ -1,0 +1,16 @@
+term: lexicalise
+[Definitions]
+  - (verb) make or coin into a word or accept a new word into the lexicon of a language
+      "The concept expressed by German `Gemuetlichkeit' is not lexicalized in English"
+[Synonyms]
+  - lexicalize
+[Is a kind of]
+  - give voice, formulate, word, phrase, articulate
+    - express, show, evince
+      - convey
+        - impart, leave, give, pass on
+          - tell
+            - inform
+              - communicate, intercommunicate
+                - interact
+                  - act, move

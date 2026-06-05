@@ -1,0 +1,14 @@
+term: Arcadic
+[Definitions]
+  - (noun) the dialect of Ancient Greek spoken by Arcadians
+[Synonyms]
+  - Arcadic dialect
+[Is a kind of]
+  - Ancient Greek
+    - Greek, Hellenic, Hellenic language
+      - Indo-European, Indo-European language, Indo-Hittite
+        - natural language, tongue
+          - language, linguistic communication
+            - communication
+              - abstraction, abstract entity
+                - entity

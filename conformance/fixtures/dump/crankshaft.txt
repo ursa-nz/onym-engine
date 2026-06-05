@@ -1,0 +1,15 @@
+term: crankshaft
+[Definitions]
+  - (noun) a rotating shaft driven by (or driving) a crank
+[Is a kind of]
+  - rotating shaft, shaft
+    - rod
+      - implement
+        - instrumentality, instrumentation
+          - artifact, artefact
+            - whole, unit
+              - object, physical object
+                - physical entity
+                  - entity
+[Part of]
+  - reciprocating engine

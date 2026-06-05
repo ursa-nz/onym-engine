@@ -1,0 +1,11 @@
+term: Bakelite
+[Definitions]
+  - (noun) a thermosetting plastic used as electric insulators and for making plastic ware and telephone receivers etc.
+[Is a kind of]
+  - plastic
+    - solid
+      - matter
+        - physical entity
+          - entity
+[Domains]
+  - trademark

@@ -1,0 +1,291 @@
+term: basic cognitive process
+[Definitions]
+  - (noun) cognitive processes involved in obtaining and storing knowledge
+[Is a kind of]
+  - process, cognitive process, mental process, operation, cognitive operation
+    - cognition, knowledge, noesis
+      - psychological feature
+        - abstraction, abstract entity
+          - entity
+[Kinds]
+  - attention, attending
+    - attentiveness, heed, regard, paying attention
+      - advertence, advertency
+    - clock-watching
+    - ear
+    - eye
+    - notice, observation, observance
+      - mind
+      - remark
+    - notice
+  - inattention
+    - inattentiveness, heedlessness
+    - distraction
+    - disregard, neglect
+      - omission
+        - oversight, inadvertence
+        - pretermission
+        - exception, exclusion, elision
+  - intuition
+    - feeling, intuitive feeling
+      - sprachgefuhl
+    - gnosis
+    - insight, sixth sense
+    - immediacy, immediate apprehension
+    - inspiration
+  - perception
+    - constancy, perceptual constancy
+      - brightness constancy
+      - color constancy, colour constancy
+      - shape constancy
+      - size constancy
+    - detection, sensing
+    - visual perception, beholding, seeing
+      - contrast
+      - face recognition
+      - object recognition
+      - visual space
+      - fusion, optical fusion
+    - auditory perception, sound perception
+      - speech perception
+      - musical perception
+        - melody, tonal pattern
+    - sensation, esthesis, aesthesis, sense experience, sense impression, sense datum
+      - threshold, limen
+        - absolute threshold
+          - pain threshold
+        - difference threshold, differential threshold, difference limen, differential limen
+          - just-noticeable difference, jnd
+      - masking
+      - vision, visual sensation
+      - smell, odor, odour, olfactory sensation, olfactory perception
+        - scent
+          - musk
+        - aroma, fragrance, perfume, scent
+          - incense
+        - malodor, malodour, stench, stink, reek, fetor, foetor, mephitis
+          - niff, pong
+        - acridity
+      - taste, taste sensation, gustatory sensation, taste perception, gustatory perception
+        - relish, flavor, flavour, sapidity, savor, savour, smack, nip, tang
+          - lemon
+          - vanilla
+        - sweet, sweetness, sugariness
+        - sour, sourness, tartness
+          - acidity, acidulousness
+        - bitter, bitterness
+        - salt, saltiness, salinity
+        - astringency, astringence
+        - finish
+        - flatness
+        - mellowness
+      - sound, auditory sensation
+        - music, euphony
+          - music of the spheres
+        - music
+          - piano music
+        - tone, pure tone
+          - harmonic
+            - fundamental, fundamental frequency, first harmonic
+            - overtone, partial, partial tone
+        - noise, dissonance, racket
+        - dub
+      - synesthesia, synaesthesia
+        - chromesthesia, chromaesthesia
+          - colored hearing, colored audition
+    - somesthesia, somaesthesia, somatesthesia, somatic sensation
+      - feeling
+        - constriction, tightness
+      - prickling, tingle, tingling
+        - pins and needles
+      - pressure, pressure sensation
+      - pain, pain sensation, painful sensation
+        - mittelschmerz
+        - phantom limb pain
+        - twinge
+      - temperature
+        - heat, warmth
+        - cold, coldness
+        - comfort zone
+    - touch, touch sensation, tactual sensation, tactile sensation, feeling
+      - creepiness
+      - cutaneous sensation, haptic sensation, skin sensation
+        - tickle
+        - itch, itchiness, itching
+          - pruritus
+            - pruritus ani
+            - pruritus vulvae
+        - topognosia, topognosis
+        - urtication
+  - apperception
+  - believing
+    - doublethink
+  - classification, categorization, categorisation, sorting
+    - coordination
+    - appraisal, assessment
+      - critical appraisal, critical analysis
+        - criticism, critique
+          - examen
+          - knock, roast
+          - self-criticism
+      - evaluation, valuation, rating
+        - overvaluation
+        - undervaluation
+        - pricing
+          - price gouging
+        - reevaluation
+        - mark, grade, score
+          - grade point
+          - percentile, centile
+          - decile
+          - quartile
+        - bond rating
+      - assay, check
+        - countercheck, double check
+        - Apgar score
+        - paternity test
+        - stress test
+          - treadmill test
+      - acid test
+      - reappraisal, revaluation, review, reassessment
+        - stocktaking, stock-taking
+      - underevaluation
+    - attribution, ascription
+      - animatism
+      - imputation
+      - externalization, externalisation
+    - attribution, ascription
+      - zoomorphism
+    - cross-classification, cross-division
+    - subsumption
+  - discrimination, secernment
+    - differentiation, distinction
+      - contradistinction
+      - line, dividing line, demarcation, contrast
+        - Rubicon, point of no return
+      - hairsplitting, word-splitting
+    - individualization, individualisation, individuation
+    - taste, appreciation, discernment, perceptiveness
+      - virtu, vertu, connoisseurship
+      - vogue, trend, style
+        - New Look
+        - fashion
+          - cult of personality
+          - cut
+          - haute couture, high fashion, high style
+          - fad, craze, furor, furore, cult, rage
+          - retro
+        - bandwagon
+      - delicacy, discretion
+      - culture
+        - counterculture
+          - flower power
+        - mass culture
+        - letters
+  - learning, acquisition
+    - conditioning
+      - extinction, experimental extinction
+      - aversive conditioning
+      - classical conditioning
+      - operant conditioning
+        - instrumental conditioning
+      - counter conditioning
+    - developmental learning
+      - accommodation
+      - assimilation
+    - digestion
+    - education
+      - acculturation, assimilation
+      - mastering
+      - self-education, self-cultivation
+      - school, schooling
+      - special education
+      - vocational training, vocational education
+    - internalization, internalisation, incorporation
+      - introjection
+      - introjection
+    - imprinting
+    - language learning
+      - audio lingual acquisition
+    - memorization, memorisation, committal to memory
+      - rote, rote learning
+    - study, work
+    - transfer, transfer of training, carry-over
+      - generalization, generalisation, stimulus generalization, stimulus generalisation
+        - irradiation
+  - memory, remembering
+    - short-term memory, STM, immediate memory
+    - working memory
+    - long-term memory, LTM
+      - episodic memory, personal memory
+      - semantic memory
+      - motor memory, muscle memory
+    - retrieval
+    - recall, recollection, reminiscence
+      - mind
+      - reconstruction, reconstructive memory
+      - reproduction, reproductive memory
+      - regurgitation
+    - recognition, identification
+      - identity
+      - speaker identification, talker identification
+    - association, connection, connexion
+      - colligation
+        - generalization, generalisation, induction, inductive reasoning
+    - retrospection
+  - representational process
+    - symbol, symbolization, symbolisation, symbolic representation
+      - crossbones
+      - horn of plenty, cornucopia
+      - death's head
+      - oriflamme
+      - white feather
+      - emblem, allegory
+        - scarlet letter
+        - cupid
+        - donkey
+        - dove
+        - eagle
+        - elephant
+        - fasces
+        - national flag, ensign
+        - hammer and sickle
+        - red flag
+        - Star of David, Shield of David, Magen David, Mogen David, Solomon's seal
+        - badge
+          - merit badge
+          - insignia
+            - caduceus
+            - insignia of rank
+            - shoulder flash
+            - service stripe, hashmark, hash mark
+            - cordon
+            - wings
+          - ID, I.D.
+          - black belt
+          - blue ribbon, cordon bleu
+          - button
+          - chevron, stripe, stripes, grade insignia
+          - stripe
+        - Agnus Dei, Paschal Lamb
+        - maple-leaf
+        - medallion
+        - spread eagle
+        - swastika, Hakenkreuz
+    - typification, exemplification
+      - picture
+    - depicting, depiction, portraying, portrayal
+      - mirror
+    - anthropomorphism, theanthropism
+    - imagination, imaging, imagery, mental imagery
+      - mind's eye
+      - vision
+        - prevision
+        - retrovision
+      - picturing, envisioning
+      - dream, dreaming
+        - nightmare
+        - wet dream
+      - chimera, chimaera
+      - evocation
+      - pretense, pretence, make-believe

@@ -1,0 +1,41 @@
+term: chaldaean
+[Definitions]
+  - (adjective) of or relating to ancient Chaldea or its people or language or culture
+  - (noun) a wise man skilled in occult learning
+  - (noun) an inhabitant of ancient Chaldea
+[Synonyms]
+  - Chaldean
+  - Chaldee
+[Derived forms]
+  - Chaldean
+  - Chaldee
+  - Babylonia
+  - Chaldaea
+  - Chaldea
+[Pertains to]
+  - Chaldea, Chaldaea
+    - geographical area, geographic area, geographical region, geographic region
+[Is a kind of]
+  - occultist
+    - person, individual, someone, somebody, mortal, soul
+      - organism, being
+        - living thing, animate thing
+          - whole, unit
+            - object, physical object
+              - physical entity
+                - entity
+      - causal agent, cause, causal agency
+        - physical entity
+          - entity
+  - Semite
+    - White, White person, Caucasian
+      - person, individual, someone, somebody, mortal, soul
+        - organism, being
+          - living thing, animate thing
+            - whole, unit
+              - object, physical object
+                - physical entity
+                  - entity
+        - causal agent, cause, causal agency
+          - physical entity
+            - entity

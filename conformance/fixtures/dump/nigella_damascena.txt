@@ -1,0 +1,18 @@
+term: Nigella damascena
+[Definitions]
+  - (noun) European garden plant having finely cut leaves and white or pale blue flowers
+[Synonyms]
+  - love-in-a-mist
+[Is a kind of]
+  - nigella
+    - flower
+      - angiosperm, flowering plant
+        - spermatophyte, phanerogam, seed plant
+          - vascular plant, tracheophyte
+            - plant, flora, plant life
+              - organism, being
+                - living thing, animate thing
+                  - whole, unit
+                    - object, physical object
+                      - physical entity
+                        - entity

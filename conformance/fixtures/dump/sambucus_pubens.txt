@@ -1,0 +1,19 @@
+term: Sambucus pubens
+[Definitions]
+  - (noun) common North American shrub or small tree
+[Synonyms]
+  - American red elder
+  - red-berried elder
+  - stinking elder
+[Is a kind of]
+  - elder, elderberry bush
+    - shrub, bush
+      - woody plant, ligneous plant
+        - vascular plant, tracheophyte
+          - plant, flora, plant life
+            - organism, being
+              - living thing, animate thing
+                - whole, unit
+                  - object, physical object
+                    - physical entity
+                      - entity

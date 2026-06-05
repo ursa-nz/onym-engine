@@ -1,0 +1,98 @@
+term: quartering
+[Definitions]
+  - (noun) a coat of arms that occupies one quarter of an escutcheon; combining four coats of arms on one shield usually represented intermarriages
+  - (noun) living accommodations (especially those assigned to military personnel)
+  - (noun) dividing into four equal parts
+  - (verb) provide housing for (military personnel)
+  - (verb) pull (a person) apart with four horses tied to his extremities, so as to execute him
+      "in the old days, people were drawn and quartered for certain crimes"
+  - (verb) divide into quarters
+      "quarter an apple"
+  - (verb) divide by four; divide into quarters
+[Synonyms]
+  - billet
+  - canton
+  - draw
+  - draw and quarter
+[Derived forms]
+  - quarter
+  - billet
+  - canton
+  - living quarters
+  - quarters
+  - quartering
+  - one-fourth
+  - fourth
+  - one-quarter
+  - fourth part
+  - twenty-five percent
+  - quartern
+[Is a kind of]
+  - coat of arms, arms, blazon, blazonry
+    - heraldry
+      - emblem
+        - design, pattern, figure
+          - decoration, ornament, ornamentation
+            - artifact, artefact
+              - whole, unit
+                - object, physical object
+                  - physical entity
+                    - entity
+  - housing, lodging, living accommodations
+    - structure, construction
+      - artifact, artefact
+        - whole, unit
+          - object, physical object
+            - physical entity
+              - entity
+  - division
+    - separation
+      - change of integrity
+        - change
+          - action
+            - act, deed, human action, human activity
+              - event
+                - psychological feature
+                  - abstraction, abstract entity
+                    - entity
+  - lodge, accommodate
+    - house, put up, domiciliate
+      - shelter
+        - supply, provide, render, furnish
+          - give
+            - transfer
+  - kill
+  - segment, section
+    - separate, divide, part
+      - change
+  - divide, fraction
+    - calculate, cipher, cypher, compute, work out, reckon, figure
+      - reason
+        - think, cogitate, cerebrate
+[Parts]
+  - coat of arms, arms, blazon, blazonry
+    - crest
+    - heraldry
+      - emblem
+        - design, pattern, figure
+          - decoration, ornament, ornamentation
+            - artifact, artefact
+              - whole, unit
+                - part, portion
+                - section, segment
+  - housing, lodging, living accommodations
+    - structure, construction
+      - foundation, base, fundament, foot, groundwork, substructure, understructure
+      - plate
+      - structural member
+      - artifact, artefact
+        - whole, unit
+          - part, portion
+          - section, segment
+[Domains]
+  - military
+  - armed forces
+  - armed services
+  - military machine
+  - war machine
+  - arithmetic

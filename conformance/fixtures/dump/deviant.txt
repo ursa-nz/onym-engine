@@ -1,0 +1,55 @@
+term: deviant
+[Definitions]
+  - (adjective) markedly different from an accepted norm
+      "aberrant behavior"
+      "deviant ideas"
+  - (noun) a person whose behavior deviates from what is acceptable especially in sexual behavior
+[Synonyms]
+  - pervert
+  - deviate
+  - degenerate
+  - aberrant
+[Antonyms]
+  - abnormal (indirect)
+      -> normal
+[Derived forms]
+  - aberrant
+  - deviate
+  - vary
+  - diverge
+  - depart
+  - pervert
+  - degenerate
+  - aberrance
+  - aberrancy
+  - aberration
+  - deviance
+  - deviation
+[Similar to]
+  - abnormal
+  - unnatural
+[Is a kind of]
+  - reprobate, miscreant
+    - wrongdoer, offender
+      - bad person
+        - person, individual, someone, somebody, mortal, soul
+          - organism, being
+            - living thing, animate thing
+              - whole, unit
+                - object, physical object
+                  - physical entity
+                    - entity
+          - causal agent, cause, causal agency
+            - physical entity
+              - entity
+[Kinds]
+  - fetishist
+  - masochist
+    - flagellant
+  - nymphomaniac, nympho
+  - pederast, paederast, child molester
+  - pedophile, paedophile
+  - sadist
+  - sadomasochist
+  - satyr, lecher, lech, letch
+  - sodomite, sodomist, sod, bugger

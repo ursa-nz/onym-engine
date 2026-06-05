@@ -1,0 +1,12 @@
+term: gynogenesis
+[Definitions]
+  - (noun) female parthenogenesis in which the embryo contains only maternal chromosomes due to the failure of the sperm to fuse with the egg nucleus
+[Is a kind of]
+  - parthenogenesis, parthenogeny
+    - apomixis
+      - asexual reproduction, agamogenesis
+        - reproduction
+          - organic process, biological process
+            - process, physical process
+              - physical entity
+                - entity

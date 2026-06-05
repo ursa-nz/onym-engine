@@ -1,0 +1,25 @@
+term: saddle hackle
+[Definitions]
+  - (noun) a long narrow feather on the back (saddle) of a domestic fowl
+[Synonyms]
+  - saddle feather
+[Is a kind of]
+  - hackle
+    - feather, plume, plumage
+      - body covering
+        - covering, natural covering, cover
+          - natural object
+            - whole, unit
+              - object, physical object
+                - physical entity
+                  - entity
+      - animal material
+        - material, stuff
+          - substance
+            - matter
+              - physical entity
+                - entity
+            - part, portion, component part, component, constituent
+              - relation
+                - abstraction, abstract entity
+                  - entity

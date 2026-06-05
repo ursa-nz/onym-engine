@@ -1,0 +1,46 @@
+term: tattoo
+[Definitions]
+  - (noun) a drumbeat or bugle call that signals the military to return to their quarters
+  - (noun) a design on the skin made by tattooing
+  - (noun) the practice of making a design on the skin by pricking and staining
+  - (verb) stain (skin) with indelible color
+[Entails]
+  - prickle
+  - prick
+[Is a kind of]
+  - drumbeat
+    - signal, signaling, sign
+      - communication
+        - abstraction, abstract entity
+          - entity
+  - bugle call
+    - signal, signaling, sign
+      - communication
+        - abstraction, abstract entity
+          - entity
+  - design, pattern, figure
+    - decoration, ornament, ornamentation
+      - artifact, artefact
+        - whole, unit
+          - object, physical object
+            - physical entity
+              - entity
+  - decoration
+    - change of state
+      - change
+        - action
+          - act, deed, human action, human activity
+            - event
+              - psychological feature
+                - abstraction, abstract entity
+                  - entity
+  - stain
+    - dye
+      - discolor, discolour, colour, color
+        - change
+[Domains]
+  - military
+  - armed forces
+  - armed services
+  - military machine
+  - war machine

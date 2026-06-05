@@ -1,0 +1,11 @@
+term: Yeatsian
+[Definitions]
+  - (adjective) in the manner of William Butler Yeats
+[Derived forms]
+  - Yeats
+  - William Butler Yeats
+  - W. B. Yeats
+[Pertains to]
+  - Yeats, William Butler Yeats, W. B. Yeats
+    - poet
+    - dramatist, playwright

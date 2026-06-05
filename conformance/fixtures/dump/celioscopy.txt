@@ -1,0 +1,14 @@
+term: celioscopy
+[Definitions]
+  - (noun) endoscopic examination of the abdomen through the abdominal wall
+[Is a kind of]
+  - endoscopy
+    - examination, scrutiny
+      - investigation, investigating
+        - work
+          - activity
+            - act, deed, human action, human activity
+              - event
+                - psychological feature
+                  - abstraction, abstract entity
+                    - entity

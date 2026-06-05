@@ -1,0 +1,19 @@
+term: Broca's gyrus
+[Definitions]
+  - (noun) the motor speech center in the left hemisphere of the brain in most people
+[Synonyms]
+  - Broca's area
+  - Broca's center
+  - Broca's convolution
+  - convolution of Broca
+[Is a kind of]
+  - center, centre, nerve center, nerve centre
+    - neural structure
+      - structure, anatomical structure, complex body part, bodily structure, body structure
+        - body part
+          - part, piece
+            - thing
+              - physical entity
+                - entity
+[Part of]
+  - language area, language zone

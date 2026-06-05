@@ -1,0 +1,10 @@
+term: isotropous
+[Definitions]
+  - (adjective) invariant with respect to direction
+[Synonyms]
+  - isotropic
+[Derived forms]
+  - isotropy
+  - symmetry
+[Similar to]
+  - identical

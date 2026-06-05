@@ -1,0 +1,15 @@
+term: Pholiota squarrosoides
+[Definitions]
+  - (noun) a pale buff fungus with tawny scales
+[Is a kind of]
+  - agaric
+    - basidiomycete, basidiomycetous fungi
+      - fungus
+        - organism, being
+          - living thing, animate thing
+            - whole, unit
+              - object, physical object
+                - physical entity
+                  - entity
+[Part of]
+  - Pholiota, genus Pholiota

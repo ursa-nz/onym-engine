@@ -1,0 +1,12 @@
+term: receivables
+[Definitions]
+  - (noun) money that you currently expect to receive from notes or accounts
+[Is a kind of]
+  - assets
+    - possession
+      - relation
+        - abstraction, abstract entity
+          - entity
+[Domains]
+  - plural
+  - plural form

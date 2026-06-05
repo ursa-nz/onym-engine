@@ -1,0 +1,13 @@
+term: hyperidrosis
+[Definitions]
+  - (noun) excessive and profuse perspiration
+[Synonyms]
+  - hyperhidrosis
+  - polyhidrosis
+[Is a kind of]
+  - perspiration, sweating, diaphoresis, sudation, hidrosis
+    - bodily process, body process, bodily function, activity
+      - organic process, biological process
+        - process, physical process
+          - physical entity
+            - entity

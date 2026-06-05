@@ -1,0 +1,20 @@
+term: Palestine Liberation Front
+[Definitions]
+  - (noun) a terrorist group formed in 1977 as the result of a split with the Popular Front for the Liberation of Palestine; became a satellite of al-Fatah; made terrorist attacks on Israel across the Lebanese border
+[Synonyms]
+  - PLF
+  - Jabat al-Tahrir al-Filistiniyyah
+[Is a kind of]
+  - terrorist organization, terrorist group, foreign terrorist organization, FTO
+    - political movement
+      - movement, social movement, front
+        - social group
+          - group, grouping
+            - abstraction, abstract entity
+              - entity
+[Domains]
+  - terrorism
+  - act of terrorism
+  - terrorist act
+  - Lebanon
+  - Lebanese Republic

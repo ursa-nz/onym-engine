@@ -1,0 +1,35 @@
+term: meagerly
+[Definitions]
+  - (adjective) deficient in amount or quality or extent
+      "meager resources"
+      "meager fare"
+  - (adverb) to a meager degree or in a meager manner
+      "these voices are meagerly represented at the conference"
+      "the area is slenderly endowed with natural resources"
+[Synonyms]
+  - meager
+  - meagre
+  - stingy
+  - scrimpy
+  - sparingly
+  - slenderly
+  - meagrely
+[Antonyms]
+  - amply (direct)
+      -> fully
+      -> richly
+[Similar to]
+  - bare
+  - scanty
+  - spare
+  - exiguous
+  - hand-to-mouth
+  - hardscrabble
+  - measly
+  - miserable
+  - paltry
+[Attributes]
+  - sufficiency
+  - adequacy
+[Pertains to]
+  - meager, meagre, stingy, scrimpy

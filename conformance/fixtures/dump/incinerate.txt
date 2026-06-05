@@ -1,0 +1,19 @@
+term: incinerate
+[Definitions]
+  - (verb) become reduced to ashes
+      "The paper incinerated quickly"
+  - (verb) cause to undergo combustion
+      "burn garbage"
+      "The car burns only Diesel oil"
+[Synonyms]
+  - burn
+[Derived forms]
+  - incineration
+  - incinerator
+[Is a kind of]
+  - burn down, burn up, go up
+    - burn, combust
+      - change state, turn
+        - change
+  - change integrity
+    - change

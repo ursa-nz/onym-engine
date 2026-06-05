@@ -1,0 +1,21 @@
+term: EBV
+[Definitions]
+  - (noun) the herpes virus that causes infectious mononucleosis; associated with specific cancers in Africa and China
+[Synonyms]
+  - Epstein-Barr virus
+[Is a kind of]
+  - herpes, herpes virus
+    - animal virus
+      - virus
+        - microorganism, micro-organism
+          - organism, being
+            - living thing, animate thing
+              - whole, unit
+                - object, physical object
+                  - physical entity
+                    - entity
+        - infectious agent, infective agent
+          - agent
+            - causal agent, cause, causal agency
+              - physical entity
+                - entity

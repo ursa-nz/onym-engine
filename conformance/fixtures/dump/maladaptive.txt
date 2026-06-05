@@ -1,0 +1,14 @@
+term: maladaptive
+[Definitions]
+  - (adjective) showing faulty adaptation
+[Antonyms]
+  - adaptive (direct)
+      -> adaptative
+      -> accommodative
+      -> reconciling
+      -> adaptational
+      -> adjustive
+[Similar to]
+  - dysfunctional
+  - nonadaptive
+  - maladjustive

@@ -1,0 +1,24 @@
+term: grandfather
+[Definitions]
+  - (noun) the father of your father or mother
+[Synonyms]
+  - gramps
+  - granddad
+  - grandad
+  - granddaddy
+  - grandpa
+[Is a kind of]
+  - grandparent
+    - forebear, forbear
+      - ancestor, ascendant, ascendent, antecedent, root
+        - relative, relation
+          - person, individual, someone, somebody, mortal, soul
+            - organism, being
+              - living thing, animate thing
+                - whole, unit
+                  - object, physical object
+                    - physical entity
+                      - entity
+            - causal agent, cause, causal agency
+              - physical entity
+                - entity

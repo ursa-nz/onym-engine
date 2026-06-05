@@ -1,0 +1,29 @@
+term: disesteem
+[Definitions]
+  - (noun) the state in which esteem has been lost
+  - (verb) have little or no respect for; hold in contempt
+[Synonyms]
+  - disrespect
+[Antonyms]
+  - esteem (direct)
+      -> regard
+      -> respect
+      -> value
+      -> prize
+      -> prise
+[Derived forms]
+  - disrespect
+[Is a kind of]
+  - dishonor, dishonour
+    - standing
+      - status, position
+        - state
+          - attribute
+            - abstraction, abstract entity
+              - entity
+  - see, consider, reckon, view, regard
+    - think, believe, consider, conceive
+      - evaluate, pass judgment, judge
+        - think, cogitate, cerebrate
+[Kinds]
+  - undervalue

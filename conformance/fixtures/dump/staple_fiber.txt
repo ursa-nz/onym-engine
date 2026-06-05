@@ -1,0 +1,19 @@
+term: staple fiber
+[Definitions]
+  - (noun) a natural fiber (raw cotton, wool, hemp, flax) that can be twisted to form yarn
+      "staple fibers vary widely in length"
+[Synonyms]
+  - staple
+  - staple fibre
+[Is a kind of]
+  - natural fiber, natural fibre
+    - fiber, fibre
+      - material, stuff
+        - substance
+          - matter
+            - physical entity
+              - entity
+          - part, portion, component part, component, constituent
+            - relation
+              - abstraction, abstract entity
+                - entity

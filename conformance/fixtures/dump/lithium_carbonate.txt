@@ -1,0 +1,55 @@
+term: lithium carbonate
+[Definitions]
+  - (noun) a white powder (LiCO3) used in manufacturing glass and ceramics and as a drug; the drug (trade names Lithane or Lithonate or Eskalith) is used to treat some forms of depression and manic episodes of manic-depressive disorder
+[Synonyms]
+  - Lithane
+  - Lithonate
+  - Eskalith
+[Is a kind of]
+  - carbonate
+    - salt
+      - compound, chemical compound
+        - chemical, chemical substance
+          - material, stuff
+            - substance
+              - matter
+                - physical entity
+                  - entity
+              - part, portion, component part, component, constituent
+                - relation
+                  - abstraction, abstract entity
+                    - entity
+  - major tranquilizer, major tranquillizer, major tranquilliser, antipsychotic drug, antipsychotic agent, antipsychotic, neuroleptic drug, neuroleptic agent, neuroleptic
+    - tranquilizer, tranquillizer, tranquilliser, antianxiety agent, ataractic drug, ataractic agent, ataractic
+      - psychotropic agent
+        - drug
+          - agent
+            - causal agent, cause, causal agency
+              - physical entity
+                - entity
+            - substance
+              - matter
+                - physical entity
+                  - entity
+      - sedative-hypnotic, sedative-hypnotic drug
+        - sedative, sedative drug, depressant, downer
+          - medicine, medication, medicament, medicinal drug
+            - drug
+              - agent
+                - causal agent, cause, causal agency
+                  - physical entity
+                    - entity
+                - substance
+                  - matter
+                    - physical entity
+                      - entity
+          - drug of abuse, street drug
+            - drug
+              - agent
+                - causal agent, cause, causal agency
+                  - physical entity
+                    - entity
+                - substance
+                  - matter
+                    - physical entity
+                      - entity

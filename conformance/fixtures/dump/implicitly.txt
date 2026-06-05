@@ -1,0 +1,11 @@
+term: implicitly
+[Definitions]
+  - (adverb) without doubting or questioning
+      "I implicitly trust him"
+  - (adverb) without ever expressing so clearly
+      "he implicitly assumes that you know the answer"
+[Antonyms]
+  - explicitly (direct)
+[Pertains to]
+  - implicit, unquestioning
+  - implicit, inexplicit

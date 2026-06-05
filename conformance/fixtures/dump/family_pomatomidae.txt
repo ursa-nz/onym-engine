@@ -1,0 +1,17 @@
+term: family Pomatomidae
+[Definitions]
+  - (noun) food and game fishes related to pompanos
+[Synonyms]
+  - Pomatomidae
+[Is a kind of]
+  - fish family
+    - family
+      - taxonomic group, taxonomic category, taxon
+        - biological group
+          - group, grouping
+            - abstraction, abstract entity
+              - entity
+[Part of]
+  - Perciformes, order Perciformes, Percomorphi, order Percomorphi
+[Parts]
+  - Pomatomus, genus Pomatomus

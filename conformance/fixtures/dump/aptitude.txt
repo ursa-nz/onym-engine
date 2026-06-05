@@ -1,0 +1,26 @@
+term: aptitude
+[Definitions]
+  - (noun) inherent ability
+[Antonyms]
+  - inaptitude (direct)
+[Derived forms]
+  - aptitudinal
+[Is a kind of]
+  - ability, power
+    - cognition, knowledge, noesis
+      - psychological feature
+        - abstraction, abstract entity
+          - entity
+[Kinds]
+  - instinct, inherent aptitude
+    - id
+  - capability, capableness, potentiality
+    - perfectibility
+    - compass, range, reach, grasp
+      - sight, ken
+    - imperfectibility
+  - natural ability
+    - endowment, gift, talent, natural endowment
+      - bent, knack, hang
+      - flair, genius
+      - raw talent

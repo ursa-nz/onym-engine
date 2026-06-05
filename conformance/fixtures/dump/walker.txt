@@ -1,0 +1,180 @@
+term: Walker
+[Definitions]
+  - (noun) New Zealand runner who in 1975 became the first person to run a mile in less that 3 minutes and 50 seconds (born in 1952)
+  - (noun) United States writer (born in 1944)
+  - (noun) a person who travels by foot
+  - (noun) a shoe designed for comfortable walking
+  - (noun) a light enclosing framework (trade name Zimmer) with rubber castors or wheels and handles; helps invalids or the handicapped or the aged to walk
+  - (noun) an enclosing framework on casters or wheels; helps babies learn to walk
+[Synonyms]
+  - John Walker
+  - Alice Walker
+  - Alice Malsenior Walker
+  - pedestrian
+  - footer
+  - Zimmer
+  - Zimmer frame
+  - baby-walker
+  - go-cart
+[Derived forms]
+  - walk
+[Is a kind of]
+  - four-minute man
+    - miler
+      - runner
+        - athlete, jock
+          - contestant
+            - person, individual, someone, somebody, mortal, soul
+              - organism, being
+                - living thing, animate thing
+                  - whole, unit
+                    - object, physical object
+                      - physical entity
+                        - entity
+              - causal agent, cause, causal agency
+                - physical entity
+                  - entity
+  - writer, author
+    - communicator
+      - person, individual, someone, somebody, mortal, soul
+        - organism, being
+          - living thing, animate thing
+            - whole, unit
+              - object, physical object
+                - physical entity
+                  - entity
+        - causal agent, cause, causal agency
+          - physical entity
+            - entity
+  - traveler, traveller
+    - person, individual, someone, somebody, mortal, soul
+      - organism, being
+        - living thing, animate thing
+          - whole, unit
+            - object, physical object
+              - physical entity
+                - entity
+      - causal agent, cause, causal agency
+        - physical entity
+          - entity
+  - shoe
+    - footwear, footgear
+      - covering
+        - artifact, artefact
+          - whole, unit
+            - object, physical object
+              - physical entity
+                - entity
+  - framework
+    - supporting structure
+      - structure, construction
+        - artifact, artefact
+          - whole, unit
+            - object, physical object
+              - physical entity
+                - entity
+[Kinds]
+  - hiker, tramp, tramper
+    - backpacker, packer
+  - hobbler, limper
+  - jaywalker
+  - marcher, parader
+    - pivot, pivot man
+    - wheeler
+  - nondriver
+  - passerby, passer-by, passer
+  - peripatetic
+  - rambler
+  - saunterer, stroller, ambler
+  - shuffler
+  - staggerer, totterer, reeler
+  - stalker
+  - stamper, stomper, tramper, trampler
+  - strider
+  - stumbler, tripper
+  - swaggerer
+  - trudger, plodder, slogger
+  - waddler
+  - wayfarer
+[Parts]
+  - traveler, traveller
+    - person, individual, someone, somebody, mortal, soul
+      - personality
+        - trait
+        - character, fiber, fibre
+          - thoughtfulness
+          - responsibility, responsibleness
+          - integrity
+        - nature
+      - human body, physical body, material body, soma, build, figure, physique, anatomy, shape, bod, chassis, frame, form, flesh
+      - organism, being
+        - tissue
+        - cell
+          - cell membrane, cytomembrane, plasma membrane
+          - energid, protoplast
+          - cytoplasm, cytol
+            - cytoskeleton
+            - microsome
+            - Golgi body, Golgi apparatus, Golgi complex, dictyosome
+          - nucleus, cell nucleus, karyon
+            - nucleolus, nucleole
+            - chromatin, chromatin granule
+            - achromatin
+            - linin
+            - chromosome
+              - nucleolus organizer, nucleolus organiser, nucleolar organizer, nucleolar organiser
+              - chromatin, chromatin granule
+              - gene, cistron, factor
+              - chromatid
+              - centromere, kinetochore
+              - telomere
+          - organelle, cell organelle, cell organ
+          - vacuole
+        - body part
+          - corpus
+        - living thing, animate thing
+          - whole, unit
+            - part, portion
+            - section, segment
+  - shoe
+    - collar, shoe collar
+    - counter, heel counter
+    - heel
+      - lift
+    - insole, innersole
+    - instep
+    - lace, lacing
+    - outsole
+    - saddle
+    - shoelace, shoe lace, shoestring, shoe string
+      - aglet, aiglet
+    - spike
+    - throat
+    - toe box
+    - toecap
+    - tongue
+    - upper
+      - quarter
+      - vamp
+    - footwear, footgear
+      - half sole
+      - sole
+        - shank, waist
+      - toe
+      - covering
+        - artifact, artefact
+          - whole, unit
+            - part, portion
+            - section, segment
+  - framework
+    - backing, mount
+    - brace, bracing
+    - supporting structure
+      - structure, construction
+        - foundation, base, fundament, foot, groundwork, substructure, understructure
+        - plate
+        - structural member
+        - artifact, artefact
+          - whole, unit
+            - part, portion
+            - section, segment

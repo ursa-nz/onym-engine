@@ -1,0 +1,20 @@
+term: petty spurge
+[Definitions]
+  - (noun) an Old World spurge introduced as a weed in the eastern United States
+[Synonyms]
+  - devil's milk
+  - Euphorbia peplus
+[Is a kind of]
+  - spurge
+    - shrub, bush
+      - woody plant, ligneous plant
+        - vascular plant, tracheophyte
+          - plant, flora, plant life
+            - organism, being
+              - living thing, animate thing
+                - whole, unit
+                  - object, physical object
+                    - physical entity
+                      - entity
+[Part of]
+  - Euphorbia, genus Euphorbia

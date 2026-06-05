@@ -1,0 +1,11 @@
+term: oil pressure
+[Definitions]
+  - (noun) pressure that keeps oil on the moving parts of an internal-combustion engine
+[Is a kind of]
+  - pressure, pressure level, force per unit area
+    - physical phenomenon
+      - natural phenomenon
+        - phenomenon
+          - process, physical process
+            - physical entity
+              - entity

@@ -1,0 +1,6 @@
+term: 'tween
+[Definitions]
+  - (adverb) in between
+      "two houses with a tree between"
+[Synonyms]
+  - between

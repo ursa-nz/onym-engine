@@ -1,0 +1,120 @@
+term: rap
+[Definitions]
+  - (verb) strike sharply
+      "rap him on the knuckles"
+  - (verb) make light, repeated taps on a surface
+      "he was tapping his fingers on the table impatiently"
+  - (verb) perform rap music
+  - (verb) talk volubly
+      "Sam and Sue rap"
+  - (noun) a reproach for some lapse or misdeed
+      "he took the blame for it"
+      "it was a bum rap"
+  - (noun) a gentle blow
+  - (noun) the sound made by a gentle blow
+  - (noun) voluble conversation
+  - (noun) genre of African-American music of the 1980s and 1990s in which rhyming lyrics are chanted to a musical accompaniment; several forms of rap have emerged
+  - (noun) the act of hitting vigorously
+      "he gave the table a whack"
+[Synonyms]
+  - blame
+  - strike
+  - tap
+  - pat
+  - rap music
+  - hip-hop
+  - knock
+  - belt
+  - whack
+  - whang
+  - knap
+  - pink
+[Derived forms]
+  - tap
+  - knock
+  - pink
+  - knap
+  - belt
+  - whack
+  - whang
+  - strike
+  - rap music
+  - hip-hop
+[Is a kind of]
+  - reproach
+    - rebuke, reproof, reproval, reprehension, reprimand
+      - criticism, unfavorable judgment
+        - disapproval
+          - message, content, subject matter, substance
+            - communication
+              - abstraction, abstract entity
+                - entity
+  - blow, bump
+    - impact
+      - contact, impinging, striking
+        - happening, occurrence, occurrent, natural event
+          - event
+            - psychological feature
+              - abstraction, abstract entity
+                - entity
+  - sound
+    - happening, occurrence, occurrent, natural event
+      - event
+        - psychological feature
+          - abstraction, abstract entity
+            - entity
+  - conversation
+    - speech, speech communication, spoken communication, spoken language, language, voice communication, oral communication
+      - auditory communication
+        - communication
+          - abstraction, abstract entity
+            - entity
+  - popular music, popular music genre
+    - music genre, musical genre, genre, musical style
+      - expressive style, style
+        - communication
+          - abstraction, abstract entity
+            - entity
+      - music
+        - auditory communication
+          - communication
+            - abstraction, abstract entity
+              - entity
+  - black music, African-American music
+    - music genre, musical genre, genre, musical style
+      - expressive style, style
+        - communication
+          - abstraction, abstract entity
+            - entity
+      - music
+        - auditory communication
+          - communication
+            - abstraction, abstract entity
+              - entity
+  - blow
+    - stroke
+      - motion, movement, move, motility
+        - change
+          - action
+            - act, deed, human action, human activity
+              - event
+                - psychological feature
+                  - abstraction, abstract entity
+                    - entity
+  - strike
+    - touch
+  - sound, go
+    - cause to be perceived
+  - perform
+    - re-create
+      - make, create
+  - talk, speak
+    - communicate, intercommunicate
+      - interact
+        - act, move
+[Kinds]
+  - pitter-patter
+  - knock
+[Domains]
+  - colloquialism
+  - music

@@ -1,0 +1,14 @@
+term: mid-fifties
+[Definitions]
+  - (noun) the time of life between 50 and 60
+[Synonyms]
+  - fifties
+[Is a kind of]
+  - time of life
+    - time period, period of time, period
+      - fundamental quantity, fundamental measure
+        - measure, quantity, amount
+          - abstraction, abstract entity
+            - entity
+[Part of]
+  - adulthood, maturity

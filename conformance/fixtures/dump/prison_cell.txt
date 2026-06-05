@@ -1,0 +1,25 @@
+term: prison cell
+[Definitions]
+  - (noun) a room where a prisoner is kept
+[Synonyms]
+  - cell
+  - jail cell
+[Is a kind of]
+  - room
+    - area
+      - structure, construction
+        - artifact, artefact
+          - whole, unit
+            - object, physical object
+              - physical entity
+                - entity
+[Kinds]
+  - bullpen, detention cell, detention centre
+  - cooler, tank
+  - dungeon
+    - oubliette
+  - guardroom
+  - hold, keep
+  - sweatbox
+[Part of]
+  - cellblock, ward

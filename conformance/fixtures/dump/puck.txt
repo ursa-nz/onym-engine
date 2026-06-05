@@ -1,0 +1,34 @@
+term: Puck
+[Definitions]
+  - (noun) a mischievous sprite of English folklore
+  - (noun) a vulcanized rubber disk 3 inches in diameter that is used instead of a ball in ice hockey
+[Synonyms]
+  - Robin Goodfellow
+  - hockey puck
+[Is a kind of]
+  - fairy, faery, faerie, fay, sprite
+    - spiritual being, supernatural being
+      - belief
+        - content, cognitive content, mental object
+          - cognition, knowledge, noesis
+            - psychological feature
+              - abstraction, abstract entity
+                - entity
+  - disk, disc
+    - plate
+      - sheet, flat solid
+        - artifact, artefact
+          - whole, unit
+            - object, physical object
+              - physical entity
+                - entity
+    - circle, round
+      - rotating mechanism
+        - mechanism
+          - device
+            - instrumentality, instrumentation
+              - artifact, artefact
+                - whole, unit
+                  - object, physical object
+                    - physical entity
+                      - entity

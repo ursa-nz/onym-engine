@@ -1,0 +1,169 @@
+term: door
+[Definitions]
+  - (noun) a swinging or sliding barrier that will close the entrance to a room or building or vehicle
+      "he knocked on the door"
+      "he slammed the door as he left"
+  - (noun) the entrance (the space in a wall) through which you enter or leave a room or building; the space that a door can close
+      "he stuck his head in the doorway"
+  - (noun) anything providing a means of access (or escape)
+      "we closed the door to Haitian immigrants"
+      "education is the door to success"
+  - (noun) a structure where people live or work (usually ordered along a street or road)
+      "the office next door"
+      "they live two doors up the street from us"
+  - (noun) a room that is entered via a door
+      "his office is the third door down the hall on the left"
+[Synonyms]
+  - doorway
+  - room access
+  - threshold
+[Is a kind of]
+  - movable barrier
+    - barrier
+      - obstruction, obstructor, obstructer, impediment, impedimenta
+        - structure, construction
+          - artifact, artefact
+            - whole, unit
+              - object, physical object
+                - physical entity
+                  - entity
+  - entrance, entranceway, entryway, entry, entree
+    - access, approach
+      - way
+        - artifact, artefact
+          - whole, unit
+            - object, physical object
+              - physical entity
+                - entity
+  - entree, access, accession, admission, admittance
+    - right
+      - abstraction, abstract
+        - concept, conception, construct
+          - idea, thought
+            - content, cognitive content, mental object
+              - cognition, knowledge, noesis
+                - psychological feature
+                  - abstraction, abstract entity
+                    - entity
+  - structure, construction
+    - artifact, artefact
+      - whole, unit
+        - object, physical object
+          - physical entity
+            - entity
+  - room
+    - area
+      - structure, construction
+        - artifact, artefact
+          - whole, unit
+            - object, physical object
+              - physical entity
+                - entity
+[Kinds]
+  - car door
+    - hatchback, hatchback door
+  - cargo door
+  - double door
+  - fire door
+  - French door
+    - French window
+  - interior door
+    - bi-fold door
+    - folding door, accordion door
+  - revolving door, revolver
+  - screen door, screen
+  - sliding door
+    - barn door
+  - storm door
+  - swing door, swinging door
+    - batwing
+  - trap door
+  - exterior door, outside door
+    - back door, backdoor, back entrance
+    - Dutch door, half door
+    - front door, front entrance
+    - side door, side entrance
+  - open door
+[Part of]
+  - doorway, room access, threshold
+    - wall
+      - building, edifice
+      - room
+        - building, edifice
+      - hallway, hall
+  - wall
+    - building, edifice
+    - room
+      - building, edifice
+    - hallway, hall
+[Parts]
+  - lock
+    - bolt, deadbolt
+    - keyhole
+    - tumbler
+  - movable barrier
+    - barrier
+      - obstruction, obstructor, obstructer, impediment, impedimenta
+        - structure, construction
+          - foundation, base, fundament, foot, groundwork, substructure, understructure
+          - plate
+          - structural member
+          - artifact, artefact
+            - whole, unit
+              - part, portion
+              - section, segment
+  - casing, case
+    - lock
+      - bolt, deadbolt
+      - keyhole
+      - tumbler
+  - doorframe, doorcase
+    - doorjamb, doorpost
+  - doorsill, doorstep, threshold
+  - entrance, entranceway, entryway, entry, entree
+    - access, approach
+      - way
+        - wayside, roadside
+        - artifact, artefact
+          - whole, unit
+            - part, portion
+            - section, segment
+  - structure, construction
+    - foundation, base, fundament, foot, groundwork, substructure, understructure
+    - plate
+    - structural member
+    - artifact, artefact
+      - whole, unit
+        - part, portion
+        - section, segment
+  - room
+    - ceiling
+    - floor, flooring
+    - room light
+    - wall
+      - arch, archway
+      - capstone, copestone, coping stone, stretcher
+      - course, row
+      - doorway, room access, threshold
+        - casing, case
+          - lock
+            - bolt, deadbolt
+            - keyhole
+            - tumbler
+        - doorframe, doorcase
+          - doorjamb, doorpost
+        - doorsill, doorstep, threshold
+      - header, coping, cope
+      - paneling, panelling, pane
+      - pier
+      - wainscot, dado
+      - wall panel
+    - area
+      - structure, construction
+        - foundation, base, fundament, foot, groundwork, substructure, understructure
+        - plate
+        - structural member
+        - artifact, artefact
+          - whole, unit
+            - part, portion
+            - section, segment

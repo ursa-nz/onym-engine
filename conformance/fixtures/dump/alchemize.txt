@@ -1,0 +1,12 @@
+term: alchemize
+[Definitions]
+  - (verb) alter (elements) by alchemy
+[Synonyms]
+  - alchemise
+[Derived forms]
+  - alchemy
+[Is a kind of]
+  - change, alter, modify
+[Domains]
+  - chemistry
+  - chemical science

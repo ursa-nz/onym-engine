@@ -1,0 +1,17 @@
+term: uncouthness
+[Definitions]
+  - (noun) inelegance by virtue of being an uncouth boor
+[Synonyms]
+  - boorishness
+[Derived forms]
+  - coarse
+  - common
+  - rough-cut
+  - uncouth
+  - vulgar
+[Is a kind of]
+  - inelegance
+    - quality
+      - attribute
+        - abstraction, abstract entity
+          - entity

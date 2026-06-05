@@ -1,0 +1,106 @@
+term: balsam
+[Definitions]
+  - (noun) any seed plant yielding balsam
+  - (noun) any of various fragrant oleoresins used in medicines and perfumes
+  - (noun) an ointment containing a fragrant resin
+[Derived forms]
+  - balsamic
+  - balsamy
+[Is a kind of]
+  - spermatophyte, phanerogam, seed plant
+    - vascular plant, tracheophyte
+      - plant, flora, plant life
+        - organism, being
+          - living thing, animate thing
+            - whole, unit
+              - object, physical object
+                - physical entity
+                  - entity
+  - oleoresin
+    - natural resin
+      - resin, rosin
+        - organic compound
+          - compound, chemical compound
+            - chemical, chemical substance
+              - material, stuff
+                - substance
+                  - matter
+                    - physical entity
+                      - entity
+                  - part, portion, component part, component, constituent
+                    - relation
+                      - abstraction, abstract entity
+                        - entity
+      - plant product
+        - plant material, plant substance
+          - material, stuff
+            - substance
+              - matter
+                - physical entity
+                  - entity
+              - part, portion, component part, component, constituent
+                - relation
+                  - abstraction, abstract entity
+                    - entity
+  - ointment, unction, unguent, balm, salve
+    - remedy, curative, cure, therapeutic
+      - medicine, medication, medicament, medicinal drug
+        - drug
+          - agent
+            - causal agent, cause, causal agency
+              - physical entity
+                - entity
+            - substance
+              - matter
+                - physical entity
+                  - entity
+[Kinds]
+  - tolu, balsam of tolu, tolu balsam
+    - balsam of Peru
+  - balm
+    - balm of Gilead
+[Parts]
+  - spermatophyte, phanerogam, seed plant
+    - vascular plant, tracheophyte
+      - vascular system
+        - vessel, vas
+        - vascular tissue
+      - duct
+      - vascular tissue
+      - plant, flora, plant life
+        - hood, cap
+        - plant part, plant structure
+        - organism, being
+          - tissue
+          - cell
+            - cell membrane, cytomembrane, plasma membrane
+            - energid, protoplast
+            - cytoplasm, cytol
+              - cytoskeleton
+              - microsome
+              - Golgi body, Golgi apparatus, Golgi complex, dictyosome
+            - nucleus, cell nucleus, karyon
+              - nucleolus, nucleole
+              - chromatin, chromatin granule
+              - achromatin
+              - linin
+              - chromosome
+                - nucleolus organizer, nucleolus organiser, nucleolar organizer, nucleolar organiser
+                - chromatin, chromatin granule
+                - gene, cistron, factor
+                - chromatid
+                - centromere, kinetochore
+                - telomere
+            - organelle, cell organelle, cell organ
+            - vacuole
+          - body part
+            - corpus
+          - living thing, animate thing
+            - whole, unit
+              - part, portion
+              - section, segment
+  - ointment, unction, unguent, balm, salve
+    - lanolin, wool fat, wool grease
+    - remedy, curative, cure, therapeutic
+      - medicine, medication, medicament, medicinal drug
+        - physostigmine

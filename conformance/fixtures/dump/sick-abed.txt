@@ -1,0 +1,13 @@
+term: sick-abed
+[Definitions]
+  - (adjective) confined to bed (by illness)
+[Synonyms]
+  - bedfast
+  - bedridden
+  - bedrid
+[Antonyms]
+  - ill (indirect)
+      -> well
+[Similar to]
+  - ill
+  - sick

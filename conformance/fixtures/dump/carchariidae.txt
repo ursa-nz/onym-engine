@@ -1,0 +1,23 @@
+term: Carchariidae
+[Definitions]
+  - (noun) sand sharks; in some classifications coextensive with family Carcharhinidae
+[Synonyms]
+  - family Carchariidae
+  - Odontaspididae
+  - family Odontaspididae
+[Is a kind of]
+  - fish family
+    - family
+      - taxonomic group, taxonomic category, taxon
+        - biological group
+          - group, grouping
+            - abstraction, abstract entity
+              - entity
+[Part of]
+  - Elasmobranchii, subclass Elasmobranchii, Selachii, subclass Selachii
+    - Chondrichthyes, class Chondrichthyes
+      - Vertebrata, subphylum Vertebrata, Craniata, subphylum Craniata
+        - Chordata, phylum Chordata
+          - Animalia, kingdom Animalia, animal kingdom
+[Parts]
+  - Carcharias, genus Carcharias, Odontaspis, genus Odontaspis

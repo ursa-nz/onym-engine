@@ -1,0 +1,35 @@
+term: Chinese anise
+[Definitions]
+  - (noun) small tree of China and Vietnam bearing anise-scented star-shaped fruit used in food and medicinally as a carminative
+  - (noun) anise-scented star-shaped fruit or seed used in Asian cooking and medicine
+[Synonyms]
+  - star anise
+  - Illicium verum
+  - star aniseed
+[Is a kind of]
+  - anise tree
+    - tree
+      - woody plant, ligneous plant
+        - vascular plant, tracheophyte
+          - plant, flora, plant life
+            - organism, being
+              - living thing, animate thing
+                - whole, unit
+                  - object, physical object
+                    - physical entity
+                      - entity
+  - spice
+    - flavorer, flavourer, flavoring, flavouring, seasoner, seasoning
+      - ingredient, fixings
+        - foodstuff, food product
+          - food, nutrient
+            - substance
+              - matter
+                - physical entity
+                  - entity
+[Part of]
+  - Illicium, genus Illicium
+  - five spice powder
+  - star anise, Illicium verum
+[Parts]
+  - star anise, star aniseed

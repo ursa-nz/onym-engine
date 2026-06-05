@@ -1,0 +1,18 @@
+term: Symphoricarpos alba
+[Definitions]
+  - (noun) deciduous shrub of western North America having spikes of pink flowers followed by round white berries
+[Synonyms]
+  - snowberry
+  - common snowberry
+  - waxberry
+[Is a kind of]
+  - poisonous plant
+    - plant, flora, plant life
+      - organism, being
+        - living thing, animate thing
+          - whole, unit
+            - object, physical object
+              - physical entity
+                - entity
+[Part of]
+  - Caprifoliaceae, family Caprifoliaceae, honeysuckle family

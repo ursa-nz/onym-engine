@@ -1,0 +1,22 @@
+term: avant-garde
+[Definitions]
+  - (adjective) radically new or original
+      "an avant-garde theater piece"
+  - (noun) any creative group active in the innovation and application of new concepts and techniques in a given field (especially in the arts)
+[Synonyms]
+  - vanguard
+  - van
+  - new wave
+  - daring
+[Antonyms]
+  - original (indirect)
+      -> unoriginal
+[Similar to]
+  - original
+[Is a kind of]
+  - artistic movement, art movement
+    - movement, social movement, front
+      - social group
+        - group, grouping
+          - abstraction, abstract entity
+            - entity
