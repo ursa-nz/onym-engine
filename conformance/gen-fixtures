@@ -49,13 +49,15 @@ while IFS= read -r word; do
   "$@" --dump "$word" > "$out/dump/$name.txt"
 done < "$here/corpus.txt"
 
-# Completion fixtures for a small fixed prefix list. Keep this list in
-# step with the documentation in README.md.
-for prefix in ser ice run bea sh; do
-  "$@" --complete "$prefix" > "$out/complete/$prefix.txt"
+# Completion fixtures for a small fixed prefix list, covering multiword
+# prefixes, an exact headword, and a prefix with no matches. Keep this
+# list in step with README.md and the engines' fixture tooling.
+for prefix in ser ice run bea sh fel anti 'ice cr' dog zz; do
+  name=$(printf '%s' "$prefix" | tr ' ' '_')
+  "$@" --complete "$prefix" > "$out/complete/$name.txt"
 done
 
 # Suggestion fixtures for a fixed list of misspellings.
-for word in wrod recieve beutiful hapy; do
+for word in wrod recieve beutiful hapy runnin hte dogg; do
   "$@" --suggest "$word" > "$out/suggest/$word.txt"
 done
