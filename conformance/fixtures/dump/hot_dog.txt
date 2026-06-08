@@ -5,7 +5,6 @@ term: hot dog
   - (noun) a smooth-textured sausage of minced beef or pork usually smoked; often served on a bread roll
   - (verb) perform intricate maneuvers while skiing
 [Synonyms]
-  - hotdog
   - red hot
   - frank
   - frankfurter

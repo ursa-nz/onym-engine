@@ -78,10 +78,5 @@ term: sing
   - minstrel
   - tweedle, chirp
   - choir, chorus
-    - solmizate
-    - troll
-    - hymn
-    - carol
-    - madrigal
 [Domains]
   - music

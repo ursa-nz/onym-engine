@@ -22,10 +22,17 @@ stratified sample of every 200th lemma from each WordNet index file.
 conformance/run-conformance [DUMPER [ARG...]]
 ```
 
-The dumper defaults to the reference `onym-cli` build and must accept
+The dumper defaults to the sibling `onym-cli` build and must accept
 `--dump WORD`, `--complete PREFIX` and `--suggest WORD`. The script
 prints one PASS or FAIL line per fixture and a summary, and exits
 nonzero on any difference, so CI can call it directly.
+
+The fixtures carry the two deliberate fixes in `spec/engine.md`, and
+they were regenerated from the quirk-fixed Onymdroid engine, currently
+the reference implementation. Until Onym adopts the shared core, its
+`onym-cli` predates those fixes and fails exactly the affected
+fixtures: the dumps for shore bird, hot dog, pica-pica, door, sing and
+sang. A conformant implementation passes everything.
 
 ## Regenerating fixtures
 

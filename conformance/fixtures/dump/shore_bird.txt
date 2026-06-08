@@ -2,7 +2,6 @@ term: shore bird
 [Definitions]
   - (noun) any of numerous wading birds that frequent mostly seashores and estuaries
 [Synonyms]
-  - shorebird
   - limicoline bird
 [Is a kind of]
   - wading bird, wader

@@ -90,11 +90,6 @@ term: sang
   - minstrel
   - tweedle, chirp
   - choir, chorus
-    - solmizate
-    - troll
-    - hymn
-    - carol
-    - madrigal
 [Part of]
   - Panax, genus Panax
 [Parts]

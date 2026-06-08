@@ -1,6 +1,7 @@
 term: pica-pica
 [Definitions]
   - (noun) a stinging herb of tropical America
+  - (noun) a common magpie of Eurasia
 [Synonyms]
   - spurge nettle
   - tread-softly
@@ -8,6 +9,7 @@ term: pica-pica
   - Cnidoscolus urens
   - Jatropha urens
   - Jatropha stimulosus
+  - European magpie
 [Is a kind of]
   - herb, herbaceous plant
     - vascular plant, tracheophyte
@@ -18,6 +20,20 @@ term: pica-pica
               - object, physical object
                 - physical entity
                   - entity
+  - magpie
+    - corvine bird
+      - oscine, oscine bird
+        - passerine, passeriform bird
+          - bird
+            - vertebrate, craniate
+              - chordate
+                - animal, animate being, beast, brute, creature, fauna
+                  - organism, being
+                    - living thing, animate thing
+                      - whole, unit
+                        - object, physical object
+                          - physical entity
+                            - entity
 [Part of]
   - Cnidoscolus, genus Cnidoscolus
     - Euphorbiaceae, family Euphorbiaceae, spurge family

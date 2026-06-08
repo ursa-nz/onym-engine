@@ -394,7 +394,10 @@ uniformly) and its senses contribute, still deduplicated by synset offset within
 The truncation test (`nounHasMeronymOrHolonym`, WordNetLookup.kt:164-176) ceases to exist.
 
 **Affected examples.** `shore bird` (now suppresses `shorebird`, behaving like `ash bin`); `ash bin`
-(unchanged, the uniform case). Both must be in the conformance corpus.
+(unchanged, the uniform case); `hot dog` (now suppresses `hotdog`); and `pica-pica`, where the
+truncation was hiding a whole homograph: the magpie sense (the `pica_pica` variant) now contributes
+its definition, its `European magpie` synonym, and its is-a tree alongside the plant. All four must
+be in the conformance corpus.
 
 ### Fix 2: grow_tree sibling attachment
 
@@ -410,9 +413,9 @@ WordNetLookup.kt:559-561).
 target's terms all filter away, the walk emits nothing for that target and does not recurse. Sibling
 nodes only ever carry their own children.
 
-**Affected examples.** `door` (the `casing, case` node loses the phantom `lock` child) and `sing`
-(the `choir, chorus` node loses the bare-`sing` synset's hyponyms). Both must be in the conformance
-corpus.
+**Affected examples.** `door` (the `casing, case` node loses the phantom `lock` child), `sing`
+(the `choir, chorus` node loses the bare-`sing` synset's hyponyms), and `sang`, which resolves to
+`sing` through morphology and mirrors it. All three must be in the conformance corpus.
 
 ## 8. Completion and suggestion
 
