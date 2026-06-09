@@ -12,9 +12,10 @@ precedence = "aggregate"
 SPDX-FileCopyrightText = "2006 Princeton University"
 SPDX-License-Identifier = "LicenseRef-WordNet"
 
-# Config files that cannot carry, or do not warrant, an inline header.
+# Config files that cannot carry, or do not warrant, an inline header, and the machine-managed
+# lockfile.
 [[annotations]]
-path = [".gitignore", ".editorconfig"]
+path = [".gitignore", ".editorconfig", "Cargo.lock"]
 precedence = "aggregate"
 SPDX-FileCopyrightText = "2026 ursa.nz <code@ursa.nz>"
 SPDX-License-Identifier = "GPL-3.0-or-later"
