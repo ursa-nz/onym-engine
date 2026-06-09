@@ -13,8 +13,9 @@ Onymdroid uses today.
 
 ## Status
 
-Pre-release. The spec and the conformance kit lead; the Rust core follows. `spec/engine.md` is the
-contract, and the conformance kit in `conformance/` proves any implementation against it.
+Pre-release. `spec/engine.md` is the contract; the core crate in `crates/onym-engine` implements
+it, and the conformance kit in `conformance/` proves the implementation against it. The C ABI and
+JNI crates arrive when the applications swap over.
 
 ## Data
 
