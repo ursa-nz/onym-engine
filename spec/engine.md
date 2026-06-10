@@ -63,7 +63,15 @@ missing database is a distinct open-time error, never a quiet miss (PLAN.md:270-
   the first `(` if present, then ASCII-lower it. If the normalised string is empty or is exactly
   `"."`, `"-"`, or `"_"`, the lookup returns nothing.
 - **ASCII lowering**: only `A` to `Z` are lowered, locale-independent, matching WordNet's
-  `strtolower` (WordNetLookup.kt:859-862). No Unicode case mapping is ever applied.
+  `strtolower` (WordNetLookup.kt:859-862). No Unicode case mapping is ever applied. Index lookups
+  are exact-key: index keys are lowercase and underscored, and every searched form already is.
+  (The Kotlin reference's extJWNL adapter applied a further locale lowercase before each search;
+  that is an adapter wart, not contract.)
+- **Unicode edges, pinned**: query trimming strips the Unicode white space property, and lengths
+  and edit distances count Unicode scalar values (`textforms.rs`). The database is ASCII, so
+  these definitions only bite for exotic pasted queries; they are fixed here so every port
+  agrees. The JVM reference differed harmlessly at five trim code points and on astral-plane
+  distances, which no fixture and no database byte can reach.
 - **Lowercased display form** (`displayLower`): underscores to spaces, then ASCII lowering
   (WordNetLookup.kt:865). Used for all case-insensitive comparisons and for the lemma index.
 
@@ -435,7 +443,8 @@ cap is hit. Results are therefore alphabetical, in lowercased display form. Caps
 **Suggestion** (LemmaIndex.kt:45-64, TextForms.kt:22-44, PLAN.md:351-359): the needle is the
 lowercased display form of the missed word. Scan every lemma; skip when the length difference
 exceeds **2**; keep lemmas whose Levenshtein distance (unit insert, delete, substitute; a two-row
-dynamic program) is **1 or 2**, so exact matches are excluded. Sort by distance ascending then term
+dynamic program) is **1 or 2**, so exact matches are excluded. Lengths and distances count
+Unicode scalar values (section 3). Sort by distance ascending then term
 ascending; return up to the cap. Caps: **5** on the app's not-found page and in the CLI dump's
 Did-you-mean line, **10** for the CLI `--suggest` mode (PLAN.md:359, onym-cli.c:160, 213); 0 means
 no cap.
