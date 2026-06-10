@@ -74,6 +74,10 @@ pub(crate) enum WnRelation {
 pub(crate) struct WnWord {
     pub(crate) lemma: String,
     lex_id: u8,
+    // The adjective syntax marker as written in the data file ("(a)", "(p)", or "(ip)"), or
+    // empty. Sense keys keep it on a satellite's head word (cntlist.rev carries keys like
+    // above%5:00:00:preceding(a):00), while every other consumer sees the bare lemma.
+    marker: String,
 }
 
 /// A pointer from one synset to another. The source and target word indices are 0 for a
@@ -260,9 +264,10 @@ impl DictSource {
     }
 
     /// The Princeton sense key of one synset word: `lemma%ss:lexfile:lexid:head:headid`, with the
-    /// lemma lowercased, the head fields filled only for a satellite adjective (whose head is the
-    /// target of its similar-to pointer), and the numeric fields two-digit. cntlist.rev keys take
-    /// exactly this form.
+    /// lemma lowercased and bare, the head fields filled only for a satellite adjective (whose
+    /// head is the target of its similar-to pointer), and the numeric fields two-digit. The head
+    /// word keeps its adjective syntax marker, because cntlist.rev keys do
+    /// (above%5:00:00:preceding(a):00) while no key's lemma part ever carries one.
     fn sense_key(&self, synset: &WnSynset, word_index: usize) -> Option<String> {
         let word = synset.words.get(word_index)?;
         let lemma = ascii_lower(&word.lemma);
@@ -281,10 +286,11 @@ impl DictSource {
             let head = self.synset_at(head_pointer.target_pos, head_pointer.target_offset)?;
             let head_word = head.words.first()?;
             Some(format!(
-                "{lemma}%{ss_type}:{:02}:{:02}:{}:{:02}",
+                "{lemma}%{ss_type}:{:02}:{:02}:{}{}:{:02}",
                 synset.lex_filenum,
                 word.lex_id,
                 ascii_lower(&head_word.lemma),
+                head_word.marker,
                 head_word.lex_id
             ))
         } else {
@@ -342,7 +348,19 @@ fn parse_index(bytes: &[u8]) -> HashMap<String, Vec<u32>> {
 /// gloss after `" | "`.
 fn parse_data_line(line: &[u8], offset: u32) -> Option<WnSynset> {
     let (head, gloss) = match line.windows(3).position(|w| w == b" | ") {
-        Some(p) => (&line[..p], latin1_to_string(&line[p + 3..])),
+        Some(p) => {
+            // A few data lines carry a second space after the pipe; extJWNL trimmed the gloss's
+            // leading whitespace and the reference behaviour follows it. Trailing whitespace
+            // stays, for parse_definition to trim the way the C library does.
+            let mut gloss = &line[p + 3..];
+            while let Some((&first, rest)) = gloss.split_first() {
+                if first > b' ' {
+                    break;
+                }
+                gloss = rest;
+            }
+            (&line[..p], latin1_to_string(gloss))
+        }
         None => (line, String::new()),
     };
     let head = latin1_to_string(head);
@@ -364,12 +382,16 @@ fn parse_data_line(line: &[u8], offset: u32) -> Option<WnSynset> {
     for _ in 0..word_count {
         let raw = tokens.next()?;
         // An adjective may carry a syntax marker such as "(p)"; the lemma is the part before it,
-        // as WordNet's own parser keeps it.
-        let lemma = raw.find('(').map_or(raw, |p| &raw[..p]);
+        // as WordNet's own parser keeps it, and the marker is kept aside for sense keys.
+        let (lemma, marker) = match raw.find('(') {
+            Some(p) => (&raw[..p], &raw[p..]),
+            None => (raw, ""),
+        };
         let lex_id = u8::from_str_radix(tokens.next()?, 16).ok()?;
         words.push(WnWord {
             lemma: lemma.to_string(),
             lex_id,
+            marker: marker.to_string(),
         });
     }
 
