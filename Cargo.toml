@@ -2,5 +2,5 @@
 # SPDX-License-Identifier: GPL-3.0-or-later
 
 [workspace]
-members = ["crates/onym-engine"]
+members = ["crates/onym-engine", "crates/onym-engine-ffi"]
 resolver = "3"

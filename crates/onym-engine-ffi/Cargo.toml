@@ -1,0 +1,18 @@
+# SPDX-FileCopyrightText: 2026 ursa.nz <code@ursa.nz>
+# SPDX-License-Identifier: GPL-3.0-or-later
+
+[package]
+name = "onym-engine-ffi"
+version = "0.0.1"
+edition = "2024"
+license = "GPL-3.0-or-later"
+description = "The C ABI over onym-engine that libonym consumes"
+repository = "https://forge.ursa.nz/ursa-nz/onym-engine"
+
+[lib]
+# A static archive only: libonym links it into itself, shared or static, so nothing else ever
+# loads this crate directly.
+crate-type = ["staticlib"]
+
+[dependencies]
+onym-engine = { path = "../onym-engine" }

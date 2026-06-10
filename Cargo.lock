@@ -5,3 +5,10 @@ version = 4
 [[package]]
 name = "onym-engine"
 version = "0.0.1"
+
+[[package]]
+name = "onym-engine-ffi"
+version = "0.0.1"
+dependencies = [
+ "onym-engine",
+]
