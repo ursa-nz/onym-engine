@@ -10,7 +10,7 @@ The stable text rendering of a lookup, used for conformance testing. It reproduc
 format the Kotlin port was proven byte-for-byte against. The conformance dumper in this repository
 must emit it byte for byte.
 
-**This file versions the format.** Fixtures regenerate only when this file changes. The *content*
+**This file versions the format.** Fixtures regenerate only when this file or `engine.md` changes. The *content*
 of a dump (which sections appear, their items, their order) is governed by `engine.md`, including
 its two deliberate fixes; this file fixes only the rendering. A fixture mismatch therefore means
 either an engine bug or an intentional `engine.md` change, never formatting drift.

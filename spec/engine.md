@@ -7,17 +7,19 @@ SPDX-License-Identifier: GPL-3.0-or-later
 
 This document is the single source of truth for the Onym lookup engine. The Rust core in this
 repository implements it; the conformance fixtures answer to it. It distils two parity-proven
-implementations: the C library in `../onym` (libonym, the vendored Artha `wni.c`, and libwordnet)
-and the Kotlin core in `../onymdroid`, which was proven byte-for-byte equal to `onym-cli`.
+implementations: the C library Onym carried before it adopted this core (libonym over the vendored
+Artha `wni.c` and libwordnet, now only in Onym's git history) and the Kotlin core in
+`../onymdroid`, which was proven byte-for-byte equal to `onym-cli`.
 
 Citations use `file:line`. Kotlin files live at
 `../onymdroid/core/src/main/kotlin/nz/ursa/onymdroid/core/`; `PLAN.md` is `../onymdroid/PLAN.md`;
-`onym-lookup.c` and `onym-engine.c` are in `../onym/libonym/`; `onym-cli.c` is in `../onym/tools/`.
-Line numbers are as of the trees at the time of writing.
+`onym-engine.c` is in `../onym/libonym/`; `onym-cli.c` is in `../onym/tools/`. Citations into
+`onym-lookup.c` refer to the pre-swap libonym, which survives in Onym's git history at the commit
+before the engine swap. Line numbers are as of the trees at the time of writing.
 
 Where this specification deliberately departs from the C oracle, the departure is confined to the
 two changes in [Deliberate fixes](#7-deliberate-fixes). Everything else is bug-for-bug faithful.
-Every example word named in this document must appear in the conformance corpus.
+Every word a deliberate fix or validation note names must appear in the conformance corpus.
 
 ## 1. Scope
 
@@ -114,9 +116,9 @@ Items are sorted with a stable sort (WordNetLookup.kt:249-258, mirroring Artha's
 `pos_list_compare`): when two items' display lemmas differ, the one equal to the normalised query
 (case-sensitively; the normalised query is underscored and lowered, so a capitalised or multiword
 display lemma never matches) wins; otherwise the higher tag count wins; otherwise the higher
-polysemy. The **headword is the first item's display lemma** (WordNetLookup.kt:35). The C bridge
-falls back to the raw query when there is no overview (onym-lookup.c:308), but an empty overview
-means no result, so the fallback is unreachable in practice (WordNetLookup.kt:33-34).
+polysemy. The **headword is the first item's display lemma** (WordNetLookup.kt:35). The pre-swap
+C bridge fell back to the raw query when there was no overview (onym-lookup.c:308), but an empty
+overview means no result, so the fallback was unreachable in practice (WordNetLookup.kt:33-34).
 
 ### 4.1 The last-match case rule
 
@@ -131,8 +133,8 @@ behaviour, not fixed:
 - **Display lemma case** (WordNetLookup.kt:270-283, Artha's `populate_synonyms`): walking the first
   sense's words, the lemma is re-pointed at each case-insensitive match, so the last wins:
   `wordsworth` becomes `Wordsworth`, but a synset listing `Moon` then `moon` settles on `moon`,
-  which is why the lower-cased query then sorts as an exact match. A spelling already claimed by an
-  earlier item is skipped (`is_synm_a_lemma`), so a demonym adjective stays lower-case once its
+  which is why the lowercased query then sorts as an exact match. A spelling already claimed by an
+  earlier item is skipped (`is_synm_a_lemma`), so a demonym adjective stays lowercase once its
   proper-noun twin has taken the capital. Claiming follows item build order (WordNetLookup.kt:219-223).
 
 ### 4.2 The morphology dispatch and its sticky flag
@@ -378,7 +380,7 @@ INSTANCE_HYPERNYM group, depth 1); every later pertainym of the same sense is le
 
 ## 7. Deliberate fixes
 
-This specification departs from Artha, libwordnet, and the current `onym-cli` oracle in **exactly
+This specification departs from Artha, libwordnet, and the pre-swap `onym-cli` oracle in **exactly
 two** behaviours. Both repair iteration-state bugs in the WordNet C library that produce arbitrary,
 input-dependent output. Everything else in this document, including every quirk marked "kept as
 intended behaviour", is normative as written. Fixtures for the affected words are written from this

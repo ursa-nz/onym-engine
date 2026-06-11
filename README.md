@@ -14,8 +14,9 @@ Onymdroid uses today.
 ## Status
 
 Pre-release. `spec/engine.md` is the contract; the core crate in `crates/onym-engine` implements
-it, and the conformance kit in `conformance/` proves the implementation against it. The C ABI and
-JNI crates arrive when the applications swap over.
+it, and the conformance kit in `conformance/` proves the implementation against it. The C ABI
+crate in `crates/onym-engine-ffi` backs Onym today; the JNI crate arrives when Onymdroid swaps
+over.
 
 ## Data
 
@@ -46,7 +47,7 @@ onym-engine is free software under the GPL, version 3 or later. Full licence tex
 
 - Word data from [WordNet](https://wordnet.princeton.edu), the lexical database from Princeton
   University, under its own permissive licence.
-- Engine behaviour derived from [Artha](https://github.com/sria91/artha), an earlier WordNet
+- Engine behaviour derived from [Artha](https://artha.sourceforge.net), an earlier WordNet
   thesaurus by Sundaram Ramaswamy.
 - Crafted on Kaurna Pangkarra, in Australia, with respect to the Kaurna people, their language,
   and their continuing connection to this Country.
