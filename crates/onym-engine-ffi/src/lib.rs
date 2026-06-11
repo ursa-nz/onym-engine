@@ -143,6 +143,7 @@ fn title_cstr(title: &'static str) -> *const c_char {
     }
 }
 
+/// Allocate a C copy of a tree node, children included.
 fn tree_node(node: &TreeNode) -> *mut OnymCoreTreeNode {
     let mut children: Vec<*mut OnymCoreTreeNode> = Vec::with_capacity(node.children.len() + 1);
     children.extend(node.children.iter().map(tree_node));
@@ -153,6 +154,7 @@ fn tree_node(node: &TreeNode) -> *mut OnymCoreTreeNode {
     }))
 }
 
+/// Free a node made by [`tree_node`], recursing through its children before the node itself.
 unsafe fn tree_node_free(node: *mut OnymCoreTreeNode) {
     if node.is_null() {
         return;
@@ -312,8 +314,8 @@ pub unsafe extern "C" fn onym_core_free(engine: *mut OnymCoreEngine) {
 /// Look `word` up; null when the word is simply not in WordNet.
 ///
 /// # Safety
-/// `engine` must be a live pointer from [`onym_core_open`]; `word` must be a valid NUL-terminated
-/// string or null.
+/// `engine` must be null or a live pointer from [`onym_core_open`]; `word` must be a valid
+/// NUL-terminated string or null.
 #[unsafe(no_mangle)]
 pub unsafe extern "C" fn onym_core_lookup(
     engine: *const OnymCoreEngine,
@@ -385,7 +387,7 @@ pub unsafe extern "C" fn onym_core_entry_free(entry: *mut OnymCoreEntry) {
 /// Headwords beginning with `prefix`, capped at `max` (0 means no cap). Never null.
 ///
 /// # Safety
-/// `engine` must be a live pointer from [`onym_core_open`]; `prefix` must be a valid
+/// `engine` must be null or a live pointer from [`onym_core_open`]; `prefix` must be a valid
 /// NUL-terminated string or null. Free the result with [`onym_core_strv_free`].
 #[unsafe(no_mangle)]
 pub unsafe extern "C" fn onym_core_complete(
@@ -403,8 +405,8 @@ pub unsafe extern "C" fn onym_core_complete(
 /// Spelling suggestions for a missed `word`, capped at `max` (0 means no cap). Never null.
 ///
 /// # Safety
-/// `engine` must be a live pointer from [`onym_core_open`]; `word` must be a valid NUL-terminated
-/// string or null. Free the result with [`onym_core_strv_free`].
+/// `engine` must be null or a live pointer from [`onym_core_open`]; `word` must be a valid
+/// NUL-terminated string or null. Free the result with [`onym_core_strv_free`].
 #[unsafe(no_mangle)]
 pub unsafe extern "C" fn onym_core_suggest(
     engine: *const OnymCoreEngine,

@@ -98,7 +98,9 @@ fn write_lines(out: &mut impl Write, lines: &[String]) -> std::io::Result<()> {
 }
 
 fn usage() -> ExitCode {
-    eprintln!("usage: onym-dump [--data DIR] [--dump|--complete|--suggest|--batch] WORD");
+    eprintln!(
+        "usage: onym-dump [--data DIR] [--dump WORD|--complete PREFIX|--suggest WORD|--batch]"
+    );
     ExitCode::from(2)
 }
 

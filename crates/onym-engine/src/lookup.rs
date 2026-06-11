@@ -1016,9 +1016,9 @@ fn which_word(synset: &WnSynset, lemma: &str) -> usize {
 /// Resolve the lemma's case the way Onym's populate_synonyms does. While listing the prime
 /// sense's words it re-points the lemma at each synset word that matches it case-insensitively,
 /// so the LAST such word wins: "wordsworth" becomes "Wordsworth", but a synset listing both
-/// "Moon" and "moon" settles on "moon", which is why the lower-cased query then sorts as an exact
+/// "Moon" and "moon" settles on "moon", which is why the lowercased query then sorts as an exact
 /// match. A spelling already claimed as another item's lemma is skipped (is_synm_a_lemma), so a
-/// demonym adjective stays lower-case once its proper-noun twin has taken the capital.
+/// demonym adjective stays lowercase once its proper-noun twin has taken the capital.
 fn resolve_display_lemma(
     lemma: &str,
     sense1_synset: &WnSynset,
@@ -1095,12 +1095,14 @@ fn parse_definition(gloss: &str) -> (String, Vec<String>) {
         .chain(gloss.trim_end().chars())
         .chain(std::iter::once(')'))
         .collect();
-    let len = wrapped.len() - 1; // skip the closing parenthesis
+    // The scan runs strictly between the synthetic parentheses: they give the original parser
+    // the wrapped shape it expects, and neither may reach the output.
+    let len = wrapped.len() - 1;
     let mut out: Vec<char> = Vec::new();
     let mut brace_met = 0usize;
     let mut double_quotes = 0u32;
     let mut just_ended = false;
-    let mut i = 1; // skip the opening parenthesis
+    let mut i = 1;
     while i < len {
         let mut ch = Some(wrapped[i]);
         if wrapped[i] == '"' {
