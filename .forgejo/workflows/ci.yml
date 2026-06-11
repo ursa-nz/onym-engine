@@ -19,15 +19,16 @@ jobs:
         run: |
           apt-get update
           apt-get install -y --no-install-recommends \
-            ca-certificates git nodejs curl gcc libc6-dev pipx
+            ca-certificates git nodejs curl gcc libc6-dev pipx wordnet-base
 
       - uses: actions/checkout@v4
 
-      # Ubuntu's packaged Rust is too old for edition 2024, so install the stable toolchain
-      # with rustup. The default profile includes rustfmt and clippy.
+      # Ubuntu's packaged Rust is too old for edition 2024, so install rustup without a default
+      # toolchain; cargo's first run then honours the 1.96.0 pin in rust-toolchain.toml, whose
+      # default profile includes rustfmt and clippy.
       - name: Install Rust
         run: |
-          curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh -s -- -y
+          curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh -s -- -y --default-toolchain none
           echo "$HOME/.cargo/bin" >> "$GITHUB_PATH"
 
       - name: REUSE lint
@@ -40,7 +41,7 @@ jobs:
         run: cargo fmt --check
 
       - name: Clippy
-        run: cargo clippy -- -D warnings
+        run: cargo clippy --all-targets -- -D warnings
 
       - name: Test
         run: cargo test
