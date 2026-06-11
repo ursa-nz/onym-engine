@@ -49,5 +49,5 @@ onym-engine is free software under the GPL, version 3 or later. Full licence tex
   University, under its own permissive licence.
 - Engine behaviour derived from [Artha](https://artha.sourceforge.net), an earlier WordNet
   thesaurus by Sundaram Ramaswamy.
-- Crafted on Kaurna Pangkarra, in Australia, with respect to the Kaurna people, their language,
-  and their continuing connection to this Country.
+- Crafted in Narrm, in Australia, with respect to the Wurundjeri Woi-wurrung people of the Kulin
+  Nation, their language, and their continuing connection to this Country.
