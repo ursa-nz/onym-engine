@@ -14,3 +14,9 @@ trim_trailing_whitespace = false
 [*.rs]
 indent_size = 4
 max_line_length = 100
+
+# The corpus and fixtures are frozen ISO-8859-1 bytes; editors must not reshape them.
+[conformance/{corpus.txt,fixtures/**}]
+charset = latin1
+trim_trailing_whitespace = false
+insert_final_newline = false

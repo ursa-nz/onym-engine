@@ -51,7 +51,7 @@ done < "$here/corpus.txt"
 
 # Completion fixtures for a small fixed prefix list, covering multiword
 # prefixes, an exact headword, and a prefix with no matches. Keep this
-# list in step with README.md and the engines' fixture tooling.
+# list in step with the engines' fixture tooling.
 for prefix in ser ice run bea sh fel anti 'ice cr' dog zz; do
   name=$(printf '%s' "$prefix" | tr ' ' '_')
   "$@" --complete "$prefix" > "$out/complete/$name.txt"

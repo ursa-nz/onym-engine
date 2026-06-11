@@ -5,7 +5,8 @@ version = 1
 
 # The conformance fixtures and corpus are derived from the WordNet 3.0 lexical database from
 # Princeton University, redistributed under the permissive WordNet licence. Declared here because
-# the data files carry no inline header.
+# the fixtures are machine-generated, byte-exact dumper output and none of the data files can
+# carry an inline header.
 [[annotations]]
 path = ["conformance/fixtures/**", "conformance/corpus.txt"]
 precedence = "aggregate"
