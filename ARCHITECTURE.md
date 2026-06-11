@@ -14,10 +14,11 @@ specification as code.
 - The core crate, `crates/onym-engine`, holds the model, the morphology, the lemma index, and the
   lookup rules. It is std-only with zero dependencies.
 - The ffi crate, `crates/onym-engine-ffi`, exposes the C ABI that libonym consumes: a static
-  archive and the hand-written header `include/onym-core.h`. It is the project's only unsafe
-  code.
-- A jni crate will expose a one-call serialised codec for Android, so a lookup crosses the JNI
-  boundary once. It arrives with the Android swap.
+  archive and the hand-written header `include/onym-core.h`.
+- The jni crate, `crates/onym-engine-jni`, exposes the engine to Onymdroid's `:core` as a
+  dynamic library with a one-call serialised codec, so a lookup crosses the JNI boundary once;
+  the format is documented in its `src/lib.rs`. The ffi and jni crates are the project's only
+  unsafe code.
 - The conformance kit in `conformance/` gates everything. No layer changes behaviour without the
   kit agreeing.
 

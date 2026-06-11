@@ -1,0 +1,18 @@
+# SPDX-FileCopyrightText: 2026 ursa.nz <code@ursa.nz>
+# SPDX-License-Identifier: GPL-3.0-or-later
+
+[package]
+name = "onym-engine-jni"
+version = "0.0.1"
+edition = "2024"
+license = "GPL-3.0-or-later"
+description = "The JNI library over onym-engine that Onymdroid's :core loads"
+repository = "https://forge.ursa.nz/ursa-nz/onym-engine"
+
+[lib]
+# A dynamic library only: the JVM loads it by name, on Android from the APK's jniLibs and on the
+# desktop from java.library.path, so Onymdroid's parity suite exercises the same code on the host.
+crate-type = ["cdylib"]
+
+[dependencies]
+onym-engine = { path = "../onym-engine" }

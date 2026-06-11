@@ -9,14 +9,14 @@ onym-engine is the WordNet 3.0 engine behind Onym and Onymdroid, written in Rust
 with zero dependencies. One crate carries the model, the morphology, the lemma index, and the
 lookup rules, so both applications share one engine with one behaviour. It replaces the abandoned
 WordNet C library (libwordnet), the engine Onym vendored from Artha, and the extJWNL library
-Onymdroid uses today.
+Onymdroid used.
 
 ## Status
 
 Pre-release. `spec/engine.md` is the contract; the core crate in `crates/onym-engine` implements
 it, and the conformance kit in `conformance/` proves the implementation against it. The C ABI
-crate in `crates/onym-engine-ffi` backs Onym today; the JNI crate arrives when Onymdroid swaps
-over.
+crate in `crates/onym-engine-ffi` backs Onym, and the JNI crate in `crates/onym-engine-jni`
+backs Onymdroid.
 
 ## Data
 
