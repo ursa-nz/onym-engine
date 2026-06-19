@@ -1,0 +1,110 @@
+# SPDX-FileCopyrightText: 2026 ursa.nz <code@ursa.nz>
+# SPDX-License-Identifier: GPL-3.0-or-later
+name: Bug report
+about: Report incorrect lookup output or a build or runtime fault in onym-engine
+labels:
+  - bug
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for reporting a problem. A lookup that disagrees with WordNet is best shown as
+        the word, the operation, and the output you got against the output you expected.
+  - type: input
+    id: version
+    attributes:
+      label: onym-engine version or commit
+      description: A release tag, or the commit SHA you built from.
+      placeholder: e.g. v0.1.0 or 1a2b3c4
+    validations:
+      required: true
+  - type: dropdown
+    id: crate
+    attributes:
+      label: Which crate or interface?
+      options:
+        - Core crate (onym-engine)
+        - C ABI (onym-engine-ffi)
+        - JNI (onym-engine-jni)
+        - Conformance kit (conformance/)
+        - Not sure
+    validations:
+      required: true
+  - type: dropdown
+    id: os
+    attributes:
+      label: Operating system
+      options:
+        - Linux
+        - Android
+        - macOS
+        - Windows
+        - Other (note below)
+    validations:
+      required: true
+  - type: dropdown
+    id: arch
+    attributes:
+      label: Architecture
+      options:
+        - x86_64 (amd64)
+        - aarch64 (arm64)
+        - armv7
+        - x86
+        - Other (note below)
+    validations:
+      required: true
+  - type: input
+    id: rust
+    attributes:
+      label: Rust and Cargo version
+      description: Output of `rustc --version` and `cargo --version`.
+      placeholder: e.g. rustc 1.85.0, cargo 1.85.0
+    validations:
+      required: true
+  - type: input
+    id: wordnet
+    attributes:
+      label: WordNet data source
+      description: Where the WordNet 3.0 database came from.
+      placeholder: e.g. Debian wordnet-base 1:3.0-37
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to reproduce
+      description: The exact call or command, including the word and operation where relevant.
+      placeholder: |
+        1. Build with `cargo build`
+        2. Look up "family Cathartidae" with the full relation tree
+        3. ...
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: Expected output
+    validations:
+      required: true
+  - type: textarea
+    id: actual
+    attributes:
+      label: Actual output
+    validations:
+      required: true
+  - type: textarea
+    id: logs
+    attributes:
+      label: Build or test output
+      description: Any compiler errors, panics, or failing conformance cases. This will be formatted as a code block automatically.
+      render: shell
+    validations:
+      required: false
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: Checks
+      options:
+        - label: I searched the existing issues and this is not a duplicate.
+          required: true
