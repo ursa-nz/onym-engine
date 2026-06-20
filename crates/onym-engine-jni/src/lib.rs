@@ -46,6 +46,8 @@
 //!   implications string list.
 //! - kind 3, tree: a *node list*, where a node list is a u32 count of nodes and each node is a
 //!   terms string list followed by its children as a node list, depth-first.
+//! - kind 4, etymology: a string list of prose paragraphs. It crosses only when the optional
+//!   etymology overlay is present, so a plain WordNet build never emits it.
 //!
 //! # Strings crossing inward
 //!

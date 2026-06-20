@@ -1,0 +1,24 @@
+term: abacus
+[Definitions]
+  - (noun) a tablet placed horizontally on top of the capital of a column as an aid in supporting the architrave
+  - (noun) a calculator that performs arithmetic functions by manually sliding counters on rods or in grooves
+[Etymology]
+  - From Latin abacus, from Ancient Greek άβαξ (abax, "counting board"). Doublet of abaque.
+[Is a kind of]
+  - tablet
+    - slab
+      - block
+        - artifact, artefact
+          - whole, unit
+            - object, physical object
+              - physical entity
+                - entity
+  - calculator, calculating machine
+    - machine
+      - device
+        - instrumentality, instrumentation
+          - artifact, artefact
+            - whole, unit
+              - object, physical object
+                - physical entity
+                  - entity

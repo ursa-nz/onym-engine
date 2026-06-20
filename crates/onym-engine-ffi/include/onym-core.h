@@ -48,17 +48,20 @@ typedef struct
   char **implications;  /* NULL-terminated, possibly empty */
 } OnymCoreAntonym;
 
-/* Which item array of a section is populated. */
+/* Which item array of a section is populated. ETYMOLOGY reuses the words array: its strings are
+ * prose paragraphs to render as text, not navigable terms. It appears only when the optional
+ * etymology overlay is present, so a plain WordNet build never sees it. */
 typedef enum
 {
   ONYM_CORE_SECTION_DEFINITIONS = 0,
   ONYM_CORE_SECTION_WORDS = 1,
   ONYM_CORE_SECTION_ANTONYMS = 2,
   ONYM_CORE_SECTION_TREE = 3,
+  ONYM_CORE_SECTION_ETYMOLOGY = 4,
 } OnymCoreSectionKind;
 
-/* A titled group of items of one kind. Exactly the array named by kind is non-NULL; n_items is
- * its length. A section never arrives empty. */
+/* A titled group of items of one kind. Exactly the array named by kind is non-NULL (ETYMOLOGY uses
+ * words); n_items is its length. A section never arrives empty. */
 typedef struct
 {
   int          kind;  /* an OnymCoreSectionKind */

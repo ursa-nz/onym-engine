@@ -41,6 +41,17 @@ conformance/gen-fixtures [DUMPER [ARG...]]
 This rewrites `fixtures/` from scratch. Output is deterministic and
 carries no timestamps.
 
+## The etymology overlay (`etym/`)
+
+The optional etymology overlay (`spec/engine.md` section 6.10) is proven apart from the WordNet kit
+above, because its prose is UTF-8 where the database is ISO-8859-1, so `onym-dump` (which emits
+ISO-8859-1) cannot render it. `etym/` holds a small, hand-authored test overlay (`etym/etym.onym`,
+deliberately not from any Wiktionary dump so it never churns), a `etym/corpus.txt`, and UTF-8
+`etym/fixtures/`. The check lives in `crates/onym-engine/tests/etymology.rs`: it opens an engine over
+WordNet plus the test overlay, dumps each corpus word, and compares as UTF-8. Regenerate the fixtures
+after a deliberate spec change with `ONYM_BLESS=1 cargo test -p onym-engine --test etymology`. The
+same rule below applies: the spec changes first.
+
 ## Rule: fixtures change only via a spec change
 
 The fixtures are the contract, not a cache. `spec/dump-format.md`

@@ -1,1 +1,5 @@
 target/
+
+# Fetched source datasets and the built overlay; produced by tools/, never committed (the engine
+# ships no database, and the shippable etym.onym is a build artifact like the WordNet files).
+tools/data/

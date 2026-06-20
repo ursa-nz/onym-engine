@@ -13,6 +13,15 @@ precedence = "aggregate"
 SPDX-FileCopyrightText = "2006 Princeton University"
 SPDX-License-Identifier = "LicenseRef-WordNet"
 
+# The etymology conformance kit: a hand-authored test overlay (not from any Wiktionary dump) and the
+# dumps it produces, which aggregate WordNet glosses with that ursa.nz-authored etymology prose.
+# Machine-generated or data files with no place for an inline header.
+[[annotations]]
+path = ["conformance/etym/etym.onym", "conformance/etym/corpus.txt", "conformance/etym/fixtures/**"]
+precedence = "aggregate"
+SPDX-FileCopyrightText = ["2006 Princeton University", "2026 ursa.nz <code@ursa.nz>"]
+SPDX-License-Identifier = "LicenseRef-WordNet AND GPL-3.0-or-later"
+
 # Config files that cannot carry, or do not warrant, an inline header, and the machine-managed
 # lockfile.
 [[annotations]]

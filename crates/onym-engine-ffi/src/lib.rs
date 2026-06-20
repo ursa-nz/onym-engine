@@ -45,6 +45,7 @@ const ONYM_CORE_SECTION_DEFINITIONS: c_int = 0;
 const ONYM_CORE_SECTION_WORDS: c_int = 1;
 const ONYM_CORE_SECTION_ANTONYMS: c_int = 2;
 const ONYM_CORE_SECTION_TREE: c_int = 3;
+const ONYM_CORE_SECTION_ETYMOLOGY: c_int = 4;
 
 /// A titled group of items of one kind, as the header lays it out. Exactly the array named by
 /// `kind` is non-null.
@@ -126,6 +127,7 @@ fn pos_cstr(pos: Option<&'static str>) -> *const c_char {
 fn title_cstr(title: &'static str) -> *const c_char {
     match title {
         "Definitions" => c"Definitions".as_ptr(),
+        "Etymology" => c"Etymology".as_ptr(),
         "Synonyms" => c"Synonyms".as_ptr(),
         "Antonyms" => c"Antonyms".as_ptr(),
         "Derived forms" => c"Derived forms".as_ptr(),
@@ -241,6 +243,18 @@ fn entry_to_c(entry: &Entry) -> *mut OnymCoreEntry {
                     words: std::ptr::null_mut(),
                     antonyms: std::ptr::null_mut(),
                     tree: tree_array(items),
+                },
+                // Etymology prose crosses as a plain string array, reusing the `words` slot, so the
+                // section struct keeps its layout. The kind tells the consumer to render the strings
+                // as paragraphs rather than navigable terms.
+                SectionItems::Etymology(paragraphs) => OnymCoreSection {
+                    kind: ONYM_CORE_SECTION_ETYMOLOGY,
+                    title,
+                    n_items: paragraphs.len(),
+                    definitions: std::ptr::null_mut(),
+                    words: c_strv(paragraphs),
+                    antonyms: std::ptr::null_mut(),
+                    tree: std::ptr::null_mut(),
                 },
             }
         })

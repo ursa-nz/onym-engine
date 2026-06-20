@@ -24,7 +24,9 @@
 
 use crate::data::{DictSource, WnPointer, WnPos, WnRelation, WnSynset};
 use crate::model::{Antonym, Definition, Entry, Section, SectionItems, TreeNode};
-use crate::textforms::{ascii_lower, display_lower, index_variants, to_display_form};
+use crate::textforms::{
+    ascii_lower, display_lower, index_variants, to_display_form, to_query_form,
+};
 use std::collections::{HashMap, HashSet};
 
 const POS_ORDER: [WnPos; 4] = [WnPos::Noun, WnPos::Verb, WnPos::Adjective, WnPos::Adverb];
@@ -127,6 +129,18 @@ impl Lookup<'_> {
             sections.push(Section {
                 title: "Definitions",
                 items: SectionItems::Definitions(definitions),
+            });
+        }
+        // The optional etymology overlay, keyed by the headword in query form (the index-key form:
+        // ASCII, lowercase, underscored). Absent overlay or no entry means no section, so a lookup
+        // over a plain WordNet directory is unchanged. Section 6.10.
+        let etymology = self
+            .source
+            .etymology(&ascii_lower(&to_query_form(&headword)));
+        if !etymology.is_empty() {
+            sections.push(Section {
+                title: "Etymology",
+                items: SectionItems::Etymology(etymology),
             });
         }
         add_words(

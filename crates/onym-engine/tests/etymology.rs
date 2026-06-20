@@ -1,0 +1,151 @@
+// SPDX-FileCopyrightText: 2026 ursa.nz <code@ursa.nz>
+// SPDX-License-Identifier: GPL-3.0-or-later
+
+//! The etymology overlay's conformance, kept apart from the WordNet kit because the overlay is
+//! UTF-8 where the database is ISO-8859-1 (`engine.md` section 6.10). It opens an engine over a
+//! temporary directory of WordNet symlinks plus the committed test overlay
+//! (`conformance/etym/etym.onym`), dumps every word of `conformance/etym/corpus.txt`, and compares
+//! each dump, as UTF-8 characters, against its fixture. The fixtures regenerate with
+//! `ONYM_BLESS=1`; the test skips itself when the system WordNet database is absent, so it is safe
+//! to run anywhere. It proves the engine reads the overlay, keys it by the resolved headword, and
+//! renders the Etymology section in place, while a word absent from the overlay shows none.
+
+use onym_engine::{Engine, to_query_form};
+use std::fs;
+use std::path::{Path, PathBuf};
+
+const DATA_DIR: &str = "/usr/share/wordnet";
+
+fn etym_dir() -> PathBuf {
+    Path::new(env!("CARGO_MANIFEST_DIR")).join("../../conformance/etym")
+}
+
+/// A temporary data directory: every WordNet file symlinked in, plus the committed test overlay as
+/// `etym.onym`. Removed on drop. The overlay must be a real file, not a symlink into the source
+/// tree, because the loader reads it as the data directory's own.
+struct Fixtureset {
+    dir: PathBuf,
+}
+
+static COUNTER: std::sync::atomic::AtomicU32 = std::sync::atomic::AtomicU32::new(0);
+
+impl Fixtureset {
+    fn build() -> Fixtureset {
+        let unique = format!(
+            "onym-etym-conformance-{}-{}",
+            std::process::id(),
+            COUNTER.fetch_add(1, std::sync::atomic::Ordering::Relaxed)
+        );
+        let dir = std::env::temp_dir().join(unique);
+        let _ = fs::remove_dir_all(&dir);
+        fs::create_dir_all(&dir).expect("create temp data dir");
+        for entry in fs::read_dir(DATA_DIR).expect("read WordNet dir") {
+            let path = entry.expect("WordNet entry").path();
+            let name = path.file_name().expect("file name");
+            std::os::unix::fs::symlink(&path, dir.join(name)).expect("symlink WordNet file");
+        }
+        fs::copy(etym_dir().join("etym.onym"), dir.join("etym.onym")).expect("copy test overlay");
+        Fixtureset { dir }
+    }
+}
+
+impl Drop for Fixtureset {
+    fn drop(&mut self) {
+        let _ = fs::remove_dir_all(&self.dir);
+    }
+}
+
+fn corpus_words() -> Vec<String> {
+    let text = fs::read_to_string(etym_dir().join("corpus.txt")).expect("etymology corpus reads");
+    text.lines()
+        .map(str::trim)
+        .filter(|line| !line.is_empty() && !line.starts_with('#'))
+        .map(str::to_string)
+        .collect()
+}
+
+/// The first differing line, named the way the WordNet kit names one, so a failure points at the
+/// byte-level disagreement rather than dumping two whole entries.
+fn first_diff(expected: &str, actual: &str) -> String {
+    let expected: Vec<&str> = expected.lines().collect();
+    let actual: Vec<&str> = actual.lines().collect();
+    for i in 0..expected.len().max(actual.len()) {
+        if expected.get(i) != actual.get(i) {
+            return format!(
+                "line {}: fixture {:?}, engine {:?}",
+                i + 1,
+                expected.get(i),
+                actual.get(i)
+            );
+        }
+    }
+    "no line difference (trailing bytes differ)".to_string()
+}
+
+#[test]
+fn every_etymology_dump_matches_its_fixture() {
+    if !Path::new(DATA_DIR).join("index.noun").is_file() {
+        eprintln!("skipping: WordNet data not installed at {DATA_DIR}");
+        return;
+    }
+    let fixtures = Fixtureset::build();
+    let engine = Engine::open(&fixtures.dir).expect("engine opens over the test overlay");
+    let bless = std::env::var_os("ONYM_BLESS").is_some();
+    let fixtures_dir = etym_dir().join("fixtures");
+    if bless {
+        fs::create_dir_all(&fixtures_dir).expect("create fixtures dir");
+    }
+
+    let mut mismatches = Vec::new();
+    for word in corpus_words() {
+        let actual = engine.dump(&word);
+        let path = fixtures_dir.join(format!("{}.txt", to_query_form(&word)));
+        if bless {
+            fs::write(&path, &actual).expect("write fixture");
+            continue;
+        }
+        let expected = fs::read_to_string(&path).unwrap_or_else(|_| {
+            panic!("fixture {} exists (run with ONYM_BLESS=1)", path.display())
+        });
+        if expected != actual {
+            mismatches.push(format!("\"{word}\": {}", first_diff(&expected, &actual)));
+        }
+    }
+    assert!(
+        mismatches.is_empty(),
+        "{} etymology dumps differ:\n{}",
+        mismatches.len(),
+        mismatches.join("\n")
+    );
+}
+
+#[test]
+fn the_overlay_is_additive_and_gated() {
+    if !Path::new(DATA_DIR).join("index.noun").is_file() {
+        eprintln!("skipping: WordNet data not installed at {DATA_DIR}");
+        return;
+    }
+    let fixtures = Fixtureset::build();
+    let with_overlay = Engine::open(&fixtures.dir).expect("engine opens over the test overlay");
+    let plain = Engine::open(DATA_DIR).expect("engine opens over plain WordNet");
+
+    // A word in the overlay gains an Etymology section, immediately after Definitions, and the rest
+    // of its entry is identical to the plain WordNet dump with that one section spliced in.
+    let dump = with_overlay.dump("dog");
+    let definitions = dump.find("[Definitions]").expect("dog has definitions");
+    let etymology = dump
+        .find("[Etymology]")
+        .expect("dog gains an Etymology section");
+    let synonyms = dump.find("[Synonyms]").expect("dog has synonyms");
+    assert!(
+        definitions < etymology && etymology < synonyms,
+        "Etymology must sit after Definitions and before Synonyms"
+    );
+
+    // A word absent from the overlay is byte-for-byte the plain WordNet dump: no section, no change.
+    assert!(!with_overlay.dump("cat").contains("[Etymology]"));
+    assert_eq!(with_overlay.dump("cat"), plain.dump("cat"));
+
+    // "dogs" resolves to "dog" by morphology and still carries the headword's etymology.
+    assert!(with_overlay.dump("dogs").contains("[Etymology]"));
+}

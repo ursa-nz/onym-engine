@@ -39,6 +39,13 @@ pub(crate) fn render(entry: &Entry) -> String {
                     render_tree_node(node, 0, &mut out);
                 }
             }
+            SectionItems::Etymology(paragraphs) => {
+                for paragraph in paragraphs {
+                    out.push_str("  - ");
+                    out.push_str(paragraph);
+                    out.push('\n');
+                }
+            }
         }
     }
     out

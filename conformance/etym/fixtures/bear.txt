@@ -1,0 +1,234 @@
+term: bear
+[Definitions]
+  - (verb) have
+      "bear a resemblance"
+      "bear a signature"
+  - (verb) cause to be born
+      "My wife had twins yesterday!"
+  - (verb) put up with something or somebody unpleasant
+      "I cannot bear his constant criticism"
+      "The new secretary had to endure a lot of unprofessional remarks"
+      "he learned to tolerate the heat"
+      "She stuck out two years in a miserable marriage"
+  - (verb) move while holding up or supporting
+      "Bear gifts"
+      "bear a heavy load"
+      "bear news"
+      "bearing orders"
+  - (verb) bring forth
+      "The apple tree bore delicious apples this year"
+      "The unidentified plant bore gorgeous flowers"
+  - (verb) take on as one's own the expenses or debts of another person
+      "I'll accept the charges"
+      "She agreed to bear the responsibility"
+  - (verb) contain or hold; have within
+      "The jar carries wine"
+      "The canteen holds fresh water"
+      "This can contains water"
+  - (verb) bring in
+      "interest-bearing accounts"
+      "How much does this savings certificate pay annually?"
+  - (verb) have on one's person
+      "He wore a red ribbon"
+      "bear a scar"
+  - (verb) behave in a certain manner
+      "She carried herself well"
+      "he bore himself with dignity"
+      "They conducted themselves well during these difficult times"
+  - (verb) have rightfully; of rights, titles, and offices
+      "She bears the title of Duchess"
+      "He held the governorship for almost a decade"
+  - (verb) support or hold in a certain manner
+      "She holds her head high"
+      "He carried himself upright"
+  - (verb) be pregnant with
+      "She is bearing his child"
+      "The are expecting another child in January"
+      "I am carrying his child"
+  - (noun) massive plantigrade carnivorous or omnivorous mammals with long shaggy coats and strong claws
+  - (noun) an investor with a pessimistic market outlook; an investor who expects prices to fall and so sells now in order to buy later at a lower price
+[Etymology]
+  - The animal: from Old English bera, of Germanic origin.
+  - To carry: from Old English beran.
+[Synonyms]
+  - give birth
+  - deliver
+  - birth
+  - have
+  - digest
+  - endure
+  - stick out
+  - stomach
+  - stand
+  - tolerate
+  - support
+  - brook
+  - abide
+  - suffer
+  - put up
+  - turn out
+  - take over
+  - accept
+  - assume
+  - hold
+  - carry
+  - contain
+  - yield
+  - pay
+  - wear
+  - behave
+  - acquit
+  - deport
+  - conduct
+  - comport
+  - have a bun in the oven
+  - gestate
+  - expect
+[Antonyms]
+  - bull (direct)
+[Derived forms]
+  - bearable
+  - endurable
+  - sufferable
+  - supportable
+  - carrier
+  - bearer
+  - toter
+  - pallbearer
+  - bearing
+  - comportment
+  - presence
+  - mien
+  - holder
+  - carriage
+  - posture
+[Entails]
+  - conceive
+  - move
+  - displace
+[Is a kind of]
+  - carnivore
+    - placental, placental mammal, eutherian, eutherian mammal
+      - mammal, mammalian
+        - vertebrate, craniate
+          - chordate
+            - animal, animate being, beast, brute, creature, fauna
+              - organism, being
+                - living thing, animate thing
+                  - whole, unit
+                    - object, physical object
+                      - physical entity
+                        - entity
+  - investor
+    - capitalist
+      - person, individual, someone, somebody, mortal, soul
+        - organism, being
+          - living thing, animate thing
+            - whole, unit
+              - object, physical object
+                - physical entity
+                  - entity
+        - causal agent, cause, causal agency
+          - physical entity
+            - entity
+  - have, feature
+  - produce, bring forth
+    - make, create
+  - permit, allow, let, countenance
+    - accept, consent, go for
+      - react, respond
+        - act, move
+  - transport, carry
+    - move, displace
+  - make, create
+  - take
+  - include
+  - gain, take in, clear, make, earn, realize, realise, pull in, bring in
+    - get, acquire
+  - hold, carry
+  - act, move
+  - have, have got, hold
+  - give birth, deliver, birth, have
+    - produce, bring forth
+      - make, create
+[Kinds]
+  - bear cub
+  - brown bear, bruin, Ursus arctos
+    - Syrian bear, Ursus arctos syriacus
+    - grizzly, grizzly bear, silvertip, silver-tip, Ursus horribilis, Ursus arctos horribilis
+    - Alaskan brown bear, Kodiak bear, Kodiak, Ursus middendorffi, Ursus arctos middendorffi
+  - bruin
+  - American black bear, black bear, Ursus americanus, Euarctos americanus
+    - cinnamon bear
+  - Asiatic black bear, black bear, Ursus thibetanus, Selenarctos thibetanus
+  - ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus
+  - sloth bear, Melursus ursinus, Ursus ursinus
+  - carry
+  - twin
+  - drop
+  - foal
+  - cub
+  - kitten
+  - lamb
+  - litter
+  - whelp, pup
+  - farrow, pig
+  - fawn
+  - calve, have young
+  - have a bun in the oven, carry, gestate, expect
+  - accept, live with, swallow
+  - stand for, hold still for
+  - bear up
+  - take lying down
+  - take a joke
+  - sit out
+  - pay
+    - take one's lumps, get one's lumps
+  - frogmarch
+  - spin off
+  - seed
+  - crop
+  - overbear
+  - fruit
+  - face the music, carry-the can
+  - retain
+  - enclose, hold in, confine
+    - bound, border
+      - skirt
+      - verge
+      - shore
+    - embank
+    - rail, rail in
+    - box in, box up
+    - frame
+  - net, clear
+  - pay off
+  - fluster
+  - assert, put forward
+  - deal
+  - walk around
+  - pose, posture
+    - attitudinize, attitudinise
+  - sling
+  - stoop
+  - piggyback
+  - poise, balance
+    - juggle
+  - behave, acquit, deport, conduct, comport, carry
+    - fluster
+    - assert, put forward
+    - deal
+    - walk around
+    - pose, posture
+      - attitudinize, attitudinise
+[Part of]
+  - Ursidae, family Ursidae
+    - Carnivora, order Carnivora
+      - Eutheria, subclass Eutheria
+        - Mammalia, class Mammalia
+          - Vertebrata, subphylum Vertebrata, Craniata, subphylum Craniata
+            - Chordata, phylum Chordata
+              - Animalia, kingdom Animalia, animal kingdom
+[Domains]
+  - investment
+  - investment funds

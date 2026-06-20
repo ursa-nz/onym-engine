@@ -33,6 +33,9 @@ pub enum SectionItems {
     Antonyms(Vec<Antonym>),
     /// A lexical hierarchy, such as is-a, kinds, or part-of, as nested nodes.
     Tree(Vec<TreeNode>),
+    /// Etymology prose: one or more whitespace-collapsed paragraphs in source order, from the
+    /// optional overlay of `spec/engine.md` section 6.10. Plain display text, never navigable.
+    Etymology(Vec<String>),
 }
 
 /// One sense of a word: its part of speech (which may be absent), gloss, and example sentences.

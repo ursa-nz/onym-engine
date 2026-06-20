@@ -12,6 +12,7 @@
 
 mod data;
 mod dump;
+mod etymology;
 mod lemma_index;
 mod lookup;
 mod model;

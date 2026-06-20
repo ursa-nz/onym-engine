@@ -1,0 +1,1117 @@
+term: dog
+[Definitions]
+  - (noun) a member of the genus Canis (probably descended from the common wolf) that has been domesticated by man since prehistoric times; occurs in many breeds
+      "the dog barked all night"
+  - (noun) a dull unattractive unpleasant girl or woman
+      "she got a reputation as a frump"
+      "she's a real dog"
+  - (noun) informal term for a man
+      "you lucky dog"
+  - (noun) someone who is morally reprehensible
+      "you dirty dog"
+  - (noun) a smooth-textured sausage of minced beef or pork usually smoked; often served on a bread roll
+  - (noun) a hinged catch that fits into a notch of a ratchet to move a wheel forward or prevent it from moving backward
+  - (noun) metal supports for logs in a fireplace
+      "the andirons were too hot to touch"
+  - (verb) go after with the intent to catch
+      "The policeman chased the mugger down the alley"
+      "the dog chased the rabbit"
+[Etymology]
+  - From Middle English dogge, from Old English docga, of uncertain origin.
+[Synonyms]
+  - domestic dog
+  - Canis familiaris
+  - frump
+  - cad
+  - bounder
+  - blackguard
+  - hound
+  - heel
+  - frank
+  - frankfurter
+  - hotdog
+  - hot dog
+  - wiener
+  - wienerwurst
+  - weenie
+  - pawl
+  - detent
+  - click
+  - andiron
+  - firedog
+  - dog-iron
+  - chase
+  - chase after
+  - trail
+  - tail
+  - tag
+  - give chase
+  - go after
+  - track
+[Is a kind of]
+  - canine, canid
+    - carnivore
+      - placental, placental mammal, eutherian, eutherian mammal
+        - mammal, mammalian
+          - vertebrate, craniate
+            - chordate
+              - animal, animate being, beast, brute, creature, fauna
+                - organism, being
+                  - living thing, animate thing
+                    - whole, unit
+                      - object, physical object
+                        - physical entity
+                          - entity
+  - domestic animal, domesticated animal
+    - animal, animate being, beast, brute, creature, fauna
+      - organism, being
+        - living thing, animate thing
+          - whole, unit
+            - object, physical object
+              - physical entity
+                - entity
+  - unpleasant woman, disagreeable woman
+    - unpleasant person, disagreeable person
+      - unwelcome person, persona non grata
+        - person, individual, someone, somebody, mortal, soul
+          - organism, being
+            - living thing, animate thing
+              - whole, unit
+                - object, physical object
+                  - physical entity
+                    - entity
+          - causal agent, cause, causal agency
+            - physical entity
+              - entity
+  - chap, fellow, feller, fella, lad, gent, blighter, cuss, bloke
+    - male, male person
+      - person, individual, someone, somebody, mortal, soul
+        - organism, being
+          - living thing, animate thing
+            - whole, unit
+              - object, physical object
+                - physical entity
+                  - entity
+        - causal agent, cause, causal agency
+          - physical entity
+            - entity
+  - villain, scoundrel
+    - unwelcome person, persona non grata
+      - person, individual, someone, somebody, mortal, soul
+        - organism, being
+          - living thing, animate thing
+            - whole, unit
+              - object, physical object
+                - physical entity
+                  - entity
+        - causal agent, cause, causal agency
+          - physical entity
+            - entity
+  - sausage
+    - meat
+      - food, solid food
+        - solid
+          - matter
+            - physical entity
+              - entity
+  - catch, stop
+    - restraint, constraint
+      - device
+        - instrumentality, instrumentation
+          - artifact, artefact
+            - whole, unit
+              - object, physical object
+                - physical entity
+                  - entity
+  - support
+    - device
+      - instrumentality, instrumentation
+        - artifact, artefact
+          - whole, unit
+            - object, physical object
+              - physical entity
+                - entity
+  - pursue, follow
+    - travel, go, move, locomote
+[Kinds]
+  - puppy
+  - pooch, doggie, doggy, barker, bow-wow
+  - cur, mongrel, mutt
+    - feist, fice
+    - pariah dog, pye-dog, pie-dog
+  - lapdog
+  - toy dog, toy
+    - Chihuahua
+    - Japanese spaniel
+    - Maltese dog, Maltese terrier, Maltese
+    - Pekinese, Pekingese, Peke
+    - Shih-Tzu
+    - toy spaniel
+      - English toy spaniel
+        - Blenheim spaniel
+      - King Charles spaniel
+      - papillon
+    - toy terrier
+  - hunting dog
+    - courser
+    - Rhodesian ridgeback
+    - hound, hound dog
+      - Afghan hound, Afghan
+      - basset, basset hound
+      - beagle
+      - bloodhound, sleuthhound
+      - bluetick
+      - boarhound
+      - coonhound
+        - coondog
+        - black-and-tan coonhound
+      - foxhound
+        - American foxhound
+        - Walker hound, Walker foxhound
+        - English foxhound
+      - harrier
+      - Plott hound
+      - redbone
+      - wolfhound
+        - borzoi, Russian wolfhound
+        - Irish wolfhound
+      - greyhound
+        - Italian greyhound
+        - whippet
+      - Ibizan hound, Ibizan Podenco
+      - Norwegian elkhound, elkhound
+      - otterhound, otter hound
+      - Saluki, gazelle hound
+      - Scottish deerhound, deerhound
+      - staghound
+      - Weimaraner
+    - dachshund, dachsie, badger dog
+      - sausage dog, sausage hound
+    - terrier
+      - bullterrier, bull terrier
+        - Staffordshire bullterrier, Staffordshire bull terrier
+        - American Staffordshire terrier, Staffordshire terrier, American pit bull terrier, pit bull terrier
+      - Bedlington terrier
+      - Border terrier
+      - Kerry blue terrier
+      - Irish terrier
+      - Norfolk terrier
+      - Norwich terrier
+      - Yorkshire terrier
+      - rat terrier, ratter
+        - Manchester terrier, black-and-tan terrier
+          - toy Manchester, toy Manchester terrier
+      - fox terrier
+        - smooth-haired fox terrier
+        - wire-haired fox terrier
+      - wirehair, wirehaired terrier, wire-haired terrier
+        - Lakeland terrier
+        - Welsh terrier
+          - Sealyham terrier, Sealyham
+      - Airedale, Airedale terrier
+      - cairn, cairn terrier
+      - Australian terrier
+      - Dandie Dinmont, Dandie Dinmont terrier
+      - Boston bull, Boston terrier
+      - schnauzer
+        - miniature schnauzer
+        - giant schnauzer
+        - standard schnauzer
+      - Scotch terrier, Scottish terrier, Scottie
+      - Tibetan terrier, chrysanthemum dog
+      - silky terrier, Sydney silky
+      - Skye terrier
+        - Clydesdale terrier
+      - soft-coated wheaten terrier
+      - West Highland white terrier
+      - Lhasa, Lhasa apso
+    - sporting dog, gun dog
+      - bird dog
+      - water dog
+      - retriever
+        - flat-coated retriever
+        - curly-coated retriever
+        - golden retriever
+        - Labrador retriever
+        - Chesapeake Bay retriever
+      - pointer, Spanish pointer
+        - German short-haired pointer
+        - vizsla, Hungarian pointer
+      - setter
+        - English setter
+        - Irish setter, red setter
+        - Gordon setter
+      - spaniel
+        - Brittany spaniel
+        - clumber, clumber spaniel
+        - field spaniel
+        - springer spaniel, springer
+          - English springer, English springer spaniel
+          - Welsh springer spaniel
+        - cocker spaniel, English cocker spaniel, cocker
+        - Sussex spaniel
+        - water spaniel
+          - American water spaniel
+          - Irish water spaniel
+      - griffon, wire-haired pointing griffon
+  - working dog
+    - watchdog, guard dog
+      - kuvasz
+      - attack dog
+      - housedog
+      - schipperke
+      - pinscher
+        - Doberman, Doberman pinscher
+        - miniature pinscher
+        - affenpinscher, monkey pinscher, monkey dog
+    - shepherd dog, sheepdog, sheep dog
+      - Belgian sheepdog, Belgian shepherd
+        - groenendael
+        - malinois
+      - briard
+      - kelpie
+      - komondor
+      - Old English sheepdog, bobtail
+      - Shetland sheepdog, Shetland sheep dog, Shetland
+      - collie
+      - Border collie
+      - Bouvier des Flandres, Bouviers des Flandres
+      - Rottweiler
+      - German shepherd, German shepherd dog, German police dog, alsatian
+    - police dog
+    - Sennenhunde
+      - Greater Swiss Mountain dog
+      - Bernese mountain dog
+      - Appenzeller
+      - EntleBucher
+    - boxer
+    - mastiff
+      - Tibetan mastiff
+    - bull mastiff
+    - bulldog, English bulldog
+      - French bulldog
+    - Great Dane
+    - guide dog
+      - Seeing Eye dog
+    - hearing dog
+    - Saint Bernard, St Bernard
+    - seizure-alert dog
+    - sled dog, sledge dog
+      - malamute, malemute, Alaskan malamute
+      - Siberian husky
+    - Eskimo dog, husky
+  - dalmatian, coach dog, carriage dog
+    - liver-spotted dalmatian
+  - basenji
+  - pug, pug-dog
+  - Leonberg
+  - Newfoundland, Newfoundland dog
+  - Great Pyrenees
+  - spitz
+    - Samoyed, Samoyede
+    - Pomeranian
+    - chow, chow chow
+    - keeshond
+  - griffon, Brussels griffon, Belgian griffon
+    - Brabancon griffon
+  - corgi, Welsh corgi
+    - Pembroke, Pembroke Welsh corgi
+    - Cardigan, Cardigan Welsh corgi
+  - poodle, poodle dog
+    - toy poodle
+    - miniature poodle
+    - standard poodle
+    - large poodle
+  - Mexican hairless
+  - perisher
+  - Vienna sausage
+  - tree
+  - quest
+  - hound, hunt, trace
+    - ferret
+  - run down
+[Part of]
+  - Canis, genus Canis
+    - Canidae, family Canidae
+      - Carnivora, order Carnivora
+        - Eutheria, subclass Eutheria
+          - Mammalia, class Mammalia
+            - Vertebrata, subphylum Vertebrata, Craniata, subphylum Craniata
+              - Chordata, phylum Chordata
+                - Animalia, kingdom Animalia, animal kingdom
+  - pack
+  - hotdog, hot dog, red hot
+  - ratchet, rachet, ratch
+    - spiral ratchet screwdriver, ratchet screwdriver
+[Parts]
+  - flag
+  - canine, canid
+    - paw
+      - pad
+    - carnivore
+      - placental, placental mammal, eutherian, eutherian mammal
+        - mammal, mammalian
+          - coat, pelage
+          - hair, pilus
+          - vertebrate, craniate
+            - belly
+            - tail
+              - dock
+            - caudal appendage
+            - rib, costa
+              - costal cartilage
+            - thorax, chest, pectus
+              - sternum, breastbone
+                - gladiolus, corpus sternum
+                - manubrium
+                - xiphoid process
+              - thoracic aorta
+              - thoracic vein, vena thoracica
+              - gallbladder, gall bladder
+              - area of cardiac dullness
+              - pectoral, pectoral muscle, pectoralis, musculus pectoralis, pecs
+              - chest cavity, thoracic cavity
+                - mediastinum
+              - breast, chest
+              - rib cage
+            - vertebrate foot, pedal extremity
+              - metatarsus
+                - metatarsal
+              - tarsus
+                - cuboid bone
+                - tarsal, tarsal bone
+            - digit, dactyl
+              - phalanx
+              - nail
+                - half-moon, lunula, lunule
+                - matrix
+            - chordate
+              - animal, animate being, beast, brute, creature, fauna
+                - animal tissue
+                - head, caput
+                  - muzzle
+                    - snout, neb
+                  - ear
+                    - vestibule of the ear
+                    - eardrum, tympanum, tympanic membrane, myringa
+                      - umbo
+                    - organ of hearing
+                    - fenestra
+                    - auricular artery, arteria auricularis
+                  - basilar artery, arteria basilaris
+                  - brain, encephalon
+                    - circle of Willis
+                    - communicating artery, arteria communicans
+                    - brain cell
+                    - neencephalon, neoencephalon
+                    - forebrain, prosencephalon
+                      - peduncle, cerebral peduncle
+                      - corpus callosum
+                      - telencephalon
+                        - cerebrum
+                          - fissure of Rolando, Rolando's fissure, central sulcus, sulcus centralis
+                          - fissure of Sylvius, Sylvian fissure, lateral cerebral sulcus, sulcus lateralis cerebri
+                          - hemisphere, cerebral hemisphere
+                          - cerebral cortex, cerebral mantle, pallium, cortex
+                            - Golgi's cell, Golgi cell
+                            - cortical area, cortical region
+                            - frontal lobe, frontal cortex
+                              - frontal gyrus
+                              - precentral gyrus
+                            - prefrontal lobe, prefrontal cortex
+                            - parietal lobe, parietal cortex
+                              - parietal gyrus
+                              - postcentral gyrus
+                            - occipital lobe, occipital cortex
+                              - calcarine sulcus, calcarine fissure
+                              - occipital gyrus
+                              - striate cortex, striate area, first visual area, area 17 of Brodmann, Brodmann's area 17
+                            - temporal lobe, temporal ccortex
+                              - temporal gyrus
+                              - amygdala, amygdaloid nucleus, corpus amygdaloideum
+                          - gyrus, convolution
+                      - diencephalon, interbrain, betweenbrain, thalmencephalon
+                        - mamillary body, mammillary body, corpus mamillare
+                        - infundibulum
+                        - third eye, pineal eye
+                        - optic nerve, nervus opticus, second cranial nerve, optic tract
+                        - pituitary, pituitary gland, pituitary body, hypophysis
+                          - hypophyseal stalk
+                          - anterior pituitary, anterior pituitary gland, adenohypophysis
+                            - pars distilis, pars anterior
+                          - posterior pituitary, posterior pituitary gland, neurohypophysis, pars nervosa
+                            - pars intermedia
+                        - basal ganglion
+                        - thalamus
+                          - geniculate body
+                          - subthalamus
+                            - subthalamic nucleus
+                        - hypothalamus
+                    - midbrain, mesencephalon
+                      - substantia nigra, nucleus niger, locus niger
+                      - superior colliculus
+                      - inferior colliculus
+                    - hindbrain, rhombencephalon
+                      - cerebellum
+                        - cerebellar artery, arteria cerebelli
+                        - cerebellar hemisphere
+                        - dentate nucleus
+                        - vermis, vermis cerebelli
+                        - paleocerebellum
+                      - myelencephalon
+                    - brainstem, brain-stem, brain stem
+                      - medulla oblongata, medulla, bulb
+                        - respiratory center
+                      - pons, pons Varolii
+                        - respiratory center
+                      - reticular formation, RF
+                        - reticular activating system, RAS
+                    - ventricle
+                      - spinal fluid, cerebrospinal fluid
+                  - skull
+                    - craniometric point
+                    - cheekbone, zygomatic bone, zygomatic, malar, malar bone, jugal bone, os zygomaticum
+                      - jugale, jugal point
+                      - zygoma, zygomatic arch, arcus zygomaticus
+                      - zygomatic process
+                    - sphenoid bone, sphenoid, os sphenoidale
+                      - crotaphion
+                      - pterygoid process
+                    - eye socket, orbit, cranial orbit, orbital cavity
+                      - lacrimal bone
+                    - endocranium
+                    - cranium, braincase, brainpan
+                      - asterion
+                      - stephanion
+                      - ethmoid, ethmoid bone
+                      - temporal bone, os temporale
+                        - glenoid fossa, mandibular fossa
+                        - tympanic bone
+                        - mastoid, mastoid process, mastoid bone, mastoidal
+                          - mastoidale
+                        - styloid process
+                      - calvaria, skullcap
+                      - frontal bone, os frontale, forehead
+                        - glabella, mesophyron
+                        - metopion
+                        - ophryon
+                        - frontal eminence
+                      - parietal bone
+                        - entomion
+                        - sphenion
+                      - occipital bone
+                        - inion
+                        - occipital protuberance
+                      - coronal suture, sutura coronalis
+                      - frontal suture, sutura frontalis
+                      - lamboid suture, sutura lamboidea
+                      - occipitomastoid suture
+                      - parietomastoid suture
+                      - sagittal suture, interparietal suture, sutura sagittalis
+                      - fontanelle, fontanel, soft spot
+                      - foramen magnum
+                    - jaw
+                      - alveolar arch
+                      - alveolar ridge, gum ridge, alveolar process
+                        - tooth socket, alveolus
+                        - alveolar artery, arteria alveolaris
+                    - vomer
+                  - face, human face
+                    - beard, face fungus, whiskers
+                      - mustache, moustache
+                    - mouth
+                      - mouth, oral cavity, oral fissure, rima oris
+                        - dentition, teeth
+                        - tongue, lingua, glossa, clapper
+                          - tastebud, taste bud, gustatory organ
+                            - neuroepithelium
+                            - taste cell, gustatory cell
+                        - buccal cavity
+                        - gingiva, gum
+                        - palate, roof of the mouth
+                          - tastebud, taste bud, gustatory organ
+                            - neuroepithelium
+                            - taste cell, gustatory cell
+                          - soft palate, velum
+                            - uvula
+                          - hard palate
+                        - salivary gland
+                          - saliva, spit, spittle
+                      - lip
+                        - labial artery, arteria labialis
+                        - labial vein, vena labialis
+                      - lingual artery, arteria lingualis
+                      - lingual vein, vena lingualis
+                    - eye, oculus, optic
+                      - choroid, choroid coat
+                      - ciliary body
+                      - eyelid, lid, palpebra
+                        - eyelash, lash, cilium
+                        - conjunctiva
+                      - canthus
+                      - epicanthus, epicanthic fold
+                      - nictitating membrane, third eyelid
+                      - conjunctiva
+                      - eyeball, orb
+                      - ocular muscle, eye muscle
+                      - cornea
+                      - uvea
+                      - uveoscleral pathway
+                      - iris
+                        - pupil
+                      - lens, crystalline lens, lens of the eye
+                        - lens cortex, cortex
+                        - lens capsule
+                      - central artery of the retina, arteria centralis retinae
+                      - ciliary artery, arteria ciliaris
+                      - lacrimal artery, arteria lacrimalis
+                      - lacrimal vein, vena lacrimalis
+                      - lacrimal apparatus
+                        - lacrimal gland, lachrymal gland, tear gland
+                        - lacrimal duct, lachrymal duct, tear duct
+                        - lacrimal sac, tear sac, dacryocyst
+                      - retina
+                        - neuroepithelium
+                        - fovea, fovea centralis
+                        - parafovea
+                        - macula, macula lutea, macular area, yellow spot
+                        - visual cell
+                        - blind spot, optic disc, optic disk
+                        - cone, cone cell, retinal cone
+                          - iodopsin
+                        - rod, rod cell, retinal rod
+                          - visual purple, rhodopsin, retinal purple
+                      - sclera, sclerotic coat
+                      - pupillary sphincter, musculus sphincter pupillae
+                      - aperture
+                    - eyebrow, brow, supercilium
+                      - venae palpebrales
+                    - facial vein, vena facialis
+                    - facial, facial nerve, nervus facialis, seventh cranial nerve
+                    - nose, olfactory organ
+                      - turbinate bone, turbinate, turbinal
+                      - ethmoidal artery, arteria ethmoidalis
+                      - nasal cavity
+                        - neuroepithelium
+                      - internasal suture, sutura internasalis
+                      - bridge
+                        - nasal, nasal bone, os nasale
+                          - rhinion
+                      - nostril, anterior naris
+                    - chin, mentum
+                      - goatee
+                    - feature, lineament
+                    - facial muscle
+                    - brow, forehead
+                      - trichion, crinion
+                    - cheek
+                      - cheek muscle, buccinator muscle, musculus buccinator
+                      - buccal artery, arteria buccalis
+                    - jowl
+                    - jaw
+                  - temple
+                - face
+                - organism, being
+                  - tissue
+                  - cell
+                    - cell membrane, cytomembrane, plasma membrane
+                    - energid, protoplast
+                    - cytoplasm, cytol
+                      - cytoskeleton
+                      - microsome
+                      - Golgi body, Golgi apparatus, Golgi complex, dictyosome
+                    - nucleus, cell nucleus, karyon
+                      - nucleolus, nucleole
+                      - chromatin, chromatin granule
+                      - achromatin
+                      - linin
+                      - chromosome
+                        - nucleolus organizer, nucleolus organiser, nucleolar organizer, nucleolar organiser
+                        - chromatin, chromatin granule
+                        - gene, cistron, factor
+                        - chromatid
+                        - centromere, kinetochore
+                        - telomere
+                    - organelle, cell organelle, cell organ
+                    - vacuole
+                  - body part
+                    - corpus
+                  - living thing, animate thing
+                    - whole, unit
+                      - part, portion
+                      - section, segment
+  - domestic animal, domesticated animal
+    - animal, animate being, beast, brute, creature, fauna
+      - animal tissue
+      - head, caput
+        - muzzle
+          - snout, neb
+        - ear
+          - vestibule of the ear
+          - eardrum, tympanum, tympanic membrane, myringa
+            - umbo
+          - organ of hearing
+          - fenestra
+          - auricular artery, arteria auricularis
+        - basilar artery, arteria basilaris
+        - brain, encephalon
+          - circle of Willis
+          - communicating artery, arteria communicans
+          - brain cell
+          - neencephalon, neoencephalon
+          - forebrain, prosencephalon
+            - peduncle, cerebral peduncle
+            - corpus callosum
+            - telencephalon
+              - cerebrum
+                - fissure of Rolando, Rolando's fissure, central sulcus, sulcus centralis
+                - fissure of Sylvius, Sylvian fissure, lateral cerebral sulcus, sulcus lateralis cerebri
+                - hemisphere, cerebral hemisphere
+                - cerebral cortex, cerebral mantle, pallium, cortex
+                  - Golgi's cell, Golgi cell
+                  - cortical area, cortical region
+                  - frontal lobe, frontal cortex
+                    - frontal gyrus
+                    - precentral gyrus
+                  - prefrontal lobe, prefrontal cortex
+                  - parietal lobe, parietal cortex
+                    - parietal gyrus
+                    - postcentral gyrus
+                  - occipital lobe, occipital cortex
+                    - calcarine sulcus, calcarine fissure
+                    - occipital gyrus
+                    - striate cortex, striate area, first visual area, area 17 of Brodmann, Brodmann's area 17
+                  - temporal lobe, temporal ccortex
+                    - temporal gyrus
+                    - amygdala, amygdaloid nucleus, corpus amygdaloideum
+                - gyrus, convolution
+            - diencephalon, interbrain, betweenbrain, thalmencephalon
+              - mamillary body, mammillary body, corpus mamillare
+              - infundibulum
+              - third eye, pineal eye
+              - optic nerve, nervus opticus, second cranial nerve, optic tract
+              - pituitary, pituitary gland, pituitary body, hypophysis
+                - hypophyseal stalk
+                - anterior pituitary, anterior pituitary gland, adenohypophysis
+                  - pars distilis, pars anterior
+                - posterior pituitary, posterior pituitary gland, neurohypophysis, pars nervosa
+                  - pars intermedia
+              - basal ganglion
+              - thalamus
+                - geniculate body
+                - subthalamus
+                  - subthalamic nucleus
+              - hypothalamus
+          - midbrain, mesencephalon
+            - substantia nigra, nucleus niger, locus niger
+            - superior colliculus
+            - inferior colliculus
+          - hindbrain, rhombencephalon
+            - cerebellum
+              - cerebellar artery, arteria cerebelli
+              - cerebellar hemisphere
+              - dentate nucleus
+              - vermis, vermis cerebelli
+              - paleocerebellum
+            - myelencephalon
+          - brainstem, brain-stem, brain stem
+            - medulla oblongata, medulla, bulb
+              - respiratory center
+            - pons, pons Varolii
+              - respiratory center
+            - reticular formation, RF
+              - reticular activating system, RAS
+          - ventricle
+            - spinal fluid, cerebrospinal fluid
+        - skull
+          - craniometric point
+          - cheekbone, zygomatic bone, zygomatic, malar, malar bone, jugal bone, os zygomaticum
+            - jugale, jugal point
+            - zygoma, zygomatic arch, arcus zygomaticus
+            - zygomatic process
+          - sphenoid bone, sphenoid, os sphenoidale
+            - crotaphion
+            - pterygoid process
+          - eye socket, orbit, cranial orbit, orbital cavity
+            - lacrimal bone
+          - endocranium
+          - cranium, braincase, brainpan
+            - asterion
+            - stephanion
+            - ethmoid, ethmoid bone
+            - temporal bone, os temporale
+              - glenoid fossa, mandibular fossa
+              - tympanic bone
+              - mastoid, mastoid process, mastoid bone, mastoidal
+                - mastoidale
+              - styloid process
+            - calvaria, skullcap
+            - frontal bone, os frontale, forehead
+              - glabella, mesophyron
+              - metopion
+              - ophryon
+              - frontal eminence
+            - parietal bone
+              - entomion
+              - sphenion
+            - occipital bone
+              - inion
+              - occipital protuberance
+            - coronal suture, sutura coronalis
+            - frontal suture, sutura frontalis
+            - lamboid suture, sutura lamboidea
+            - occipitomastoid suture
+            - parietomastoid suture
+            - sagittal suture, interparietal suture, sutura sagittalis
+            - fontanelle, fontanel, soft spot
+            - foramen magnum
+          - jaw
+            - alveolar arch
+            - alveolar ridge, gum ridge, alveolar process
+              - tooth socket, alveolus
+              - alveolar artery, arteria alveolaris
+          - vomer
+        - face, human face
+          - beard, face fungus, whiskers
+            - mustache, moustache
+          - mouth
+            - mouth, oral cavity, oral fissure, rima oris
+              - dentition, teeth
+              - tongue, lingua, glossa, clapper
+                - tastebud, taste bud, gustatory organ
+                  - neuroepithelium
+                  - taste cell, gustatory cell
+              - buccal cavity
+              - gingiva, gum
+              - palate, roof of the mouth
+                - tastebud, taste bud, gustatory organ
+                  - neuroepithelium
+                  - taste cell, gustatory cell
+                - soft palate, velum
+                  - uvula
+                - hard palate
+              - salivary gland
+                - saliva, spit, spittle
+            - lip
+              - labial artery, arteria labialis
+              - labial vein, vena labialis
+            - lingual artery, arteria lingualis
+            - lingual vein, vena lingualis
+          - eye, oculus, optic
+            - choroid, choroid coat
+            - ciliary body
+            - eyelid, lid, palpebra
+              - eyelash, lash, cilium
+              - conjunctiva
+            - canthus
+            - epicanthus, epicanthic fold
+            - nictitating membrane, third eyelid
+            - conjunctiva
+            - eyeball, orb
+            - ocular muscle, eye muscle
+            - cornea
+            - uvea
+            - uveoscleral pathway
+            - iris
+              - pupil
+            - lens, crystalline lens, lens of the eye
+              - lens cortex, cortex
+              - lens capsule
+            - central artery of the retina, arteria centralis retinae
+            - ciliary artery, arteria ciliaris
+            - lacrimal artery, arteria lacrimalis
+            - lacrimal vein, vena lacrimalis
+            - lacrimal apparatus
+              - lacrimal gland, lachrymal gland, tear gland
+              - lacrimal duct, lachrymal duct, tear duct
+              - lacrimal sac, tear sac, dacryocyst
+            - retina
+              - neuroepithelium
+              - fovea, fovea centralis
+              - parafovea
+              - macula, macula lutea, macular area, yellow spot
+              - visual cell
+              - blind spot, optic disc, optic disk
+              - cone, cone cell, retinal cone
+                - iodopsin
+              - rod, rod cell, retinal rod
+                - visual purple, rhodopsin, retinal purple
+            - sclera, sclerotic coat
+            - pupillary sphincter, musculus sphincter pupillae
+            - aperture
+          - eyebrow, brow, supercilium
+            - venae palpebrales
+          - facial vein, vena facialis
+          - facial, facial nerve, nervus facialis, seventh cranial nerve
+          - nose, olfactory organ
+            - turbinate bone, turbinate, turbinal
+            - ethmoidal artery, arteria ethmoidalis
+            - nasal cavity
+              - neuroepithelium
+            - internasal suture, sutura internasalis
+            - bridge
+              - nasal, nasal bone, os nasale
+                - rhinion
+            - nostril, anterior naris
+          - chin, mentum
+            - goatee
+          - feature, lineament
+          - facial muscle
+          - brow, forehead
+            - trichion, crinion
+          - cheek
+            - cheek muscle, buccinator muscle, musculus buccinator
+            - buccal artery, arteria buccalis
+          - jowl
+          - jaw
+        - temple
+      - face
+      - organism, being
+        - tissue
+        - cell
+          - cell membrane, cytomembrane, plasma membrane
+          - energid, protoplast
+          - cytoplasm, cytol
+            - cytoskeleton
+            - microsome
+            - Golgi body, Golgi apparatus, Golgi complex, dictyosome
+          - nucleus, cell nucleus, karyon
+            - nucleolus, nucleole
+            - chromatin, chromatin granule
+            - achromatin
+            - linin
+            - chromosome
+              - nucleolus organizer, nucleolus organiser, nucleolar organizer, nucleolar organiser
+              - chromatin, chromatin granule
+              - gene, cistron, factor
+              - chromatid
+              - centromere, kinetochore
+              - telomere
+          - organelle, cell organelle, cell organ
+          - vacuole
+        - body part
+          - corpus
+        - living thing, animate thing
+          - whole, unit
+            - part, portion
+            - section, segment
+  - unpleasant woman, disagreeable woman
+    - unpleasant person, disagreeable person
+      - unwelcome person, persona non grata
+        - person, individual, someone, somebody, mortal, soul
+          - personality
+            - trait
+            - character, fiber, fibre
+              - thoughtfulness
+              - responsibility, responsibleness
+              - integrity
+            - nature
+          - human body, physical body, material body, soma, build, figure, physique, anatomy, shape, bod, chassis, frame, form, flesh
+          - organism, being
+            - tissue
+            - cell
+              - cell membrane, cytomembrane, plasma membrane
+              - energid, protoplast
+              - cytoplasm, cytol
+                - cytoskeleton
+                - microsome
+                - Golgi body, Golgi apparatus, Golgi complex, dictyosome
+              - nucleus, cell nucleus, karyon
+                - nucleolus, nucleole
+                - chromatin, chromatin granule
+                - achromatin
+                - linin
+                - chromosome
+                  - nucleolus organizer, nucleolus organiser, nucleolar organizer, nucleolar organiser
+                  - chromatin, chromatin granule
+                  - gene, cistron, factor
+                  - chromatid
+                  - centromere, kinetochore
+                  - telomere
+              - organelle, cell organelle, cell organ
+              - vacuole
+            - body part
+              - corpus
+            - living thing, animate thing
+              - whole, unit
+                - part, portion
+                - section, segment
+  - chap, fellow, feller, fella, lad, gent, blighter, cuss, bloke
+    - male, male person
+      - male body
+        - male reproductive system
+          - prostate gland, prostate
+          - sperm, sperm cell, spermatozoon, spermatozoan
+            - flagellum
+            - acrosome
+          - male genitalia, male genitals, male genital organ, family jewels
+            - scrotum
+              - raphe, rhaphe
+              - seminal duct
+                - epididymis
+                  - vasa efferentia
+                - vas deferens, ductus deferens
+                - ejaculatory duct
+            - testis, testicle, orchis, ball, ballock, bollock, nut, egg
+              - testicular artery, internal spermatic artery, arteria testicularis
+              - testicular vein, vena testicularis
+              - seminiferous tubule
+              - epididymis
+                - vasa efferentia
+              - rete testis
+              - vas deferens, ductus deferens
+              - spermatic cord
+            - male reproductive gland
+            - penis, phallus, member
+              - glans penis
+              - vena bulbi penis
+              - urethra
+                - urethral orifice, external orifice
+                - urethral sphincter, musculus sphincter urethrae
+              - prepuce, foreskin
+          - Cowper's gland, bulbourethral gland
+          - testis, testicle, orchis, ball, ballock, bollock, nut, egg
+            - testicular artery, internal spermatic artery, arteria testicularis
+            - testicular vein, vena testicularis
+            - seminiferous tubule
+            - epididymis
+              - vasa efferentia
+            - rete testis
+            - vas deferens, ductus deferens
+            - spermatic cord
+          - vas deferens, ductus deferens
+          - penis, phallus, member
+            - glans penis
+            - vena bulbi penis
+            - urethra
+              - urethral orifice, external orifice
+              - urethral sphincter, musculus sphincter urethrae
+            - prepuce, foreskin
+          - seminal vesicle
+        - male genitalia, male genitals, male genital organ, family jewels
+          - scrotum
+            - raphe, rhaphe
+            - seminal duct
+              - epididymis
+                - vasa efferentia
+              - vas deferens, ductus deferens
+              - ejaculatory duct
+          - testis, testicle, orchis, ball, ballock, bollock, nut, egg
+            - testicular artery, internal spermatic artery, arteria testicularis
+            - testicular vein, vena testicularis
+            - seminiferous tubule
+            - epididymis
+              - vasa efferentia
+            - rete testis
+            - vas deferens, ductus deferens
+            - spermatic cord
+          - male reproductive gland
+          - penis, phallus, member
+            - glans penis
+            - vena bulbi penis
+            - urethra
+              - urethral orifice, external orifice
+              - urethral sphincter, musculus sphincter urethrae
+            - prepuce, foreskin
+        - male internal reproductive organ
+        - male chest
+      - person, individual, someone, somebody, mortal, soul
+        - personality
+          - trait
+          - character, fiber, fibre
+            - thoughtfulness
+            - responsibility, responsibleness
+            - integrity
+          - nature
+        - human body, physical body, material body, soma, build, figure, physique, anatomy, shape, bod, chassis, frame, form, flesh
+        - organism, being
+          - tissue
+          - cell
+            - cell membrane, cytomembrane, plasma membrane
+            - energid, protoplast
+            - cytoplasm, cytol
+              - cytoskeleton
+              - microsome
+              - Golgi body, Golgi apparatus, Golgi complex, dictyosome
+            - nucleus, cell nucleus, karyon
+              - nucleolus, nucleole
+              - chromatin, chromatin granule
+              - achromatin
+              - linin
+              - chromosome
+                - nucleolus organizer, nucleolus organiser, nucleolar organizer, nucleolar organiser
+                - chromatin, chromatin granule
+                - gene, cistron, factor
+                - chromatid
+                - centromere, kinetochore
+                - telomere
+            - organelle, cell organelle, cell organ
+            - vacuole
+          - body part
+            - corpus
+          - living thing, animate thing
+            - whole, unit
+              - part, portion
+              - section, segment
+  - villain, scoundrel
+    - unwelcome person, persona non grata
+      - person, individual, someone, somebody, mortal, soul
+        - personality
+          - trait
+          - character, fiber, fibre
+            - thoughtfulness
+            - responsibility, responsibleness
+            - integrity
+          - nature
+        - human body, physical body, material body, soma, build, figure, physique, anatomy, shape, bod, chassis, frame, form, flesh
+        - organism, being
+          - tissue
+          - cell
+            - cell membrane, cytomembrane, plasma membrane
+            - energid, protoplast
+            - cytoplasm, cytol
+              - cytoskeleton
+              - microsome
+              - Golgi body, Golgi apparatus, Golgi complex, dictyosome
+            - nucleus, cell nucleus, karyon
+              - nucleolus, nucleole
+              - chromatin, chromatin granule
+              - achromatin
+              - linin
+              - chromosome
+                - nucleolus organizer, nucleolus organiser, nucleolar organizer, nucleolar organiser
+                - chromatin, chromatin granule
+                - gene, cistron, factor
+                - chromatid
+                - centromere, kinetochore
+                - telomere
+            - organelle, cell organelle, cell organ
+            - vacuole
+          - body part
+            - corpus
+          - living thing, animate thing
+            - whole, unit
+              - part, portion
+              - section, segment
+  - sausage
+    - sausage meat
+    - meat
+      - protein
+        - amino acid, aminoalkanoic acid
+        - polypeptide
+      - palmitic acid, hexadecanoic acid
+  - catch, stop
+    - restraint, constraint
+      - device
+        - instrumentality, instrumentation
+          - artifact, artefact
+            - whole, unit
+              - part, portion
+              - section, segment
+  - support
+    - device
+      - instrumentality, instrumentation
+        - artifact, artefact
+          - whole, unit
+            - part, portion
+            - section, segment

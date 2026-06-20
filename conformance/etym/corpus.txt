@@ -1,0 +1,12 @@
+# Etymology conformance corpus. Each word is dumped over WordNet plus the committed test overlay
+# (conformance/etym/etym.onym) and compared as UTF-8 (the overlay is UTF-8, unlike WordNet). These
+# prove the Etymology section is emitted immediately after Definitions, that the overlay is keyed by
+# the resolved headword (so "dogs" morphs to "dog" and "ice cream" keys as "ice_cream"), that a word
+# with several etymologies shows one paragraph each ("bear"), that UTF-8 round-trips ("abacus"), and
+# that a word absent from the overlay shows no Etymology section ("cat").
+dog
+dogs
+bear
+ice cream
+abacus
+cat

@@ -12,6 +12,7 @@
 //! antonym logic turns on.
 
 use crate::OpenError;
+use crate::etymology::Etymology;
 use crate::morphology::{self, Morphology};
 use crate::textforms::{ascii_lower, index_variants, latin1_to_string, to_display_form};
 use crate::verb_examples::VerbExampleIndex;
@@ -117,6 +118,8 @@ pub(crate) struct DictSource {
     // Tag counts from cntlist.rev, keyed by sense key; the forward cntlist file is not read.
     tag_counts: HashMap<String, u32>,
     verb_examples: VerbExampleIndex,
+    // The optional etymology overlay; empty when etym.onym is absent.
+    etymology: Etymology,
 }
 
 impl DictSource {
@@ -141,6 +144,10 @@ impl DictSource {
         })?;
         let verb_examples = VerbExampleIndex::load(data_dir).map_err(|source| OpenError {
             file: data_dir.to_path_buf(),
+            source,
+        })?;
+        let etymology = Etymology::load(data_dir).map_err(|source| OpenError {
+            file: data_dir.join("etym.onym"),
             source,
         })?;
 
@@ -170,7 +177,15 @@ impl DictSource {
             morphology,
             tag_counts,
             verb_examples,
+            etymology,
         })
+    }
+
+    /// The etymology paragraphs for the query-form `lemma`, from the optional overlay, in source
+    /// order. Empty when the overlay is absent or the lemma has no entry, so a lookup over a plain
+    /// WordNet directory never gains an Etymology section.
+    pub(crate) fn etymology(&self, lemma: &str) -> Vec<String> {
+        self.etymology.paragraphs(lemma)
     }
 
     /// The base forms WordNet's `morphstr` yields for `lemma` in `pos_code`, in its order, or

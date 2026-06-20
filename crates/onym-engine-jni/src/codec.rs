@@ -11,6 +11,7 @@ const KIND_DEFINITIONS: u8 = 0;
 const KIND_WORDS: u8 = 1;
 const KIND_ANTONYMS: u8 = 2;
 const KIND_TREE: u8 = 3;
+const KIND_ETYMOLOGY: u8 = 4;
 
 /// A successful open: tag 1 and the engine handle.
 pub fn open_ok(handle: u64) -> Vec<u8> {
@@ -72,6 +73,13 @@ pub fn entry(entry: &Entry) -> Vec<u8> {
             SectionItems::Tree(nodes) => {
                 out.push(KIND_TREE);
                 put_tree(&mut out, nodes);
+            }
+            // Etymology prose crosses as a plain string list; the kind byte tells the Kotlin
+            // decoder to render it as paragraphs. It only ever appears when the optional overlay
+            // is present.
+            SectionItems::Etymology(paragraphs) => {
+                out.push(KIND_ETYMOLOGY);
+                put_string_list(&mut out, paragraphs);
             }
         }
     }

@@ -1,0 +1,6 @@
+ etym.onym conformance fixture, hand-authored and deliberately small so it never churns
+ it is not generated from a wiktextract dump; see tools/etym-build for the real producer
+abacus	From Latin abacus, from Ancient Greek άβαξ (abax, "counting board"). Doublet of abaque.
+bear	The animal: from Old English bera, of Germanic origin.	To carry: from Old English beran.
+dog	From Middle English dogge, from Old English docga, of uncertain origin.
+ice_cream	From ice + cream, attested from the 18th century.
