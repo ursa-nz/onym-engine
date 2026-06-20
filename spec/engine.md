@@ -31,6 +31,11 @@ Every word a deliberate fix or validation note names must appear in the conforma
 - The engine owns everything above the data files: file parsing, morphology, the lookup pipeline,
   completion, suggestion, and verb example sentences. The data files are an external, read-only,
   frozen input.
+- One optional input sits outside WordNet: the etymology overlay of [section 6.10](#610-etymology-the-optional-overlay).
+  It is a frozen, preprocessed file the engine reads in place, exactly as it reads the database, and
+  it is the single deliberate exception to "WordNet and nothing else". The exception is confined to
+  additive prose: the overlay never alters a WordNet-derived section, and when it is absent the
+  engine's output is byte-for-byte what WordNet alone produces. It only adds the Etymology section.
 
 ## 2. The result model
 
@@ -228,9 +233,12 @@ WordNet's `is_defined`/`in_wn`, and it is why a base form spelled differently st
 
 ### 6.1 The fourteen sections, in exact emission order
 
-The pipeline emits at most fourteen sections, in this order, with these exact titles
+The pipeline emits at most fourteen WordNet sections, in this order, with these exact titles
 (onym-lookup.c:311-333, WordNetLookup.kt:38-54, PLAN.md:284-299, PLAN.md:501-503). A section that
-gathers zero items is dropped entirely (`add_section_if_filled`, onym-lookup.c:106-114).
+gathers zero items is dropped entirely (`add_section_if_filled`, onym-lookup.c:106-114). When the
+etymology overlay is present and carries the headword, one further section, `Etymology`, is emitted
+immediately after `Definitions` (so before `Synonyms`); it is additive and gated, and is specified
+on its own in [section 6.10](#610-etymology-the-optional-overlay), apart from the fourteen below.
 
 | # | Title | Kind | Source relations |
 |---|---|---|---|
@@ -378,6 +386,34 @@ INSTANCE_HYPERNYM group, depth 1); every later pertainym of the same sense is le
 `grow_tree` zeroes its depth the first time it descends. `hasidic` shows `Orthodox Judaism` under
 `Hasidism` but nothing under `Hasidim`. Kept as intended behaviour (WordNetLookup.kt:565-591).
 
+### 6.10 Etymology (the optional overlay)
+
+The engine reads one optional file that is not part of WordNet: `etym.onym`, the etymology overlay,
+from the data directory (section 10). It is a frozen, preprocessed artifact keyed by WordNet lemma,
+built offline from Wiktionary's etymology prose by `tools/etym-build`; the engine reads it in place,
+read-only, like every other file, and parses none of WordNet's own files differently because of it.
+
+When the overlay is present, the pipeline looks the resolved headword (section 4) up in it, by the
+headword's query form: the index-key form of ASCII-lowercased, underscored display text (section 3),
+which is exactly what a lemma index key is. A hit emits a single `Etymology` section, of a new kind
+whose items are prose paragraphs in source order; a word with several distinct etymologies (a
+Wiktionary page's "Etymology 1", "Etymology 2") contributes one paragraph each. A miss, or an absent
+overlay, emits nothing, so a lookup over a plain WordNet directory is byte-for-byte unchanged.
+
+The keying is by **headword only**: the section reflects the word the entry resolved to, not the raw
+query and not the other gathered lemmas, so a morphological lookup (`dogs`) shows its base word's
+etymology (`dog`) and the result is deterministic regardless of index iteration order. The paragraphs
+are display text. The engine does not parse, reflow, or navigate them; it passes them through exactly
+as the overlay holds them. They are the one place a model string is UTF-8 rather than ISO-8859-1
+(the source languages carry accented spellings), so a consumer must treat the section's strings as
+UTF-8.
+
+The overlay's format, the producer's join against the WordNet lemma set, and the prose cleaning are
+specified by `tools/etym-build`, not here: the engine's contract is only that it reads `etym.onym` if
+present, keys by headword query form, and emits the paragraphs verbatim. The overlay's own provenance
+travels with it (its leading-space header lines), the way the WordNet files carry their licence
+header.
+
 ## 7. Deliberate fixes
 
 This specification departs from Artha, libwordnet, and the pre-swap `onym-cli` oracle in **exactly
@@ -486,6 +522,7 @@ The file set, all ISO-8859-1:
 | `noun.exc`, `verb.exc`, `adj.exc`, `adv.exc` | no | no morphology exceptions for that pos (Morphology.kt:233-236) |
 | `cntlist.rev` | no | every tag count is 0 |
 | `sentidx.vrb`, `sents.vrb` | no | no generic verb examples (VerbExampleIndex.kt:31-46) |
+| `etym.onym` | no | no Etymology section for any word (section 6.10). UTF-8, not ISO-8859-1 |
 
 `cntlist.rev` is the reverse sense-count list (sense key, sense number, tag count), the file the
 WordNet C library's `GetTagcnt` reads; Debian's `wordnet-base` ships it under exactly that name. The

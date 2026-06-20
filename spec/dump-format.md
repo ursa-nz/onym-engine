@@ -20,7 +20,11 @@ either an engine bug or an intentional `engine.md` change, never formatting drif
 - Every line ends with a single LF. There are no blank lines and no trailing whitespace beyond
   what the rules below produce.
 - Strings pass through from the engine unchanged. The database is ISO-8859-1, so dump bytes outside
-  ASCII are ISO-8859-1; fixtures compare bytes, not characters.
+  ASCII are ISO-8859-1; fixtures compare bytes, not characters. The one exception is the Etymology
+  section (`engine.md` section 6.10), whose prose comes from the UTF-8 etymology overlay; its
+  fixtures are UTF-8 and compare as characters. The conformance dumper `onym-dump` emits ISO-8859-1
+  and so is a WordNet tool only; the Etymology section is proven by a separate UTF-8 test
+  (`crates/onym-engine/tests/etymology.rs`), not by the ISO-8859-1 fixtures.
 - All terms and labels are in display form (spaces, never underscores).
 
 ## The entry dump (`WORD` and `--dump WORD`)
@@ -71,6 +75,18 @@ Domains) prints with a two-space indent (onym-cli.c:54):
 ```
   - <term>
 ```
+
+### Etymology lines
+
+The Etymology section (`engine.md` section 6.10), present only when the optional overlay carries the
+headword, prints each prose paragraph on its own line with a two-space indent and a dash, in source
+order, exactly like a word line:
+
+```
+  - <paragraph>
+```
+
+The paragraphs are single-line (the overlay whitespace-collapses them) and UTF-8.
 
 ### Antonym lines
 
