@@ -486,17 +486,50 @@ pub unsafe extern "C" fn onym_core_string_free(s: *mut c_char) {
 #[cfg(test)]
 mod tests {
     use super::*;
-    use std::path::Path;
+    use std::ffi::CString;
+    use std::os::unix::ffi::OsStrExt;
+    use std::path::{Path, PathBuf};
+    use std::sync::OnceLock;
 
-    const DATA_DIR: &CStr = c"/usr/share/wordnet";
+    // The WordNet base, materialised once from the onym-data submodule (base-only). The C boundary
+    // takes a path, so the FFI tests pin it to the shipped data set, as the engine's own tests do.
+    fn data_dir() -> Option<&'static CStr> {
+        static DIR: OnceLock<Option<CString>> = OnceLock::new();
+        DIR.get_or_init(|| {
+            let base = prepare_base()?;
+            CString::new(base.as_os_str().as_bytes()).ok()
+        })
+        .as_deref()
+    }
 
-    fn engine() -> Option<*mut OnymCoreEngine> {
-        if !Path::new("/usr/share/wordnet/index.noun").is_file() {
-            eprintln!("skipping: WordNet data not installed");
+    fn prepare_base() -> Option<PathBuf> {
+        let script = Path::new(env!("CARGO_MANIFEST_DIR")).join("../../onym-data/prepare.sh");
+        if !script.is_file() {
+            eprintln!("skipping: onym-data submodule not checked out");
             return None;
         }
+        let target =
+            std::env::temp_dir().join(format!("onym-ffi-wordnet-base-{}", std::process::id()));
+        if !target.join("index.noun").is_file() {
+            let status = std::process::Command::new(&script)
+                .arg("--base-only")
+                .arg(&target)
+                .status();
+            match status {
+                Ok(code) if code.success() => {}
+                _ => {
+                    eprintln!("skipping: onym-data prepare.sh did not produce a base");
+                    return None;
+                }
+            }
+        }
+        Some(target)
+    }
+
+    fn engine() -> Option<*mut OnymCoreEngine> {
+        let data = data_dir()?;
         let mut error: *mut c_char = std::ptr::null_mut();
-        let engine = unsafe { onym_core_open(DATA_DIR.as_ptr(), &mut error) };
+        let engine = unsafe { onym_core_open(data.as_ptr(), &mut error) };
         assert!(!engine.is_null());
         Some(engine)
     }

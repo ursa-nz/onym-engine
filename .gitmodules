@@ -1,0 +1,3 @@
+[submodule "onym-data"]
+	path = onym-data
+	url = https://forge.ursa.nz/ursa-nz/onym-data.git

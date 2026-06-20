@@ -4,30 +4,27 @@
 //! The engine's acceptance tests, mirroring the Kotlin reference's parity suite: the dump of
 //! every conformance corpus word, and every committed completion and suggestion fixture, must
 //! match byte for byte. The fixtures drive the cases, so the prefix and suggestion lists live
-//! only in `conformance/gen-fixtures` and its mirrors, never here. The tests skip themselves when
-//! the system WordNet database or the conformance kit is absent, so they are safe to run
-//! anywhere, including CI without `wordnet-base`.
+//! only in `conformance/gen-fixtures` and its mirrors, never here. The base comes from the
+//! `onym-data` submodule, prepared on demand; the tests skip themselves when the submodule or the
+//! conformance kit is absent, so they are safe to run on a bare clone.
 
 use onym_engine::{Engine, to_display_form, to_query_form};
 use std::fs;
 use std::path::{Path, PathBuf};
 
-const DATA_DIR: &str = "/usr/share/wordnet";
+mod common;
 
 fn conformance_dir() -> PathBuf {
     Path::new(env!("CARGO_MANIFEST_DIR")).join("../../conformance")
 }
 
 fn open_engine() -> Option<Engine> {
-    if !Path::new(DATA_DIR).join("index.noun").is_file() {
-        eprintln!("skipping: WordNet data not installed at {DATA_DIR}");
-        return None;
-    }
+    let data_dir = common::wordnet_base()?;
     if !conformance_dir().join("corpus.txt").is_file() {
         eprintln!("skipping: conformance kit not found");
         return None;
     }
-    Some(Engine::open(DATA_DIR).expect("the WordNet database opens"))
+    Some(Engine::open(data_dir).expect("the WordNet database opens"))
 }
 
 fn latin1(bytes: &[u8]) -> String {

@@ -8,11 +8,12 @@
 #
 # DUMPER is any command that accepts the flags --dump WORD,
 # --complete PREFIX and --suggest WORD on its command line and prints
-# the result on stdout. It defaults to onym-dump, the conformance
-# dumper built from the engine in this repository, falling back to
-# onym-dump on PATH. Output goes to fixtures/ next to this script
-# unless ONYM_FIXTURES_DIR overrides it; run-conformance uses that
-# override to regenerate into a temporary directory.
+# the result on stdout. With no DUMPER it defaults to onym-dump, the
+# conformance dumper built from the engine here, pointed at the pinned
+# WordNet base prepared from the onym-data submodule. Output goes to
+# fixtures/ next to this script unless ONYM_FIXTURES_DIR overrides it;
+# run-conformance uses that override to regenerate into a temporary
+# directory.
 #
 # The output is deterministic: it depends only on the dumper, the
 # corpus and the fixed prefix and suggestion lists below. The script
@@ -24,18 +25,23 @@ here=$(CDPATH='' cd -- "$(dirname -- "$0")" && pwd)
 
 if [ "$#" -eq 0 ]; then
   # onym-dump is the owned generator of these fixtures, built from the
-  # engine in this repository; it reads the system WordNet database by
-  # default. Prefer a release build, then debug, then onym-dump on PATH,
-  # so the kit works out of the box on a development machine.
+  # engine here. The engine takes an explicit data dir, so materialise
+  # the pinned base from the onym-data submodule (base-only, since these
+  # fixtures are overlay-free) and pass it. Prefer a release build, then
+  # debug, then onym-dump on PATH.
+  data="$here/../onym-data/build/wordnet-base"
+  if [ -x "$here/../onym-data/prepare.sh" ]; then
+    [ -f "$data/index.noun" ] || "$here/../onym-data/prepare.sh" --base-only "$data" >/dev/null
+  fi
   for cand in \
     "$here/../target/release/onym-dump" \
     "$here/../target/debug/onym-dump"; do
     if [ -x "$cand" ]; then
-      set -- "$cand"
+      set -- "$cand" --data "$data"
       break
     fi
   done
-  [ "$#" -eq 0 ] && set -- onym-dump
+  [ "$#" -eq 0 ] && set -- onym-dump --data "$data"
 fi
 
 out=${ONYM_FIXTURES_DIR:-"$here/fixtures"}

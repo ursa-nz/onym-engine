@@ -15,13 +15,14 @@ use std::io::{Read, Write};
 use std::path::PathBuf;
 use std::process::ExitCode;
 
-const DEFAULT_DATA_DIR: &str = "/usr/share/wordnet";
 const COMPLETE_CAP: usize = 20;
 const SUGGEST_CAP: usize = 10;
 
 fn main() -> ExitCode {
     let mut args: Vec<OsString> = std::env::args_os().skip(1).collect();
 
+    // The data directory is explicit: the engine reads no environment and assumes no system install.
+    // The conformance kit prepares it from the onym-data submodule and passes it here.
     let data_dir = if args.first().is_some_and(|a| a == "--data") {
         if args.len() < 2 {
             return usage();
@@ -30,7 +31,7 @@ fn main() -> ExitCode {
         args.drain(..2);
         dir
     } else {
-        PathBuf::from(DEFAULT_DATA_DIR)
+        return usage();
     };
 
     enum Mode {
@@ -99,7 +100,7 @@ fn write_lines(out: &mut impl Write, lines: &[String]) -> std::io::Result<()> {
 
 fn usage() -> ExitCode {
     eprintln!(
-        "usage: onym-dump [--data DIR] [--dump WORD|--complete PREFIX|--suggest WORD|--batch]"
+        "usage: onym-dump --data DIR [--dump WORD|--complete PREFIX|--suggest WORD|--batch]"
     );
     ExitCode::from(2)
 }
