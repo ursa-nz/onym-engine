@@ -158,6 +158,8 @@ fn main() -> ExitCode {
         }
     }
 
+    drop_bare_fragments(&mut entries);
+
     match write_overlay(&args, &entries, &lemmas, &stats) {
         Ok(bytes) => {
             stats.report(&lemmas, &entries, bytes);
@@ -242,6 +244,10 @@ fn clean(text: &str) -> Option<String> {
     let flattened = kept
         .iter()
         .map(|line| line.trim_start().trim_start_matches('*').trim_start())
+        // Drop structural fragments with no letter or digit, such as the stray "]" line that
+        // wiktextract's template rendering leaves at the head of some entries (ululation begins
+        // with one); they would otherwise surface as a dangling bracket before the prose.
+        .filter(|line| line.chars().any(char::is_alphanumeric))
         .collect::<Vec<_>>()
         .join(" ");
     let collapsed: String = flattened.split_whitespace().collect::<Vec<_>>().join(" ");
@@ -254,6 +260,26 @@ fn clean(text: &str) -> Option<String> {
 /// True when a line opens like a real etymology sentence (section [`ETYMOLOGY_CUES`]).
 fn starts_with_cue(line: &str) -> bool {
     ETYMOLOGY_CUES.iter().any(|cue| line.starts_with(cue))
+}
+
+/// Drop bare one-word fragments such as "Initialism." or "Abbreviation." from a word that also has
+/// a real etymology paragraph, since they only add noise beside it (Wiktionary emits them as the
+/// whole etymology of a separate homograph sense). A word whose every paragraph is such a fragment
+/// keeps them: a terse origin still beats none.
+fn drop_bare_fragments(entries: &mut BTreeMap<String, Vec<String>>) {
+    for paragraphs in entries.values_mut() {
+        if paragraphs.len() <= 1 {
+            continue;
+        }
+        let substantial: Vec<String> = paragraphs
+            .iter()
+            .filter(|paragraph| paragraph.split_whitespace().count() > 1)
+            .cloned()
+            .collect();
+        if !substantial.is_empty() {
+            *paragraphs = substantial;
+        }
+    }
 }
 
 /// Fold the typographic characters wiktextract carries to ASCII: curly quotes, the dash family,
@@ -380,6 +406,39 @@ mod tests {
     #[test]
     fn empty_prose_yields_nothing() {
         assert_eq!(clean("   \n  "), None);
+    }
+
+    #[test]
+    fn a_leading_stray_bracket_line_is_dropped() {
+        // ululation's wiktextract etymology begins with a lone "]" line.
+        assert_eq!(
+            clean("]\nBorrowed from Latin ululatio.").unwrap(),
+            "Borrowed from Latin ululatio."
+        );
+    }
+
+    #[test]
+    fn bare_fragments_drop_beside_real_paragraphs() {
+        let mut entries = BTreeMap::new();
+        entries.insert(
+            "taco".to_string(),
+            vec![
+                "Borrowed from Mexican Spanish taco.".to_string(),
+                "Initialism.".to_string(),
+                "Coined in 2025, named after a president.".to_string(),
+            ],
+        );
+        // A word whose only etymology is a fragment keeps it.
+        entries.insert("nasa".to_string(), vec!["Acronym.".to_string()]);
+        drop_bare_fragments(&mut entries);
+        assert_eq!(
+            entries["taco"],
+            vec![
+                "Borrowed from Mexican Spanish taco.".to_string(),
+                "Coined in 2025, named after a president.".to_string(),
+            ]
+        );
+        assert_eq!(entries["nasa"], vec!["Acronym.".to_string()]);
     }
 }
 
