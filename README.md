@@ -20,8 +20,9 @@ backs Onymdroid.
 
 ## Data
 
-The engine reads the WordNet 3.0 database files from a directory the caller supplies. The
-reference data comes from Debian's `wordnet-base` package. This repository ships no database.
+The engine reads the WordNet data files from a directory the caller supplies. The reference and test
+data come from the `onym-data` submodule, which vendors the pinned base graph and the overlays;
+`onym-data/prepare.sh` materialises them into a directory. This repository ships no database.
 
 ## Building and testing
 
