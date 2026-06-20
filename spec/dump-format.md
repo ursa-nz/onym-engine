@@ -5,10 +5,11 @@ SPDX-License-Identifier: GPL-3.0-or-later
 
 # Dump format
 
-The stable text rendering of a lookup, used for conformance testing. It reproduces the output of
-`../onym/tools/onym-cli.c` exactly (also documented at `../onymdroid/PLAN.md:374-411`), and was the
-format the Kotlin port was proven byte-for-byte against. The conformance dumper in this repository
-must emit it byte for byte.
+The stable text rendering of a lookup, used for conformance testing. The conformance dumper
+`onym-dump` in this repository emits it byte for byte, and the owned golden masters under
+`conformance/fixtures/` are generated from it. The format originated as the output of Onym's
+`onym-cli` and was the contract the Kotlin port was proven against; it is specified here in its own
+right.
 
 **This file versions the format.** Fixtures regenerate only when this file or `engine.md` changes. The *content*
 of a dump (which sections appear, their items, their order) is governed by `engine.md`, including

@@ -6,10 +6,11 @@ SPDX-License-Identifier: GPL-3.0-or-later
 # Conformance kit
 
 This directory pins the observable behaviour of the Onym engine. The
-fixtures under `fixtures/` are byte-exact outputs of the reference
-dumper for every word in `corpus.txt`, plus a fixed set of completion
-prefixes and suggestion queries. Any engine implementation passes
-conformance when it reproduces every fixture exactly.
+fixtures under `fixtures/` are owned golden masters: byte-exact outputs
+of `onym-dump`, the conformance dumper built from the engine here, for
+every word in `corpus.txt`, plus a fixed set of completion prefixes and
+suggestion queries. Any engine implementation passes conformance when it
+reproduces every fixture exactly.
 
 The corpus has two parts: a hand-curated block of edge cases (indirect
 antonyms, deep hyponym trees, multi-word lemmas, morphology exceptions,
@@ -22,15 +23,17 @@ stratified sample of every 200th lemma from each WordNet index file.
 conformance/run-conformance [DUMPER [ARG...]]
 ```
 
-The dumper defaults to the sibling `onym-cli` build and must accept
-`--dump WORD`, `--complete PREFIX` and `--suggest WORD`. The script
-prints one PASS or FAIL line per fixture and a summary, and exits
-nonzero on any difference, so CI can call it directly.
+The dumper defaults to `onym-dump`, built from the Rust core in this
+repository, and must accept `--dump WORD`, `--complete PREFIX` and
+`--suggest WORD`. The script prints one PASS or FAIL line per fixture
+and a summary, and exits nonzero on any difference, so CI can call it
+directly.
 
-The fixtures carry the two deliberate fixes in `spec/engine.md`. Both
-dumpers pass everything: `onym-dump`, built from the Rust core in this
-repository, and Onym's `onym-cli`, which consumes the same core
-through libonym and is the default dumper here.
+The fixtures carry the two deliberate fixes in `spec/engine.md`. Two
+dumpers over the one core pass everything and so cross-check the
+bindings: `onym-dump`, the default, reaching the core directly, and
+Onym's `onym-cli`, which reaches the same core through libonym and the
+C FFI.
 
 ## Regenerating fixtures
 

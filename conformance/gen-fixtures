@@ -6,12 +6,13 @@
 #
 # Usage: gen-fixtures [DUMPER [ARG...]]
 #
-# DUMPER is any command that accepts the onym-cli flags --dump WORD,
+# DUMPER is any command that accepts the flags --dump WORD,
 # --complete PREFIX and --suggest WORD on its command line and prints
-# the result on stdout. It defaults to the reference onym-cli build,
-# falling back to onym-cli on PATH. Output goes to fixtures/ next to
-# this script unless ONYM_FIXTURES_DIR overrides it; run-conformance
-# uses that override to regenerate into a temporary directory.
+# the result on stdout. It defaults to onym-dump, the conformance
+# dumper built from the engine in this repository, falling back to
+# onym-dump on PATH. Output goes to fixtures/ next to this script
+# unless ONYM_FIXTURES_DIR overrides it; run-conformance uses that
+# override to regenerate into a temporary directory.
 #
 # The output is deterministic: it depends only on the dumper, the
 # corpus and the fixed prefix and suggestion lists below. The script
@@ -22,14 +23,19 @@ set -eu
 here=$(CDPATH='' cd -- "$(dirname -- "$0")" && pwd)
 
 if [ "$#" -eq 0 ]; then
-  # The reference oracle is a sibling onym checkout's build, so the kit
-  # works out of the box on a development machine without arguments.
-  default_dumper="$here/../../onym/_build/tools/onym-cli"
-  if [ -x "$default_dumper" ]; then
-    set -- "$default_dumper"
-  else
-    set -- onym-cli
-  fi
+  # onym-dump is the owned generator of these fixtures, built from the
+  # engine in this repository; it reads the system WordNet database by
+  # default. Prefer a release build, then debug, then onym-dump on PATH,
+  # so the kit works out of the box on a development machine.
+  for cand in \
+    "$here/../target/release/onym-dump" \
+    "$here/../target/debug/onym-dump"; do
+    if [ -x "$cand" ]; then
+      set -- "$cand"
+      break
+    fi
+  done
+  [ "$#" -eq 0 ] && set -- onym-dump
 fi
 
 out=${ONYM_FIXTURES_DIR:-"$here/fixtures"}

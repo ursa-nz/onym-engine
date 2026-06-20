@@ -17,8 +17,10 @@ Citations use `file:line`. Kotlin files live at
 `onym-lookup.c` refer to the pre-swap libonym, which survives in Onym's git history at the commit
 before the engine swap. Line numbers are as of the trees at the time of writing.
 
-Where this specification deliberately departs from the C oracle, the departure is confined to the
-two changes in [Deliberate fixes](#7-deliberate-fixes). Everything else is bug-for-bug faithful.
+This specification is primary: it governs the engine's behaviour, and the conformance fixtures are
+generated from it, not from any external tool. Where it deliberately departs from the WordNet C
+library that Onym descends from, the departure is confined to the two changes in
+[Deliberate fixes](#7-deliberate-fixes). Everything else is bug-for-bug faithful to that library.
 Every word a deliberate fix or validation note names must appear in the conformance corpus.
 
 ## 1. Scope
@@ -416,12 +418,12 @@ header.
 
 ## 7. Deliberate fixes
 
-This specification departs from Artha, libwordnet, and the pre-swap `onym-cli` oracle in **exactly
-two** behaviours. Both repair iteration-state bugs in the WordNet C library that produce arbitrary,
-input-dependent output. Everything else in this document, including every quirk marked "kept as
-intended behaviour", is normative as written. Fixtures for the affected words are written from this
-specification, not captured from the oracle, and the affected words below must all be in the
-conformance corpus.
+This specification departs from Artha and the WordNet C library (libwordnet) in **exactly two**
+behaviours. Both repair iteration-state bugs in that library which produce arbitrary, input-dependent
+output. Everything else in this document, including every quirk marked "kept as intended behaviour",
+is normative as written. Fixtures for the affected words are written from this specification, not
+captured from any reference build, and the affected words below must all be in the conformance
+corpus.
 
 ### Fix 1: getindex variant truncation
 
