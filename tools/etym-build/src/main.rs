@@ -327,9 +327,14 @@ fn write_overlay(
     let file = fs::File::create(&args.out)?;
     let mut out = BufWriter::new(file);
     // The provenance header: leading-space lines the loader skips, so the artifact is auditable on
-    // its own, the way the WordNet files carry their licence header.
+    // its own and the attribution travels with the data, the way the WordNet files carry their
+    // licence header.
     writeln!(out, " etym.onym v1")?;
-    writeln!(out, " source: {}", args.source)?;
+    writeln!(out, " source: {} (a parse of the English Wiktionary)", args.source)?;
+    writeln!(
+        out,
+        " licence: CC-BY-SA-3.0, © Wiktionary contributors; https://en.wiktionary.org"
+    )?;
     writeln!(out, " wordnet-lemmas: {}", lemmas.len())?;
     writeln!(out, " matched-lemmas: {}", entries.len())?;
     writeln!(out, " english-entries: {}", stats.english)?;

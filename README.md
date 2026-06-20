@@ -47,6 +47,8 @@ onym-engine is free software under the GPL, version 3 or later. Full licence tex
 
 - Word data from [WordNet](https://wordnet.princeton.edu), the lexical database from Princeton
   University, under its own permissive licence.
+- Etymology prose, for the optional overlay, from [Wiktionary](https://en.wiktionary.org) via the
+  [wiktextract](https://kaikki.org) dataset, under CC-BY-SA-3.0.
 - Engine behaviour derived from [Artha](https://artha.sourceforge.net), an earlier WordNet
   thesaurus by Sundaram Ramaswamy.
 - Crafted in Narrm, in Australia, with respect to the Wurundjeri Woi-wurrung people of the Kulin
