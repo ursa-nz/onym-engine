@@ -1,0 +1,10 @@
+term: native-born
+[Definitions]
+  - (adjective) belonging to a place by birth
+      "a native-born Scot"
+[Antonyms]
+  - native (indirect)
+      -> foreign
+      -> strange
+[Similar to]
+  - native

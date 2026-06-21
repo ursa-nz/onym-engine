@@ -1,0 +1,13 @@
+term: mateless
+[Definitions]
+  - (adjective) without a sexual mate
+  - (adjective) of someone who has no marriage partner
+[Antonyms]
+  - unmated (indirect)
+      -> mated
+  - unmarried (indirect)
+      -> married
+[Similar to]
+  - unmated
+  - unmarried
+  - single

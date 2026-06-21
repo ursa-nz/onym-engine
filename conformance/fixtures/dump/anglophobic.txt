@@ -1,0 +1,8 @@
+term: Anglophobic
+[Definitions]
+  - (adjective) characterized by Anglophobia
+[Derived forms]
+  - Anglophobia
+[Pertains to]
+  - Anglophobia
+    - dislike

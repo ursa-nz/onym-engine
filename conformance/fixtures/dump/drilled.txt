@@ -1,0 +1,63 @@
+term: drilled
+[Definitions]
+  - (adjective) trained in a skill by repetitious practice
+      "well-drilled in military procedures"
+  - (verb) make a hole, especially with a pointed power or hand tool
+      "don't drill here, there's a gas pipe"
+      "drill a hole into the wall"
+      "drill for oil"
+      "carpenter bees are boring holes into the wall"
+  - (verb) train in the military, e.g., in the use of weapons
+  - (verb) learn by repetition
+      "We drilled French verbs every day"
+      "Pianists practice scales"
+  - (verb) teach by repetition
+  - (verb) undergo military training or do military exercises
+[Synonyms]
+  - bore
+  - exercise
+  - practice
+  - practise
+[Antonyms]
+  - trained (indirect)
+      -> untrained
+[Derived forms]
+  - electric drill
+  - drilling
+  - boring
+  - oil production
+  - exercise
+  - practice
+  - practice session
+  - recitation
+[Similar to]
+  - trained
+[Is a kind of]
+  - separate, disunite, divide, part
+    - move, displace
+      - change, alter, modify
+        - induce, stimulate, cause, have, get, make
+          - act, move
+  - train, develop, prepare, educate
+    - teach, learn, instruct
+      - inform
+        - communicate, intercommunicate
+          - interact
+            - act, move
+  - learn, study, read, take
+    - act, move
+  - teach, learn, instruct
+    - inform
+      - communicate, intercommunicate
+        - interact
+          - act, move
+  - train, prepare
+    - learn, study, read, take
+      - act, move
+[Kinds]
+  - spud
+  - counter-drill
+  - trepan
+  - hammer in, drill in, ram down, beat in
+  - inculcate, instill, infuse
+    - din

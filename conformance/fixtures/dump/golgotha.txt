@@ -1,0 +1,14 @@
+term: Golgotha
+[Definitions]
+  - (noun) a hill near Jerusalem where Jesus was crucified
+[Synonyms]
+  - Calvary
+[Is a kind of]
+  - hill
+    - natural elevation, elevation
+      - geological formation, formation
+        - object, physical object
+          - physical entity
+            - entity
+[Part of]
+  - Jerusalem, capital of Israel

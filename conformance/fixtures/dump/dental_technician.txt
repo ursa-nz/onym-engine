@@ -1,0 +1,13 @@
+term: dental technician
+[Definitions]
+  - (noun) someone who makes dental appliances (bridges and dentures)
+[Synonyms]
+  - denturist
+[Is a kind of]
+  - technician
+    - skilled worker, trained worker
+      - worker
+        - actor, doer, worker
+          - causal agent, cause, causal agency
+            - physical entity
+              - entity

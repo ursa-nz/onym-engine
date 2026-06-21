@@ -20,12 +20,12 @@ either an engine bug or an intentional `engine.md` change, never formatting drif
 
 - Every line ends with a single LF. There are no blank lines and no trailing whitespace beyond
   what the rules below produce.
-- Strings pass through from the engine unchanged. The database is ISO-8859-1, so dump bytes outside
-  ASCII are ISO-8859-1; fixtures compare bytes, not characters. The one exception is the Etymology
-  section (`engine.md` section 6.10), whose prose comes from the UTF-8 etymology overlay; its
-  fixtures are UTF-8 and compare as characters. The conformance dumper `onym-dump` emits ISO-8859-1
-  and so is a WordNet tool only; the Etymology section is proven by a separate UTF-8 test
-  (`crates/onym-engine/tests/etymology.rs`), not by the ISO-8859-1 fixtures.
+- Strings pass through from the engine unchanged. The database is UTF-8, so the dump is UTF-8 and
+  carries accented lemmas and glosses verbatim; the conformance dumper `onym-dump` reads and writes
+  UTF-8 throughout. Fixtures are UTF-8 and compare as bytes, which for UTF-8 is the same as comparing
+  characters. The Etymology section (`engine.md` section 6.10) is no different in encoding, but the
+  main fixtures are generated overlay-free, so it never appears in them; it is proven by a separate
+  test over a committed test overlay (`crates/onym-engine/tests/etymology.rs`).
 - All terms and labels are in display form (spaces, never underscores).
 
 ## The entry dump (`WORD` and `--dump WORD`)
@@ -105,7 +105,7 @@ Each antonym prints with a two-space indent, its term, then a space and `(direct
 
 A tree node prints `depth + 1` units of two spaces, then `- ` and the node's label, where the label
 is the node's terms joined with `", "` (onym-cli.c:82-96, the label join per
-`../onym/libonym/onym-result.c:304`). A top-level node has depth 0, so it prints with one unit of
+`../gtk/libonym/onym-result.c:304`). A top-level node has depth 0, so it prints with one unit of
 indent; each level adds one more unit. Children print immediately after their parent, depth first,
 in order:
 

@@ -1,0 +1,10 @@
+term: self-help
+[Definitions]
+  - (noun) the act of helping or improving yourself without relying on anyone else
+[Is a kind of]
+  - aid, assist, assistance, help
+    - activity
+      - act, deed, human action, human activity
+        - event
+          - abstraction, abstract entity
+            - entity

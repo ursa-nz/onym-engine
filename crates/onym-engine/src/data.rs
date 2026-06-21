@@ -4,7 +4,7 @@
 //! The WordNet dictionary reader: the engine's only source of database facts. It parses the
 //! `index.*` and `data.*` files directly, replacing the extJWNL reader behind the Kotlin
 //! reference's `WordNetSource` boundary, and follows the data contract of `spec/engine.md`
-//! section 10: an explicit directory, every file ISO-8859-1, read in place and read-only, no
+//! section 10: an explicit directory, every file UTF-8, read in place and read-only, no
 //! environment variables, no global state. The neutral `Wn*` types mirror exactly what the
 //! lookup needs: the senses of a word, the synset a pointer leads to, and morphology. Word and
 //! pointer indices follow WordNet's convention, where 0 means the whole synset (a semantic
@@ -14,7 +14,7 @@
 use crate::OpenError;
 use crate::etymology::Etymology;
 use crate::morphology::{self, Morphology};
-use crate::textforms::{ascii_lower, index_variants, latin1_to_string, to_display_form};
+use crate::textforms::{ascii_lower, decode, index_variants, to_display_form};
 use crate::verb_examples::VerbExampleIndex;
 use std::collections::HashMap;
 use std::fs;
@@ -155,7 +155,7 @@ impl DictSource {
         let mut tag_counts = HashMap::new();
         let cntlist = data_dir.join("cntlist.rev");
         if cntlist.is_file() {
-            let text = latin1_to_string(&fs::read(&cntlist).map_err(|source| OpenError {
+            let text = decode(&fs::read(&cntlist).map_err(|source| OpenError {
                 file: cntlist,
                 source,
             })?);
@@ -332,7 +332,7 @@ fn pos_from_code(code: usize) -> Option<WnPos> {
 /// speech, the synset count, a pointer-symbol list, two more counts, and the synset offsets in
 /// sense order; lines starting with a space are the licence header.
 fn parse_index(bytes: &[u8]) -> HashMap<String, Vec<u32>> {
-    let text = latin1_to_string(bytes);
+    let text = decode(bytes);
     let mut map = HashMap::new();
     for line in text.lines() {
         if line.is_empty() || line.starts_with(' ') {
@@ -374,11 +374,11 @@ fn parse_data_line(line: &[u8], offset: u32) -> Option<WnSynset> {
                 }
                 gloss = rest;
             }
-            (&line[..p], latin1_to_string(gloss))
+            (&line[..p], decode(gloss))
         }
         None => (line, String::new()),
     };
-    let head = latin1_to_string(head);
+    let head = decode(head);
     let mut tokens = head.split(' ').filter(|t| !t.is_empty());
 
     let _offset_field = tokens.next()?;

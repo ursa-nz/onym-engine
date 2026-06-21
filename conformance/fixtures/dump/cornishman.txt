@@ -1,0 +1,38 @@
+term: Cornishman
+[Definitions]
+  - (noun) a man who is a native or inhabitant of Cornwall
+[Is a kind of]
+  - Englishman
+    - English person
+      - Britisher, Briton, Brit
+        - European
+          - inhabitant, habitant, dweller, denizen, indweller
+            - actor, doer, worker
+              - causal agent, cause, causal agency
+                - physical entity
+                  - entity
+    - man, adult male
+      - male, male person
+        - person, individual, someone, somebody, mortal, soul
+          - organism, being
+            - living thing, animate thing
+              - whole, unit
+                - object, physical object
+                  - physical entity
+                    - entity
+            - causal agent, cause, causal agency
+              - physical entity
+                - entity
+      - adult, grownup
+        - person, individual, someone, somebody, mortal, soul
+          - organism, being
+            - living thing, animate thing
+              - whole, unit
+                - object, physical object
+                  - physical entity
+                    - entity
+            - causal agent, cause, causal agency
+              - physical entity
+                - entity
+[Part of]
+  - Cornwall

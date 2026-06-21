@@ -1,0 +1,17 @@
+term: timeless
+[Definitions]
+  - (adjective) unaffected by time
+      "few characters are so dateless as Hamlet"
+      "Helen's timeless beauty"
+[Synonyms]
+  - dateless
+[Antonyms]
+  - unaltered (indirect)
+      -> altered
+[Derived forms]
+  - eternity
+  - timelessness
+  - timeless existence
+[Similar to]
+  - unaltered
+  - unchanged

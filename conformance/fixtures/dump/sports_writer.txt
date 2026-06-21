@@ -1,0 +1,11 @@
+term: sports writer
+[Definitions]
+  - (noun) a journalist who writes about sports
+[Is a kind of]
+  - journalist
+    - writer, author
+      - communicator
+        - actor, doer, worker
+          - causal agent, cause, causal agency
+            - physical entity
+              - entity

@@ -1,8 +1,0 @@
-term: exportable
-[Definitions]
-  - (adjective) suitable for export
-      "exportable cultural achievements"
-[Antonyms]
-  - unexportable (direct)
-[Similar to]
-  - marketable

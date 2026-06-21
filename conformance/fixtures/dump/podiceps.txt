@@ -1,0 +1,22 @@
+term: Podiceps
+[Definitions]
+  - (noun) type genus of the Podicipedidae: grebes
+[Synonyms]
+  - genus Podiceps
+[Is a kind of]
+  - bird genus
+    - genus
+      - taxonomic group, taxonomic category, taxon
+        - biological group
+          - group, grouping
+            - abstraction, abstract entity
+              - entity
+[Part of]
+  - Podicipedidae, family Podicipedidae
+    - Podicipitiformes, order Podicipitiformes, Podicipediformes, order Podicipediformes, Colymbiformes, order Colymbiformes
+      - Aves, class Aves
+        - Vertebrata, subphylum Vertebrata, Craniata, subphylum Craniata
+          - Chordata, phylum Chordata
+            - Animalia, kingdom Animalia, animal kingdom
+[Parts]
+  - grebe

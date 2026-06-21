@@ -1,0 +1,15 @@
+term: somewhere
+[Definitions]
+  - (adverb) in or at or to some place
+      "she must be somewhere"
+  - (noun) an indefinite or unknown location
+      "they moved to somewhere in Spain"
+[Synonyms]
+  - someplace
+[Is a kind of]
+  - location
+    - object, physical object
+      - physical entity
+        - entity
+[Domains]
+  - colloquialism

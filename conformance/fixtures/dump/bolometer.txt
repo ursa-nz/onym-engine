@@ -1,0 +1,15 @@
+term: bolometer
+[Definitions]
+  - (noun) an instrument that measures heat radiation; extremely sensitive
+[Derived forms]
+  - bolometric
+[Is a kind of]
+  - measuring instrument, measuring system, measuring device
+    - instrument
+      - device
+        - instrumentality, instrumentation, means
+          - artifact, artefact
+            - whole, unit
+              - object, physical object
+                - physical entity
+                  - entity

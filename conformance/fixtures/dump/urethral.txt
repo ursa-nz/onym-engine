@@ -1,0 +1,8 @@
+term: urethral
+[Definitions]
+  - (adjective) of or relating to the urethra
+[Derived forms]
+  - urethra
+[Pertains to]
+  - urethra
+    - duct, epithelial duct, canal, channel

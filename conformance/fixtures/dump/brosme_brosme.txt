@@ -1,0 +1,27 @@
+term: Brosme brosme
+[Definitions]
+  - (noun) large edible marine fish of northern coastal waters; related to cod
+[Synonyms]
+  - cusk
+  - torsk
+[Is a kind of]
+  - gadoid, gadoid fish
+    - soft-finned fish, malacopterygian
+      - teleost fish, teleost, teleostan
+        - bony fish
+          - fish
+            - aquatic vertebrate
+              - vertebrate, craniate
+                - chordate
+                  - animal, animate being, beast, brute, creature, fauna
+                    - organism, being
+                      - living thing, animate thing
+                        - whole, unit
+                          - object, physical object
+                            - physical entity
+                              - entity
+                      - causal agent, cause, causal agency
+                        - physical entity
+                          - entity
+[Parts]
+  - cusk

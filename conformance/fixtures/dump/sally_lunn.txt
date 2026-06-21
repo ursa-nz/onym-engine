@@ -1,0 +1,17 @@
+term: Sally Lunn
+[Definitions]
+  - (noun) a flat round slightly sweet teacake usually served hot
+[Is a kind of]
+  - teacake
+    - cake
+      - baked goods
+        - solid food
+          - solid
+            - matter
+              - physical entity
+                - entity
+          - food, nutrient
+            - substance
+              - matter
+                - physical entity
+                  - entity

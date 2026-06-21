@@ -1,0 +1,21 @@
+term: GHQ
+[Definitions]
+  - (noun) military headquarters from which a military commander controls and organizes the forces
+[Synonyms]
+  - command post
+  - general headquarters
+[Is a kind of]
+  - headquarters, HQ, military headquarters
+    - military installation
+      - facility, installation
+        - artifact, artefact
+          - whole, unit
+            - object, physical object
+              - physical entity
+                - entity
+[Domains]
+  - military
+  - armed forces
+  - armed services
+  - military machine
+  - war machine

@@ -1,0 +1,22 @@
+term: poppycock
+[Definitions]
+  - (noun) senseless talk
+      "don't give me that stuff"
+[Synonyms]
+  - stuff
+  - stuff and nonsense
+  - hooey
+[Is a kind of]
+  - nonsense, bunk, nonsensicality, meaninglessness, hokum
+    - message, content, subject matter, substance
+      - communication
+        - abstraction, abstract entity
+          - entity
+[Domains]
+  - slang
+  - cant
+  - jargon
+  - lingo
+  - argot
+  - patois
+  - vernacular

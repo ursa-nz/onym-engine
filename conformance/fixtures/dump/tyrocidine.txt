@@ -1,0 +1,20 @@
+term: tyrocidine
+[Definitions]
+  - (noun) a basic polypeptide antibiotic derived from a soil bacterium; a major component of tyrothricin
+[Synonyms]
+  - tyrocidin
+[Is a kind of]
+  - antibiotic, antibiotic drug
+    - antibacterial, antibacterial drug, bactericide
+      - medicine, medication, medicament, medicinal drug
+        - drug
+          - agent
+            - causal agent, cause, causal agency
+              - physical entity
+                - entity
+            - substance
+              - matter
+                - physical entity
+                  - entity
+[Part of]
+  - tyrothricin

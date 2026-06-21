@@ -1,0 +1,12 @@
+term: counterpose
+[Definitions]
+  - (verb) constitute a counterweight or counterbalance to
+[Synonyms]
+  - counterweight
+  - counterpoise
+[Is a kind of]
+  - oppose, counterbalance
+    - contrast, counterpoint
+      - differ
+        - change
+          - act, move

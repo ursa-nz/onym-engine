@@ -1,0 +1,15 @@
+term: carrycot
+[Definitions]
+  - (noun) box-shaped baby bed with handles (for a baby to sleep in while being carried)
+[Is a kind of]
+  - baby bed, baby's bed
+    - furniture, piece of furniture, article of furniture
+      - furnishing
+        - instrumentality, instrumentation, means
+          - artifact, artefact
+            - whole, unit
+              - object, physical object
+                - physical entity
+                  - entity
+[Parts]
+  - handle, grip, handgrip, hold

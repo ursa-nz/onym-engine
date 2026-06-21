@@ -1,0 +1,12 @@
+term: market price
+[Definitions]
+  - (noun) the price at which buyers and sellers trade the item in an open marketplace
+[Synonyms]
+  - market value
+[Is a kind of]
+  - value
+    - worth
+      - quality
+        - attribute
+          - abstraction, abstract entity
+            - entity

@@ -1,0 +1,15 @@
+term: bourgeoisie
+[Definitions]
+  - (noun) the social class between the lower and upper classes
+[Synonyms]
+  - middle class
+[Is a kind of]
+  - class, stratum, social class, socio-economic class
+    - people
+      - group, grouping
+        - abstraction, abstract entity
+          - entity
+[Kinds]
+  - petit bourgeois, petite bourgeoisie, petty bourgeoisie
+[Parts]
+  - bourgeois, burgher

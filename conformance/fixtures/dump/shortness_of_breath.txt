@@ -1,0 +1,15 @@
+term: shortness of breath
+[Definitions]
+  - (noun) a dyspneic condition
+[Synonyms]
+  - SOB
+  - breathlessness
+[Is a kind of]
+  - dyspnea, dyspnoea
+    - symptom
+      - evidence, grounds
+        - information
+          - cognition, knowledge, noesis
+            - psychological feature
+              - abstraction, abstract entity
+                - entity

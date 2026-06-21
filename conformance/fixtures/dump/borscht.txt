@@ -1,0 +1,20 @@
+term: borscht
+[Definitions]
+  - (noun) a Russian or Polish soup usually containing beet juice as a foundation
+[Synonyms]
+  - borsch
+  - borsh
+  - borsht
+  - borshch
+  - bortsch
+[Is a kind of]
+  - soup
+    - dish
+      - nutriment, nourishment, nutrition, sustenance, aliment, alimentation, victuals
+        - food, nutrient
+          - substance
+            - matter
+              - physical entity
+                - entity
+[Kinds]
+  - white borscht

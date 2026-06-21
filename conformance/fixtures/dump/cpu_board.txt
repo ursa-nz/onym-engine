@@ -1,0 +1,20 @@
+term: CPU board
+[Definitions]
+  - (noun) the main circuit board for a computer
+[Synonyms]
+  - mother board
+[Is a kind of]
+  - circuit board, circuit card, board, card, plug-in, add-in
+    - printed circuit
+      - computer circuit
+        - circuit, electrical circuit, electric circuit
+          - electrical device
+            - device
+              - instrumentality, instrumentation, means
+                - artifact, artefact
+                  - whole, unit
+                    - object, physical object
+                      - physical entity
+                        - entity
+[Part of]
+  - central processing unit, CPU, C.P.U., central processor, processor, mainframe

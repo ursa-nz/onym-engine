@@ -1,0 +1,25 @@
+term: uncomparable
+[Definitions]
+  - (adjective) such that comparison is impossible; unsuitable for comparison or lacking features that can be compared
+      "an incomparable week of rest and pleasure"
+      "the computer proceeds with its incomparable logic and efficiency"
+      "this report is incomparable with the earlier ones because of different breakdowns of the data"
+[Synonyms]
+  - incomparable
+[Similar to]
+  - all-time
+  - incommensurable
+  - matchless
+  - nonpareil
+  - one
+  - one and only
+  - peerless
+  - unmatched
+  - unmatchable
+  - unrivaled
+  - unrivalled
+  - alone
+  - unique
+  - unequaled
+  - unequalled
+  - unparalleled

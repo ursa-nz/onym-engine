@@ -1,0 +1,15 @@
+term: Indira Nehru Gandhi
+[Definitions]
+  - (noun) daughter of Nehru who served as prime minister of India from 1966 to 1977 (1917-1984)
+[Synonyms]
+  - Gandhi
+  - Indira Gandhi
+  - Mrs. Gandhi
+[Is a kind of]
+  - solon, national leader
+    - politician, politico, pol, political leader
+      - leader
+        - actor, doer, worker
+          - causal agent, cause, causal agency
+            - physical entity
+              - entity

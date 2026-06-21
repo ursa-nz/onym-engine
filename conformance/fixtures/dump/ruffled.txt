@@ -1,0 +1,108 @@
+term: ruffled
+[Definitions]
+  - (adjective) shaken into waves or undulations as by wind
+      "the rippled surface of the pond"
+      "with ruffled flags flying"
+  - (adjective) having decorative ruffles or frills
+  - (verb) stir up (water) so as to form ripples
+  - (verb) trouble or vex
+      "ruffle somebody's composure"
+  - (verb) to walk with a lofty proud gait, often in an attempt to impress others
+      "He struts around like a rooster in a hen house"
+  - (verb) discompose
+      "This play is going to ruffle some people"
+      "She has a way of ruffling feathers among her colleagues"
+  - (verb) twitch or flutter
+      "the paper flicked"
+  - (verb) mix so as to make a random order or arrangement
+      "shuffle the cards"
+  - (verb) erect or fluff up
+      "the bird ruffled its feathers"
+  - (verb) disturb the smoothness of
+      "ruffle the surface of the water"
+  - (verb) pleat or gather into a ruffle
+      "ruffle the curtain fabric"
+[Synonyms]
+  - ripple
+  - riffle
+  - cockle
+  - undulate
+  - tittup
+  - swagger
+  - prance
+  - strut
+  - sashay
+  - cock
+  - flick
+  - shuffle
+  - mix
+  - fluff
+  - ruffle up
+  - rumple
+  - mess up
+  - pleat
+  - rippled
+  - frilled
+  - frilly
+[Antonyms]
+  - agitated (indirect)
+      -> unagitated
+  - adorned (indirect)
+      -> unadorned
+      -> undecorated
+[Derived forms]
+  - frill
+  - flounce
+  - furbelow
+[Similar to]
+  - agitated
+  - adorned
+  - decorated
+[Entails]
+  - fold
+  - fold up
+  - turn up
+[Is a kind of]
+  - flow, flux
+    - move
+      - act, move
+  - annoy, rag, get to, bother, get at, irritate, rile, nark, nettle, gravel, vex, chafe, devil
+    - displease
+      - induce, stimulate, cause, have, get, make
+        - act, move
+  - walk
+    - travel, go, move, locomote
+      - act, move
+  - fluster
+    - confuse, flurry, disconcert, put off
+      - embarrass, abash
+        - upset, discompose, untune, disconcert, discomfit
+          - arouse, elicit, enkindle, kindle, evoke, fire, raise, provoke
+            - make, create
+              - induce, stimulate, cause, have, get, make
+                - act, move
+  - move, displace
+    - change, alter, modify
+      - induce, stimulate, cause, have, get, make
+        - act, move
+  - manipulate
+    - handle, palm
+      - touch
+        - act, move
+  - loosen
+    - change, alter, modify
+      - induce, stimulate, cause, have, get, make
+        - act, move
+  - disarrange
+    - move, displace
+      - change, alter, modify
+        - induce, stimulate, cause, have, get, make
+          - act, move
+  - fold, fold up, turn up
+    - change surface
+      - change
+        - act, move
+[Kinds]
+  - reshuffle
+  - riffle
+  - cut

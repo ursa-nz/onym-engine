@@ -1,0 +1,20 @@
+term: folate
+[Definitions]
+  - (noun) a B vitamin that is essential for cell growth and reproduction
+[Synonyms]
+  - vitamin Bc
+  - vitamin M
+  - folic acid
+  - folacin
+  - pteroylglutamic acid
+  - pteroylmonoglutamic acid
+[Is a kind of]
+  - B-complex vitamin, B complex, vitamin B complex, vitamin B, B vitamin, B
+    - water-soluble vitamin
+      - vitamin
+        - nutriment, nourishment, nutrition, sustenance, aliment, alimentation, victuals
+          - food, nutrient
+            - substance
+              - matter
+                - physical entity
+                  - entity

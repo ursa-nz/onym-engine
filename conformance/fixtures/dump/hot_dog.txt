@@ -1,6 +1,6 @@
 term: hot dog
 [Definitions]
-  - (noun) someone who performs dangerous stunts to attract attention to himself
+  - (noun) someone who performs dangerous stunts to attract attention to themself
   - (noun) a frankfurter served hot on a bun
   - (noun) a smooth-textured sausage of minced beef or pork usually smoked; often served on a bread roll
   - (verb) perform intricate maneuvers while skiing
@@ -17,13 +17,7 @@ term: hot dog
     - egotist, egoist, swellhead
       - unpleasant person, disagreeable person
         - unwelcome person, persona non grata
-          - person, individual, someone, somebody, mortal, soul
-            - organism, being
-              - living thing, animate thing
-                - whole, unit
-                  - object, physical object
-                    - physical entity
-                      - entity
+          - actor, doer, worker
             - causal agent, cause, causal agency
               - physical entity
                 - entity
@@ -38,13 +32,19 @@ term: hot dog
                   - entity
   - sausage
     - meat
-      - food, solid food
+      - solid food
         - solid
           - matter
             - physical entity
               - entity
+        - food, nutrient
+          - substance
+            - matter
+              - physical entity
+                - entity
   - ski
     - travel, go, move, locomote
+      - act, move
 [Kinds]
   - chili dog
   - Vienna sausage
@@ -53,3 +53,7 @@ term: hot dog
 [Parts]
   - frank, frankfurter, hotdog, dog, wiener, wienerwurst, weenie
   - frankfurter bun, hotdog bun
+[Domains]
+  - disparagement
+  - depreciation
+  - derogation

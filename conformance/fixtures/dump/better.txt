@@ -1,6 +1,6 @@
 term: better
 [Definitions]
-  - (adjective) (comparative of `good') superior to another (of the same class or set or kind) in excellence or quality or desirability or suitability; more highly skilled than another
+  - (adjective) (comparative of ‘good’) superior to another (of the same class or set or kind) in excellence or quality or desirability or suitability; more highly skilled than another
       "You're a better man than I am, Gunga Din"
       "a better coat"
       "a better type of car"
@@ -8,15 +8,15 @@ term: better
       "a better chance of success"
       "produced a better mousetrap"
       "she's better in math than in history"
-  - (adjective) (comparative of `good') changed for the better in health or fitness
+  - (adjective) (comparative of ‘good’) changed for the better in health or fitness
       "her health is better now"
       "I feel better"
-  - (adjective) (comparative and superlative of `well') wiser or more advantageous and hence advisable
+  - (adjective) (comparative and superlative of ‘well’) wiser or more advantageous and hence advisable
       "it would be better to speak to him"
       "the White House thought it best not to respond"
   - (adjective) more than half
       "argued for the better part of an hour"
-  - (adverb) comparative of `well'; in a better or more excellent manner or more advantageously or attractively or to a greater degree etc.
+  - (adverb) comparative of ‘well’; in a better or more excellent manner or more advantageously or attractively or to a greater degree etc.
       "She had never sung better"
       "a deed better left undone"
       "better suited to the job"
@@ -37,87 +37,7 @@ term: better
       "The editor improved the manuscript with his changes"
   - (verb) get better
       "The weather improved toward evening"
-  - (adjective) having desirable or positive qualities especially those suitable for a thing specified
-      "good news from the hospital"
-      "a good report card"
-      "when she was good she was very very good"
-      "a good knife is one good for cutting"
-      "this stump will make a good picnic table"
-      "a good check"
-      "a good joke"
-      "a good exterior paint"
-      "a good secretary"
-      "a good dress for the office"
-  - (adjective) having the normally expected amount
-      "gives full measure"
-      "gives good measure"
-      "a good mile from here"
-  - (adjective) morally admirable
-  - (adjective) deserving of esteem and respect
-      "all respectable companies give guarantees"
-      "ruined the family's good name"
-  - (adjective) promoting or enhancing well-being
-      "an arms limitation agreement beneficial to all countries"
-      "the beneficial effects of a temperate climate"
-      "the experience was good for her"
-  - (adjective) agreeable or pleasing
-      "we all had a good time"
-      "good manners"
-  - (adjective) of moral excellence
-      "a genuinely good person"
-      "a just cause"
-      "an upright and respectable man"
-  - (adjective) having or showing knowledge and skill and aptitude
-      "adept in handicrafts"
-      "an adept juggler"
-      "an expert job"
-      "a good mechanic"
-      "a practiced marksman"
-      "a proficient engineer"
-      "a lesser-known but no less skillful composer"
-      "the effect was achieved by skillful retouching"
-  - (adjective) thorough
-      "had a good workout"
-      "gave the house a good cleaning"
-  - (adjective) with or in a close or intimate relationship
-      "a good friend"
-      "my sisters and brothers are near and dear"
-  - (adjective) financially sound
-      "a good investment"
-      "a secure investment"
-  - (adjective) most suitable or right for a particular purpose
-      "a good time to plant tomatoes"
-      "the right time to act"
-      "the time is ripe for great sociological changes"
-  - (adjective) resulting favorably
-      "it's a good thing that I wasn't there"
-      "it is good that you stayed"
-      "it is well that no one saw you"
-      "all's well that ends well"
-  - (adjective) exerting force or influence
-      "the law is effective immediately"
-      "a warranty good for two years"
-      "the law is already in effect (or in force)"
-  - (adjective) capable of pleasing
-      "good looks"
-  - (adjective) appealing to the mind
-      "good music"
-      "a serious book"
-  - (adjective) in excellent physical condition
-      "good teeth"
-      "I still have one good leg"
-      "a sound mind in a sound body"
-  - (adjective) tending to promote physical well-being; beneficial to health
-      "beneficial effects of a balanced diet"
-      "a good night's sleep"
-      "the salutary influence of pure air"
-  - (adjective) not forged
-      "a good dollar bill"
-  - (adjective) not left to spoil
-      "the meat is still good"
-  - (adjective) generally admired
-      "good taste"
-  - (adverb) (often used as a combining form) in a good or proper or satisfactory manner or to a high standard (`good' is a nonstandard dialectal variant for `well')
+  - (adverb) (often used as a combining form) in a good or proper or satisfactory manner or to a high standard (‘good’ is a nonstandard dialectal variant for ‘well’)
       "the children behaved well"
       "a task well done"
       "the party went well"
@@ -130,7 +50,7 @@ term: better
       "The problem is well understood"
       "she was well informed"
       "shake well before using"
-      "in order to avoid food poisoning be sure the meat is well cooked"
+      "in order to avoid food poisoning, be sure the meat is well cooked"
       "well-done beef"
       "well-satisfied customers"
       "well-educated"
@@ -194,36 +114,7 @@ term: better
   - ameliorate
   - meliorate
   - best
-  - full
-  - estimable
-  - honorable
-  - respectable
-  - beneficial
-  - just
-  - upright
-  - adept
-  - expert
-  - practiced
-  - proficient
-  - skillful
-  - skilful
-  - dear
-  - near
-  - dependable
-  - safe
-  - secure
-  - right
-  - ripe
-  - effective
-  - in effect
-  - in force
-  - serious
-  - sound
-  - salutary
-  - honest
-  - undecomposed
-  - unspoiled
-  - unspoilt
+  - good
   - easily
   - considerably
   - substantially
@@ -243,129 +134,6 @@ term: better
       -> unadvisable
   - major (indirect)
       -> minor
-  - bad (direct)
-      -> atrocious
-      -> abominable
-      -> awful
-      -> dreadful
-      -> painful
-      -> terrible
-      -> unspeakable
-      -> corked
-      -> corky
-      -> deplorable
-      -> distressing
-      -> lamentable
-      -> pitiful
-      -> sad
-      -> sorry
-      -> fearful
-      -> frightful
-      -> hard
-      -> tough
-      -> hopeless
-      -> horrid
-      -> icky
-      -> crappy
-      -> lousy
-      -> rotten
-      -> shitty
-      -> stinking
-      -> stinky
-      -> ill
-      -> incompetent
-      -> unskilled
-      -> mediocre
-      -> naughty
-      -> negative
-      -> poor
-      -> pretty
-      -> rubber
-      -> no-good
-      -> severe
-      -> swingeing
-      -> uncool
-      -> unfavorable
-      -> unfavourable
-      -> unsuitable
-  - ample (indirect)
-      -> meager
-      -> meagre
-      -> meagerly
-      -> stingy
-      -> scrimpy
-  - evil (direct)
-      -> atrocious
-      -> flagitious
-      -> grievous
-      -> monstrous
-      -> bad
-      -> black
-      -> dark
-      -> sinister
-      -> corruptive
-      -> perversive
-      -> pestiferous
-      -> demonic
-      -> diabolic
-      -> diabolical
-      -> fiendish
-      -> hellish
-      -> infernal
-      -> satanic
-      -> unholy
-      -> despicable
-      -> ugly
-      -> vile
-      -> slimy
-      -> unworthy
-      -> worthless
-      -> wretched
-      -> devilish
-      -> mephistophelian
-      -> mephistophelean
-      -> evil-minded
-  - reputable (indirect)
-      -> disreputable
-  - advantageous (indirect)
-      -> disadvantageous
-  - nice (indirect)
-      -> nasty
-      -> awful
-  - righteous (indirect)
-      -> unrighteous
-  - skilled (indirect)
-      -> unskilled
-  - complete (indirect)
-      -> incomplete
-      -> uncomplete
-  - close (indirect)
-      -> distant
-      -> remote
-  - sound (indirect)
-      -> unsound
-  - opportune (indirect)
-      -> inopportune
-  - fortunate (indirect)
-      -> unfortunate
-  - operative (indirect)
-      -> inoperative
-  - pleasing (indirect)
-      -> displeasing
-  - intellectual (indirect)
-      -> nonintellectual
-  - healthy (indirect)
-      -> unhealthy
-  - healthful (indirect)
-      -> unhealthful
-  - genuine (indirect)
-      -> counterfeit
-      -> imitative
-  - fresh (indirect)
-      -> stale
-  - discriminating (indirect)
-      -> undiscriminating
-      -> indiscriminating
   - ill (direct)
       -> sick
       -> afflicted
@@ -433,7 +201,10 @@ term: better
       -> tuberculous
       -> unhealed
       -> upset
+      -> hungover
       -> badly
+  - fortunate (indirect)
+      -> unfortunate
   - badly (direct)
       -> disadvantageously
 [Derived forms]
@@ -450,7 +221,6 @@ term: better
   - betterment
   - improvement
   - advance
-  - goodness
   - health
   - wellness
 [Similar to]
@@ -461,69 +231,12 @@ term: better
   - healthier
   - advisable
   - major
-  - bang-up
-  - bully
-  - corking
-  - cracking
-  - dandy
-  - great
-  - groovy
-  - keen
-  - neat
-  - nifty
-  - not bad
-  - peachy
-  - slap-up
-  - swell
-  - smashing
-  - good enough
-  - goodish
-  - hot
-  - redeeming
-  - satisfactory
-  - acceptable
-  - solid
-  - superb
-  - well-behaved
-  - well behaved
-  - ample
-  - angelic
-  - angelical
-  - beatific
-  - saintlike
-  - saintly
-  - sainted
-  - goody-goody
-  - redemptive
-  - saving
-  - white
-  - reputable
-  - advantageous
-  - nice
-  - righteous
-  - skilled
-  - complete
-  - close
-  - sound
-  - opportune
-  - fortunate
-  - operative
-  - pleasing
-  - intellectual
-  - healthy
-  - healthful
-  - genuine
-  - echt
-  - fresh
-  - discriminating
   - asymptomatic
   - symptomless
   - cured
   - healed
   - recovered
-[Attributes]
-  - quality
-  - goodness
+  - fortunate
 [Causes]
   - improve
   - ameliorate
@@ -535,46 +248,38 @@ term: better
         - abstraction, abstract entity
           - entity
   - gambler
-    - person, individual, someone, somebody, mortal, soul
-      - organism, being
-        - living thing, animate thing
-          - whole, unit
-            - object, physical object
-              - physical entity
-                - entity
+    - actor, doer, worker
       - causal agent, cause, causal agency
         - physical entity
           - entity
   - superior, higher-up, superordinate
     - leader
-      - person, individual, someone, somebody, mortal, soul
-        - organism, being
-          - living thing, animate thing
-            - whole, unit
-              - object, physical object
-                - physical entity
-                  - entity
+      - actor, doer, worker
         - causal agent, cause, causal agency
           - physical entity
             - entity
   - surpass, outstrip, outmatch, outgo, exceed, outdo, surmount, outperform
-    - beat, beat out, crush, shell, trounce, vanquish
-      - get the better of, overcome, defeat
+    - get the better of, overcome, defeat
+      - win
+        - act, move
   - change, alter, modify
+    - induce, stimulate, cause, have, get, make
+      - act, move
   - change state, turn
     - change
+      - act, move
 [Kinds]
   - taker
   - caller
-  - relieve, alleviate, palliate, assuage
-    - soothe
-    - comfort, ease
-  - help, aid
-    - bring around, cure, heal
-      - recuperate
-    - benefit, do good
-  - regenerate, revitalize
-    - rejuvenate
+  - educate
+    - socialize, socialise
+    - prepare, groom, train
+      - qualify, dispose
+        - habilitate
+        - capacitate
+    - co-educate, coeducate
+    - school
+      - home-school
   - enrich
     - round out, fill out
     - choke, throttle
@@ -596,6 +301,7 @@ term: better
     - follow up
     - touch up, retouch
   - repair, mend, fix, bushel, doctor, furbish up, restore, touch on
+    - darn
     - tinker, fiddle
     - fill
       - close, fill up
@@ -614,27 +320,33 @@ term: better
     - sole, resole
     - vamp, revamp
     - heel, reheel
-    - darn
   - reform
   - fancify, beautify, embellish, prettify
+    - polish, smooth, smoothen, shine
+      - gloss
+      - Simonize, Simonise
+      - slick, sleek
+      - buff, burnish, furbish
+    - dress up, window-dress
+    - spruce up, spruce, titivate, tittivate, smarten up, slick up, spiff up
+    - become, suit
     - groom, neaten
       - cleanse, clean
+        - decontaminate
         - bathe
           - shower
+          - foment
         - wash
         - wash, lave
+          - hush, wash
           - sponge down
           - scrub, scrub up
           - gargle, rinse
           - shampoo
             - condition
-          - hush
         - soap, lather
-        - bathe, bath
-          - foment
         - douche
         - floss
-        - decontaminate
       - shave
         - razor
         - tonsure
@@ -663,37 +375,34 @@ term: better
       - spruce up, spruce, slick up, smarten up
       - perfume, scent
     - dress, groom, curry
-    - dress up, window-dress
-    - spruce up, spruce, titivate, tittivate, smarten up, slick up, spiff up
-    - polish, smooth, smoothen, shine
-      - Simonize, Simonise
-      - slick, sleek
-      - buff, burnish, furbish
-      - gloss
-    - become, suit
   - build
   - perfect, hone
     - optimize, optimise
     - polish, round, round off, polish up, brush up
   - polish, refine, fine-tune, down
-    - overrefine, over-refine
     - educate, school, train, cultivate, civilize, civilise
       - sophisticate
-  - purify, sublimate, make pure, distill
+    - overrefine, over-refine
+  - purify, sublimate, make pure, distill, distil
     - refine, rectify
     - purge
   - fructify
   - raise, lift
   - advance
-  - educate
-    - socialize, socialise
-    - prepare, groom, train
-      - qualify, dispose
-        - habilitate
-        - capacitate
-    - co-educate, coeducate
-    - school
-      - home-school
+  - relieve, alleviate, palliate, assuage
+    - soothe
+    - comfort, ease
+  - help, aid
+    - benefit, do good
+    - bring around, cure, heal
+      - recuperate
+  - regenerate, revitalize
+    - rejuvenate
+  - reform, straighten out, see the light
+  - surge
+  - turn around, pick up
+  - get well, get over, bounce back
+  - mend, heal
   - recuperate, recover, convalesce
     - perk up, perk, percolate, pick up, gain vigor
     - snap back
@@ -701,11 +410,6 @@ term: better
     - scab
     - skin over
     - granulate
-  - reform, straighten out, see the light
-  - surge
-  - turn around, pick up
-  - get well, get over, bounce back
-  - mend, heal
 [Domains]
   - comparative
   - comparative degree

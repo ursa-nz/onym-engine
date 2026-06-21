@@ -1,0 +1,227 @@
+term: older
+[Definitions]
+  - (adjective) (‘aged’ is pronounced as two syllables) advanced in years
+      "aged members of the society"
+      "elderly residents could remember the construction of the first skyscraper"
+      "senior citizen"
+  - (adjective) used of the older of two persons of the same name especially used to distinguish a father from his son
+      "Bill Adams, Sr."
+  - (adjective) skilled through long experience
+      "an old offender"
+      "the older soldiers"
+  - (adjective) (used especially of persons) having lived for a relatively long time or attained a specific age
+      "his mother is very old"
+      "a ripe old age"
+      "how old are you?"
+  - (adjective) of long duration; not new
+      "old tradition"
+      "old house"
+      "old wine"
+      "old country"
+      "old friendships"
+      "old money"
+  - (adjective) (used for emphasis) very familiar
+      "good old boy"
+      "same old story"
+  - (adjective) skilled through long experience
+      "an old offender"
+      "the older soldiers"
+  - (adjective) belonging to some prior time
+      "erstwhile friend"
+      "our former glory"
+      "the once capital of the state"
+      "her quondam lover"
+  - (adjective) excellent
+      "he did a bully job"
+      "a neat sports car"
+      "had a great time at the party"
+      "you look simply smashing"
+      "we had a grand old time"
+  - (adjective) of a very early stage in development
+      "Old English is also called Anglo Saxon"
+      "Old High German is High German from the middle of the 9th to the end of the 11th century"
+  - (adjective) just preceding something else in time or order
+      "the previous owner"
+      "my old house was larger"
+[Synonyms]
+  - aged
+  - elderly
+  - senior
+  - elder
+  - sr.
+  - erstwhile
+  - former
+  - onetime
+  - one-time
+  - quondam
+  - sometime
+  - bang-up
+  - bully
+  - corking
+  - cracking
+  - dandy
+  - great
+  - groovy
+  - keen
+  - neat
+  - nifty
+  - not bad
+  - peachy
+  - slap-up
+  - swell
+  - smashing
+  - previous
+[Antonyms]
+  - old (indirect)
+      -> young
+      -> immature
+  - senior (indirect)
+      -> junior
+  - experienced (indirect)
+      -> inexperienced
+      -> inexperient
+  - young (direct)
+      -> immature
+      -> one-year-old
+      -> two-year-old
+      -> three-year-old
+      -> four-year-old
+      -> five-year-old
+      -> adolescent
+      -> teen
+      -> teenage
+      -> teenaged
+      -> infantile
+      -> boyish
+      -> boylike
+      -> schoolboyish
+      -> childlike
+      -> childly
+      -> early
+      -> girlish
+      -> schoolgirlish
+      -> junior
+      -> little
+      -> small
+      -> newborn
+      -> preteen
+      -> preadolescent
+      -> puppyish
+      -> puppylike
+      -> tender
+      -> youngish
+      -> youthful
+      -> vernal
+  - new (direct)
+      -> brand-new
+      -> bran-new
+      -> spic-and-span
+      -> spick-and-span
+      -> fresh
+      -> hot
+      -> red-hot
+      -> newborn
+      -> new-sprung
+      -> newfangled
+      -> new-fangled
+      -> newfound
+      -> novel
+      -> refreshing
+      -> parvenu
+      -> parvenue
+      -> recent
+      -> revolutionary
+      -> radical
+      -> rising
+      -> sunrise
+      -> untested
+      -> untried
+      -> unused
+      -> virgin
+      -> young
+  - familiar (indirect)
+      -> unfamiliar
+  - future (indirect)
+      -> present
+  - past (indirect)
+      -> future
+  - good (indirect)
+      -> bad
+  - late (indirect)
+      -> middle
+  - early (indirect)
+      -> late
+  - preceding (indirect)
+      -> succeeding
+[Derived forms]
+  - oldness
+[Similar to]
+  - old
+  - senior
+  - experienced
+  - experient
+  - aged
+  - elderly
+  - older
+  - of age
+  - aging
+  - ageing
+  - senescent
+  - ancient
+  - anile
+  - centenarian
+  - darkened
+  - doddering
+  - doddery
+  - gaga
+  - senile
+  - emeritus
+  - grey
+  - gray
+  - grey-haired
+  - gray-haired
+  - grey-headed
+  - gray-headed
+  - grizzly
+  - hoar
+  - hoary
+  - white-haired
+  - middle-aged
+  - nonagenarian
+  - octogenarian
+  - oldish
+  - overage
+  - overaged
+  - superannuated
+  - over-the-hill
+  - sexagenarian
+  - venerable
+  - age-old
+  - antique
+  - antediluvian
+  - antiquated
+  - archaic
+  - auld
+  - hand-me-down
+  - hand-down
+  - rusty
+  - immemorial
+  - long-ago
+  - longtime
+  - long-time
+  - patched
+  - secondhand
+  - used
+  - sunset
+  - yellow
+  - yellowed
+  - familiar
+  - past
+  - good
+  - early
+  - preceding
+[Attributes]
+  - age
+[Domains]
+  - colloquialism
+  - linguistics

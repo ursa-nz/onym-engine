@@ -1,0 +1,210 @@
+term: trunk
+[Definitions]
+  - (noun) the main stem of a tree; usually covered with bark; the bole is usually the part that is commercially useful for lumber
+  - (noun) luggage consisting of a large strong case used when traveling or for storage
+  - (noun) the body excluding the head and neck and limbs
+      "they moved their arms and legs and bodies"
+  - (noun) compartment in an automobile that carries luggage or shopping or tools
+      "he put his golf bag in the trunk"
+  - (noun) a long flexible snout as of an elephant
+[Synonyms]
+  - tree trunk
+  - bole
+  - torso
+  - body
+  - luggage compartment
+  - automobile trunk
+  - boot
+  - proboscis
+[Is a kind of]
+  - stalk, stem
+    - plant organ
+      - plant part, plant structure
+        - natural object
+          - whole, unit
+            - object, physical object
+              - physical entity
+                - entity
+  - baggage, luggage
+    - case
+      - container
+        - instrumentality, instrumentation, means
+          - artifact, artefact
+            - whole, unit
+              - object, physical object
+                - physical entity
+                  - entity
+  - body part
+    - part, piece
+      - thing
+        - physical entity
+          - entity
+  - compartment
+    - room
+      - area
+        - structure, construction
+          - artifact, artefact
+            - whole, unit
+              - object, physical object
+                - physical entity
+                  - entity
+  - snout, neb
+    - nose, olfactory organ
+      - chemoreceptor
+        - sense organ, sensory receptor, receptor
+          - organ
+            - body part
+              - part, piece
+                - thing
+                  - physical entity
+                    - entity
+[Kinds]
+  - footlocker, locker
+    - cockpit locker
+[Part of]
+  - tree
+  - body, organic structure
+  - car, auto, automobile, machine, motorcar
+    - dashcam
+  - elephant
+  - mammoth
+[Parts]
+  - bark
+  - stalk, stem
+    - internode
+    - receptacle
+    - node, leaf node
+    - plant organ
+      - plant part, plant structure
+        - natural object
+          - whole, unit
+            - part, portion
+            - section, segment
+  - trunk lid
+  - baggage, luggage
+    - handle, grip, handgrip, hold
+      - shank, stem
+    - strap
+    - case
+      - container
+        - instrumentality, instrumentation, means
+          - artifact, artefact
+            - whole, unit
+              - part, portion
+              - section, segment
+  - diaphragm, midriff
+  - shoulder
+    - armpit, axilla, axillary cavity, axillary fossa
+      - axillary artery, arteria axillaris
+    - teres, teres muscle
+  - shoulder, shoulder joint, articulatio humeri
+    - scapula, shoulder blade, shoulder bone
+      - glenoid fossa, glenoid cavity
+      - acromion, acromial process
+    - circumflex humeral artery, arteria circumflexa humeri
+    - circumflex scapular artery, arteria circumflexa scapulae
+    - rotator cuff
+      - deltoid, deltoid muscle, musculus deltoideus
+  - serratus, serratus muscles
+  - side
+  - thorax, chest, pectus
+    - sternum, breastbone
+      - gladiolus, corpus sternum
+      - manubrium
+      - xiphoid process
+    - thoracic aorta
+    - thoracic vein, vena thoracica
+    - gallbladder, gall bladder
+    - area of cardiac dullness
+    - pectoral, pectoral muscle, pectoralis, musculus pectoralis, pecs
+    - chest cavity, thoracic cavity
+      - mediastinum
+    - breast, chest
+    - rib cage
+  - middle, midriff, midsection
+  - waist, waistline
+  - belly, paunch
+  - spare tire, love handle
+  - hip
+    - gluteal artery, arteria glutes, arteria glutea
+  - haunch
+  - abdomen, venter, stomach, belly
+    - abdominal aorta
+    - colic artery, arteria colica
+    - hypochondrium
+    - intestine, bowel, gut
+      - hindgut
+    - navel, umbilicus, bellybutton, belly button, omphalos, omphalus
+    - abdominal, abdominal muscle, ab
+    - abdominal cavity, abdomen
+    - abdominal wall
+  - back, dorsum
+    - saddle
+    - small
+    - latissimus dorsi, lat
+    - thoracic vertebra, dorsal vertebra
+    - lumbar vertebra
+  - buttocks, nates, arse, butt, backside, bum, buns, can, fundament, hindquarters, hind end, keister, posterior, prat, rear, rear end, rump, stern, seat, tail, tail end, tooshie, tush, bottom, behind, derriere, fanny, ass
+  - buttock, cheek
+    - gluteus, gluteus muscle, gluteal muscle, glute
+  - loins
+    - groin, inguen
+  - body part
+    - corpus
+  - compartment
+    - room
+      - ceiling
+      - floor, flooring
+      - room light
+      - wall
+        - arch, archway
+        - capstone, copestone, coping stone, stretcher
+        - course, row
+        - doorway, door, room access, threshold
+          - casing, case
+          - door
+            - lock
+              - bolt, deadbolt
+              - keyhole
+              - tumbler
+          - doorframe, doorcase
+            - doorjamb, doorpost
+          - doorsill, doorstep, threshold
+        - header, coping, cope
+        - paneling, panelling, pane
+        - pier
+        - wainscot, dado
+        - wall panel
+      - area
+        - structure, construction
+          - foundation, base, fundament, foot, groundwork, substructure, understructure
+          - plate
+          - structural member
+          - artifact, artefact
+            - whole, unit
+              - part, portion
+              - section, segment
+  - snout, neb
+    - nose, olfactory organ
+      - turbinate bone, turbinate, turbinal
+      - ethmoidal artery, arteria ethmoidalis
+      - nasal cavity
+        - neuroepithelium
+      - internasal suture, sutura internasalis
+      - bridge
+        - nasal, nasal bone, os nasale
+          - rhinion
+      - nostril, anterior naris
+      - chemoreceptor
+        - sense organ, sensory receptor, receptor
+          - papilla
+          - organ
+            - lobe
+            - body part
+              - corpus
+[Domains]
+  - American English
+  - American language
+  - American
+  - British English
+  - UK English

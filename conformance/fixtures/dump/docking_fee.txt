@@ -1,0 +1,16 @@
+term: docking fee
+[Definitions]
+  - (noun) a fee charged for a vessel to use a dock
+[Synonyms]
+  - dockage
+[Is a kind of]
+  - fee
+    - fixed charge, fixed cost, fixed costs
+      - charge
+        - cost
+          - outgo, spending, expenditure, outlay
+            - transferred property, transferred possession
+              - possession
+                - relation
+                  - abstraction, abstract entity
+                    - entity

@@ -1,0 +1,11 @@
+term: celestial guidance
+[Definitions]
+  - (noun) a method of controlling the flight of a missile or spacecraft by reference to the positions of celestial bodies
+[Is a kind of]
+  - steering, guidance, direction
+    - control
+      - activity
+        - act, deed, human action, human activity
+          - event
+            - abstraction, abstract entity
+              - entity

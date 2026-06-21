@@ -1,0 +1,21 @@
+term: sendup
+[Definitions]
+  - (noun) a composition that imitates or misrepresents somebody's style, usually in a humorous way
+[Synonyms]
+  - parody
+  - lampoon
+  - spoof
+  - send-up
+  - mockery
+  - takeoff
+  - burlesque
+  - travesty
+  - pasquinade
+  - put-on
+[Is a kind of]
+  - caricature, imitation, impersonation
+    - wit, humor, humour, witticism, wittiness
+      - message, content, subject matter, substance
+        - communication
+          - abstraction, abstract entity
+            - entity

@@ -1,0 +1,15 @@
+term: deanship
+[Definitions]
+  - (noun) the position or office of a dean
+[Synonyms]
+  - deanery
+[Derived forms]
+  - dean
+[Is a kind of]
+  - position, post, berth, office, place, situation
+    - occupation, business, job, line of work, line
+      - activity
+        - act, deed, human action, human activity
+          - event
+            - abstraction, abstract entity
+              - entity

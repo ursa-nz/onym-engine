@@ -1,0 +1,30 @@
+term: flaunt
+[Definitions]
+  - (verb) display proudly; act ostentatiously or pretentiously
+      "he showed off his new sports car"
+  - (noun) the act of displaying something ostentatiously
+      "his behavior was an outrageous flaunt"
+[Synonyms]
+  - flash
+  - show off
+  - ostentate
+  - swank
+[Derived forms]
+  - flaunty
+  - flash
+  - show off
+  - ostentate
+  - swank
+[Is a kind of]
+  - display
+    - communication
+      - abstraction, abstract entity
+        - entity
+  - expose, exhibit, display
+    - show
+      - change, alter, modify
+        - induce, stimulate, cause, have, get, make
+          - act, move
+[Kinds]
+  - flex
+  - splurge

@@ -1,0 +1,22 @@
+term: Tinbergen
+[Definitions]
+  - (noun) Dutch zoologist who showed that much animal behavior is innate and stereotyped (1907-1988)
+  - (noun) Dutch economist noted for his work in econometrics (1903-1994)
+[Synonyms]
+  - Nikolaas Tinbergen
+  - Jan Tinbergen
+[Is a kind of]
+  - zoologist, animal scientist
+    - biologist, life scientist
+      - scientist
+        - actor, doer, worker
+          - causal agent, cause, causal agency
+            - physical entity
+              - entity
+  - economist, economic expert
+    - social scientist
+      - scientist
+        - actor, doer, worker
+          - causal agent, cause, causal agency
+            - physical entity
+              - entity

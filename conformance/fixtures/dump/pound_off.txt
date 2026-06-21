@@ -1,0 +1,11 @@
+term: pound off
+[Definitions]
+  - (verb) partition off into compartments
+      "The locks pound the water of the canal"
+[Synonyms]
+  - pound
+[Is a kind of]
+  - partition, partition off
+    - separate, divide, part
+      - change
+        - act, move

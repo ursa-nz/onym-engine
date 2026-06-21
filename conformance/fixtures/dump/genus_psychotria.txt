@@ -1,0 +1,18 @@
+term: genus Psychotria
+[Definitions]
+  - (noun) tropical chiefly South American shrubs and trees
+[Synonyms]
+  - Psychotria
+[Is a kind of]
+  - asterid dicot genus
+    - dicot genus, magnoliopsid genus
+      - genus
+        - taxonomic group, taxonomic category, taxon
+          - biological group
+            - group, grouping
+              - abstraction, abstract entity
+                - entity
+[Part of]
+  - Rubiaceae, family Rubiaceae, madder family
+[Parts]
+  - lemonwood, lemon-wood, lemonwood tree, lemon-wood tree, Psychotria capensis

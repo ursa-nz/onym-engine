@@ -1,0 +1,33 @@
+term: waiver
+[Definitions]
+  - (noun) a formal written statement of relinquishment
+[Synonyms]
+  - release
+  - discharge
+[Derived forms]
+  - waive
+  - relinquish
+  - forgo
+  - forego
+  - foreswear
+  - dispense with
+  - forfeit
+  - give up
+  - throw overboard
+[Is a kind of]
+  - relinquishment, relinquishing
+    - termination, ending, conclusion
+      - change of state
+        - change
+          - action
+            - act, deed, human action, human activity
+              - event
+                - abstraction, abstract entity
+                  - entity
+[Kinds]
+  - exemption, immunity, granting immunity
+    - fix
+    - official immunity
+    - sovereign immunity
+    - use immunity, testimonial immunity
+      - transactional immunity

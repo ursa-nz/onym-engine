@@ -1,0 +1,249 @@
+term: worse
+[Definitions]
+  - (adjective) (comparative of ‘bad’) inferior to another in quality or condition or desirability
+      "this road is worse than the first one we took"
+      "the road is in worse shape than it was"
+      "she was accused of worse things than cheating and lying"
+  - (adjective) changed for the worse in health or fitness
+      "I feel worse today"
+      "her cold is worse"
+  - (adverb) (comparative of ‘ill’) in a less effective or successful or desirable manner
+      "he did worse on the second exam"
+  - (noun) something inferior in quality or condition or effect
+      "for better or for worse"
+      "accused of cheating and lying and worse"
+  - (adjective) having undesirable or negative qualities
+      "a bad report card"
+      "his sloppy appearance made a bad impression"
+      "a bad little boy"
+      "clothes in bad shape"
+      "a bad cut"
+      "bad luck"
+      "the news was very bad"
+      "the reviews were bad"
+      "the pay is bad"
+      "it was a bad light for reading"
+      "the movie was a bad choice"
+  - (adjective) serious or severe
+      "a bad headache"
+      "in a big rage"
+      "had a big (or bad) shock"
+      "a bad earthquake"
+      "a bad storm"
+  - (adjective) feeling physical discomfort or pain (‘tough’ is occasionally used colloquially for ‘bad’)
+      "my throat feels bad"
+      "she felt bad all over"
+      "he was feeling tough after a restless night"
+  - (adjective) (of foodstuffs) not in an edible or usable condition
+      "bad meat"
+      "a refrigerator full of spoilt food"
+  - (adjective) feeling or expressing regret or sorrow or a sense of loss over something done or undone
+      "felt regretful over his vanished youth"
+      "regretful over mistakes she had made"
+      "he felt bad about breaking the vase"
+  - (adjective) not capable of being collected
+      "a bad (or uncollectible) debt"
+  - (adjective) below average in quality or performance
+      "a bad chess player"
+      "a bad recital"
+  - (adjective) nonstandard
+      "so-called bad grammar"
+  - (adjective) not financially safe or secure
+      "a bad investment"
+      "high risk investments"
+      "anything that promises to pay too much can't help being risky"
+      "speculative business enterprises"
+  - (adjective) physically unsound or diseased
+      "has a bad back"
+      "a bad heart"
+      "bad teeth"
+      "an unsound limb"
+      "unsound teeth"
+  - (adjective) capable of harming
+      "bad air"
+      "smoking is bad for you"
+  - (adjective) characterized by wickedness or immorality
+      "led a very bad life"
+  - (adjective) reproduced fraudulently
+      "like a bad penny …"
+      "a forged twenty dollar bill"
+  - (adjective) not working properly
+      "a bad telephone connection"
+      "a defective appliance"
+[Synonyms]
+  - worsened
+  - big
+  - tough
+  - spoiled
+  - spoilt
+  - regretful
+  - sorry
+  - uncollectible
+  - risky
+  - high-risk
+  - speculative
+  - unfit
+  - unsound
+  - forged
+  - defective
+[Antonyms]
+  - better (direct)
+      -> amended
+      -> finer
+      -> improved
+      -> fitter
+      -> healthier
+  - good (direct)
+      -> bang-up
+      -> bully
+      -> corking
+      -> cracking
+      -> dandy
+      -> great
+      -> groovy
+      -> keen
+      -> neat
+      -> nifty
+      -> not bad
+      -> peachy
+      -> slap-up
+      -> swell
+      -> smashing
+      -> old
+      -> good enough
+      -> goodish
+      -> hot
+      -> redeeming
+      -> satisfactory
+      -> acceptable
+      -> decent
+      -> solid
+      -> superb
+      -> well-behaved
+      -> well behaved
+      -> instagood
+      -> ecofriendly
+      -> green
+  - intense (indirect)
+      -> mild
+  - uncomfortable (indirect)
+      -> comfortable
+      -> comfy
+  - stale (indirect)
+      -> fresh
+  - invalid (indirect)
+      -> valid
+  - inferior (indirect)
+      -> superior
+  - nonstandard (indirect)
+      -> standard
+      -> received
+  - unsound (indirect)
+      -> sound
+  - unhealthy (indirect)
+      -> healthy
+  - harmful (indirect)
+      -> harmless
+  - evil (indirect)
+      -> good
+  - counterfeit (indirect)
+      -> genuine
+      -> echt
+  - malfunctioning (indirect)
+      -> functioning
+[Derived forms]
+  - worsened
+  - badness
+  - severity
+  - severeness
+[Similar to]
+  - worsened
+  - atrocious
+  - abominable
+  - awful
+  - dreadful
+  - painful
+  - terrible
+  - unspeakable
+  - corked
+  - corky
+  - deplorable
+  - distressing
+  - lamentable
+  - pitiful
+  - sad
+  - sorry
+  - fearful
+  - frightful
+  - hard
+  - tough
+  - hopeless
+  - horrid
+  - icky
+  - crappy
+  - lousy
+  - rotten
+  - shitty
+  - stinking
+  - stinky
+  - ill
+  - incompetent
+  - unskilled
+  - mediocre
+  - naughty
+  - negative
+  - pretty
+  - rubber
+  - no-good
+  - severe
+  - swingeing
+  - uncool
+  - unsuitable
+  - intense
+  - uncomfortable
+  - stale
+  - invalid
+  - inferior
+  - nonstandard
+  - unsound
+  - unhealthy
+  - harmful
+  - evil
+  - counterfeit
+  - imitative
+  - malfunctioning
+  - nonfunctional
+[Attributes]
+  - quality
+[Is a kind of]
+  - bad, badness
+    - quality
+      - attribute
+        - abstraction, abstract entity
+          - entity
+[Domains]
+  - comparative
+  - comparative degree
+  - colloquialism
+  - American spelling
+  - American English spelling
+  - American English orthography
+  - US spelling
+  - US English spelling
+  - US English orthography
+  - British spelling
+  - British English spelling
+  - British English orthography
+  - Irish spelling
+  - Irish English spelling
+  - Irish English orthography
+  - New Zealand spelling
+  - New Zealand English spelling
+  - New Zealand English orthography
+  - Commonwealth spelling
+  - Commonwealth English spelling
+  - Commonwealth English orthography
+  - Australian spelling
+  - Australian English spelling
+  - Australian English orthography
+  - linguistics

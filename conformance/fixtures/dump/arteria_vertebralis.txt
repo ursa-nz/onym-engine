@@ -1,0 +1,16 @@
+term: arteria vertebralis
+[Definitions]
+  - (noun) the first branch of the subclavian artery; divided into four parts
+[Synonyms]
+  - vertebral artery
+[Is a kind of]
+  - artery, arteria, arterial blood vessel
+    - blood vessel
+      - vessel, vas
+        - tube, tube-shaped structure
+          - structure, anatomical structure, complex body part, bodily structure, body structure
+            - body part
+              - part, piece
+                - thing
+                  - physical entity
+                    - entity

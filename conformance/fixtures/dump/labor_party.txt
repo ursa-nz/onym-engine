@@ -1,0 +1,15 @@
+term: labor party
+[Definitions]
+  - (noun) a left-of-center political party formed to represent the interest of ordinary working people
+[Synonyms]
+  - labour party
+[Is a kind of]
+  - party, political party
+    - organization, organisation
+      - social group
+        - group, grouping
+          - abstraction, abstract entity
+            - entity
+[Kinds]
+  - Australian Labor Party
+  - British Labour Party, Labour Party, Labour, Labor

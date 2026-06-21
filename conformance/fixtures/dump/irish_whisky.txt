@@ -1,0 +1,40 @@
+term: Irish whisky
+[Definitions]
+  - (noun) whiskey made in Ireland chiefly from barley
+[Synonyms]
+  - Irish
+  - Irish whiskey
+[Is a kind of]
+  - whiskey, whisky
+    - liquor, spirits, booze, hard drink, hard liquor, John Barleycorn, strong drink
+      - alcohol, alcoholic drink, alcoholic beverage, intoxicant, inebriant
+        - beverage, drink, drinkable, potable
+          - food, nutrient
+            - substance
+              - matter
+                - physical entity
+                  - entity
+          - liquid
+            - fluid
+              - substance
+                - matter
+                  - physical entity
+                    - entity
+                - part, portion, component part, component, constituent
+                  - relation
+                    - abstraction, abstract entity
+                      - entity
+        - drug of abuse, street drug
+          - drug
+            - agent
+              - causal agent, cause, causal agency
+                - physical entity
+                  - entity
+              - substance
+                - matter
+                  - physical entity
+                    - entity
+[Kinds]
+  - poteen
+[Part of]
+  - Irish coffee

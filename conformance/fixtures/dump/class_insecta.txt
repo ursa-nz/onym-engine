@@ -1,0 +1,44 @@
+term: class Insecta
+[Definitions]
+  - (noun) insects; about five-sixths of all known animal species
+[Synonyms]
+  - Insecta
+  - Hexapoda
+  - class Hexapoda
+[Is a kind of]
+  - class
+    - taxonomic group, taxonomic category, taxon
+      - biological group
+        - group, grouping
+          - abstraction, abstract entity
+            - entity
+[Part of]
+  - Arthropoda, phylum Arthropoda
+[Parts]
+  - Mantophasmatodea, order mantophasmatodea
+  - Mecoptera, order Mecoptera
+  - Collembola, order Collembola
+  - Protura, order Protura
+  - Coleoptera, order Coleoptera
+  - Embioptera, order Embioptera, Embiodea, order Embiodea
+  - Anoplura, order Anoplura
+  - Mallophaga, order Mallophaga
+  - Siphonaptera, order Siphonaptera
+  - Diptera, order Diptera
+  - Hymenoptera, order Hymenoptera
+  - Isoptera, order Isoptera
+  - Orthoptera, order Orthoptera
+  - Phasmida, order Phasmida, Phasmatodea, order Phasmatodea
+  - Exopterygota, subclass Exopterygota, Hemimetabola
+  - Dictyoptera, order Dictyoptera
+  - Hemiptera, order Hemiptera
+  - Psocoptera, order Psocoptera, Corrodentia, order Corrodentia
+  - Ephemeroptera, order Ephemeroptera, Ephemerida, order Ephemerida
+  - Plecoptera, order Plecoptera
+  - Neuroptera, order Neuroptera
+  - Odonata, order Odonata
+  - Trichoptera, order Trichoptera
+  - Thysanura, order Thysanura
+  - Thysanoptera, order Thysanoptera
+  - Dermaptera, order Dermaptera
+  - Lepidoptera, order Lepidoptera

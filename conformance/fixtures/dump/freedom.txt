@@ -1,0 +1,52 @@
+term: freedom
+[Definitions]
+  - (noun) the condition of being free; the power to act or speak or think without externally imposed restraints
+  - (noun) immunity from an obligation or duty
+[Synonyms]
+  - exemption
+[Attributes]
+  - free
+  - unfree
+[Is a kind of]
+  - state
+    - attribute
+      - abstraction, abstract entity
+        - entity
+  - unsusceptibility, immunity
+    - condition, status
+      - state
+        - attribute
+          - abstraction, abstract entity
+            - entity
+[Kinds]
+  - academic freedom
+  - enfranchisement
+  - free hand, blank check
+  - free rein, play
+  - freedom of the seas
+  - independence, independency
+    - autonomy, liberty
+      - self-government, self-determination, self-rule
+        - sovereignty
+        - local option
+        - home rule
+    - autarky, autarchy
+    - autonomy, self-direction, self-reliance, self-sufficiency
+    - separateness
+  - liberty
+    - license, licence
+      - poetic license
+    - latitude
+    - license, licence
+      - guerrilla warfare
+      - marauding
+    - discretion
+    - run
+  - civil liberty, political liberty
+  - svoboda
+  - amnesty
+  - diplomatic immunity
+  - indemnity
+  - impunity
+  - grandfather clause
+  - electiveness, optionality

@@ -1,0 +1,19 @@
+term: parental
+[Definitions]
+  - (adjective) designating the generation of organisms from which hybrid offspring are produced
+  - (adjective) relating to or characteristic of or befitting a parent
+      "parental guidance"
+[Synonyms]
+  - maternal
+  - paternal
+[Antonyms]
+  - filial (direct)
+      -> daughterly
+[Derived forms]
+  - parent
+[Pertains to]
+  - parent
+    - genitor
+[Domains]
+  - genetics
+  - genetic science

@@ -1,0 +1,89 @@
+term: para
+[Definitions]
+  - (noun) (obstetrics) the number of liveborn children a woman has delivered
+      "the parity of the mother must be considered"
+      "a bipara is a woman who has given birth to two children"
+  - (noun) 100 para equal 1 dinar in Yugoslavia
+  - (noun) a soldier in the paratroops
+  - (noun) an estuary in northern Brazil into which the Tocantins River flows
+  - (noun) port city in northern Brazil in the Amazon delta; main port and commercial center for the Amazon River basin
+[Synonyms]
+  - parity
+  - paratrooper
+  - Para River
+  - Belem
+  - Feliz Lusitania
+  - Santa Maria de Belem
+  - St. Mary of Bethlehem
+[Derived forms]
+  - parous
+[Is a kind of]
+  - pregnancy, gestation, maternity
+    - physical condition, physiological state, physiological condition
+      - condition, status
+        - state
+          - attribute
+            - abstraction, abstract entity
+              - entity
+  - Yugoslavian monetary unit
+    - monetary unit
+      - unit of measurement, unit
+        - definite quantity
+          - measure, quantity, amount
+            - abstraction, abstract entity
+              - entity
+  - soldier
+    - enlisted person
+      - military personnel
+        - skilled worker, trained worker
+          - worker
+            - actor, doer, worker
+              - causal agent, cause, causal agency
+                - physical entity
+                  - entity
+  - estuary
+    - body of water, water
+      - thing
+        - physical entity
+          - entity
+  - city, metropolis, urban center
+    - municipality
+      - urban area, populated area
+        - geographical area, geographic area, geographical region, geographic region
+          - region
+            - location
+              - object, physical object
+                - physical entity
+                  - entity
+      - administrative district, administrative division, territorial division
+        - district, territory, territorial dominion, dominion
+          - region
+            - location
+              - object, physical object
+                - physical entity
+                  - entity
+  - port
+    - geographic point, geographical point
+      - point
+        - location
+          - object, physical object
+            - physical entity
+              - entity
+[Part of]
+  - Yugoslavian dinar, dinar
+  - paratroops
+  - Brazil, Federative Republic of Brazil, Brasil
+[Parts]
+  - pregnancy, gestation, maternity
+    - cleavage, segmentation
+    - quickening
+    - parturiency, labor, labour, confinement, lying-in, travail, childbed
+      - uterine contraction
+      - effacement
+      - asynclitism, obliquity
+    - morning sickness
+[Domains]
+  - obstetrics
+  - OB
+  - tocology
+  - midwifery

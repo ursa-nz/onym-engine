@@ -1,0 +1,23 @@
+term: Icterus galbula bullockii
+[Definitions]
+  - (noun) western subspecies of northern oriole
+[Synonyms]
+  - Bullock's oriole
+[Is a kind of]
+  - northern oriole, Icterus galbula
+    - New World oriole, American oriole, oriole
+      - oscine, oscine bird
+        - passerine, passeriform bird
+          - bird
+            - vertebrate, craniate
+              - chordate
+                - animal, animate being, beast, brute, creature, fauna
+                  - organism, being
+                    - living thing, animate thing
+                      - whole, unit
+                        - object, physical object
+                          - physical entity
+                            - entity
+                    - causal agent, cause, causal agency
+                      - physical entity
+                        - entity

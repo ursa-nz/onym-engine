@@ -1,0 +1,14 @@
+term: cholelithotomy
+[Definitions]
+  - (noun) removal of gallstone through an incision in the gallbladder
+[Is a kind of]
+  - lithotomy
+    - ablation, extirpation, cutting out, excision
+      - operation, surgery, surgical operation, surgical procedure, surgical process
+        - medical procedure
+          - procedure, process
+            - activity
+              - act, deed, human action, human activity
+                - event
+                  - abstraction, abstract entity
+                    - entity

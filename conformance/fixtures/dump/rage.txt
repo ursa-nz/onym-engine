@@ -1,0 +1,89 @@
+term: rage
+[Definitions]
+  - (noun) a feeling of intense anger
+      "hell hath no fury like a woman scorned"
+      "his face turned red with rage"
+  - (noun) a state of extreme anger
+      "she fell into a rage and refused to answer"
+  - (noun) something that is desired intensely
+      "his rage for fame destroyed him"
+  - (noun) violent state of the elements
+      "the sea hurled itself in thundering rage against the rocks"
+  - (noun) an interest followed with exaggerated zeal
+      "he always follows the latest fads"
+      "it was all the rage that season"
+  - (verb) behave violently, as if in state of a great anger
+      "Sam and Sue rage"
+  - (verb) be violent; as of fires and storms
+  - (verb) feel intense anger
+      "Rage against the dying of the light!"
+[Synonyms]
+  - fury
+  - madness
+  - passion
+  - fad
+  - craze
+  - furor
+  - furore
+  - cult
+  - ramp
+  - storm
+[Derived forms]
+  - ramp
+  - storm
+  - fury
+  - madness
+[Is a kind of]
+  - anger, choler, ire
+    - emotion
+      - feeling
+        - state
+          - attribute
+            - abstraction, abstract entity
+              - entity
+  - anger, angriness
+    - emotional arousal
+      - arousal
+        - physical condition, physiological state, physiological condition
+          - condition, status
+            - state
+              - attribute
+                - abstraction, abstract entity
+                  - entity
+  - desire
+    - arousal
+      - physical condition, physiological state, physiological condition
+        - condition, status
+          - state
+            - attribute
+              - abstraction, abstract entity
+                - entity
+  - violence
+    - turbulence, upheaval, Sturm und Drang
+      - disorder
+        - state
+          - attribute
+            - abstraction, abstract entity
+              - entity
+  - fashion
+    - vogue, trend, style
+      - taste, appreciation, discernment, perceptiveness
+        - discrimination, secernment
+          - basic cognitive process
+            - process, cognitive process, mental process, operation, cognitive operation
+              - cognition, knowledge, noesis
+                - psychological feature
+                  - abstraction, abstract entity
+                    - entity
+  - act, behave, do, acquit, bear, deport, conduct, comport, carry
+    - act, move
+  - exist, be
+  - feel, experience
+    - perceive, comprehend
+      - learn, hear, get word, get wind, pick up, find out, get a line, discover, see
+        - act, move
+[Kinds]
+  - wrath
+  - lividity
+  - flip one's lid, blow up, throw a fit, hit the roof, hit the ceiling, have kittens, have a fit, combust, blow one's stack, fly off the handle, flip one's wig, lose one's temper, blow a fuse, go ballistic
+  - foam at the mouth, froth at the mouth

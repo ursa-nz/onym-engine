@@ -1,0 +1,61 @@
+term: Telosporidia
+[Definitions]
+  - (noun) parasitic sporozoans that form spores containing one or more infective sporozoites
+[Synonyms]
+  - subclass Telosporidia
+[Is a kind of]
+  - class
+    - taxonomic group, taxonomic category, taxon
+      - biological group
+        - group, grouping
+          - abstraction, abstract entity
+            - entity
+[Part of]
+  - Sporozoa, class Sporozoa
+    - Protozoa, phylum Protozoa
+      - Protoctista, kingdom Protoctista
+[Parts]
+  - Coccidia, order Coccidia
+    - Eimeriidae, family Eimeriidae
+      - genus Eimeria
+    - coccidium, eimeria
+  - Gregarinida, order Gregarinida
+    - gregarine
+  - Haemosporidia, order Haemosporidia
+    - haemosporidian
+    - Plasmodiidae, family Plasmodiidae
+    - Haemoproteidae, family Haemoproteidae
+      - haemoproteid
+      - Haemoproteus, genus Haemoproteus
+      - genus Leucocytozoon, genus Leucocytozoan
+        - leucocytozoan, leucocytozoon
+    - Babesiidae, family Babesiidae
+      - genus Babesia, genus Piroplasma
+      - piroplasm
+  - class
+    - order
+      - suborder
+      - family
+        - Bunyaviridae
+        - Togaviridae
+          - alphavirus
+        - Flaviviridae
+          - flavivirus
+        - Arenaviridae
+          - arenavirus
+          - Junin virus
+          - Lassa virus
+          - lymphocytic choriomeningitis virus
+          - Machupo virus
+        - Rhabdoviridae
+          - vesiculovirus
+          - rhabdovirus
+          - lyssavirus
+        - Reoviridae
+        - subfamily
+        - tribe
+        - genus
+          - subgenus
+          - species
+            - breed, strain, stock
+            - form, variant, strain, var.

@@ -1,0 +1,31 @@
+term: usurpation
+[Definitions]
+  - (noun) entry to another's property without right or permission
+  - (noun) wrongfully seizing and holding (an office or powers) by force (especially the seizure of a throne or supreme authority)
+      "a succession of generals who ruled by usurpation"
+[Synonyms]
+  - trespass
+  - encroachment
+  - violation
+  - intrusion
+[Derived forms]
+  - assume
+  - usurp
+  - seize
+  - take over
+  - arrogate
+[Is a kind of]
+  - wrongdoing, wrongful conduct, misconduct, actus reus
+    - activity
+      - act, deed, human action, human activity
+        - event
+          - abstraction, abstract entity
+            - entity
+  - capture, gaining control, seizure
+    - acquiring, getting
+      - act, deed, human action, human activity
+        - event
+          - abstraction, abstract entity
+            - entity
+[Kinds]
+  - inroad

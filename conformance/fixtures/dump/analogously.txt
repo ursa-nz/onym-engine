@@ -1,0 +1,6 @@
+term: analogously
+[Definitions]
+  - (adverb) in an analogous manner
+      "analogously, we have a variable"
+[Pertains to]
+  - analogous, correspondent

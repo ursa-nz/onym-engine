@@ -1,0 +1,17 @@
+term: Prince Edward Island
+[Definitions]
+  - (noun) an island in the Gulf of Saint Lawrence; the smallest province of Canada
+[Is a kind of]
+  - Canadian province
+    - state, province
+      - administrative district, administrative division, territorial division
+        - district, territory, territorial dominion, dominion
+          - region
+            - location
+              - object, physical object
+                - physical entity
+                  - entity
+[Part of]
+  - The Maritimes, Maritime Provinces, Maritimes, Canadian Maritime Provinces
+[Parts]
+  - Charlottetown

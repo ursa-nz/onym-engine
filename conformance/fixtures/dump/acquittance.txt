@@ -1,0 +1,16 @@
+term: acquittance
+[Definitions]
+  - (noun) a legal document evidencing the discharge of a debt or obligation
+[Synonyms]
+  - release
+[Is a kind of]
+  - legal document, legal instrument, official document, instrument
+    - document, written document, papers
+      - writing, written material, piece of writing
+        - written communication, written language, black and white
+          - communication
+            - abstraction, abstract entity
+              - entity
+[Domains]
+  - law
+  - jurisprudence

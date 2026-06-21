@@ -1,0 +1,16 @@
+term: raconteur
+[Definitions]
+  - (noun) a person skilled in telling anecdotes
+[Synonyms]
+  - anecdotist
+[Is a kind of]
+  - narrator, storyteller, teller
+    - speaker, talker, utterer, verbalizer, verbaliser
+      - articulator
+        - communicator
+          - actor, doer, worker
+            - causal agent, cause, causal agency
+              - physical entity
+                - entity
+[Kinds]
+  - Munchhausen, Karl Friedrich Hieronymus von Munchhausen, Munchausen, Baron Munchausen

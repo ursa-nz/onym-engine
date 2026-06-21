@@ -1,0 +1,43 @@
+term: grilled
+[Definitions]
+  - (adjective) cooked by radiant heat (as over a grill)
+  - (adjective) cooked over an outdoor grill
+  - (verb) cook over or under a grill
+      "grill the sausages"
+  - (verb) examine thoroughly
+      "the student was grilled for two hours on the subject of phonology"
+[Synonyms]
+  - broiled
+  - barbecued
+[Antonyms]
+  - cooked (indirect)
+      -> raw
+[Derived forms]
+  - grillroom
+  - grille
+  - grillwork
+  - broil
+  - broiling
+  - grilling
+[Similar to]
+  - cooked
+[Is a kind of]
+  - cook
+    - change integrity
+      - change
+        - act, move
+  - examine
+    - question, query
+      - ask, inquire, enquire
+        - communicate, intercommunicate
+          - interact
+            - act, move
+[Kinds]
+  - barbeque, barbecue, cook out
+  - hibachi
+  - broil, oven broil
+    - pan-broil
+[Domains]
+  - cooking
+  - cookery
+  - preparation

@@ -1,0 +1,25 @@
+term: forbearance
+[Definitions]
+  - (noun) good-natured tolerance of delay or incompetence
+  - (noun) a delay in enforcing rights or claims or privileges; refraining from acting
+      "his forbearance to reply was alarming"
+[Synonyms]
+  - patience
+  - longanimity
+[Derived forms]
+  - refrain
+  - forbear
+[Is a kind of]
+  - good nature
+    - disposition, temperament
+      - nature
+        - trait
+          - attribute
+            - abstraction, abstract entity
+              - entity
+  - delay, holdup
+    - inactivity
+      - act, deed, human action, human activity
+        - event
+          - abstraction, abstract entity
+            - entity

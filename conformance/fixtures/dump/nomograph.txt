@@ -1,0 +1,13 @@
+term: nomograph
+[Definitions]
+  - (noun) a graphic representation of numerical relations
+[Synonyms]
+  - nomogram
+[Is a kind of]
+  - representation
+    - creation
+      - artifact, artefact
+        - whole, unit
+          - object, physical object
+            - physical entity
+              - entity

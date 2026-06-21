@@ -1,0 +1,15 @@
+term: sixpenny
+[Definitions]
+  - (adjective) of trifling worth
+[Synonyms]
+  - threepenny
+  - twopenny
+  - tuppeny
+  - two-a-penny
+  - twopenny-halfpenny
+[Antonyms]
+  - cheap (indirect)
+      -> expensive
+[Similar to]
+  - cheap
+  - inexpensive

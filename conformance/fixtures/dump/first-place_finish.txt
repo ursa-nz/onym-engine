@@ -1,0 +1,16 @@
+term: first-place finish
+[Definitions]
+  - (noun) a finish in first place (as in a race)
+[Is a kind of]
+  - win
+    - victory, triumph
+      - ending, conclusion, finish
+        - happening, occurrence, occurrent, natural event
+          - event
+            - abstraction, abstract entity
+              - entity
+      - success
+        - happening, occurrence, occurrent, natural event
+          - event
+            - abstraction, abstract entity
+              - entity

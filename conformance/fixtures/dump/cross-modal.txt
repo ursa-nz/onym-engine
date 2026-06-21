@@ -1,6 +1,0 @@
-term: cross-modal
-[Definitions]
-  - (adjective) relating to different sense modalities
-[Pertains to]
-  - modality, sense modality, sensory system
-    - sense, sensation, sentience, sentiency, sensory faculty

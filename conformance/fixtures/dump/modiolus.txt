@@ -1,0 +1,38 @@
+term: modiolus
+[Definitions]
+  - (noun) the central conical bony pillar of the cochlea
+[Is a kind of]
+  - bone, os
+    - connective tissue
+      - animal tissue
+        - tissue
+          - body part
+            - part, piece
+              - thing
+                - physical entity
+                  - entity
+[Part of]
+  - cochlea
+    - inner ear, internal ear, labyrinth
+      - auditory apparatus
+        - auditory system
+[Parts]
+  - bone, os
+    - collagen
+    - bone, osseous tissue
+    - socket
+    - marrow, bone marrow
+    - lamella
+    - bone cell
+    - condyle
+    - coronoid process, processus coronoideus
+    - matrix, intercellular substance, ground substance
+    - connective tissue
+      - collagen
+      - histiocyte
+      - matrix, intercellular substance, ground substance
+      - mast cell, mastocyte, labrocyte
+      - animal tissue
+        - tissue
+          - body part
+            - corpus

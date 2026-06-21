@@ -1,0 +1,11 @@
+term: fistful
+[Definitions]
+  - (noun) the quantity that can be held in the hand
+[Synonyms]
+  - handful
+[Is a kind of]
+  - containerful
+    - indefinite quantity
+      - measure, quantity, amount
+        - abstraction, abstract entity
+          - entity

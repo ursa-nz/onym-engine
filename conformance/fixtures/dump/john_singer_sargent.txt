@@ -1,0 +1,13 @@
+term: John Singer Sargent
+[Definitions]
+  - (noun) United States painter (born in Italy) known for his society portraits (1856-1925)
+[Synonyms]
+  - Sargent
+[Is a kind of]
+  - painter
+    - artist, creative person
+      - creator
+        - actor, doer, worker
+          - causal agent, cause, causal agency
+            - physical entity
+              - entity

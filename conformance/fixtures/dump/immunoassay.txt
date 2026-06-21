@@ -1,0 +1,18 @@
+term: immunoassay
+[Definitions]
+  - (noun) identification of a substance (especially a protein) by its action as an antigen
+      "PSA in the blood can be measured with an immunochemical assay"
+[Synonyms]
+  - immunochemical assay
+[Is a kind of]
+  - bioassay, bio-assay
+    - assay
+      - test, trial, run
+        - attempt, effort, endeavor, endeavour, try
+          - activity
+            - act, deed, human action, human activity
+              - event
+                - abstraction, abstract entity
+                  - entity
+[Kinds]
+  - radioimmunoassay

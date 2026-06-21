@@ -1,0 +1,14 @@
+term: Herman Northrop Frye
+[Definitions]
+  - (noun) Canadian literary critic interested in the use of myth and symbolism (1912-1991)
+[Synonyms]
+  - Frye
+  - Northrop Frye
+[Is a kind of]
+  - literary critic
+    - critic
+      - professional, professional person
+        - actor, doer, worker
+          - causal agent, cause, causal agency
+            - physical entity
+              - entity

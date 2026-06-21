@@ -1,0 +1,13 @@
+term: tangible goods
+[Definitions]
+  - (noun) any type of good that can be physically touched, acquired to satisfy needs and desires.
+      "A physical good may cost more than an intangible good, but is easier to return or track."
+[Synonyms]
+  - physical goods
+[Is a kind of]
+  - commodity, trade good, good
+    - artifact, artefact
+      - whole, unit
+        - object, physical object
+          - physical entity
+            - entity

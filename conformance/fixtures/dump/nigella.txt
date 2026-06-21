@@ -1,0 +1,24 @@
+term: nigella
+[Definitions]
+  - (noun) any plant of the genus Nigella
+[Is a kind of]
+  - flower
+    - angiosperm, flowering plant
+      - spermatophyte, phanerogam, seed plant
+        - vascular plant, tracheophyte
+          - plant, flora, plant life
+            - organism, being
+              - living thing, animate thing
+                - whole, unit
+                  - object, physical object
+                    - physical entity
+                      - entity
+              - causal agent, cause, causal agency
+                - physical entity
+                  - entity
+[Kinds]
+  - love-in-a-mist, Nigella damascena
+  - fennel flower, Nigella hispanica
+  - black caraway, nutmeg flower, Roman coriander, Nigella sativa
+[Part of]
+  - genus Nigella

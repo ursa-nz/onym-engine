@@ -1,0 +1,17 @@
+term: genus Lasiurus
+[Definitions]
+  - (noun) a genus of Vespertilionidae, containing the hairy-tailed bats (Lasiurus)
+[Synonyms]
+  - Lasiurus
+[Is a kind of]
+  - mammal genus
+    - genus
+      - taxonomic group, taxonomic category, taxon
+        - biological group
+          - group, grouping
+            - abstraction, abstract entity
+              - entity
+[Part of]
+  - Vespertilionidae, family Vespertilionidae
+[Parts]
+  - red bat, Lasiurus borealis

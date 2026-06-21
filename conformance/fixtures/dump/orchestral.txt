@@ -1,0 +1,9 @@
+term: orchestral
+[Definitions]
+  - (adjective) relating to or composed for an orchestra
+      "orchestral score"
+[Derived forms]
+  - orchestra
+[Pertains to]
+  - orchestra
+    - musical organization, musical organisation, musical group

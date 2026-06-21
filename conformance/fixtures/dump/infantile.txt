@@ -1,0 +1,24 @@
+term: infantile
+[Definitions]
+  - (adjective) indicating a lack of maturity
+      "childish tantrums"
+      "infantile behavior"
+  - (adjective) of or relating to infants or infancy
+      "infantile paralysis"
+  - (adjective) being or befitting or characteristic of an infant
+      "infantile games"
+[Synonyms]
+  - childish
+[Antonyms]
+  - immature (indirect)
+      -> mature
+  - young (indirect)
+      -> old
+[Similar to]
+  - immature
+  - young
+[Pertains to]
+  - infancy, babyhood, early childhood
+    - time of life
+[Domains]
+  - smol

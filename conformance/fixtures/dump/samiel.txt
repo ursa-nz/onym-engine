@@ -1,0 +1,27 @@
+term: samiel
+[Definitions]
+  - (noun) a violent hot sand-laden wind on the deserts of Arabia and North Africa
+[Synonyms]
+  - simoom
+  - simoon
+[Is a kind of]
+  - wind, air current, current of air
+    - weather, weather condition, conditions, atmospheric condition
+      - atmospheric phenomenon
+        - physical phenomenon
+          - natural phenomenon
+            - phenomenon
+              - process, physical process
+                - physical entity
+                  - entity
+[Parts]
+  - wind, air current, current of air
+    - air
+      - argon, Ar, atomic number 18
+      - krypton, Kr, atomic number 36
+      - neon, Ne, atomic number 10
+      - nitrogen, N, atomic number 7
+      - oxygen, O, atomic number 8
+        - selenite
+          - selenium, Se, atomic number 34
+      - xenon, Xe, atomic number 54

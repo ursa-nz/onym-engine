@@ -1,0 +1,17 @@
+term: snowstorm
+[Definitions]
+  - (noun) a storm with widespread snowfall accompanied by strong winds
+[Synonyms]
+  - blizzard
+[Is a kind of]
+  - storm, violent storm
+    - atmospheric phenomenon
+      - physical phenomenon
+        - natural phenomenon
+          - phenomenon
+            - process, physical process
+              - physical entity
+                - entity
+[Parts]
+  - storm, violent storm
+    - storm center, storm centre

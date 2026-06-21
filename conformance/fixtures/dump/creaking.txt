@@ -1,0 +1,32 @@
+term: creaking
+[Definitions]
+  - (noun) a squeaking sound
+      "the creak of the floorboards gave him away"
+  - (verb) make a high-pitched, screeching noise
+      "The door creaked when I opened it slowly"
+      "My car engine makes a whining noise"
+[Synonyms]
+  - whine
+  - squeak
+  - screech
+  - screak
+  - skreak
+[Derived forms]
+  - whine
+  - squeak
+  - screech
+  - creak
+  - screak
+  - skreak
+  - creaking
+[Is a kind of]
+  - noise
+    - sound
+      - happening, occurrence, occurrent, natural event
+        - event
+          - abstraction, abstract entity
+            - entity
+  - make noise, resound, noise
+    - sound, go
+      - cause to be perceived
+        - exist, be

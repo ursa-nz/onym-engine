@@ -1,0 +1,10 @@
+term: irreparable
+[Definitions]
+  - (adjective) impossible to repair, rectify, or amend
+      "irreparable harm"
+      "an irreparable mistake"
+      "irreparable damages"
+[Antonyms]
+  - reparable (direct)
+      -> rectifiable
+      -> maintainable

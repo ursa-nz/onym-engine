@@ -1,0 +1,14 @@
+term: hod carrier
+[Definitions]
+  - (noun) a laborer who carries supplies to masons or bricklayers
+[Is a kind of]
+  - laborer, manual laborer, labourer, jack
+    - working person
+      - employee
+        - worker
+          - actor, doer, worker
+            - causal agent, cause, causal agency
+              - physical entity
+                - entity
+[Kinds]
+  - hodman

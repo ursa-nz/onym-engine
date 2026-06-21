@@ -1,0 +1,30 @@
+term: methylene blue
+[Definitions]
+  - (noun) a dark green dye used as a stain, an antiseptic, a chemical indicator, and an antidote in cyanide poisoning
+[Synonyms]
+  - methylthionine chloride
+[Is a kind of]
+  - stain
+    - coloring material, colouring material, color, colour
+      - material, stuff
+        - substance
+          - matter
+            - physical entity
+              - entity
+          - part, portion, component part, component, constituent
+            - relation
+              - abstraction, abstract entity
+                - entity
+  - thiazine
+    - organic compound
+      - compound, chemical compound
+        - chemical, chemical substance
+          - material, stuff
+            - substance
+              - matter
+                - physical entity
+                  - entity
+              - part, portion, component part, component, constituent
+                - relation
+                  - abstraction, abstract entity
+                    - entity

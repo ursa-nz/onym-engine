@@ -1,0 +1,35 @@
+term: parchment
+[Definitions]
+  - (noun) a superior paper resembling sheepskin
+  - (noun) skin of a sheep or goat prepared for writing on
+[Synonyms]
+  - sheepskin
+  - lambskin
+[Is a kind of]
+  - paper
+    - material, stuff
+      - substance
+        - matter
+          - physical entity
+            - entity
+        - part, portion, component part, component, constituent
+          - relation
+            - abstraction, abstract entity
+              - entity
+  - animal skin
+    - animal product
+      - animal material
+        - material, stuff
+          - substance
+            - matter
+              - physical entity
+                - entity
+            - part, portion, component part, component, constituent
+              - relation
+                - abstraction, abstract entity
+                  - entity
+[Kinds]
+  - vellum
+[Parts]
+  - paper
+    - cellulose

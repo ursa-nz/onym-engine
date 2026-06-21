@@ -1,0 +1,13 @@
+term: call attention
+[Definitions]
+  - (verb) point out carefully and clearly
+[Synonyms]
+  - signalize
+  - signalise
+  - point out
+[Is a kind of]
+  - indicate, point, designate, show
+    - inform
+      - communicate, intercommunicate
+        - interact
+          - act, move

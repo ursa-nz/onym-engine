@@ -1,0 +1,20 @@
+term: pragmatical
+[Definitions]
+  - (adjective) of or concerning the theory of pragmatism
+  - (adjective) concerned with practical matters
+      "a matter-of-fact (or pragmatic) approach to the problem"
+      "a matter-of-fact account of the trip"
+[Synonyms]
+  - pragmatic
+  - matter-of-fact
+[Antonyms]
+  - practical (indirect)
+      -> impractical
+[Derived forms]
+  - pragmatism
+  - realism
+[Similar to]
+  - practical
+[Pertains to]
+  - pragmatism
+    - philosophical doctrine, philosophical theory

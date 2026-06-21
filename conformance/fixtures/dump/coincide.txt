@@ -22,11 +22,12 @@ term: coincide
   - conjunction
   - co-occurrence
 [Is a kind of]
-  - coexist
+  - coexist, cohabit
     - exist, be
   - happen, hap, go on, pass off, occur, pass, fall out, come about, take place
   - match, fit, correspond, check, jibe, gibe, tally, agree
-    - equal, be
+    - be
+      - refer, pertain, relate, concern, come to, bear on, touch, touch on, have to do with
 [Kinds]
   - overlap
     - share

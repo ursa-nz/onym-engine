@@ -1,0 +1,21 @@
+term: astronomic
+[Definitions]
+  - (adjective) relating or belonging to the science of astronomy
+      "astronomic telescope"
+  - (adjective) inconceivably large
+[Synonyms]
+  - astronomical
+  - galactic
+[Antonyms]
+  - large (indirect)
+      -> small
+      -> little
+[Derived forms]
+  - astronomy
+  - uranology
+[Similar to]
+  - large
+  - big
+[Pertains to]
+  - astronomy, uranology
+    - physics, natural philosophy

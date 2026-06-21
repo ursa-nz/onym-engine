@@ -1,0 +1,21 @@
+term: bulbul
+[Definitions]
+  - (noun) nightingale spoken of in Persian poetry
+[Is a kind of]
+  - nightingale, Luscinia megarhynchos
+    - thrush
+      - oscine, oscine bird
+        - passerine, passeriform bird
+          - bird
+            - vertebrate, craniate
+              - chordate
+                - animal, animate being, beast, brute, creature, fauna
+                  - organism, being
+                    - living thing, animate thing
+                      - whole, unit
+                        - object, physical object
+                          - physical entity
+                            - entity
+                    - causal agent, cause, causal agency
+                      - physical entity
+                        - entity

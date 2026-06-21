@@ -1,0 +1,17 @@
+term: picture gallery
+[Definitions]
+  - (noun) a room or series of rooms where works of art are exhibited
+[Synonyms]
+  - gallery
+  - art gallery
+[Is a kind of]
+  - room
+    - area
+      - structure, construction
+        - artifact, artefact
+          - whole, unit
+            - object, physical object
+              - physical entity
+                - entity
+[Kinds]
+  - salon

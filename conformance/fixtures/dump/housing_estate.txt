@@ -1,0 +1,22 @@
+term: housing estate
+[Definitions]
+  - (noun) a residential area where the houses were all planned and built at the same time
+[Is a kind of]
+  - development
+    - district, territory, territorial dominion, dominion
+      - region
+        - location
+          - object, physical object
+            - physical entity
+              - entity
+[Part of]
+  - residential district, residential area, community
+[Domains]
+  - United Kingdom
+  - UK
+  - U.K.
+  - Britain
+  - United Kingdom of Great Britain and Northern Ireland
+  - Great Britain
+  - Blighty
+  - Albion

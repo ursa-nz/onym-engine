@@ -1,0 +1,81 @@
+term: fan
+[Definitions]
+  - (noun) a device for creating a current of air by movement of a surface or surfaces
+  - (noun) an enthusiastic devotee of sports
+  - (noun) an ardent follower and admirer
+  - (verb) strike out (a batter), (of a pitcher)
+  - (verb) make (an emotion) fiercer
+      "fan hatred"
+  - (verb) agitate the air
+  - (verb) blow away or off with a current of air
+      "winnow chaff"
+      "The speaker ceased to be an amusing little gnat to be fanned away and was kicked off the forum"
+[Synonyms]
+  - sports fan
+  - rooter
+  - buff
+  - devotee
+  - lover
+  - winnow
+[Derived forms]
+  - fandom
+[Is a kind of]
+  - device
+    - instrumentality, instrumentation, means
+      - artifact, artefact
+        - whole, unit
+          - object, physical object
+            - physical entity
+              - entity
+  - enthusiast, partisan, partizan
+    - supporter, protagonist, champion, admirer, booster, friend
+      - advocate, advocator, proponent, exponent
+        - actor, doer, worker
+          - causal agent, cause, causal agency
+            - physical entity
+              - entity
+  - follower
+    - actor, doer, worker
+      - causal agent, cause, causal agency
+        - physical entity
+          - entity
+  - strike out
+    - fail, neglect
+      - act, move
+  - intensify, compound, heighten, deepen
+    - increase
+      - change magnitude
+        - change
+          - act, move
+  - shake, agitate
+    - move
+      - act, move
+  - remove, take, take away, withdraw, take off, pull
+    - act, move
+[Kinds]
+  - electric fan, blower
+  - exhaust fan
+    - attic fan
+  - punkah
+  - aficionado
+  - railbird
+  - aerophile
+  - amorist
+  - bacchant, bacchanal
+  - groupie
+  - metalhead
+  - fanboy
+  - belieber
+  - directioner
+  - brony
+  - fangirl
+  - swiftie
+  - selenator
+  - winnow
+[Part of]
+  - cooling system, engine cooling system
+  - following, followers
+[Domains]
+  - baseball
+  - baseball game
+  - ball

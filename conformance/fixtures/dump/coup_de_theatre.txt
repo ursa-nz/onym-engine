@@ -1,0 +1,29 @@
+term: coup de theatre
+[Definitions]
+  - (noun) a dramatic surprise
+  - (noun) a sensational bit of stagecraft
+  - (noun) a highly successful theatrical production
+[Is a kind of]
+  - surprise
+    - change, alteration, modification
+      - happening, occurrence, occurrent, natural event
+        - event
+          - abstraction, abstract entity
+            - entity
+  - stagecraft
+    - craft, craftsmanship, workmanship
+      - skill, accomplishment, acquirement, acquisition, attainment
+        - ability, power
+          - cognition, knowledge, noesis
+            - psychological feature
+              - abstraction, abstract entity
+                - entity
+  - theatrical production, staging
+    - production
+      - presentation
+        - display
+          - communication
+            - abstraction, abstract entity
+              - entity
+[Part of]
+  - production

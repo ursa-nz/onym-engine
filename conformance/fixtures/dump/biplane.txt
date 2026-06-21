@@ -1,0 +1,80 @@
+term: biplane
+[Definitions]
+  - (noun) old fashioned airplane; has two wings one above the other
+[Is a kind of]
+  - airplane, aeroplane, plane
+    - heavier-than-air craft
+      - aircraft
+        - craft
+          - vehicle
+            - conveyance, transport
+              - instrumentality, instrumentation, means
+                - artifact, artefact
+                  - whole, unit
+                    - object, physical object
+                      - physical entity
+                        - entity
+[Parts]
+  - airplane, aeroplane, plane
+    - accelerator, accelerator pedal, gas pedal, gas, throttle, gun
+    - escape hatch
+    - fuselage
+      - porthole
+        - deadlight
+      - tail, tail assembly, empennage
+        - horizontal tail
+          - elevator
+          - horizontal stabilizer, horizontal stabiliser, tailplane
+        - stabilizer
+        - vertical tail
+          - rudder
+          - vertical stabilizer, vertical stabiliser, vertical fin, tail fin, tailfin
+    - hood, bonnet, cowl, cowling
+      - hood ornament
+    - landing gear
+      - nosewheel
+    - navigation light
+    - pod, fuel pod
+    - radome, radar dome
+    - windshield, windscreen
+    - wing
+      - aileron
+      - flap, flaps
+      - rib
+    - heavier-than-air craft
+      - aircraft
+        - aircraft engine
+        - bay
+        - cabin
+        - cockpit
+          - canopy
+          - ejection seat, ejector seat, capsule
+        - fuel system
+          - accelerator, throttle, throttle valve
+          - carburetor, carburettor
+            - air horn
+            - air-intake
+            - butterfly valve
+            - venturi
+          - choke
+          - fuel filter
+          - fuel gauge, fuel indicator
+          - fuel line, gas line, petrol line
+          - gasoline gauge, gasoline gage, gas gauge, gas gage, petrol gauge, petrol gage
+          - gas tank, gasoline tank, petrol tank
+          - intake manifold
+          - pump
+            - cylinder, piston chamber
+              - intake valve
+        - nose
+        - skeleton, skeletal frame, frame, underframe
+        - skin
+        - craft
+          - vehicle
+            - splashboard, splasher, dashboard
+            - conveyance, transport
+              - instrumentality, instrumentation, means
+                - artifact, artefact
+                  - whole, unit
+                    - part, portion
+                    - section, segment

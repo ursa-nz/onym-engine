@@ -1,0 +1,22 @@
+term: Palinurus
+[Definitions]
+  - (noun) type genus of the family Palinuridae
+[Synonyms]
+  - genus Palinurus
+[Is a kind of]
+  - arthropod genus
+    - genus
+      - taxonomic group, taxonomic category, taxon
+        - biological group
+          - group, grouping
+            - abstraction, abstract entity
+              - entity
+[Part of]
+  - Palinuridae, family Palinuridae
+    - Decapoda, order Decapoda
+      - Malacostraca, subclass Malacostraca
+        - Crustacea, class Crustacea
+          - Arthropoda, phylum Arthropoda
+            - Animalia, kingdom Animalia, animal kingdom
+[Parts]
+  - spiny lobster, langouste, rock lobster, crawfish, crayfish, sea crawfish

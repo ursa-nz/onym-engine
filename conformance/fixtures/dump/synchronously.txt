@@ -1,0 +1,6 @@
+term: synchronously
+[Definitions]
+  - (adverb) in synchrony; in a synchronous manner
+      "in four-chambered hearts, the two auricles move synchronously"
+[Pertains to]
+  - synchronous, synchronal, synchronic

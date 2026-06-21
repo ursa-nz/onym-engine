@@ -1,0 +1,18 @@
+term: Rhizobium
+[Definitions]
+  - (noun) the type genus of Rhizobiaceae; usually occur in the root nodules of legumes; can fix atmospheric oxygen
+[Synonyms]
+  - genus Rhizobium
+[Is a kind of]
+  - bacteria genus
+    - genus
+      - taxonomic group, taxonomic category, taxon
+        - biological group
+          - group, grouping
+            - abstraction, abstract entity
+              - entity
+[Part of]
+  - Rhizobiaceae, family Rhizobiaceae
+    - Eubacteriales, order Eubacteriales
+      - division Eubacteria
+        - Monera, kingdom Monera, Prokayotae, kingdom Prokaryotae

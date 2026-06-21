@@ -1,9 +1,0 @@
-term: cerebrally
-[Definitions]
-  - (adverb) in an intellectual manner
-      "cerebrally active"
-  - (adverb) in the brain
-      "bleeding cerebrally"
-[Pertains to]
-  - cerebral, intellectual
-  - cerebral

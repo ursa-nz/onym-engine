@@ -25,6 +25,9 @@ term: mouse
                     - object, physical object
                       - physical entity
                         - entity
+                - causal agent, cause, causal agency
+                  - physical entity
+                    - entity
   - bruise, contusion
     - injury, hurt, harm, trauma
       - ill health, unhealthiness, health problem
@@ -42,12 +45,12 @@ term: mouse
           - object, physical object
             - physical entity
               - entity
-    - causal agent, cause, causal agency
-      - physical entity
-        - entity
+      - causal agent, cause, causal agency
+        - physical entity
+          - entity
   - electronic device
     - device
-      - instrumentality, instrumentation
+      - instrumentality, instrumentation, means
         - artifact, artefact
           - whole, unit
             - object, physical object
@@ -55,7 +58,7 @@ term: mouse
                 - entity
 [Kinds]
   - house mouse, Mus musculus
-  - harvest mouse, Micromyx minutus
+  - harvest mouse, Micromys minutus
   - field mouse, fieldmouse
     - European wood mouse, Apodemus sylvaticus
   - nude mouse
@@ -65,6 +68,7 @@ term: mouse
     - cactus mouse, Peromyscus eremicus
     - cotton mouse, Peromyscus gossypinus
     - pygmy mouse, Baiomys taylori
+  - pen mouse
 [Parts]
   - rodent, gnawer
     - placental, placental mammal, eutherian, eutherian mammal
@@ -101,6 +105,8 @@ term: mouse
           - digit, dactyl
             - phalanx
             - nail
+              - root
+                - cementum, cement
               - half-moon, lunula, lunule
               - matrix
           - chordate
@@ -144,11 +150,11 @@ term: mouse
                             - calcarine sulcus, calcarine fissure
                             - occipital gyrus
                             - striate cortex, striate area, first visual area, area 17 of Brodmann, Brodmann's area 17
-                          - temporal lobe, temporal ccortex
+                          - temporal lobe, temporal cortex
                             - temporal gyrus
                             - amygdala, amygdaloid nucleus, corpus amygdaloideum
                         - gyrus, convolution
-                    - diencephalon, interbrain, betweenbrain, thalmencephalon
+                    - diencephalon, interbrain, betweenbrain
                       - mamillary body, mammillary body, corpus mamillare
                       - infundibulum
                       - third eye, pineal eye
@@ -160,7 +166,7 @@ term: mouse
                         - posterior pituitary, posterior pituitary gland, neurohypophysis, pars nervosa
                           - pars intermedia
                       - basal ganglion
-                      - thalamus
+                      - thalamus, thalamencephalon
                         - geniculate body
                         - subthalamus
                           - subthalamic nucleus
@@ -399,7 +405,7 @@ term: mouse
   - mouse button
   - electronic device
     - device
-      - instrumentality, instrumentation
+      - instrumentality, instrumentation, means
         - artifact, artefact
           - whole, unit
             - part, portion

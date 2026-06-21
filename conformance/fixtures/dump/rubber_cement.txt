@@ -1,0 +1,14 @@
+term: rubber cement
+[Definitions]
+  - (noun) an adhesive made by dissolving unvulcanized rubber in a solvent like benzene or naphtha
+[Is a kind of]
+  - adhesive material, adhesive agent, adhesive
+    - material, stuff
+      - substance
+        - matter
+          - physical entity
+            - entity
+        - part, portion, component part, component, constituent
+          - relation
+            - abstraction, abstract entity
+              - entity

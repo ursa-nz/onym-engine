@@ -1,0 +1,29 @@
+term: faultfinding
+[Definitions]
+  - (adjective) tending to make moral judgments or judgments based on personal opinions
+      "a counselor tries not to be faultfinding"
+  - (adjective) tending to find and call attention to faults
+      "a captious pedant"
+      "an excessively demanding and faultfinding tutor"
+  - (noun) persistent petty and unjustified criticism
+[Synonyms]
+  - carping
+  - captious
+[Antonyms]
+  - judgmental (indirect)
+      -> nonjudgmental
+  - critical (indirect)
+      -> uncritical
+[Derived forms]
+  - captious
+  - carping
+[Similar to]
+  - judgmental
+  - critical
+[Is a kind of]
+  - criticism, unfavorable judgment
+    - disapproval
+      - message, content, subject matter, substance
+        - communication
+          - abstraction, abstract entity
+            - entity

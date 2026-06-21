@@ -1,0 +1,143 @@
+term: chromatic color
+[Definitions]
+  - (noun) a color that has hue
+[Synonyms]
+  - chromatic colour
+  - spectral color
+  - spectral colour
+[Antonyms]
+  - achromatic color (direct)
+      -> achromatic colour
+[Is a kind of]
+  - color, colour, coloring, colouring
+    - visual property
+      - property
+        - attribute
+          - abstraction, abstract entity
+            - entity
+[Kinds]
+  - red, redness
+    - sanguine
+    - chrome red
+    - Turkey red, alizarine red
+    - cardinal, carmine
+    - crimson, ruby, deep red
+    - dark red
+      - burgundy
+      - claret
+      - oxblood red
+      - wine, wine-colored, wine-coloured
+    - purplish red, purplish-red
+      - magenta
+      - fuchsia
+      - maroon
+    - cerise, cherry, cherry red
+    - scarlet, vermilion, orange red
+    - reddishness
+    - rust
+  - orange, orangeness
+    - reddish orange
+      - tangerine
+  - salmon
+  - yellow, yellowness
+    - canary yellow, canary
+    - amber, gold
+    - brownish yellow
+    - gamboge, lemon, lemon yellow, maize
+    - old gold
+    - orange yellow, saffron
+      - ocher, ochre
+    - pale yellow, straw, wheat
+    - greenish yellow
+  - blond, blonde
+  - green, greenness, viridity
+    - greenishness
+    - sea green
+    - sage green
+    - bottle green
+    - chrome green
+    - emerald
+    - olive green, olive-green
+    - yellow green, yellowish green, chartreuse, Paris green, pea green
+    - bluish green, blue green, teal
+      - cyan
+    - jade green, jade
+    - pistachio green
+  - blue, blueness
+    - azure, cerulean, sapphire, lazuline, sky-blue
+    - powder blue
+    - steel blue
+    - Prussian blue
+    - dark blue, navy, navy blue
+    - greenish blue, aqua, aquamarine, turquoise, cobalt blue, peacock blue
+    - purplish blue, royal blue
+    - ultramarine
+    - cornflower blue
+    - bluishness
+  - purple, purpleness
+    - lavender
+    - mauve
+    - reddish purple, royal purple
+      - Tyrian purple
+    - violet, reddish blue
+      - indigo
+      - bishop's purple, bishop's violet
+  - pink
+    - pinkness
+    - carnation
+    - rose, rosiness
+      - old rose
+    - solferino, purplish pink
+    - yellowish pink, apricot, peach, salmon pink
+    - coral
+  - brown, brownness
+    - Vandyke brown
+    - chestnut
+    - chocolate, coffee, deep brown, umber, burnt umber
+    - hazel
+    - light brown
+      - tan, topaz
+      - dun, greyish brown, grayish brown, fawn
+      - beige, ecru
+    - mocha
+    - reddish brown, sepia, burnt sienna, Venetian red, mahogany
+      - brick red
+      - copper, copper color
+      - Indian red
+    - yellowish brown, raw sienna, buff, caramel, caramel brown
+      - snuff-color, snuff-colour
+    - puce
+    - olive brown
+    - taupe
+    - terra cotta
+  - olive
+    - olive drab, drab
+  - pastel
+  - complementary color, complementary
+[Parts]
+  - saturation, chroma, intensity, vividness
+[Domains]
+  - American spelling
+  - American English spelling
+  - American English orthography
+  - US spelling
+  - US English spelling
+  - US English orthography
+  - British spelling
+  - British English spelling
+  - British English orthography
+  - Irish spelling
+  - Irish English spelling
+  - Irish English orthography
+  - New Zealand spelling
+  - New Zealand English spelling
+  - New Zealand English orthography
+  - Commonwealth spelling
+  - Commonwealth English spelling
+  - Commonwealth English orthography
+  - Canadian spelling
+  - Canadian English spelling
+  - Canadian English orthography
+  - Australian spelling
+  - Australian English spelling
+  - Australian English orthography

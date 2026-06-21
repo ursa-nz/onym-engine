@@ -1,0 +1,33 @@
+term: Tulu
+[Definitions]
+  - (noun) a member of a Dravidian people living on the southwestern coast of India
+  - (noun) a Dravidian language spoken by the Tulu
+[Synonyms]
+  - Tulu language
+[Is a kind of]
+  - Dravidian
+    - Indian
+      - Asian, Asiatic
+        - inhabitant, habitant, dweller, denizen, indweller
+          - actor, doer, worker
+            - causal agent, cause, causal agency
+              - physical entity
+                - entity
+        - person of color, person of colour
+          - person, individual, someone, somebody, mortal, soul
+            - organism, being
+              - living thing, animate thing
+                - whole, unit
+                  - object, physical object
+                    - physical entity
+                      - entity
+              - causal agent, cause, causal agency
+                - physical entity
+                  - entity
+  - South Dravidian, South Dravidian language
+    - Dravidian, Dravidic, Dravidian language
+      - natural language, tongue
+        - language, linguistic communication
+          - communication
+            - abstraction, abstract entity
+              - entity

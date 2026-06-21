@@ -1,0 +1,29 @@
+term: overvaluation
+[Definitions]
+  - (noun) an appraisal that is too high
+  - (noun) too high a value or price assigned to something
+[Synonyms]
+  - overestimate
+  - overestimation
+  - overappraisal
+[Derived forms]
+  - overvalue
+  - overestimate
+[Is a kind of]
+  - appraisal, estimate, estimation
+    - commercial document, commercial instrument
+      - document, written document, papers
+        - writing, written material, piece of writing
+          - written communication, written language, black and white
+            - communication
+              - abstraction, abstract entity
+                - entity
+  - evaluation, valuation, rating
+    - appraisal, assessment
+      - classification, categorization, categorisation, sorting
+        - basic cognitive process
+          - process, cognitive process, mental process, operation, cognitive operation
+            - cognition, knowledge, noesis
+              - psychological feature
+                - abstraction, abstract entity
+                  - entity

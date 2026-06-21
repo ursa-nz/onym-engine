@@ -1,0 +1,35 @@
+term: notarise
+[Definitions]
+  - (verb) authenticate as a notary
+      "We had to have the signature notarized"
+[Synonyms]
+  - notarize
+[Is a kind of]
+  - attest, certify, manifest, demonstrate, evidence
+    - testify, bear witness, prove, evidence, show
+      - inform
+        - communicate, intercommunicate
+          - interact
+            - act, move
+[Domains]
+  - American spelling
+  - American English spelling
+  - American English orthography
+  - US spelling
+  - US English spelling
+  - US English orthography
+  - British spelling
+  - British English spelling
+  - British English orthography
+  - Irish spelling
+  - Irish English spelling
+  - Irish English orthography
+  - New Zealand spelling
+  - New Zealand English spelling
+  - New Zealand English orthography
+  - Commonwealth spelling
+  - Commonwealth English spelling
+  - Commonwealth English orthography
+  - Australian spelling
+  - Australian English spelling
+  - Australian English orthography

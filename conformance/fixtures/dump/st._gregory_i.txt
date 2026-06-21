@@ -1,0 +1,47 @@
+term: St. Gregory I
+[Definitions]
+  - (noun) (Roman Catholic Church) an Italian pope distinguished for his spiritual and temporal leadership; a saint and Doctor of the Church (540?-604)
+[Synonyms]
+  - Pope Gregory I
+  - Gregory
+  - Gregory I
+  - Saint Gregory I
+  - Gregory the Great
+[Is a kind of]
+  - pope, Catholic Pope, Roman Catholic Pope, pontiff, Holy Father, Vicar of Christ, Bishop of Rome
+    - spiritual leader
+      - leader
+        - actor, doer, worker
+          - causal agent, cause, causal agency
+            - physical entity
+              - entity
+    - Catholic
+      - Christian
+        - religious person
+          - actor, doer, worker
+            - causal agent, cause, causal agency
+              - physical entity
+                - entity
+  - saint
+    - deity, divinity, god, immortal
+      - spiritual being, supernatural being
+        - belief
+          - content, cognitive content, mental object
+            - cognition, knowledge, noesis
+              - psychological feature
+                - abstraction, abstract entity
+                  - entity
+  - Doctor of the Church, Doctor
+    - theologian, theologist, theologizer, theologiser
+      - scholar, scholarly person
+        - intellectual, intellect
+          - actor, doer, worker
+            - causal agent, cause, causal agency
+              - physical entity
+                - entity
+[Domains]
+  - Roman Catholic
+  - Western Church
+  - Roman Catholic Church
+  - Church of Rome
+  - Roman Church

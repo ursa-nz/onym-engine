@@ -1,0 +1,13 @@
+term: Henry Clay
+[Definitions]
+  - (noun) United States politician responsible for the Missouri Compromise between free and slave states (1777-1852)
+[Synonyms]
+  - Clay
+  - the Great Compromiser
+[Is a kind of]
+  - politician, politico, pol, political leader
+    - leader
+      - actor, doer, worker
+        - causal agent, cause, causal agency
+          - physical entity
+            - entity

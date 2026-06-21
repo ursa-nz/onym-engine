@@ -1,0 +1,13 @@
+term: Graham Greene
+[Definitions]
+  - (noun) English novelist and Catholic (1904-1991)
+[Synonyms]
+  - Greene
+  - Henry Graham Greene
+[Is a kind of]
+  - writer, author
+    - communicator
+      - actor, doer, worker
+        - causal agent, cause, causal agency
+          - physical entity
+            - entity

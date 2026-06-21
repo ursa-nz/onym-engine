@@ -1,0 +1,28 @@
+term: mylodon
+[Definitions]
+  - (noun) large (bear-sized) extinct edentate mammal of the Pleistocene in South America
+[Is a kind of]
+  - edentate
+    - placental, placental mammal, eutherian, eutherian mammal
+      - mammal, mammalian
+        - vertebrate, craniate
+          - chordate
+            - animal, animate being, beast, brute, creature, fauna
+              - organism, being
+                - living thing, animate thing
+                  - whole, unit
+                    - object, physical object
+                      - physical entity
+                        - entity
+                - causal agent, cause, causal agency
+                  - physical entity
+                    - entity
+[Part of]
+  - genus Mylodon
+    - Mylodontidae, family Mylodontidae
+      - Edentata, order Edentata
+        - Eutheria, subclass Eutheria
+          - Mammalia, class Mammalia
+            - Vertebrata, subphylum Vertebrata, Craniata, subphylum Craniata
+              - Chordata, phylum Chordata
+                - Animalia, kingdom Animalia, animal kingdom

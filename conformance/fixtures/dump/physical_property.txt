@@ -1,0 +1,153 @@
+term: physical property
+[Definitions]
+  - (noun) any property used to characterize matter and energy and their interactions
+[Is a kind of]
+  - property
+    - attribute
+      - abstraction, abstract entity
+        - entity
+[Kinds]
+  - absorptivity, absorption factor
+  - dissolubility, solubleness
+  - drippiness
+  - reflection, reflexion, reflectivity
+    - echo, reverberation, sound reflection, replication
+      - re-echo
+    - echo
+  - deflection, deflexion, bending
+    - windage, wind deflection
+    - refractivity, refractiveness
+  - temperature
+    - absolute temperature
+    - absolute zero
+    - Curie temperature, Curie point
+    - dew point
+    - flash point, flashpoint
+    - freezing point, melting point
+    - boiling point, boil
+    - mercury
+    - room temperature
+    - simmer
+    - body temperature, blood heat
+      - basal body temperature, basal temperature
+    - coldness, cold, low temperature, frigidity, frigidness
+      - chill, iciness, gelidity
+      - chilliness, coolness, nip
+      - frostiness
+      - cool
+    - hotness, heat, high temperature
+      - calefaction, incalescence
+      - fieriness, red heat
+      - torridity
+        - scorchingness
+      - warmth, warmness
+        - lukewarmness, tepidity, tepidness
+      - white heat
+  - heat content, total heat, enthalpy, H
+  - randomness, entropy, S
+    - conformational entropy
+  - perceptibility
+    - visibility, visibleness
+      - conspicuousness
+        - obviousness, noticeability, noticeableness, patency
+          - apparentness, apparency
+          - blatancy
+          - predomination, predominance
+        - obtrusiveness
+        - boldness, strikingness
+      - visual range
+    - audibility, audibleness
+    - distinguishability
+  - invisibility, invisibleness
+    - inconspicuousness
+      - unnoticeableness
+      - unobtrusiveness
+  - luminosity, brightness, brightness level, luminance, luminousness, light
+    - illuminance, illumination
+    - incandescence
+    - luminescence, glow
+  - inaudibility, inaudibleness
+  - imperceptibility
+    - impalpability
+  - reluctivity
+  - sensitivity, sensitiveness
+    - frequency response
+  - magnetization, magnetisation
+  - elasticity, snap
+    - resilience, resiliency
+    - bounce, bounciness
+    - give, spring, springiness
+    - stretch, stretchiness, stretchability
+    - temper, toughness
+    - elasticity of shear
+  - malleability, plasticity
+    - ductility, ductileness
+    - flexibility, flexibleness
+      - bendability, pliability
+        - pliancy, pliantness, suppleness
+      - whip
+      - turnability
+  - inelasticity
+    - deadness
+    - stiffness
+    - rigidity, rigidness
+      - inflexibility, inflexibleness
+  - unmalleability
+  - mass
+    - body
+    - biomass
+    - critical mass
+    - rest mass
+    - relativistic mass
+    - bulk
+    - gravitational mass
+    - inertial mass
+    - atomic mass, atomic weight, relative atomic mass
+      - equivalent, equivalent weight, combining weight, eq
+        - gram equivalent
+      - milliequivalent, meq
+    - mass energy
+    - molecular weight, relative molecular mass
+    - mass defect, mass deficiency
+  - weight
+    - body weight
+      - reporting weight
+    - dead weight
+    - heaviness, weightiness
+      - heft, heftiness, massiveness, ponderousness, ponderosity
+      - preponderance
+    - poundage
+    - tare
+    - throw-weight
+    - lightness, weightlessness
+      - airiness, buoyancy
+    - specific weight
+    - net weight
+    - gross weight
+  - momentum
+    - angular momentum
+  - fugacity
+  - length
+    - circumference
+    - diameter, diam
+      - bore, gauge, caliber, calibre
+      - windage
+    - radius, r
+      - semidiameter
+      - radius of curvature
+    - longness
+      - extension, lengthiness, prolongation
+        - coextension
+      - elongation
+    - shortness
+      - skimpiness, scantiness
+  - oversteer
+  - understeer
+  - thermal resistance
+  - hydrostaticity
+  - crystallinity
+  - slatiness
+  - acoustic absorption
+  - thermal insulation
+  - expandability
+  - meltability

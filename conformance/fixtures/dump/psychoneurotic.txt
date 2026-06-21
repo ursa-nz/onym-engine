@@ -1,0 +1,49 @@
+term: psychoneurotic
+[Definitions]
+  - (noun) a person suffering from neurosis
+  - (adjective) affected with emotional disorder
+[Synonyms]
+  - neurotic
+  - mental case
+[Derived forms]
+  - neurotic
+  - mental case
+  - neurosis
+  - neuroticism
+  - psychoneurosis
+[Similar to]
+  - abulic
+  - aboulic
+  - compulsive
+  - delusional
+  - disturbed
+  - maladjusted
+  - hypochondriac
+  - hypochondriacal
+  - hysteric
+  - hysterical
+  - megalomaniacal
+  - megalomanic
+  - monomaniacal
+  - nymphomaniacal
+  - nymphomaniac
+  - obsessional
+  - obsessive
+  - obsessive-compulsive
+  - pathological
+  - phobic
+  - psychosomatic
+  - schizoid
+[Is a kind of]
+  - sick person, diseased person, sufferer
+    - unfortunate, unfortunate person
+      - actor, doer, worker
+        - causal agent, cause, causal agency
+          - physical entity
+            - entity
+[Kinds]
+  - claustrophobe
+  - hysteric
+  - obsessive
+  - obsessive-compulsive
+  - sociopath, psychopath

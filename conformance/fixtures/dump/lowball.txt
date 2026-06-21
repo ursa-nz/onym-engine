@@ -1,0 +1,12 @@
+term: lowball
+[Definitions]
+  - (verb) make a deliberately low estimate
+      "The construction company wanted the contract badly and lowballed"
+[Synonyms]
+  - underestimate
+[Is a kind of]
+  - estimate, gauge, approximate, guess, judge
+    - calculate, cipher, cypher, compute, work out, reckon, figure
+      - reason
+        - think, cogitate, cerebrate
+          - act, move

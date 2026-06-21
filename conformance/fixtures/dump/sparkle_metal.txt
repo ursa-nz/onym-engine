@@ -1,0 +1,14 @@
+term: sparkle metal
+[Definitions]
+  - (noun) matte that has 74 percent copper
+[Is a kind of]
+  - matte
+    - mixture
+      - substance
+        - matter
+          - physical entity
+            - entity
+        - part, portion, component part, component, constituent
+          - relation
+            - abstraction, abstract entity
+              - entity

@@ -1,0 +1,61 @@
+term: hustler
+[Definitions]
+  - (noun) a prostitute who attracts customers by walking the streets
+  - (noun) a shrewd or unscrupulous person who knows how to circumvent difficulties
+[Synonyms]
+  - streetwalker
+  - street girl
+  - hooker
+  - floozy
+  - floozie
+  - slattern
+  - wheeler dealer
+  - operator
+[Derived forms]
+  - hustle
+  - pluck
+  - roll
+[Is a kind of]
+  - prostitute, cocotte, whore, harlot, bawd, tart, cyprian, fancy woman, working girl, sporting lady, lady of pleasure, woman of the street
+    - woman, adult female
+      - female, female person
+        - person, individual, someone, somebody, mortal, soul
+          - organism, being
+            - living thing, animate thing
+              - whole, unit
+                - object, physical object
+                  - physical entity
+                    - entity
+            - causal agent, cause, causal agency
+              - physical entity
+                - entity
+      - adult, grownup
+        - person, individual, someone, somebody, mortal, soul
+          - organism, being
+            - living thing, animate thing
+              - whole, unit
+                - object, physical object
+                  - physical entity
+                    - entity
+            - causal agent, cause, causal agency
+              - physical entity
+                - entity
+  - opportunist, self-seeker
+    - selfish person
+      - unpleasant person, disagreeable person
+        - unwelcome person, persona non grata
+          - actor, doer, worker
+            - causal agent, cause, causal agency
+              - physical entity
+                - entity
+[Kinds]
+  - wire-puller
+[Domains]
+  - sexual activity
+  - sexual practice
+  - sex
+  - sex activity
+  - disparagement
+  - depreciation
+  - derogation
+  - colloquialism

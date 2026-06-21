@@ -1,0 +1,34 @@
+term: neuropterous insect
+[Definitions]
+  - (noun) insect having biting mouthparts and four large membranous wings with netlike veins
+[Synonyms]
+  - neuropteron
+  - neuropteran
+[Is a kind of]
+  - insect
+    - arthropod
+      - invertebrate
+        - animal, animate being, beast, brute, creature, fauna
+          - organism, being
+            - living thing, animate thing
+              - whole, unit
+                - object, physical object
+                  - physical entity
+                    - entity
+            - causal agent, cause, causal agency
+              - physical entity
+                - entity
+[Kinds]
+  - ant lion, antlion, antlion fly
+  - lacewing, lacewing fly
+    - green lacewing, chrysopid, stink fly
+      - goldeneye, golden-eyed fly
+    - brown lacewing, hemerobiid, hemerobiid fly
+  - dobson, dobsonfly, dobson fly, Corydalus cornutus
+  - fish fly, fish-fly
+  - alderfly, alder fly, Sialis lutaria
+  - snakefly
+  - mantispid
+  - spongefly, spongillafly
+[Part of]
+  - Neuroptera, order Neuroptera

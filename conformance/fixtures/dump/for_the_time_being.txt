@@ -1,0 +1,6 @@
+term: for the time being
+[Definitions]
+  - (adverb) temporarily
+      "we'll stop for the time being"
+[Synonyms]
+  - for the moment

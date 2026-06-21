@@ -1,0 +1,16 @@
+term: sharecrop farmer
+[Definitions]
+  - (noun) small farmers and tenants
+[Synonyms]
+  - sharecropper
+  - cropper
+[Is a kind of]
+  - agricultural laborer, agricultural labourer
+    - laborer, manual laborer, labourer, jack
+      - working person
+        - employee
+          - worker
+            - actor, doer, worker
+              - causal agent, cause, causal agency
+                - physical entity
+                  - entity

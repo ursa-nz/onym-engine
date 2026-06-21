@@ -1,0 +1,14 @@
+term: playschool
+[Definitions]
+  - (noun) a small informal nursery group meeting for half-day sessions
+[Synonyms]
+  - play group
+[Is a kind of]
+  - preschool
+    - educational institution
+      - institution, establishment
+        - organization, organisation
+          - social group
+            - group, grouping
+              - abstraction, abstract entity
+                - entity

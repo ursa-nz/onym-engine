@@ -1,0 +1,13 @@
+term: seed sprouter
+[Definitions]
+  - (noun) A device for sprouting seeds.
+[Synonyms]
+  - sprouter
+[Is a kind of]
+  - device
+    - instrumentality, instrumentation, means
+      - artifact, artefact
+        - whole, unit
+          - object, physical object
+            - physical entity
+              - entity

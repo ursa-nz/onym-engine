@@ -1,0 +1,46 @@
+term: as
+[Definitions]
+  - (adverb) to the same degree (often followed by ‘as’)
+      "they were equally beautiful"
+      "birds were singing and the child sang as sweetly"
+      "sang as sweetly as a nightingale"
+      "he is every bit as mean as she is"
+  - (noun) a very poisonous metallic element that has three allotropic forms; arsenic and arsenic compounds are used as herbicides and insecticides and in various alloys; found in arsenopyrite and orpiment and realgar
+  - (noun) a United States territory on the eastern part of the island of Samoa
+[Synonyms]
+  - arsenic
+  - atomic number 33
+  - American Samoa
+  - Eastern Samoa
+  - equally
+  - every bit
+[Is a kind of]
+  - chemical element, element
+    - substance
+      - matter
+        - physical entity
+          - entity
+      - part, portion, component part, component, constituent
+        - relation
+          - abstraction, abstract entity
+            - entity
+  - district, territory, territorial dominion, dominion
+    - region
+      - location
+        - object, physical object
+          - physical entity
+            - entity
+[Part of]
+  - arsenopyrite, mispickel
+  - orpiment
+  - realgar
+  - herbicide, weedkiller, weed killer
+  - insecticide, insect powder
+  - Samoa, Samoan Islands
+[Parts]
+  - chemical element, element
+    - atom
+      - elementary particle, fundamental particle
+      - nucleus
+        - nucleon
+  - Pago Pago, Pango Pango

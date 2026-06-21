@@ -1,0 +1,39 @@
+term: nip and tuck
+[Definitions]
+  - (noun) plastic surgery to remove wrinkles and other signs of aging from your face; an incision is made near the hair line and skin is pulled back and excess tissue is excised
+      "some actresses have more than one face lift"
+  - (adjective) inconclusive as to outcome; close or just even in a race or comparison or competition
+      "as they approached the finish line they were neck and neck"
+      "the election was a nip and tuck affair"
+  - (adverb) even or close in a race or competition or comparison
+      "the horses ran neck and neck"
+      "he won nip and tuck"
+[Synonyms]
+  - face lift
+  - facelift
+  - lift
+  - face lifting
+  - cosmetic surgery
+  - rhytidectomy
+  - rhytidoplasty
+  - neck and neck
+  - head-to-head
+[Antonyms]
+  - inconclusive (indirect)
+      -> conclusive
+[Similar to]
+  - inconclusive
+[Pertains to]
+  - neck and neck, head-to-head
+[Is a kind of]
+  - plastic surgery, reconstructive surgery, anaplasty
+    - operation, surgery, surgical operation, surgical procedure, surgical process
+      - medical procedure
+        - procedure, process
+          - activity
+            - act, deed, human action, human activity
+              - event
+                - abstraction, abstract entity
+                  - entity
+[Kinds]
+  - nose job, rhinoplasty

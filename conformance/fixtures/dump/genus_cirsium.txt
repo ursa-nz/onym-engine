@@ -1,0 +1,18 @@
+term: genus Cirsium
+[Definitions]
+  - (noun) plume thistles
+[Synonyms]
+  - Cirsium
+[Is a kind of]
+  - asterid dicot genus
+    - dicot genus, magnoliopsid genus
+      - genus
+        - taxonomic group, taxonomic category, taxon
+          - biological group
+            - group, grouping
+              - abstraction, abstract entity
+                - entity
+[Part of]
+  - Compositae, family Compositae, Asteraceae, family Asteraceae, aster family
+[Parts]
+  - plume thistle, plumed thistle

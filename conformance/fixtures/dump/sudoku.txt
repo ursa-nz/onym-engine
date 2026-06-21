@@ -1,0 +1,12 @@
+term: sudoku
+[Definitions]
+  - (noun) a number puzzle in which the numbers 1 through 9 must be placed into a grid of cells so that each row or column contains only one of each number
+[Is a kind of]
+  - puzzle, puzzler, mystifier, teaser
+    - problem
+      - question, head
+        - subject, topic, theme
+          - message, content, subject matter, substance
+            - communication
+              - abstraction, abstract entity
+                - entity

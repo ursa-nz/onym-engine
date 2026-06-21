@@ -1,0 +1,27 @@
+term: angel shark
+[Definitions]
+  - (noun) sharks with broad flat bodies and winglike pectoral fins but that swim the way sharks do
+[Synonyms]
+  - angelfish
+  - Squatina squatina
+  - monkfish
+[Is a kind of]
+  - shark
+    - elasmobranch, selachian
+      - cartilaginous fish, chondrichthian
+        - fish
+          - aquatic vertebrate
+            - vertebrate, craniate
+              - chordate
+                - animal, animate being, beast, brute, creature, fauna
+                  - organism, being
+                    - living thing, animate thing
+                      - whole, unit
+                        - object, physical object
+                          - physical entity
+                            - entity
+                    - causal agent, cause, causal agency
+                      - physical entity
+                        - entity
+[Part of]
+  - Squatina, genus Squatina

@@ -1,0 +1,19 @@
+term: oblate
+[Definitions]
+  - (noun) a lay person dedicated to religious work or the religious life
+  - (adjective) having the equatorial diameter greater than the polar diameter; being flattened at the poles
+[Synonyms]
+  - pumpkin-shaped
+[Antonyms]
+  - prolate (direct)
+      -> watermelon-shaped
+      -> cucumber-shaped
+[Derived forms]
+  - oblateness
+  - ellipticity
+[Is a kind of]
+  - religious person
+    - actor, doer, worker
+      - causal agent, cause, causal agency
+        - physical entity
+          - entity

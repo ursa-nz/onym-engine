@@ -1,0 +1,24 @@
+term: Leibniz
+[Definitions]
+  - (noun) German philosopher and mathematician who thought of the universe as consisting of independent monads and who devised a system of the calculus independent of Newton (1646-1716)
+[Synonyms]
+  - Leibnitz
+  - Gottfried Wilhelm Leibniz
+  - Gottfried Wilhelm Leibnitz
+[Derived forms]
+  - Leibnizian
+  - Leibnitzian
+[Is a kind of]
+  - mathematician
+    - scientist
+      - actor, doer, worker
+        - causal agent, cause, causal agency
+          - physical entity
+            - entity
+  - philosopher
+    - scholar, scholarly person
+      - intellectual, intellect
+        - actor, doer, worker
+          - causal agent, cause, causal agency
+            - physical entity
+              - entity

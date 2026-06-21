@@ -1,0 +1,39 @@
+term: rotogravure
+[Definitions]
+  - (noun) printing by transferring an image from a photogravure plate to a cylinder in a rotary press
+  - (noun) printed material (text and pictures) produced by an intaglio printing process in a rotary press
+  - (noun) using photography to produce a plate for printing
+[Synonyms]
+  - photogravure
+[Is a kind of]
+  - photogravure
+    - intaglio printing, intaglio, gravure
+      - printing, printing process
+        - writing
+          - written communication, written language, black and white
+            - communication
+              - abstraction, abstract entity
+                - entity
+  - photojournalism
+    - journalism, news media
+      - print media
+        - medium
+          - instrumentality, instrumentation, means
+            - artifact, artefact
+              - whole, unit
+                - object, physical object
+                  - physical entity
+                    - entity
+  - gravure
+    - printing
+      - commercial enterprise, business enterprise, business
+        - commerce, commercialism, mercantilism
+          - transaction, dealing, dealings
+            - group action
+              - action
+                - act, deed, human action, human activity
+                  - event
+                    - abstraction, abstract entity
+                      - entity
+[Part of]
+  - newspaper, paper

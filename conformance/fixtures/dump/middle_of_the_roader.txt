@@ -1,0 +1,27 @@
+term: middle-of-the-road
+[Definitions]
+  - (adjective) supporting or pursuing a course of action that is neither liberal nor conservative
+  - (adjective) not extreme, especially in political views
+  - (noun) a person who takes a position in the political center
+[Synonyms]
+  - centrist
+  - moderate
+  - moderationist
+[Antonyms]
+  - left (indirect)
+      -> right
+  - center (indirect)
+      -> left
+  - moderate (indirect)
+      -> immoderate
+[Similar to]
+  - center
+  - centre
+  - moderate
+[Is a kind of]
+  - actor, doer, worker
+    - causal agent, cause, causal agency
+      - physical entity
+        - entity
+[Part of]
+  - center, centre

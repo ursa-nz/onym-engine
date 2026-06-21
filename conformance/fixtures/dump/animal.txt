@@ -33,6 +33,9 @@ term: animal
         - object, physical object
           - physical entity
             - entity
+    - causal agent, cause, causal agency
+      - physical entity
+        - entity
 [Kinds]
   - pest
     - vermin
@@ -100,7 +103,7 @@ term: animal
           - greyhound
             - Italian greyhound
             - whippet
-          - Ibizan hound, Ibizan Podenco
+          - Ibizan hound, Ibizan podenco
           - Norwegian elkhound, elkhound
           - otterhound, otter hound
           - Saluki, gazelle hound
@@ -345,7 +348,7 @@ term: animal
   - zooplankton
   - embryo, conceptus, fertilized egg
     - blastula, blastosphere
-      - blastocyst, blastodermic vessicle
+      - blastocyst, blastodermic vesicle
     - gastrula
     - morula
   - chordate
@@ -386,7 +389,7 @@ term: animal
               - goatfish, red mullet, surmullet, Mullus surmuletus
                 - red goatfish, Mullus auratus
                 - yellow goatfish, Mulloidichthys martinicus
-          - bottom lurkers
+          - bottom lurker
           - cartilaginous fish, chondrichthian
             - holocephalan, holocephalian
               - chimaera
@@ -397,7 +400,7 @@ term: animal
                 - mackerel shark
                   - porbeagle, Lamna nasus
                   - mako, mako shark
-                    - shortfin mako, Isurus oxyrhincus
+                    - shortfin mako, Isurus oxyrhincus, Isurus oxyrhinchus
                     - longfin mako, Isurus paucus
                     - bonito shark, blue pointed, Isurus glaucus
                   - great white shark, white shark, man-eater, man-eating shark, Carcharodon carcharias
@@ -412,7 +415,7 @@ term: animal
                   - bull shark, cub shark, Carcharhinus leucas
                   - sandbar shark, Carcharhinus plumbeus
                   - blacktip shark, sandbar shark, Carcharhinus limbatus
-                  - whitetip shark, oceanic whitetip shark, white-tipped shark, Carcharinus longimanus
+                  - whitetip shark, oceanic whitetip shark, white-tipped shark, Carcharinus longimanus, Carcharhinus longimanus
                   - dusky shark, Carcharhinus obscurus
                   - lemon shark, Negaprion brevirostris
                   - blue shark, great blue shark, Prionace glauca
@@ -423,7 +426,7 @@ term: animal
                     - smoothhound, smoothhound shark, Mustelus mustelus
                     - American smooth dogfish, Mustelus canis
                     - Florida smoothhound, Mustelus norrisi
-                    - whitetip shark, reef whitetip shark, Triaenodon obseus
+                    - whitetip shark, reef whitetip shark, Triaenodon obseus, Triaenodon obesus
                   - spiny dogfish
                     - Atlantic spiny dogfish, Squalus acanthias
                     - Pacific spiny dogfish, Squalus suckleyi
@@ -460,7 +463,7 @@ term: animal
               - common American shad, Alosa sapidissima
               - river shad, Alosa chrysocloris
               - allice shad, allis shad, allice, allis, Alosa alosa
-            - herring, Clupea harangus
+            - herring, Clupea harangus, Clupea harengus
               - Atlantic herring, Clupea harengus harengus
               - Pacific herring, Clupea harengus pallasii
             - sardine
@@ -489,7 +492,7 @@ term: animal
             - sea bass
               - blackmouth bass, Synagrops bellus
               - rock sea bass, rock bass, Centropristis philadelphica
-              - black sea bass, black bass, Centropistes striata
+              - black sea bass, black bass, Centropristis striata
               - striped bass, striper, Roccus saxatilis, rockfish
               - stone bass, wreckfish, Polyprion americanus
               - belted sandfish, Serranus subligarius
@@ -512,7 +515,7 @@ term: animal
             - sole
               - European sole, Solea solea
               - lemon sole, Solea lascaris
-              - English sole, lemon sole, Parophrys vitulus
+              - English sole, lemon sole, Parophrys vitulus, Parophrys vetulus
               - sand sole, Psettichthys melanostichus
               - hogchoker, Trinectes maculatus
           - rough fish
@@ -553,7 +556,7 @@ term: animal
                     - goldfish, Carassius auratus
                       - silverfish
                     - crucian carp, Carassius carassius, Carassius vulgaris
-                  - electric eel, Electrophorus electric
+                  - electric eel, Electrophorus electricus
                   - catostomid
                     - sucker
                       - buffalo fish, buffalofish
@@ -581,7 +584,7 @@ term: animal
                     - European catfish, sheatfish, Silurus glanis
                     - electric catfish, Malopterurus electricus
                   - bullhead, bullhead catfish
-                    - horned pout, hornpout, pout, Ameiurus Melas
+                    - horned pout, hornpout, pout, Ameiurus melas
                     - brown bullhead
                   - channel catfish, channel cat, Ictalurus punctatus
                     - blue catfish, blue cat, blue channel catfish, blue channel cat
@@ -619,7 +622,7 @@ term: animal
                     - allice shad, allis shad, allice, allis, Alosa alosa
                   - alewife, Alosa pseudoharengus, Pomolobus pseudoharengus
                   - menhaden, Brevoortia tyrannis
-                  - herring, Clupea harangus
+                  - herring, Clupea harangus, Clupea harengus
                     - Atlantic herring, Clupea harengus harengus
                     - Pacific herring, Clupea harengus pallasii
                   - sardine
@@ -701,7 +704,7 @@ term: animal
                   - three-spined stickleback, Gasterosteus aculeatus
                   - ten-spined stickleback, Gasterosteus pungitius
                 - batfish
-                - goosefish, angler, anglerfish, angler fish, monkfish, lotte, allmouth, Lophius Americanus
+                - goosefish, angler, anglerfish, angler fish, monkfish, lotte, allmouth, Lophius americanus
                 - toadfish, Opsanus tau
                   - oyster fish, oyster-fish, oysterfish
                 - frogfish
@@ -749,7 +752,7 @@ term: animal
                     - sea bass
                       - blackmouth bass, Synagrops bellus
                       - rock sea bass, rock bass, Centropristis philadelphica
-                      - black sea bass, black bass, Centropistes striata
+                      - black sea bass, black bass, Centropristis striata
                       - striped bass, striper, Roccus saxatilis, rockfish
                       - stone bass, wreckfish, Polyprion americanus
                       - belted sandfish, Serranus subligarius
@@ -903,7 +906,7 @@ term: animal
                     - wolffish, wolf fish, catfish
                     - eelpout, pout
                       - viviparous eelpout, Zoarces viviparus
-                      - fish doctor, Gymnelis viridis
+                      - fish doctor, Gymnelus viridis
                       - ocean pout, Macrozoarces americanus
                   - goby, gudgeon
                     - mudskipper, mudspringer
@@ -983,10 +986,10 @@ term: animal
                     - lionfish
                     - stonefish, Synanceja verrucosa
                     - rockfish
-                      - copper rockfish, Sebastodes caurinus
-                      - vermillion rockfish, rasher, Sebastodes miniatus
-                      - red rockfish, Sebastodes ruberrimus
-                      - rosefish, ocean perch, Sebastodes marinus
+                      - copper rockfish, Sebastes caurinus
+                      - vermillion rockfish, rasher, Sebastes miniatus
+                      - red rockfish, Sebastes ruberrimus
+                      - rosefish, ocean perch, Sebastes marinus
                   - sculpin
                     - bullhead
                     - miller's-thumb
@@ -1048,7 +1051,7 @@ term: animal
                   - sole
                     - European sole, Solea solea
                     - lemon sole, Solea lascaris
-                    - English sole, lemon sole, Parophrys vitulus
+                    - English sole, lemon sole, Parophrys vitulus, Parophrys vetulus
                     - sand sole, Psettichthys melanostichus
                     - hogchoker, Trinectes maculatus
               - sweeper
@@ -1074,7 +1077,7 @@ term: animal
         - protoavis
         - archaeopteryx, archeopteryx, Archaeopteryx lithographica
         - Sinornis
-        - Ibero-mesornis
+        - ibero-mesornis, iberomesornis
         - archaeornis
         - ratite, ratite bird, flightless bird
           - ostrich, Struthio camelus
@@ -1139,7 +1142,7 @@ term: animal
                 - evening grosbeak, Hesperiphona vespertina
                 - hawfinch, Coccothraustes coccothraustes
                 - pine grosbeak, Pinicola enucleator
-              - cardinal, cardinal grosbeak, Richmondena Cardinalis, Cardinalis cardinalis, redbird
+              - cardinal, cardinal grosbeak, Richmondena cardinalis, Cardinalis cardinalis, redbird
               - pyrrhuloxia, Pyrrhuloxia sinuata
               - towhee
                 - chewink, cheewink, Pipilo erythrophthalmus
@@ -1180,21 +1183,21 @@ term: animal
               - redstart, redtail
               - wheatear
               - bluebird
-              - robin, redbreast, robin redbreast, Old World robin, Erithacus rubecola
+              - robin, redbreast, robin redbreast, Old World robin, Erithacus rubecola, Erithacus rubecula
               - bluethroat, Erithacus svecicus
             - warbler
               - gnatcatcher
               - kinglet
                 - goldcrest, golden-crested kinglet, Regulus regulus
-                - gold-crowned kinglet, Regulus satrata
+                - gold-crowned kinglet, Regulus satrapa
                 - ruby-crowned kinglet, ruby-crowned wren, Regulus calendula
               - Old World warbler, true warbler
-                - blackcap, Silvia atricapilla
+                - blackcap, Sylvia atricapilla
                 - wood warbler, Phylloscopus sibilatrix
                 - sedge warbler, sedge bird, sedge wren, reedbird, Acrocephalus schoenobaenus
                 - wren warbler
                 - tailorbird, Orthotomus sutorius
-              - greater whitethroat, whitethroat, Sylvia communis
+              - greater whitethroat, whitethroat, Sylvia communis, Curruca communis
               - lesser whitethroat, whitethroat, Sylvia curruca
               - New World warbler, wood warbler
                 - parula warbler, northern parula, Parula americana
@@ -1206,7 +1209,7 @@ term: animal
                 - Blackburn, Blackburnian warbler, Dendroica fusca
                 - Audubon's warbler, Audubon warbler, Dendroica auduboni
                 - myrtle warbler, myrtle bird, Dendroica coronata
-                - blackpoll, Dendroica striate
+                - blackpoll, Dendroica striate, Dendroica striata
                 - New World chat, chat
                   - yellow-breasted chat, Icteria virens
                 - ovenbird, Seiurus aurocapillus
@@ -1215,7 +1218,7 @@ term: animal
                   - common yellowthroat, Maryland yellowthroat, Geothlypis trichas
             - babbler, cackler
             - bird of paradise
-              - riflebird, Ptloris paradisea
+              - riflebird, Ptiloris paradisea
             - New World oriole, American oriole, oriole
               - northern oriole, Icterus galbula
                 - Baltimore oriole, Baltimore bird, hangbird, firebird, Icterus galbula galbula
@@ -1229,7 +1232,7 @@ term: animal
               - New World blackbird, blackbird
                 - grackle, crow blackbird
                   - purple grackle, Quiscalus quiscula
-                - rusty blackbird, rusty grackle, Euphagus carilonus
+                - rusty blackbird, rusty grackle, Euphagus carolinus
                 - cowbird
                 - red-winged blackbird, redwing, Agelaius phoeniceus
             - Old World oriole, oriole
@@ -1250,7 +1253,7 @@ term: animal
               - chough
               - jay
                 - Old World jay
-                  - common European jay, Garullus garullus
+                  - common European jay, Garullus garullus, Garrulus glandarius
                 - New World jay
                   - blue jay, jaybird, Cyanocitta cristata
                 - Canada jay, grey jay, gray jay, camp robber, whisker jack, Perisoreus canadensis
@@ -1265,11 +1268,11 @@ term: animal
               - butcherbird
               - currawong, bell magpie
               - piping crow, piping crow-shrike, Gymnorhina tibicen
-            - mockingbird, mocker, Mimus polyglotktos
+            - mockingbird, mocker, Mimus polyglottos
             - blue mockingbird, Melanotis caerulescens
             - catbird, grey catbird, gray catbird, Dumetella carolinensis
             - thrasher, mocking thrush
-              - brown thrasher, brown thrush, Toxostoma rufums
+              - brown thrasher, brown thrush, Toxostoma rufum
             - New Zealand wren
               - rock wren, Xenicus gilviventris
               - rifleman bird, Acanthisitta chloris
@@ -1283,10 +1286,10 @@ term: animal
               - white-breasted nuthatch, Sitta carolinensis
             - titmouse, tit
               - chickadee
-                - black-capped chickadee, blackcap, Parus atricapillus
-                - Carolina chickadee, Parus carolinensis
-              - tufted titmouse, Parus bicolor
-              - blue tit, tomtit, Parus caeruleus
+                - black-capped chickadee, blackcap, Parus atricapillus, Poecile atricapillus
+                - Carolina chickadee, Parus carolinensis, Poecile carolinensis
+              - tufted titmouse, Parus bicolor, Baeolophus bicolor
+              - blue tit, tomtit, Parus caeruleus, Cyanistes caeruleus
               - bushtit, bush tit
               - wren-tit, Chamaea fasciata
               - verdin, Auriparus flaviceps
@@ -1294,7 +1297,7 @@ term: animal
             - swallow
               - barn swallow, chimney swallow, Hirundo rustica
               - cliff swallow, Hirundo pyrrhonota
-              - tree swallow, tree martin, Hirundo nigricans
+              - tree swallow, tree martin, Hirundo nigricans, Petrochelidon nigricans
               - white-bellied swallow, tree swallow, Iridoprocne bicolor
               - martin
                 - house martin, Delichon urbica
@@ -1311,7 +1314,7 @@ term: animal
                 - European shrike, Lanius excubitor
                 - northern shrike, Lanius borealis
                 - white-rumped shrike, Lanius ludovicianus excubitorides
-              - loggerhead shrike, Lanius lucovicianus
+              - loggerhead shrike, Lanius lucovicianus, Lanius ludovicianus
               - migrant shrike, Lanius ludovicianus migrans
               - bush shrike
                 - black-fronted bush shrike, Chlorophoneus nigrifrons
@@ -1326,7 +1329,7 @@ term: animal
               - solitary vireo, Vireo solitarius
               - blue-headed vireo, Vireo solitarius solitarius
             - waxwing
-              - cedar waxwing, cedarbird, Bombycilla cedrorun
+              - cedar waxwing, cedarbird, Bombycilla cedrorun, Bombycilla cedrorum
               - Bohemian waxwing, Bombycilla garrulus
           - sparrow, true sparrow
             - English sparrow, house sparrow, Passer domesticus
@@ -1336,10 +1339,10 @@ term: animal
           - broadbill
           - tyrannid
             - New World flycatcher, flycatcher, tyrant flycatcher, tyrant bird
-              - kingbird, Tyrannus tyrannus
+              - kingbird
                 - Arkansas kingbird, western kingbird
                 - Cassin's kingbird, Tyrannus vociferans
-                - eastern kingbird
+                - eastern kingbird, Tyrannus tyrannus
                 - grey kingbird, gray kingbird, petchary, Tyrannus domenicensis domenicensis
               - pewee, peewee, peewit, pewit, wood pewee, Contopus virens
                 - western wood pewee, Contopus sordidulus
@@ -1350,7 +1353,7 @@ term: animal
                 - cock of the rock, Rupicola peruviana
                 - bellbird
                 - umbrella bird, Cephalopterus ornatus
-              - scissortail, scissortailed flycatcher, Muscivora-forficata
+              - scissortail, scissortailed flycatcher, Muscivora forficata, scissor-tailed flycatcher
             - manakin
             - ovenbird
             - antbird, ant bird
@@ -1389,7 +1392,7 @@ term: animal
               - swallow-tailed kite, swallow-tailed hawk, Elanoides forficatus
               - white-tailed kite, Elanus leucurus
             - harrier
-              - marsh harrier, Circus Aeruginosus
+              - marsh harrier, Circus aeruginosus
               - Montagu's harrier, Circus pygargus
               - marsh hawk, northern harrier, hen harrier, Circus cyaneus
             - harrier eagle, short-toed eagle
@@ -1606,7 +1609,7 @@ term: animal
           - bee eater
           - hornbill
           - hoopoe, hoopoo
-            - Euopean hoopoe, Upupa epops
+            - Upupa epops, European hoopoe
           - wood hoopoe
           - motmot, momot
           - tody
@@ -1635,7 +1638,7 @@ term: animal
             - flicker
               - yellow-shafted flicker, Colaptes auratus, yellowhammer
               - gilded flicker, Colaptes chrysoides
-              - red-shafted flicker, Colaptes caper collaris
+              - red-shafted flicker, Colaptes caper collaris, Colaptes auratus cafer
             - ivorybill, ivory-billed woodpecker, Campephilus principalis
             - redheaded woodpecker, redhead, Melanerpes erythrocephalus
             - sapsucker
@@ -1651,7 +1654,7 @@ term: animal
             - toucanet
         - trogon
           - quetzal, quetzal bird
-            - resplendent quetzel, resplendent trogon, Pharomacrus mocino
+            - resplendent trogon, Pharomacrus mocino, resplendent quetzal
         - aquatic bird
           - waterfowl, water bird, waterbird
             - anseriform bird
@@ -1665,17 +1668,17 @@ term: animal
                 - black duck, Anas rubripes
                 - teal
                   - greenwing, green-winged teal, Anas crecca
-                  - bluewing, blue-winged teal, Anas discors
-                  - garganey, Anas querquedula
-                - widgeon, wigeon, Anas penelope
-                  - American widgeon, baldpate, Anas americana
-                - shoveler, shoveller, broadbill, Anas clypeata
+                  - bluewing, blue-winged teal, Anas discors, Spatula discors
+                  - garganey, Anas querquedula, Spatula querquedula
+                - widgeon, wigeon, Anas penelope, Mareca penelope
+                  - American widgeon, baldpate, Anas americana, Mareca americana
+                - shoveler, shoveller, broadbill, Anas clypeata, Spatula clypeata
                 - pintail, pin-tailed duck, Anas acuta
                 - sheldrake
                   - shelduck
                 - ruddy duck, Oxyura jamaicensis
-                - bufflehead, butterball, dipper, Bucephela albeola
-                - goldeneye, whistler, Bucephela clangula
+                - bufflehead, butterball, dipper, Bucephela albeola, Bucephala albeola
+                - goldeneye, whistler, Bucephela clangula, Bucephala clangula
                   - Barrow's goldeneye, Bucephala islandica
                 - canvasback, canvasback duck, Aythya valisineria
                 - pochard, Aythya ferina
@@ -1746,7 +1749,7 @@ term: animal
               - roseate spoonbill, Ajaia ajaja
             - flamingo
             - heron
-              - great blue heron, Ardea herodius
+              - great blue heron, Ardea herodius, Ardea herodia
               - great white heron, Ardea occidentalis
               - egret
                 - snowy egret, snowy heron, Egretta thula
@@ -1796,7 +1799,7 @@ term: animal
                 - lapwing, green plover, peewit, pewit
                 - turnstone
                   - ruddy turnstone, Arenaria interpres
-                  - black turnstone, Arenaria-Melanocephala
+                  - black turnstone, Arenaria melanocephala
               - sandpiper
                 - European sandpiper, Actitis hypoleucos
                 - spotted sandpiper, Actitis macularia
@@ -1809,7 +1812,7 @@ term: animal
                   - lesser yellowlegs, Tringa flavipes
                 - pectoral sandpiper, jacksnipe, Calidris melanotos
                 - knot, greyback, grayback, Calidris canutus
-                - curlew sandpiper, Calidris Ferruginea
+                - curlew sandpiper, Calidris ferruginea
                 - sanderling, Crocethia alba
                 - upland sandpiper, upland plover, Bartramian sandpiper, Bartramia longicauda
                 - ruff, Philomachus pugnax
@@ -1846,7 +1849,7 @@ term: animal
               - phalarope
                 - red phalarope, Phalaropus fulicarius
                 - northern phalarope, Lobipes lobatus
-                - Wilson's phalarope, Steganopus tricolor
+                - Wilson's phalarope, Steganopus tricolor, Phalaropus tricolor
               - pratincole, glareole
               - courser
                 - cream-colored courser, Cursorius cursor
@@ -1889,7 +1892,7 @@ term: animal
             - puffin
               - Atlantic puffin, Fratercula arctica
               - horned puffin, Fratercula corniculata
-              - tufted puffin, Lunda cirrhata
+              - tufted puffin, Lunda cirrhata, Fratercula cirrhata
             - gaviiform seabird
               - loon, diver
             - podicipitiform seabird
@@ -1902,7 +1905,7 @@ term: animal
             - pelecaniform seabird
               - pelican
                 - white pelican, Pelecanus erythrorhynchos
-                - Old world white pelican, Pelecanus onocrotalus
+                - Old world white pelican, Pelecanus onocrotalus, great white pelican
               - frigate bird, man-of-war bird
               - gannet
                 - solan, solan goose, solant goose, Sula bassana
@@ -1936,7 +1939,7 @@ term: animal
         - twitterer
       - amphibian
         - Hynerpeton bassetti
-        - Ichyostega
+        - ichthyostega
         - urodele, caudate
         - salamander
           - European fire salamander, Salamandra salamandra
@@ -1976,14 +1979,14 @@ term: animal
           - siren
         - frog, toad, toad frog, anuran, batrachian, salientian
           - true frog, ranid
-            - wood-frog, wood frog, Rana sylvatica
-            - leopard frog, spring frog, Rana pipiens
-            - bullfrog, Rana catesbeiana
-            - green frog, spring frog, Rana clamitans
+            - wood-frog, wood frog, Rana sylvatica, Lithobates sylvaticus
+            - leopard frog, spring frog, Rana pipiens, Lithobates pipiens
+            - bullfrog, Rana catesbeiana, Lithobates catesbeianus
+            - green frog, spring frog, Rana clamitans, Lithobates clamitans
             - cascades frog, Rana cascadae
             - goliath frog, Rana goliath
-            - pickerel frog, Rana palustris
-            - tarahumara frog, Rana tarahumarae
+            - pickerel frog, Rana palustris, Lithobates palustris
+            - tarahumara frog, Rana tarahumarae, Lithobates tarahumarae
             - grass frog, Rana temporaria
           - leptodactylid frog, leptodactylid
           - robber frog
@@ -1997,11 +2000,11 @@ term: animal
             - agua, agua toad, Bufo marinus
             - European toad, Bufo bufo
             - natterjack, Bufo calamita
-            - American toad, Bufo americanus
-            - Eurasian green toad, Bufo viridis
-            - American green toad, Bufo debilis
-            - Yosemite toad, Bufo canorus
-            - Texas toad, Bufo speciosus
+            - American toad, Bufo americanus, Anaxyrus americanus
+            - Eurasian green toad, Bufo viridis, Bufotes viridis
+            - American green toad, Bufo debilis, Anaxyrus debilis
+            - Yosemite toad, Bufo canorus, Anaxyrus canorus
+            - Texas toad, Bufo speciosus, Anaxyrus speciosus
             - southwestern toad, Bufo microscaphus
             - western toad, Bufo boreas
           - obstetrical toad, midwife toad, Alytes obstetricans
@@ -2014,7 +2017,7 @@ term: animal
           - tree toad, tree frog, tree-frog
             - spring peeper, Hyla crucifer
             - Pacific tree toad, Hyla regilla
-            - canyon treefrog, Hyla arenicolor
+            - canyon treefrog, Hyla arenicolor, Dryophytes arenicolor
             - chameleon tree frog
             - cricket frog
               - northern cricket frog, Acris crepitans
@@ -2058,14 +2061,14 @@ term: animal
               - tortoise
                 - European tortoise, Testudo graeca
                 - giant tortoise
-                - gopher tortoise, gopher turtle, gopher, Gopherus polypemus
+                - gopher tortoise, gopher turtle, gopher, Gopherus polyphemus
                 - desert tortoise, Gopherus agassizii
                 - Texas tortoise
               - soft-shelled turtle, pancake turtle
                 - spiny softshell, Trionyx spiniferus
                 - smooth softshell, Trionyx muticus
         - diapsid, diapsid reptile
-          - tuatara, Sphenodon punctatum
+          - tuatara, Sphenodon punctatum, Sphenodon punctatus
           - saurian
             - lizard
               - gecko
@@ -2136,7 +2139,7 @@ term: animal
                 - pisanosaur, pisanosaurus
                 - staurikosaur, staurikosaurus
                 - armored dinosaur
-                  - stegosaur, stegosaurus, Stegosaur stenops
+                  - stegosaur, stegosaurus, Stegosaurus stenops
                   - ankylosaur, ankylosaurus
                     - Edmontonia
                 - bone-headed dinosaur
@@ -2182,6 +2185,7 @@ term: animal
                 - genus Argentinosaurus
               - argentinosaur
               - ground-shaker, seismosaur
+              - non-avian dinosaur
             - pterosaur, flying reptile
               - pterodactyl
             - thecodont, thecodont reptile
@@ -2285,7 +2289,8 @@ term: animal
                 - hamadryad, king cobra, Ophiophagus hannah, Naja hannah
               - ringhals, rinkhals, spitting snake, Hemachatus haemachatus
               - mamba
-                - black mamba, Dendroaspis augusticeps
+                - Dendroaspis angusticeps, eastern green mamba
+                - black mamba, Dendroaspis polylepis
                   - green mamba
               - death adder, Acanthophis antarcticus
               - tiger snake, Notechis scutatus
@@ -2346,7 +2351,7 @@ term: animal
             - kangaroo
               - giant kangaroo, great grey kangaroo, Macropus giganteus
               - wallaby, brush kangaroo
-                - common wallaby, Macropus agiles
+                - common wallaby, Macropus agilis
                 - hare wallaby, kangaroo hare
                 - nail-tailed wallaby, nail-tailed kangaroo
                 - rock wallaby, rock kangaroo
@@ -2369,12 +2374,13 @@ term: animal
                 - eastern dasyure, Dasyurus quoll
                 - native cat, Dasyurus viverrinus
               - thylacine, Tasmanian wolf, Tasmanian tiger, Thylacinus cynocephalus
-              - Tasmanian devil, ursine dasyure, Sarcophilus hariisi
+              - Tasmanian devil, ursine dasyure, Sarcophilus harrisii
               - pouched mouse, marsupial mouse, marsupial rat
               - numbat, banded anteater, anteater, Myrmecobius fasciatus
             - pouched mole, marsupial mole, Notoryctus typhlops
         - placental, placental mammal, eutherian, eutherian mammal
           - livestock, stock, farm animal
+            - small livestock
           - bull
           - cow
           - yearling
@@ -2446,11 +2452,11 @@ term: animal
                 - crabeater seal, crab-eating seal
                 - eared seal
                   - fur seal
-                    - guadalupe fur seal, Arctocephalus philippi
+                    - guadalupe fur seal, Arctocephalus townsendi
                   - fur seal
                     - Alaska fur seal, Callorhinus ursinus
                   - sea lion
-                    - South American sea lion, Otaria Byronia
+                    - South American sea lion, Otaria byronia
                     - California sea lion, Zalophus californianus, Zalophus californicus
                     - Australian sea lion, Zalophus lobatus
                     - Steller sea lion, Steller's sea lion, Eumetopias jubatus
@@ -2458,7 +2464,7 @@ term: animal
                   - harbor seal, common seal, Phoca vitulina
                   - harp seal, Pagophilus groenlandicus
                   - elephant seal, sea elephant
-                  - bearded seal, squareflipper square flipper, Erignathus barbatus
+                  - bearded seal, Erignathus barbatus, squareflipper, square flipper, square flipper seal
                   - hooded seal, bladdernose, Cystophora cristata
               - walrus, seahorse, sea horse
                 - Atlantic walrus, Odobenus rosmarus
@@ -2513,7 +2519,7 @@ term: animal
                     - greyhound
                       - Italian greyhound
                       - whippet
-                    - Ibizan hound, Ibizan Podenco
+                    - Ibizan hound, Ibizan podenco
                     - Norwegian elkhound, elkhound
                     - otterhound, otter hound
                     - Saluki, gazelle hound
@@ -2661,20 +2667,24 @@ term: animal
               - wolf
                 - wolf pup, wolf cub
                 - timber wolf, grey wolf, gray wolf, Canis lupus
-                - white wolf, Arctic wolf, Canis lupus tundrarum
+                - white wolf, Arctic wolf, Canis lupus arctos
                 - red wolf, maned wolf, Canis rufus, Canis niger
                 - coyote, prairie wolf, brush wolf, Canis latrans
                   - coydog
-              - jackal, Canis aureus
+              - jackal
+                - jackal, Canis aureus, golden jackal
+                - jackal, Canis anthus, African golden wolf, Egyptian jackal, grey jackal
+                - jackal, Canis mesomelas, black-backed jackal
+                - jackal, Canis adustus, side-striped jackal
               - wild dog
                 - dingo, warrigal, warragal, Canis dingo
                 - dhole, Cuon alpinus
                 - crab-eating dog, crab-eating fox, Dusicyon cancrivorus
-                - raccoon dog, Nyctereutes procyonides
+                - raccoon dog, Nyctereutes procyonides, Nyctereutes procyonoides
                 - African hunting dog, hyena dog, Cape hunting dog, Lycaon pictus
               - hyena, hyaena
                 - striped hyena, Hyaena hyaena
-                - brown hyena, strand wolf, Hyaena brunnea
+                - brown hyena, strand wolf, Hyaena brunnea, Parahyaena brunnea
                 - spotted hyena, laughing hyena, Crocuta crocuta
                 - aardwolf, Proteles cristata
               - fox
@@ -2689,7 +2699,7 @@ term: animal
                 - Arctic fox, white fox, Alopex lagopus
                   - blue fox
                 - grey fox, gray fox, Urocyon cinereoargenteus
-            - feline, felid
+            - feline, felid, cat
               - cat, true cat
                 - domestic cat, house cat, Felis domesticus, Felis catus
                   - kitty, kitty-cat, puss, pussy, pussycat
@@ -2710,25 +2720,25 @@ term: animal
                   - Maltese, Maltese cat
                   - Abyssinian, Abyssinian cat
                   - Manx, Manx cat
-                - wildcat
-                  - sand cat
-                  - European wildcat, catamountain, Felis silvestris
-                  - cougar, puma, catamount, mountain lion, painter, panther, Felis concolor
-                  - ocelot, panther cat, Felis pardalis
-                  - jaguarundi, jaguarundi cat, jaguarondi, eyra, Felis yagouaroundi
-                  - kaffir cat, caffer cat, Felis ocreata
-                  - jungle cat, Felis chaus
-                  - serval, Felis serval
-                  - leopard cat, Felis bengalensis
-                  - tiger cat, Felis tigrina
-                  - margay, margay cat, Felis wiedi
-                  - manul, Pallas's cat, Felis manul
-                  - lynx, catamount
-                    - common lynx, Lynx lynx
-                    - Canada lynx, Lynx canadensis
-                    - bobcat, bay lynx, Lynx rufus
-                    - spotted lynx, Lynx pardina
-                    - caracal, desert lynx, Lynx caracal
+              - wildcat
+                - sand cat
+                - European wildcat, catamountain, Felis silvestris
+                - cougar, puma, catamount, mountain lion, painter, panther, Felis concolor
+                - ocelot, panther cat, Felis pardalis, Leopardus pardalis
+                - jaguarundi, jaguarundi cat, jaguarondi, eyra, Felis yagouaroundi
+                - kaffir cat, caffer cat, Felis ocreata
+                - jungle cat, Felis chaus
+                - serval, Felis serval
+                - leopard cat, Felis bengalensis, Prionailurus bengalensis
+                - tiger cat, Felis tigrina
+                - margay, margay cat, Felis wiedi
+                - manul, Pallas's cat, Felis manul, Otocolobus manul
+                - lynx, catamount
+                  - common lynx, Lynx lynx
+                  - Canada lynx, Lynx canadensis
+                  - bobcat, bay lynx, Lynx rufus
+                  - spotted lynx, Lynx pardina
+                  - caracal, desert lynx, Lynx caracal
               - big cat, cat
                 - leopard, Panthera pardus
                   - leopardess
@@ -2758,14 +2768,14 @@ term: animal
               - bruin
               - American black bear, black bear, Ursus americanus, Euarctos americanus
                 - cinnamon bear
-              - Asiatic black bear, black bear, Ursus thibetanus, Selenarctos thibetanus
-              - ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus
+              - Asiatic black bear, black bear, Ursus thibetanus, Selenarctos thibetanus, Arcticonus thibetanus
+              - ice bear, polar bear, Ursus maritimus, Thalarctos maritimus
               - sloth bear, Melursus ursinus, Ursus ursinus
             - viverrine, viverrine mammal
               - civet, civet cat
                 - large civet, Viverra zibetha
                 - small civet, Viverricula indica, Viverricula malaccensis
-                - binturong, bearcat, Arctictis bintourong
+                - binturong, bearcat, Arctictis bintourong, Arctictis binturong
                 - Cryptoprocta, genus Cryptoprocta
                 - fanaloka, Fossa fossa
                 - banded palm civet, Hemigalus hardwickii
@@ -2777,7 +2787,7 @@ term: animal
                 - ichneumon, Herpestes ichneumon
               - meerkat, mierkat
                 - slender-tailed meerkat, Suricata suricatta
-                - suricate, Suricata tetradactyla
+                - suricate, Suricata tetradactyla, Suricata suricatta
             - musteline mammal, mustelid, musteline
               - weasel
                 - ermine, shorttail weasel, Mustela erminea
@@ -2860,14 +2870,14 @@ term: animal
                 - pallid bat, cave bat, Antrozous pallidus
                 - pipistrelle, pipistrel, Pipistrellus pipistrellus
                 - eastern pipistrel, Pipistrellus subflavus
-                - western pipistrel, SPipistrellus hesperus
+                - western pipistrel, Pipistrellus hesperus
                 - jackass bat, spotted bat, Euderma maculata
                 - long-eared bat
                   - western big-eared bat, Plecotus townsendi
               - brown bat
               - freetail, free-tailed bat, freetailed bat
                 - guano bat, Mexican freetail bat, Tadarida brasiliensis
-                - pocketed bat, pocketed freetail bat, Tadirida femorosacca
+                - pocketed bat, pocketed freetail bat, Nyctinomops femorosaccus, Tadarida femorosacca, pocketed free-tailed bat
               - mastiff bat
               - vampire bat, true vampire bat
                 - Desmodus rotundus
@@ -2900,7 +2910,7 @@ term: animal
           - rodent, gnawer
             - mouse
               - house mouse, Mus musculus
-              - harvest mouse, Micromyx minutus
+              - harvest mouse, Micromys minutus
               - field mouse, fieldmouse
                 - European wood mouse, Apodemus sylvaticus
               - nude mouse
@@ -2915,7 +2925,7 @@ term: animal
                 - pocket mouse
                   - silky pocket mouse, Perognathus flavus
                   - plains pocket mouse, Perognathus flavescens
-                  - hispid pocket mouse, Perognathus hispidus
+                  - hispid pocket mouse, Perognathus hispidus, Chaetodipus hispidus
                   - Mexican pocket mouse, Liomys irroratus
                 - kangaroo rat, desert rat, Dipodomys phillipsii
                   - Ord kangaroo rat, Dipodomys ordi
@@ -2941,7 +2951,7 @@ term: animal
             - muskrat, musquash, Ondatra zibethica
             - round-tailed muskrat, Florida water rat, Neofiber alleni
             - cotton rat, Sigmodon hispidus
-            - wood rat, wood-rat
+            - wood rat, wood-rat, woodrat
               - dusky-footed wood rat
               - vole, field mouse
                 - grasshopper mouse
@@ -3148,20 +3158,20 @@ term: animal
                   - jack, jackass
                   - jennet, jenny, jenny ass
                   - wild ass
-                    - African wild ass, Equus asinus
+                    - African wild ass, Equus africanus
                     - kiang, Equus kiang
                     - onager, Equus hemionus
                       - chigetai, dziggetai, Equus hemionus hemionus
                 - mule
                 - hinny
                 - zebra
-                  - common zebra, Burchell's zebra, Equus Burchelli
+                  - common zebra, Burchell's zebra, Equus burchelli
                   - mountain zebra, Equus zebra zebra
                   - grevy's zebra, Equus grevyi
                 - quagga, Equus quagga
               - rhinoceros, rhino
                 - Indian rhinoceros, Rhinoceros unicornis
-                - woolly rhinoceros, Rhinoceros antiquitatis
+                - woolly rhinoceros, Rhinoceros antiquitatis, Coelodonta antiquitatis
                 - white rhinoceros, Ceratotherium simum, Diceros simus
                 - black rhinoceros, Diceros bicornis
               - tapir
@@ -3175,12 +3185,12 @@ term: animal
                 - sow
                 - razorback, razorback hog, razorbacked hog
                 - wild boar, boar, Sus scrofa
-                - babirusa, babiroussa, babirussa, Babyrousa Babyrussa
+                - babirusa, babiroussa, babirussa, Babyrousa babyrussa
                 - warthog
               - peccary, musk hog
                 - collared peccary, javelina, Tayassu angulatus, Tayassu tajacu, Peccari angulatus
                 - white-lipped peccary, Tayassu pecari
-                - Chiacoan peccary
+                - Chacoan peccary
               - hippopotamus, hippo, river horse, Hippopotamus amphibius
               - ruminant
                 - pollard
@@ -3323,11 +3333,11 @@ term: animal
                     - brocket
                   - sambar, sambur, Cervus unicolor
                   - wapiti, elk, American elk, Cervus elaphus canadensis
-                  - Japanese deer, sika, Cervus nipon, Cervus sika
-                  - Virginia deer, white tail, whitetail, white-tailed deer, whitetail deer, Odocoileus Virginianus
+                  - Japanese deer, sika, Cervus nippon, Cervus sika
+                  - Virginia deer, white tail, whitetail, white-tailed deer, whitetail deer, Odocoileus virginianus
                   - mule deer, burro deer, Odocoileus hemionus
                     - black-tailed deer, blacktail deer, blacktail, Odocoileus hemionus columbianus
-                  - elk, European elk, moose, Alces alces
+                  - elk, moose, Alces alces
                   - fallow deer, Dama dama
                   - roe deer, Capreolus capreolus
                     - roebuck
@@ -3340,7 +3350,7 @@ term: animal
                   - pere david's deer, elaphure, Elaphurus davidianus
                 - chevrotain, mouse deer
                   - kanchil, Tragulus kanchil
-                  - napu, Tragulus Javanicus
+                  - napu, Tragulus javanicus
                   - water chevrotain, water deer, Hyemoschus aquaticus
                 - giraffe, camelopard, Giraffa camelopardalis
                   - okapi, Okapia johnstoni
@@ -3428,6 +3438,7 @@ term: animal
                   - Boskop man
                   - Homo sapiens sapiens, modern man
                 - Neandertal man, Neanderthal man, Neandertal, Neanderthal, Homo sapiens neanderthalensis
+                - hooman
                 - Rhodesian man, Homo rhodesiensis
               - Pithecanthropus, Pithecanthropus erectus, genus Pithecanthropus
               - Sinanthropus, genus Sinanthropus
@@ -3584,7 +3595,7 @@ term: animal
             - Euphausia pacifica
           - opossum shrimp
           - isopod
-            - woodlouse, slater
+            - woodlouse, wood louse, slater
               - pill bug
               - sow bug
             - sea louse, sea slater
@@ -3614,7 +3625,7 @@ term: animal
           - lobster
             - true lobster
               - American lobster, Northern lobster, Maine lobster, Homarus americanus
-              - European lobster, Homarus vulgaris
+              - European lobster, Homarus vulgaris, Homarus gammarus
               - Cape lobster, Homarus capensis
             - Norway lobster, Nephrops norvegicus
             - spiny lobster, langouste, rock lobster, crawfish, crayfish, sea crawfish
@@ -3707,7 +3718,7 @@ term: animal
           - weevil
             - snout beetle
             - boll weevil, Anthonomus grandis
-            - darkling beetle, darkling groung beetle, tenebrionid
+            - darkling beetle, tenebrionid, darkling ground beetle
               - flour beetle, flour weevil
             - seed beetle, seed weevil
               - pea weevil, Bruchus pisorum
@@ -3726,7 +3737,7 @@ term: animal
           - common louse, Pediculus humanus
           - head louse, Pediculus capitis
           - body louse, cootie, Pediculus corporis
-          - crab louse, pubic louse, crab, Phthirius pubis
+          - crab louse, pubic louse, crab, Phthirius pubis, Pthirus pubis
         - bird louse, biting louse, louse
           - chicken louse, shaft louse, Menopon palladum, Menopon gallinae
         - flea
@@ -3763,7 +3774,7 @@ term: animal
             - vinegar fly
           - louse fly, hippoboscid
             - horse tick, horsefly, Hippobosca equina
-            - sheep ked, sheep-tick, sheep tick, Melophagus Ovinus
+            - sheep ked, sheep-tick, sheep tick, Melophagus ovinus
           - mosquito
             - gnat
             - yellow-fever mosquito, Aedes aegypti
@@ -3814,7 +3825,7 @@ term: animal
             - sphecoid wasp, sphecoid
               - mason wasp
               - digger wasp
-                - cicada killer, Sphecius speciosis
+                - cicada killer, Sphecius speciosus
               - mud dauber
             - gall wasp, gallfly, cynipid wasp, cynipid gall wasp
           - Mutillidae, family Mutillidae
@@ -3842,7 +3853,7 @@ term: animal
         - termite, white ant
           - dry-wood termite
             - powder-post termite, Cryptotermes brevis
-          - Reticulitermes flanipes
+          - Reticulitermes flanipes, Reticulitermes flavipes
           - Reticulitermes lucifugus
           - Mastotermes darwiniensis
           - Mastotermes electromexicus
@@ -3875,7 +3886,7 @@ term: animal
             - German cockroach, Croton bug, crotonbug, water bug, Blattella germanica
             - giant cockroach
           - mantis, mantid
-            - praying mantis, praying mantid, Mantis religioso
+            - praying mantis, praying mantid, Mantis religioso, Mantis religiosa
         - bug
         - hemipterous insect, bug, hemipteran, hemipteron
           - leaf bug, plant bug
@@ -3924,6 +3935,7 @@ term: animal
               - Comstock mealybug, Comstock's mealybug, Pseudococcus comstocki
               - citrus mealybug, Planococcus citri
           - plant louse, louse
+            - oak blight
             - aphid
               - apple aphid, green apple aphid, Aphis pomi
               - blackfly, bean aphid, Aphis fabae
@@ -3941,7 +3953,6 @@ term: animal
               - woolly adelgid
             - grape louse, grape phylloxera, Phylloxera vitifoleae
             - jumping plant louse, psylla, psyllid
-            - oak blight
           - cicada, cicala
             - dog-day cicada, harvest fly
             - seventeen-year locust, periodical cicada, Magicicada septendecim
@@ -4188,12 +4199,12 @@ term: animal
         - abalone, ear-shell
           - ormer, sea-ear, Haliotis tuberculata
         - conch
-          - giant conch, Strombus gigas
+          - giant conch, Strombus gigas, Lobatus gigas
         - snail
           - scorpion shell
           - edible snail, Helix pomatia
           - garden snail
-            - brown snail, Helix aspersa
+            - brown snail, Helix aspersa, Cornu aspersum
             - Helix hortensis
         - slug
         - seasnail
@@ -4259,7 +4270,7 @@ term: animal
         - dibranchiate, dibranchiate mollusk, dibranch
         - octopod
           - octopus, devilfish
-          - paper nautilus, nautilus, Argonaut, Argonauta argo
+          - paper nautilus, nautilus, argonaut, Argonauta argo
         - decapod
           - squid
             - loligo
@@ -4341,6 +4352,7 @@ term: animal
           - Greek partridge, rock partridge, Alectoris graeca
           - mountain quail, mountain partridge, Oreortyx picta palmeri
       - tinamou, partridge
+    - small game
   - hexapod
   - biped
   - larva
@@ -4353,7 +4365,7 @@ term: animal
     - strawworm, jointworm
     - doodlebug, ant lion, antlion
     - aphid lion, aphis lion
-    - hellgrammiate, dobson
+    - hellgrammite, dobson
     - caseworm
       - caddisworm, strawworm
     - caterpillar
@@ -4371,7 +4383,7 @@ term: animal
       - tobacco hornworm, tomato worm, Manduca sexta
       - tomato hornworm, potato worm, Manduca quinquemaculata
       - silkworm
-      - silkworm, giant silkworm, wild wilkworm
+      - silkworm, giant silkworm, wild silkworm
         - ailanthus silkworm, Samia cynthia
       - tent caterpillar
         - forest tent caterpillar, Malacosoma disstria
@@ -4407,6 +4419,8 @@ term: animal
     - Donald Duck
     - Mighty Mouse
   - captive
+  - albino
+  - spirit animal
   - mate
 [Part of]
   - Animalia, kingdom Animalia, animal kingdom
@@ -4450,11 +4464,11 @@ term: animal
                 - calcarine sulcus, calcarine fissure
                 - occipital gyrus
                 - striate cortex, striate area, first visual area, area 17 of Brodmann, Brodmann's area 17
-              - temporal lobe, temporal ccortex
+              - temporal lobe, temporal cortex
                 - temporal gyrus
                 - amygdala, amygdaloid nucleus, corpus amygdaloideum
             - gyrus, convolution
-        - diencephalon, interbrain, betweenbrain, thalmencephalon
+        - diencephalon, interbrain, betweenbrain
           - mamillary body, mammillary body, corpus mamillare
           - infundibulum
           - third eye, pineal eye
@@ -4466,7 +4480,7 @@ term: animal
             - posterior pituitary, posterior pituitary gland, neurohypophysis, pars nervosa
               - pars intermedia
           - basal ganglion
-          - thalamus
+          - thalamus, thalamencephalon
             - geniculate body
             - subthalamus
               - subthalamic nucleus
@@ -4665,6 +4679,30 @@ term: animal
         - part, portion
         - section, segment
 [Domains]
+  - trap
+  - humaneness
+  - wart
+  - nose
+  - schistosome dermatitis
+  - swimmer's itch
+  - sacrifice
+  - ritual killing
+  - trailing
+  - tracking
+  - vector
+  - transmitter
+  - microorganism
+  - micro-organism
+  - actinomycete
+  - body
+  - organic structure
+  - side
+  - drench
+  - sitter
+  - stander
+  - crop
+  - graze
+  - pasture
   - crested
   - topknotted
   - tufted
@@ -4695,28 +4733,6 @@ term: animal
   - unregistered
   - gregarious
   - social
-  - sacrifice
-  - ritual killing
-  - trailing
-  - tracking
-  - microorganism
-  - micro-organism
-  - actinomycete
-  - trap
-  - humaneness
-  - body
-  - organic structure
-  - physical structure
-  - side
-  - nose
-  - diet
-  - vector
-  - transmitter
-  - sitter
-  - stander
-  - wart
-  - schistosome dermatitis
-  - swimmer's itch
   - bone
   - debone
   - domesticate
@@ -4724,7 +4740,4 @@ term: animal
   - domesticize
   - domesticise
   - reclaim
-  - drench
-  - crop
-  - graze
-  - pasture
+  - diet

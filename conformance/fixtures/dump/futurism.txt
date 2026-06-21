@@ -1,0 +1,22 @@
+term: futurism
+[Definitions]
+  - (noun) an artistic movement in Italy around 1910 that tried to express the energy and values of the machine age
+  - (noun) the position that the meaning of life should be sought in the future
+[Derived forms]
+  - futuristic
+  - futurist
+  - fantast
+[Is a kind of]
+  - artistic movement, art movement
+    - movement, social movement, front
+      - social group
+        - group, grouping
+          - abstraction, abstract entity
+            - entity
+  - position, view, perspective
+    - orientation
+      - attitude, mental attitude
+        - cognition, knowledge, noesis
+          - psychological feature
+            - abstraction, abstract entity
+              - entity

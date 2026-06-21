@@ -1,0 +1,66 @@
+term: brewage
+[Definitions]
+  - (noun) drink made by steeping and boiling and fermenting rather than distilling
+[Synonyms]
+  - brew
+[Derived forms]
+  - brew
+[Is a kind of]
+  - alcohol, alcoholic drink, alcoholic beverage, intoxicant, inebriant
+    - beverage, drink, drinkable, potable
+      - food, nutrient
+        - substance
+          - matter
+            - physical entity
+              - entity
+      - liquid
+        - fluid
+          - substance
+            - matter
+              - physical entity
+                - entity
+            - part, portion, component part, component, constituent
+              - relation
+                - abstraction, abstract entity
+                  - entity
+    - drug of abuse, street drug
+      - drug
+        - agent
+          - causal agent, cause, causal agency
+            - physical entity
+              - entity
+          - substance
+            - matter
+              - physical entity
+                - entity
+[Kinds]
+  - beer
+    - draft beer, draught beer
+    - suds
+    - lager, lager beer
+      - Munich beer, Munchener
+      - bock, bock beer
+      - light beer
+      - Oktoberfest, Octoberfest
+      - Pilsner, Pilsener
+      - malt, malt liquor
+      - baltic porter
+    - ale
+      - Weissbier, white beer, wheat beer
+        - Weizenbier
+        - Weizenbock
+        - witbier
+      - bitter
+      - Burton
+      - pale ale
+      - porter, porter's beer
+      - stout
+        - Guinness
+  - kvass
+  - mead
+    - metheglin
+    - czworniak
+    - dwojniak
+    - trojniak
+  - cassiri
+  - spruce beer

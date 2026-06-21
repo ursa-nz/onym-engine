@@ -1,0 +1,24 @@
+term: saltate
+[Definitions]
+  - (verb) move by saltation
+      "The sand grains are saltated by the wind"
+  - (verb) leap or skip, often in dancing
+      "These fish swim with a saltating motion"
+[Derived forms]
+  - saltation
+  - dancing
+  - dance
+  - terpsichore
+  - leap
+  - leaping
+  - spring
+  - bound
+  - bounce
+[Is a kind of]
+  - move, displace
+    - change, alter, modify
+      - induce, stimulate, cause, have, get, make
+        - act, move
+  - jump, leap, bound, spring
+    - move
+      - act, move

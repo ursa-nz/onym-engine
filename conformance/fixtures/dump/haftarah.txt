@@ -1,0 +1,21 @@
+term: Haftarah
+[Definitions]
+  - (noun) a short selection from the Prophets read on every Sabbath in a Jewish synagogue following a reading from the Torah
+[Synonyms]
+  - Haftorah
+  - Haphtorah
+  - Haphtarah
+[Is a kind of]
+  - excerpt, excerption, extract, selection
+    - passage
+      - section, subdivision
+        - writing, written material, piece of writing
+          - written communication, written language, black and white
+            - communication
+              - abstraction, abstract entity
+                - entity
+        - music
+          - auditory communication
+            - communication
+              - abstraction, abstract entity
+                - entity

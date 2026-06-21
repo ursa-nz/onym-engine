@@ -1,0 +1,10 @@
+term: arpent
+[Definitions]
+  - (noun) a former French unit of area; equal approximately to an acre
+[Is a kind of]
+  - area unit, square measure
+    - unit of measurement, unit
+      - definite quantity
+        - measure, quantity, amount
+          - abstraction, abstract entity
+            - entity

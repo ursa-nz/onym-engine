@@ -1,0 +1,9 @@
+term: avian
+[Definitions]
+  - (adjective) pertaining to or characteristic of birds
+[Pertains to]
+  - bird
+    - vertebrate, craniate
+[Domains]
+  - zoology
+  - zoological science

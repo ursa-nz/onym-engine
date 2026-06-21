@@ -1,0 +1,42 @@
+term: frostweed
+[Definitions]
+  - (noun) perennial of the eastern United States having early solitary yellow flowers followed by late petalless flowers; so-called because ice crystals form on it during first frosts
+  - (noun) tall perennial herb having clusters of white flowers; the eastern United States
+[Synonyms]
+  - frost-weed
+  - frostwort
+  - Helianthemum canadense
+  - Crocanthemum canadense
+  - Virginia crownbeard
+  - Verbesina virginica
+[Is a kind of]
+  - helianthemum, sunrose, sun rose
+    - shrub, bush
+      - woody plant, ligneous plant
+        - vascular plant, tracheophyte
+          - plant, flora, plant life
+            - organism, being
+              - living thing, animate thing
+                - whole, unit
+                  - object, physical object
+                    - physical entity
+                      - entity
+              - causal agent, cause, causal agency
+                - physical entity
+                  - entity
+  - crownbeard, crown-beard, crown beard
+    - composite, composite plant
+      - flower
+        - angiosperm, flowering plant
+          - spermatophyte, phanerogam, seed plant
+            - vascular plant, tracheophyte
+              - plant, flora, plant life
+                - organism, being
+                  - living thing, animate thing
+                    - whole, unit
+                      - object, physical object
+                        - physical entity
+                          - entity
+                  - causal agent, cause, causal agency
+                    - physical entity
+                      - entity

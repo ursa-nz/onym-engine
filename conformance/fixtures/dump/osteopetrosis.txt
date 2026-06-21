@@ -1,0 +1,18 @@
+term: osteopetrosis
+[Definitions]
+  - (noun) an inherited disorder characterized by an increase in bone density; in severe forms the bone marrow cavity may be obliterated
+[Synonyms]
+  - Albers-Schonberg disease
+  - marble bones disease
+[Is a kind of]
+  - genetic disease, genetic disorder, genetic abnormality, genetic defect, congenital disease, inherited disease, inherited disorder, hereditary disease, hereditary condition
+    - disease
+      - illness, unwellness, malady, sickness
+        - ill health, unhealthiness, health problem
+          - pathological state
+            - physical condition, physiological state, physiological condition
+              - condition, status
+                - state
+                  - attribute
+                    - abstraction, abstract entity
+                      - entity

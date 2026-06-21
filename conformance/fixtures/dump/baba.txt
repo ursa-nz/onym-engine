@@ -1,0 +1,18 @@
+term: baba
+[Definitions]
+  - (noun) a small cake leavened with yeast
+[Is a kind of]
+  - cake
+    - baked goods
+      - solid food
+        - solid
+          - matter
+            - physical entity
+              - entity
+        - food, nutrient
+          - substance
+            - matter
+              - physical entity
+                - entity
+[Kinds]
+  - baba au rhum, rum baba

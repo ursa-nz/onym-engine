@@ -1,0 +1,69 @@
+term: appraisal
+[Definitions]
+  - (noun) the classification of someone or something with respect to its worth
+  - (noun) a document appraising the value of something (as for insurance or taxation)
+  - (noun) an expert estimation of the quality, quantity, and other characteristics of someone or something
+[Synonyms]
+  - assessment
+  - estimate
+  - estimation
+[Derived forms]
+  - measure
+  - evaluate
+  - valuate
+  - assess
+  - appraise
+  - value
+[Is a kind of]
+  - classification, categorization, categorisation, sorting
+    - basic cognitive process
+      - process, cognitive process, mental process, operation, cognitive operation
+        - cognition, knowledge, noesis
+          - psychological feature
+            - abstraction, abstract entity
+              - entity
+  - commercial document, commercial instrument
+    - document, written document, papers
+      - writing, written material, piece of writing
+        - written communication, written language, black and white
+          - communication
+            - abstraction, abstract entity
+              - entity
+  - estimate, estimation
+    - judgment, judgement, assessment
+      - act, deed, human action, human activity
+        - event
+          - abstraction, abstract entity
+            - entity
+[Kinds]
+  - critical appraisal, critical analysis
+    - criticism, critique
+      - examen
+      - knock, roast
+      - self-criticism
+  - evaluation, valuation, rating
+    - overvaluation
+    - undervaluation
+    - pricing
+      - price gouging
+    - reevaluation
+    - mark, grade, score
+      - grade point
+      - percentile, centile
+      - decile
+      - quartile
+    - bond rating
+    - ongoing evaluation
+    - ex-post evaluation
+    - ex-ante evaluation
+  - assay, check
+    - countercheck, double check
+    - Apgar score
+    - paternity test
+    - stress test
+      - treadmill test
+  - acid test
+  - reappraisal, revaluation, review, reassessment
+    - stocktaking, stock-taking
+  - underevaluation
+  - overestimate, overestimation, overvaluation, overappraisal

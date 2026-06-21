@@ -1,0 +1,18 @@
+term: Kuan Yin
+[Definitions]
+  - (noun) (Buddhism) a female Bodhisattva; often called the Goddess of Mercy and considered an aspect of the Bodhisattva Avalokiteśvara; identified with Japanese Kwannon
+[Synonyms]
+  - Guanyin
+  - Kwan-yin
+[Is a kind of]
+  - Chinese deity
+    - deity, divinity, god, immortal
+      - spiritual being, supernatural being
+        - belief
+          - content, cognitive content, mental object
+            - cognition, knowledge, noesis
+              - psychological feature
+                - abstraction, abstract entity
+                  - entity
+[Domains]
+  - Buddhism

@@ -1,0 +1,18 @@
+term: genus Myricaria
+[Definitions]
+  - (noun) small genus of deciduous shrubs or subshrubs of southern Europe to Siberia and China; tolerant of chalky soil
+[Synonyms]
+  - Myricaria
+[Is a kind of]
+  - dilleniid dicot genus
+    - dicot genus, magnoliopsid genus
+      - genus
+        - taxonomic group, taxonomic category, taxon
+          - biological group
+            - group, grouping
+              - abstraction, abstract entity
+                - entity
+[Part of]
+  - Tamaricaceae, family Tamaricaceae, tamarisk family
+[Parts]
+  - false tamarisk, German tamarisk, Myricaria germanica

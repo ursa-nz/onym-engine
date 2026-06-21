@@ -1,0 +1,15 @@
+term: Louis Victor de Broglie
+[Definitions]
+  - (noun) French nuclear physicist who generalized the wave-particle duality by proposing that particles of matter exhibit wavelike properties (1892-1987)
+[Synonyms]
+  - Louis de Broglie
+  - Broglie
+  - de Broglie
+[Is a kind of]
+  - nuclear physicist
+    - physicist
+      - scientist
+        - actor, doer, worker
+          - causal agent, cause, causal agency
+            - physical entity
+              - entity

@@ -1,0 +1,20 @@
+term: silver bromide
+[Definitions]
+  - (noun) a bromide that darkens when exposed to light; used in making photographic emulsions
+[Is a kind of]
+  - bromide
+    - halide
+      - salt
+        - compound, chemical compound
+          - chemical, chemical substance
+            - material, stuff
+              - substance
+                - matter
+                  - physical entity
+                    - entity
+                - part, portion, component part, component, constituent
+                  - relation
+                    - abstraction, abstract entity
+                      - entity
+[Part of]
+  - emulsion, photographic emulsion

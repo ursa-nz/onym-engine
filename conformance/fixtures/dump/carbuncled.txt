@@ -1,0 +1,16 @@
+term: carbuncled
+[Definitions]
+  - (adjective) afflicted with or resembling a carbuncle
+  - (adjective) set with carbuncles
+[Synonyms]
+  - carbuncular
+[Antonyms]
+  - unhealthy (indirect)
+      -> healthy
+  - adorned (indirect)
+      -> unadorned
+      -> undecorated
+[Similar to]
+  - unhealthy
+  - adorned
+  - decorated

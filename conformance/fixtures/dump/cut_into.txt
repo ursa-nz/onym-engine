@@ -1,0 +1,20 @@
+term: cut into
+[Definitions]
+  - (verb) turn up, loosen, or remove earth
+      "Dig we must"
+      "turn over the soil for aeration"
+[Synonyms]
+  - dig
+  - delve
+  - turn over
+[Is a kind of]
+  - remove, take, take away, withdraw, take off, pull
+    - act, move
+[Kinds]
+  - furrow, rut, groove
+  - rout, root, rootle
+  - spade
+    - ridge
+  - shovel
+  - trowel
+  - burrow, tunnel

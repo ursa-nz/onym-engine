@@ -1,0 +1,9 @@
+term: facet plane
+[Definitions]
+  - (noun) the plane of a facet of an object (as of a cube)
+[Is a kind of]
+  - plane, sheet
+    - shape, form
+      - attribute
+        - abstraction, abstract entity
+          - entity

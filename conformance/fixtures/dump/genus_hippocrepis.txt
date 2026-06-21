@@ -1,0 +1,16 @@
+term: genus Hippocrepis
+[Definitions]
+  - (noun) species of Old World herbs or subshrubs: horseshoe vetch
+[Synonyms]
+  - Hippocrepis
+[Is a kind of]
+  - rosid dicot genus
+    - dicot genus, magnoliopsid genus
+      - genus
+        - taxonomic group, taxonomic category, taxon
+          - biological group
+            - group, grouping
+              - abstraction, abstract entity
+                - entity
+[Part of]
+  - Papilionoideae, subfamily Papilionoideae

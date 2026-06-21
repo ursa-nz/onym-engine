@@ -1,0 +1,11 @@
+term: mincemeat
+[Definitions]
+  - (noun) spiced mixture of chopped raisins and apples and other ingredients with or without meat
+[Is a kind of]
+  - concoction, mixture, intermixture
+    - foodstuff, food product
+      - food, nutrient
+        - substance
+          - matter
+            - physical entity
+              - entity

@@ -1,0 +1,20 @@
+term: Campanula carpatica
+[Definitions]
+  - (noun) European perennial bellflower that grows in clumps with spreading stems and blue or white flowers
+[Synonyms]
+  - tussock bellflower
+  - spreading bellflower
+[Is a kind of]
+  - campanula, bellflower
+    - herb, herbaceous plant
+      - vascular plant, tracheophyte
+        - plant, flora, plant life
+          - organism, being
+            - living thing, animate thing
+              - whole, unit
+                - object, physical object
+                  - physical entity
+                    - entity
+            - causal agent, cause, causal agency
+              - physical entity
+                - entity

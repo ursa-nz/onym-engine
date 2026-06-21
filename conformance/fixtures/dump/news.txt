@@ -1,0 +1,66 @@
+term: news
+[Definitions]
+  - (noun) information about recent and important events
+      "they awaited news of the outcome"
+  - (noun) information reported in a newspaper or news magazine
+      "the news of my death was greatly exaggerated"
+  - (noun) a program devoted to current events, often using interviews and commentary
+      "we watch the 7 o'clock news every night"
+  - (noun) informal information of any kind that is not previously known to someone
+      "it was news to me"
+  - (noun) the quality of being sufficiently interesting to be reported in news bulletins
+      "the judge conceded the newsworthiness of the trial"
+      "he is no longer news in the fashion world"
+[Synonyms]
+  - intelligence
+  - tidings
+  - word
+  - news program
+  - news show
+  - newsworthiness
+[Derived forms]
+  - newsy
+[Is a kind of]
+  - information, info
+    - message, content, subject matter, substance
+      - communication
+        - abstraction, abstract entity
+          - entity
+  - broadcast, program, programme
+    - show
+      - entertainment, amusement
+        - diversion, recreation
+          - activity
+            - act, deed, human action, human activity
+              - event
+                - abstraction, abstract entity
+                  - entity
+  - interest, interestingness
+    - power, powerfulness
+      - quality
+        - attribute
+          - abstraction, abstract entity
+            - entity
+[Kinds]
+  - good word
+  - latest
+  - business news
+  - report, news report, story, account, write up
+    - newsletter, newssheet
+      - market letter
+    - bulletin
+      - news bulletin, newsflash, flash, newsbreak
+      - information bulletin
+    - dispatch, despatch, communique
+      - radio dispatch
+      - Reuters dispatch
+    - urban legend
+    - exclusive, scoop
+  - newscast
+    - radio news
+    - sportscast
+  - coverage, reporting, reportage
+  - hard news
+  - soft news
+  - stop press
+  - television news

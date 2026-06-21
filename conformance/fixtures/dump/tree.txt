@@ -4,7 +4,7 @@ term: tree
   - (noun) a figure that branches from a single root
       "genealogical tree"
   - (noun) English actor and theatrical producer noted for his lavish productions of Shakespeare (1853-1917)
-  - (verb) force a person or an animal into a position from which he cannot escape
+  - (verb) force a person or an animal into a position from which they cannot escape
   - (verb) plant with trees
       "this lot should be treed so that the house will be shaded in summer"
   - (verb) chase an animal up a tree
@@ -28,6 +28,9 @@ term: tree
               - object, physical object
                 - physical entity
                   - entity
+          - causal agent, cause, causal agency
+            - physical entity
+              - entity
   - plane figure, two-dimensional figure
     - figure
       - shape, form
@@ -37,41 +40,47 @@ term: tree
   - actor, histrion, player, thespian, role player
     - performer, performing artist
       - entertainer
-        - person, individual, someone, somebody, mortal, soul
-          - organism, being
-            - living thing, animate thing
-              - whole, unit
-                - object, physical object
-                  - physical entity
-                    - entity
+        - actor, doer, worker
           - causal agent, cause, causal agency
             - physical entity
               - entity
   - theatrical producer
     - producer
       - creator
-        - person, individual, someone, somebody, mortal, soul
-          - organism, being
-            - living thing, animate thing
-              - whole, unit
-                - object, physical object
-                  - physical entity
-                    - entity
+        - actor, doer, worker
           - causal agent, cause, causal agency
             - physical entity
               - entity
   - steer, maneuver, manoeuver, manoeuvre, direct, point, head, guide, channelize, channelise
     - control, command
+      - direct
+        - order, tell, enjoin, say
+          - request
+            - ask
+              - request, ask for, bespeak, call for, quest
+                - communicate, pass on, pass, pass along, put across
+                  - convey, transmit, communicate
+                    - transfer
+                      - move, displace
+                        - change, alter, modify
+                          - induce, stimulate, cause, have, get, make
+                            - act, move
   - plant, set
     - put, set, place, pose, position, lay
       - move, displace
+        - change, alter, modify
+          - induce, stimulate, cause, have, get, make
+            - act, move
   - chase, chase after, trail, tail, tag, give chase, dog, go after, track
     - pursue, follow
       - travel, go, move, locomote
+        - act, move
   - elongate, stretch
     - lengthen
       - increase
         - change, alter, modify
+          - induce, stimulate, cause, have, get, make
+            - act, move
 [Kinds]
   - yellowwood, yellowwood tree
     - gymnospermous yellowwood
@@ -148,7 +157,7 @@ term: tree
   - Chinese parasol tree, Chinese parasol, Japanese varnish tree, phoenix tree, Firmiana simplex
   - mayeng, maple-leaved bayur, Pterospermum acerifolium
   - silver tree, Tarrietia argyrodendron
-  - obeche, obechi, arere, samba, Triplochiton scleroxcylon
+  - obeche, obechi, arere, samba, Triplochiton scleroxcylon, Triplochiton scleroxylon
   - linden, linden tree, basswood, lime, lime tree
     - American basswood, American lime, Tilia americana
     - small-leaved linden, small-leaved lime, Tilia cordata
@@ -181,13 +190,13 @@ term: tree
   - tanbark oak, Lithocarpus densiflorus
     - Japanese oak, Lithocarpus glabra, Lithocarpus glaber
   - southern beech, evergreen beech
-    - myrtle beech, Nothofagus cuninghamii
-    - Coigue, Nothofagus dombeyi
+    - myrtle beech, Nothofagus cunninghamii
+    - coigue, Nothofagus dombeyi
     - New Zealand beech
       - silver beech, Nothofagus menziesii
     - roble beech, Nothofagus obliqua
     - rauli beech, Nothofagus procera
-    - black beech, Nothofagus solanderi
+    - black beech, Nothofagus solanderi, Nothofagus solandri
     - hard beech, Nothofagus truncata
   - oak, oak tree
     - live oak
@@ -256,7 +265,7 @@ term: tree
     - red alder, Oregon alder, Alnus rubra
     - speckled alder, Alnus rugosa
     - smooth alder, hazel alder, Alnus serrulata
-    - green alder, Alnus veridis
+    - green alder, Alnus viridis
     - green alder, Alnus veridis crispa, Alnus crispa
   - hornbeam
     - European hornbeam, Carpinus betulus
@@ -267,8 +276,7 @@ term: tree
   - fringe tree
     - fringe bush, Chionanthus virginicus
   - ash, ash tree
-    - Yggdrasil, Ygdrasil
-    - white ash, Fraxinus Americana
+    - white ash, Fraxinus americana
     - swamp ash, Fraxinus caroliniana
     - flowering ash, Fraxinus cuspidata
     - flowering ash, Fraxinus dipetala
@@ -282,6 +290,7 @@ term: tree
     - mountain ash, Fraxinus texensis
     - pumpkin ash, Fraxinus tomentosa
     - Arizona ash, Fraxinus velutina
+    - Yggdrasil, Ygdrasil
   - devilwood, American olive, Osmanthus americanus
   - dhawa, dhava
   - button tree, button mangrove, Conocarpus erectus
@@ -297,9 +306,9 @@ term: tree
         - forest red gum, Eucalypt tereticornis
       - mallee
         - white mallee, congoo mallee, Eucalyptus dumosa
-        - black mallee, black sally, black gum, Eucalytus stellulata
+        - black mallee, black sally, black gum, Eucalyptus stellulata
       - stringybark
-        - white stringybark, thin-leaved stringybark, Eucalyptusd eugenioides
+        - white stringybark, thin-leaved stringybark, Eucalyptus eugenioides
       - smoothbark
       - red gum, peppermint, peppermint gum, Eucalyptus amygdalina
       - red gum, marri, Eucalyptus calophylla
@@ -341,7 +350,7 @@ term: tree
     - pipal, pipal tree, pipul, peepul, sacred fig, bo tree, Ficus religiosa
     - India-rubber tree, India-rubber plant, India-rubber fig, rubber plant, Assam rubber, Ficus elastica
     - mistletoe fig, mistletoe rubber plant, Ficus diversifolia, Ficus deltoidea
-    - Port Jackson fig, rusty rig, little-leaf fig, Botany Bay fig, Ficus rubiginosa
+    - Port Jackson fig, little-leaf fig, Botany Bay fig, Ficus rubiginosa, rusty fig
     - sycamore, sycamore fig, mulberry fig, Ficus sycomorus
   - elm, elm tree
     - winged elm, wing elm, Ulmus alata
@@ -403,7 +412,7 @@ term: tree
     - coral bean tree, Erythrina corallodendrum
     - ceibo, crybaby tree, cry-baby tree, common coral tree, Erythrina crista-galli
     - kaffir boom, Transvaal kafferboom, Erythrina lysistemon
-    - Indian coral tree, Erythrina variegata, Erythrina Indica
+    - Indian coral tree, Erythrina variegata, Erythrina indica
     - cork tree, Erythrina vespertilio
   - gliricidia
   - millettia
@@ -439,7 +448,7 @@ term: tree
       - coyol, coyol palm, Acrocomia vinifera
       - grugru, gri-gri, grugru palm, macamba, Acrocomia aculeata
       - areca
-        - betel palm, Areca catechu
+        - betel palm, Areca palm, Areca catechu
       - piassava palm, pissaba palm, Bahia piassava, bahia coquilla, Attalea funifera
       - wax palm, Ceroxylon andicola, Ceroxylon alpinum
       - oil palm
@@ -509,14 +518,14 @@ term: tree
     - Philippine mahogany, Philippine cedar, kalantas, Toona calantas, Cedrela calantas
     - hardtack
   - chinaberry, chinaberry tree, China tree, Persian lilac, pride-of-India, azederach, azedarach, Melia azederach, Melia azedarach
-  - neem, neem tree, nim tree, margosa, arishth, Azadirachta indica, Melia Azadirachta
+  - neem, neem tree, nim tree, margosa, arishth, Azadirachta indica, Melia azadirachta
   - satinwood, satinwood tree, Chloroxylon swietenia
   - silver ash
     - native beech, flindosa, flindosy, Flindersia australis
     - bunji-bunji, Flindersia schottiana
   - lanseh tree, langsat, langset, Lansium domesticum
   - African walnut, Lovoa klaineana
-  - turreae
+  - turraea
   - lepidobotrys
   - caracolito, Ruptiliocarpon caracolito
   - cork tree, Phellodendron amurense
@@ -564,11 +573,10 @@ term: tree
   - quandong, quandang, quandong tree, Eucarya acuminata, Fusanus acuminatus
   - aalii
   - soapberry, soapberry tree
-    - wild China tree, Sapindus drumondii, Sapindus marginatus
+    - wild China tree, Sapindus marginatus, Sapindus drummondii
     - China tree, false dogwood, jaboncillo, chinaberry, Sapindus saponaria
-  - aroeira blanca, Schinus chichita
+  - aroeira blanca, Schinus chichita, Brazilian pepper tree, Schinus terebinthifolia
   - pepper tree, molle, Peruvian mastic tree, Schinus molle
-  - Brazilian pepper tree, Schinus terebinthifolius
   - ebony, ebony tree, Diospyros ebenum
   - marblewood, marble-wood, Andaman marble, Diospyros kurzii
   - balata, balata tree, beefwood, bully tree, Manilkara bidentata
@@ -709,6 +717,12 @@ term: tree
         - Monterey cypress, Cupressus macrocarpa
         - Mexican cypress, cedar of Goa, Portuguese cypress, Cupressus lusitanica
         - Italian cypress, Mediterranean cypress, Cupressus sempervirens
+        - cypress pine
+        - pond cypress, bald cypress, Taxodium ascendens
+        - Montezuma cypress, Mexican swamp cypress, Taxodium mucronatum
+        - juniper
+        - swamp cypress, pond bald cypress, southern cypress, bald cypress, Taxodium distichum
+        - sequoia, redwood
       - King William pine, Athrotaxis selaginoides
       - metasequoia, dawn redwood, Metasequoia glyptostrodoides
       - arborvitae
@@ -739,7 +753,7 @@ term: tree
       - brown pine, Rockingham podocarp, Podocarpus elatus
       - cape yellowwood, African yellowwood, Podocarpus elongatus
       - totara, Podocarpus totara
-      - kahikatea, New Zealand Dacryberry, New Zealand white pine, Dacrycarpus dacrydioides, Podocarpus dacrydioides
+      - kahikatea, New Zealand dacryberry, New Zealand white pine, Dacrycarpus dacrydioides, Podocarpus dacrydioides
       - rimu, imou pine, red pine, Dacrydium cupressinum
       - tarwood, tar-wood, Dacrydium colensoi
       - common sickle pine, Falcatifolium falciforme
@@ -816,7 +830,7 @@ term: tree
     - trumpetwood, trumpet-wood, trumpet tree, snake wood, imbauba, Cecropia peltata
     - mountain ebony, orchid tree, Bauhinia variegata
     - royal poinciana, flamboyant, flame tree, peacock flower, Delonix regia, Poinciana regia
-    - Judas tree, love tree, Circis siliquastrum
+    - Judas tree, love tree, Circis siliquastrum, Cercis siliquastrum
     - redbud, Cercis canadensis
     - cherry laurel, laurel cherry, mock orange, wild orange, Prunus caroliniana
     - fruit tree
@@ -838,7 +852,7 @@ term: tree
       - anchovy pear, anchovy pear tree, Grias cauliflora
       - sour cherry, Eugenia corynantha
       - Surinam cherry, pitanga, Eugenia uniflora
-      - rose apple, rose-apple tree, jambosa, Eugenia jambos
+      - rose apple, rose-apple tree, jambosa, Eugenia jambos, Syzygium jambos
       - jaboticaba, jaboticaba tree, Myrciaria cauliflora
       - guava, true guava, guava bush, Psidium guajava
       - guava, strawberry guava, yellow cattley guava, Psidium littorale
@@ -924,7 +938,7 @@ term: tree
       - nectarine, nectarine tree, Prunus persica nectarina
       - pear, pear tree, Pyrus communis
       - genipa
-        - genipap fruit, jagua, marmalade box, Genipa Americana
+        - genipap fruit, jagua, marmalade box, Genipa americana
       - carambola, carambola tree, Averrhoa carambola
       - bilimbi, Averrhoa bilimbi
       - citrus, citrus tree
@@ -965,7 +979,7 @@ term: tree
         - date plum, Diospyros lotus
       - star apple, caimito, Chrysophyllum cainito
       - sapodilla, sapodilla tree, Manilkara zapota, Achras zapota
-      - canistel, canistel tree, Pouteria campechiana nervosa
+      - canistel, canistel tree, Pouteria campechiana nervosa, Pouteria campechiana
     - mountain ash
       - rowan, rowan tree, European mountain ash, Sorbus aucuparia
       - American mountain ash, Sorbus americana
@@ -1003,7 +1017,7 @@ term: tree
       - vine maple, Acer circinatum
       - hedge maple, field maple, Acer campestre
       - Norway maple, Acer platanoides
-      - sycamore, great maple, scottish maple, Acer pseudoplatanus
+      - sycamore, great maple, Acer pseudoplatanus, Scottish maple
       - box elder, ash-leaved maple, Acer negundo
         - California box elder, Acer negundo Californicum
       - pointed-leaf maple, Acer argutum
@@ -1020,7 +1034,7 @@ term: tree
       - deciduous holly
       - juneberry holly
       - largeleaf holly
-      - Geogia holly
+      - Georgia holly
       - common winterberry holly
       - smooth winterberry holly
     - terebinth, Pistacia terebinthus
@@ -1033,7 +1047,7 @@ term: tree
     - satinleaf, satin leaf, caimitillo, damson plum, Chrysophyllum oliviforme
     - silver bell
       - silver-bell tree, silverbell tree, snowdrop tree, opossum wood, Halesia carolina, Halesia tetraptera
-    - Spanish elm, Equador laurel, salmwood, cypre, princewood, Cordia alliodora
+    - Spanish elm, salmwood, cypre, princewood, Cordia alliodora, Ecuador laurel
     - physic nut, Jatropha curcus
     - Para rubber tree, caoutchouc tree, Hevea brasiliensis
     - candlenut, varnish tree, Aleurites moluccana

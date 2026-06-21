@@ -1,0 +1,14 @@
+term: Charles River
+[Definitions]
+  - (noun) a river in eastern Massachusetts that empties into Boston Harbor and that separates Cambridge from Boston
+[Synonyms]
+  - Charles
+[Is a kind of]
+  - river
+    - stream, watercourse
+      - body of water, water
+        - thing
+          - physical entity
+            - entity
+[Part of]
+  - Massachusetts, Bay State, Old Colony, MA, Mass.

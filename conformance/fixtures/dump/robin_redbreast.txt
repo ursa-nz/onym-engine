@@ -1,0 +1,28 @@
+term: robin redbreast
+[Definitions]
+  - (noun) small Old World songbird with a reddish breast
+[Synonyms]
+  - robin
+  - redbreast
+  - Old World robin
+  - Erithacus rubecola
+  - Erithacus rubecula
+[Is a kind of]
+  - thrush
+    - oscine, oscine bird
+      - passerine, passeriform bird
+        - bird
+          - vertebrate, craniate
+            - chordate
+              - animal, animate being, beast, brute, creature, fauna
+                - organism, being
+                  - living thing, animate thing
+                    - whole, unit
+                      - object, physical object
+                        - physical entity
+                          - entity
+                  - causal agent, cause, causal agency
+                    - physical entity
+                      - entity
+[Part of]
+  - Erithacus, genus Erithacus

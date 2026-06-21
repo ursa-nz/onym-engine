@@ -1,0 +1,31 @@
+term: mooch
+[Definitions]
+  - (noun) someone who mooches or cadges (tries to get something free)
+  - (verb) ask for and get free; be a parasite
+[Synonyms]
+  - moocher
+  - cadger
+  - scrounger
+  - bum
+  - cadge
+  - grub
+  - sponge
+[Derived forms]
+  - moocher
+  - cadger
+  - scrounger
+[Is a kind of]
+  - beggar, mendicant
+    - pauper
+      - poor person, have-not
+        - unfortunate, unfortunate person
+          - actor, doer, worker
+            - causal agent, cause, causal agency
+              - physical entity
+                - entity
+  - obtain
+    - get, acquire
+      - act, move
+[Kinds]
+  - schnorrer, shnorrer
+  - freeload

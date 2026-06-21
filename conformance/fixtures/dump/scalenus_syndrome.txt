@@ -1,0 +1,12 @@
+term: scalenus syndrome
+[Definitions]
+  - (noun) discomfort and vascular symptoms and loss of sensation in a shoulder and arm; caused by a scalene muscle compressing the subclavian artery and part of the brachial plexus
+[Is a kind of]
+  - syndrome
+    - symptom
+      - evidence, grounds
+        - information
+          - cognition, knowledge, noesis
+            - psychological feature
+              - abstraction, abstract entity
+                - entity

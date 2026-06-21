@@ -1,0 +1,42 @@
+term: auto-alarm
+[Definitions]
+  - (noun) a radio receiving device used on ships that rings an alarm bell when a distress signal is received.
+[Is a kind of]
+  - receiver, receiving system
+    - set
+      - electronic equipment
+        - equipment
+          - instrumentality, instrumentation, means
+            - artifact, artefact
+              - whole, unit
+                - object, physical object
+                  - physical entity
+                    - entity
+[Parts]
+  - receiver, receiving system
+    - antenna, aerial, transmitting aerial
+    - radio chassis
+    - set
+      - electronic equipment
+        - circuit, electrical circuit, electric circuit
+          - capacitor, capacitance, condenser, electrical condenser
+          - choke, choke coil, choking coil
+          - relay, electrical relay
+            - electromagnet
+              - armature
+          - resistor, resistance
+          - short circuit, short
+          - shunt, electrical shunt, bypass
+          - tube, vacuum tube, thermionic vacuum tube, thermionic tube, electron tube, thermionic valve
+            - anode
+            - cathode
+            - electrode
+            - grid, control grid
+            - plate
+        - electrode
+        - equipment
+          - instrumentality, instrumentation, means
+            - artifact, artefact
+              - whole, unit
+                - part, portion
+                - section, segment

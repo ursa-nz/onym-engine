@@ -1,0 +1,18 @@
+term: SIGINT
+[Definitions]
+  - (noun) intelligence information gathered from communications intelligence or electronics intelligence or telemetry intelligence
+[Synonyms]
+  - signals intelligence
+[Is a kind of]
+  - intelligence, intelligence activity, intelligence operation
+    - information gathering
+      - operation, military operation
+        - activity
+          - act, deed, human action, human activity
+            - event
+              - abstraction, abstract entity
+                - entity
+[Kinds]
+  - electronics intelligence, ELINT
+  - communications intelligence, COMINT
+  - telemetry intelligence, TELINT

@@ -1,0 +1,13 @@
+term: Alfred Russel Wallace
+[Definitions]
+  - (noun) English naturalist who formulated a concept of evolution that resembled Charles Darwin's (1823-1913)
+[Synonyms]
+  - Wallace
+[Is a kind of]
+  - naturalist, natural scientist
+    - biologist, life scientist
+      - scientist
+        - actor, doer, worker
+          - causal agent, cause, causal agency
+            - physical entity
+              - entity

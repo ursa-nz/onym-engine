@@ -5,18 +5,19 @@ SPDX-License-Identifier: GPL-3.0-or-later
 
 # onym-engine
 
-onym-engine is the WordNet 3.0 engine behind Onym and Onymdroid, written in Rust. It is std-only
-with zero dependencies. One crate carries the model, the morphology, the lemma index, and the
-lookup rules, so both applications share one engine with one behaviour. It replaces the abandoned
-WordNet C library (libwordnet), the engine Onym vendored from Artha, and the extJWNL library
-Onymdroid used.
+onym-engine is the WordNet-family lookup engine behind the Onym GTK and Android apps, written in
+Rust. It is std-only with zero dependencies. One crate carries the model, the morphology, the lemma
+index, and the lookup rules, so both applications share one engine with one behaviour. It reads Open
+English WordNet (the base is pinned by the `onym-data` submodule and bumpable), and replaces the
+abandoned WordNet C library (libwordnet), the engine Onym vendored from Artha, and the extJWNL
+library the Android app used.
 
 ## Status
 
 Pre-release. `spec/engine.md` is the contract; the core crate in `crates/onym-engine` implements
 it, and the conformance kit in `conformance/` proves the implementation against it. The C ABI
-crate in `crates/onym-engine-ffi` backs Onym, and the JNI crate in `crates/onym-engine-jni`
-backs Onymdroid.
+crate in `crates/onym-engine-ffi` backs the GTK app, and the JNI crate in `crates/onym-engine-jni`
+backs the Android app.
 
 ## Data
 
@@ -46,8 +47,8 @@ onym-engine is free software under the GPL, version 3 or later. Full licence tex
 
 ## Acknowledgements
 
-- Word data from [WordNet](https://wordnet.princeton.edu), the lexical database from Princeton
-  University, under its own permissive licence.
+- Word data from [Open English WordNet](https://github.com/globalwordnet/english-wordnet), the
+  actively maintained WordNet derived from Princeton University's database, under CC-BY-4.0.
 - Etymology prose, for the optional overlay, from [Wiktionary](https://en.wiktionary.org) via the
   [wiktextract](https://kaikki.org) dataset, under CC-BY-SA-3.0.
 - Engine behaviour derived from [Artha](https://artha.sourceforge.net), an earlier WordNet

@@ -1,0 +1,10 @@
+term: blood brotherhood
+[Definitions]
+  - (noun) the friendship characteristic of blood brothers
+[Is a kind of]
+  - friendship, friendly relationship
+    - relationship
+      - state
+        - attribute
+          - abstraction, abstract entity
+            - entity

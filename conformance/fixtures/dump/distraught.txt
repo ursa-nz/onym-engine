@@ -1,0 +1,11 @@
+term: distraught
+[Definitions]
+  - (adjective) deeply agitated especially from emotion
+      "distraught with grief"
+[Synonyms]
+  - overwrought
+[Antonyms]
+  - agitated (indirect)
+      -> unagitated
+[Similar to]
+  - agitated

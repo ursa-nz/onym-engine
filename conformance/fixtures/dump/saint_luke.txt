@@ -1,0 +1,33 @@
+term: Saint Luke
+[Definitions]
+  - (noun) (New Testament) the Apostle closely associated with St. Paul and traditionally assumed to be the author of the third Gospel
+[Synonyms]
+  - Luke the Evangelist
+  - Luke
+  - St. Luke
+[Is a kind of]
+  - Apostle, Apostolic Father
+    - Christian
+      - religious person
+        - actor, doer, worker
+          - causal agent, cause, causal agency
+            - physical entity
+              - entity
+  - Evangelist
+    - spiritual leader
+      - leader
+        - actor, doer, worker
+          - causal agent, cause, causal agency
+            - physical entity
+              - entity
+  - saint
+    - deity, divinity, god, immortal
+      - spiritual being, supernatural being
+        - belief
+          - content, cognitive content, mental object
+            - cognition, knowledge, noesis
+              - psychological feature
+                - abstraction, abstract entity
+                  - entity
+[Domains]
+  - New Testament

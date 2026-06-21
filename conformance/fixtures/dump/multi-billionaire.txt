@@ -1,0 +1,9 @@
+term: multi-billionaire
+[Definitions]
+  - (noun) a very rich person whose material wealth is valued at many billions of dollars
+[Is a kind of]
+  - rich person, wealthy person, have
+    - actor, doer, worker
+      - causal agent, cause, causal agency
+        - physical entity
+          - entity

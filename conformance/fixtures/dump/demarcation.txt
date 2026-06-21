@@ -1,0 +1,51 @@
+term: demarcation
+[Definitions]
+  - (noun) the boundary of a specific area
+  - (noun) a conceptual separation or distinction
+      "there is a narrow line between sanity and insanity"
+[Synonyms]
+  - limit
+  - demarcation line
+  - line
+  - dividing line
+  - contrast
+[Derived forms]
+  - demarcate
+  - delimit
+  - delimitate
+[Is a kind of]
+  - boundary, bound, bounds
+    - extremity
+      - region, part
+        - location
+          - object, physical object
+            - physical entity
+              - entity
+  - differentiation, distinction
+    - discrimination, secernment
+      - basic cognitive process
+        - process, cognitive process, mental process, operation, cognitive operation
+          - cognition, knowledge, noesis
+            - psychological feature
+              - abstraction, abstract entity
+                - entity
+[Kinds]
+  - edge
+    - border
+      - edging
+        - fringe
+        - orphrey
+      - selvage, selvedge
+      - verge
+    - hem
+    - luff
+    - molding, moulding, border
+    - selvage, selvedge
+    - shoulder, berm
+      - hard shoulder
+    - wayside, roadside
+  - city limit, city limits
+  - upper limit
+  - lower limit
+  - three-mile limit
+  - Rubicon, point of no return

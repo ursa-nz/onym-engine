@@ -1,0 +1,328 @@
+term: posing
+[Definitions]
+  - (noun) (photography) the act of assuming a certain position (as for a photograph or portrait)
+      "he wanted his portrait painted but couldn't spare time for the sitting"
+  - (verb) offer for others to consider
+      "This poses an interesting question"
+  - (verb) assume a posture as for artistic purposes
+      "We don't know the woman who posed for Leonardo so often"
+  - (verb) pretend to be someone you are not; sometimes with fraudulent intentions
+      "She posed as the Czar's daughter"
+  - (verb) behave affectedly or unnaturally in order to impress others
+      "Don't pay any attention to him — he is always posing to impress his peers!"
+      "She postured and made a total fool of herself"
+  - (verb) put into a certain place or abstract location
+      "Put your things here"
+      "Set the tray down"
+      "Set the dogs on the scent of the missing children"
+      "Place emphasis on a certain point"
+  - (verb) be a mystery or bewildering to
+      "This beats me!"
+      "Got me — I don't know the answer!"
+      "a vexing problem"
+      "This question really stuck me"
+[Synonyms]
+  - sitting
+  - present
+  - model
+  - sit
+  - posture
+  - impersonate
+  - personate
+  - put
+  - set
+  - place
+  - position
+  - lay
+  - perplex
+  - vex
+  - stick
+  - get
+  - puzzle
+  - mystify
+  - baffle
+  - beat
+  - bewilder
+  - flummox
+  - stupefy
+  - nonplus
+  - gravel
+  - amaze
+  - dumbfound
+[Derived forms]
+  - model
+  - pose
+  - sit
+  - posture
+  - poser
+  - sitting
+  - posing
+  - poseur
+  - affectation
+  - mannerism
+  - affectedness
+  - airs
+  - stumper
+  - toughie
+  - sticker
+[Is a kind of]
+  - motion, movement, move, motility
+    - change
+      - action
+        - act, deed, human action, human activity
+          - event
+            - abstraction, abstract entity
+              - entity
+  - constitute, represent, make up, comprise, be
+    - exist, be
+  - expose, exhibit, display
+    - show
+      - change, alter, modify
+        - induce, stimulate, cause, have, get, make
+          - act, move
+  - deceive, betray, lead astray
+    - misinform, mislead
+      - inform
+        - communicate, intercommunicate
+          - interact
+            - act, move
+  - act, behave, do, acquit, bear, deport, conduct, comport, carry
+    - act, move
+  - move, displace
+    - change, alter, modify
+      - induce, stimulate, cause, have, get, make
+        - act, move
+  - confuse, throw, fox, befuddle, fuddle, bedevil, confound, discombobulate
+    - affect, impact, bear upon, bear on, touch on, touch
+      - change, alter, modify
+        - induce, stimulate, cause, have, get, make
+          - act, move
+[Kinds]
+  - ramp
+  - masquerade
+  - attitudinize, attitudinise
+  - install, instal
+    - induct, invest, seat
+    - invest, vest, enthrone
+      - ordain, consecrate, ordinate, order
+      - crown, coronate
+      - enthrone, throne
+      - ordain
+  - cock
+  - postpose
+  - prepose
+  - step
+  - replace, put back
+    - hang up
+  - stratify
+    - interstratify
+  - overlay, cover
+    - splash
+  - plant
+  - intersperse
+    - interleave
+  - nestle, snuggle
+  - pile
+  - arrange, set up
+    - string, thread, draw
+      - bead
+      - wire
+    - marshal
+    - string
+    - string out, spread out
+    - preen, plume
+    - stack
+    - chain
+      - concatenate
+    - pair, geminate
+    - concord
+    - cascade
+    - settle
+    - pyramid
+    - corral
+    - catenate, catenulate
+    - dress, decorate
+    - range, array, lay out, set out
+      - compart
+    - pack, bundle, wad, compact
+      - puddle
+    - stack, pile, heap
+      - rick
+      - cord
+    - stagger, distribute
+    - drape
+    - drape
+    - set
+    - gradate
+    - regularize, regularise
+      - even, even out
+    - order
+    - order
+      - collate
+      - disentangle, unsnarl, straighten out
+        - tease, tease apart, loosen
+        - ravel, unravel, ravel out
+      - tidy, tidy up, clean up, neaten, straighten, straighten out, square away
+        - houseclean, clean house, clean
+          - G.I., GI
+          - spring-clean
+        - make, make up
+      - systematize, systematise, systemize, systemise
+        - digest
+        - codify
+    - straighten
+    - rearrange
+      - recode
+      - reshuffle
+    - serialize, serialise
+    - alphabetize, alphabetise
+    - organize, organise, coordinate
+      - structure
+        - restructure, reconstitute
+      - interlock, mesh
+      - get your shit together
+    - stratify
+    - line up
+  - superimpose, superpose, lay over
+    - develop
+  - superpose
+  - park
+  - ensconce, settle
+  - dispose
+  - emplace
+  - ship
+    - reship
+  - underlay
+  - trench
+  - pigeonhole
+  - shelve
+  - jar
+  - repose
+  - sign
+  - middle
+  - parallelize
+  - butt
+  - recess
+  - reposition
+    - reduce
+  - throw, thrust
+    - pop
+  - tee, tee up
+  - rack up, rack
+  - coffin
+  - bed
+  - appose
+  - set down, put down, place down
+    - plank, flump, plonk, plop, plunk, plump down, plunk down, plump
+  - sow, seed
+    - broadcast
+    - inseminate, sow, sow in
+    - scatter
+  - misplace
+  - juxtapose
+  - set down
+  - bottle
+  - bucket
+  - barrel
+  - ground
+  - pillow, rest
+  - upend
+  - seat, sit, sit down
+    - reseat
+  - seat
+  - lay, put down, repose
+    - bury, entomb, inhume, inter, lay to rest
+    - rebury
+    - rail
+    - lay
+      - spawn
+        - spat
+    - blow
+  - stand, stand up, place upright
+  - recline
+  - plant, set
+    - root
+    - puddle
+    - checkrow
+    - bed
+    - dibble
+    - afforest, forest
+      - re-afforest
+      - reforest
+    - replant
+    - tree
+  - install, instal, put in, set up
+    - retrofit
+    - install, instal, set up, establish
+    - reinstall
+    - post, put up
+  - situate, fix, posit, deposit
+    - bury
+    - sediment
+  - ladle
+  - poise
+  - lean
+  - clap
+  - rest
+  - perch
+  - load
+  - cram
+    - stuff
+      - jam, jampack, ram, chock up, cram, wad
+      - overstuff
+      - pad, fill out
+        - rat
+  - set
+  - siphon
+  - insert, enclose, inclose, stick in, put in, introduce
+    - inject, shoot
+    - plug
+    - plug
+    - plug
+    - inoculate
+      - seed
+    - inset
+    - glass
+    - catheterize, catheterise
+    - cup
+    - intersperse, interlard
+      - interleave
+    - feed, feed in
+    - slip
+    - foist
+  - imbricate
+  - position
+    - aim, take, train, take aim, direct
+      - sight
+      - target, aim, place, direct, point
+        - address
+        - range in, home in, zero in
+      - draw a bead on
+      - hold
+      - turn
+      - swing
+      - charge, level, point
+      - level
+    - orient
+      - stem
+    - square
+      - square up, jog, even up
+    - dress, line up
+  - glycerolize, glycerolise
+  - space
+  - marshal
+  - settle, settle down
+    - sediment
+  - throw
+  - docket
+  - stump, mix up
+  - riddle
+  - elude, escape
+    - defy, resist, refuse
+      - beggar
+[Domains]
+  - photography
+  - picture taking
+  - art
+  - artistic creation
+  - artistic production

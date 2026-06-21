@@ -1,0 +1,41 @@
+term: old person
+[Definitions]
+  - (noun) an elderly person
+[Synonyms]
+  - oldster
+  - senior citizen
+  - golden ager
+[Is a kind of]
+  - adult, grownup
+    - person, individual, someone, somebody, mortal, soul
+      - organism, being
+        - living thing, animate thing
+          - whole, unit
+            - object, physical object
+              - physical entity
+                - entity
+        - causal agent, cause, causal agency
+          - physical entity
+            - entity
+[Kinds]
+  - ancient, antediluvian
+  - centenarian
+  - curmudgeon
+  - dodderer
+  - dodo, fogy, fogey, fossil
+  - dotard
+  - has-been, back-number
+  - nonagenarian
+  - octogenarian
+  - old boy
+  - old man, greybeard, graybeard, Methuselah
+    - codger, old codger
+    - old-timer, oldtimer, gaffer, old geezer, antique
+    - patriarch
+  - old woman
+    - beldam, beldame
+    - granny
+    - hag, beldam, beldame, witch, crone
+    - mother
+  - septuagenarian
+  - sexagenarian

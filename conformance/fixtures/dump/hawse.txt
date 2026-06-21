@@ -1,0 +1,14 @@
+term: hawse
+[Definitions]
+  - (noun) the hole that an anchor rope passes through
+[Synonyms]
+  - hawsehole
+  - hawsepipe
+[Is a kind of]
+  - hole
+    - opening
+      - artifact, artefact
+        - whole, unit
+          - object, physical object
+            - physical entity
+              - entity

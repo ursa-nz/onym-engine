@@ -1,0 +1,19 @@
+term: family Apogonidae
+[Definitions]
+  - (noun) bright-colored marine fishes that incubate eggs in the mouth
+[Synonyms]
+  - Apogonidae
+[Is a kind of]
+  - fish family
+    - family
+      - taxonomic group, taxonomic category, taxon
+        - biological group
+          - group, grouping
+            - abstraction, abstract entity
+              - entity
+[Part of]
+  - Perciformes, order Perciformes, Percomorphi, order Percomorphi
+[Parts]
+  - cardinalfish
+  - Apogon, genus Apogon
+  - Astropogon, genus Astropogon

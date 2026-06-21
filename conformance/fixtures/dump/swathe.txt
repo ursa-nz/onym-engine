@@ -1,0 +1,36 @@
+term: swathe
+[Definitions]
+  - (verb) wrap in swaddling clothes
+      "swaddled the infant"
+  - (noun) an enveloping bandage
+[Synonyms]
+  - wrapping
+  - swaddle
+[Derived forms]
+  - swaddle
+  - swathing
+  - wrapping
+[Is a kind of]
+  - bandage, patch
+    - dressing, medical dressing
+      - cloth covering
+        - covering
+          - artifact, artefact
+            - whole, unit
+              - object, physical object
+                - physical entity
+                  - entity
+  - bind
+    - attach
+      - connect, link, tie, link up
+        - act, move
+[Parts]
+  - bandage, patch
+    - gauze, gauze bandage
+    - dressing, medical dressing
+      - cloth covering
+        - covering
+          - artifact, artefact
+            - whole, unit
+              - part, portion
+              - section, segment

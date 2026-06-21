@@ -1,0 +1,38 @@
+term: keratinise
+[Definitions]
+  - (verb) convert into keratin
+  - (verb) become horny and impregnated with keratin
+[Synonyms]
+  - keratinize
+[Derived forms]
+  - keratinization
+  - keratinisation
+[Is a kind of]
+  - convert
+    - change, alter, modify
+      - induce, stimulate, cause, have, get, make
+        - act, move
+  - change
+    - act, move
+[Domains]
+  - American spelling
+  - American English spelling
+  - American English orthography
+  - US spelling
+  - US English spelling
+  - US English orthography
+  - British spelling
+  - British English spelling
+  - British English orthography
+  - Irish spelling
+  - Irish English spelling
+  - Irish English orthography
+  - New Zealand spelling
+  - New Zealand English spelling
+  - New Zealand English orthography
+  - Commonwealth spelling
+  - Commonwealth English spelling
+  - Commonwealth English orthography
+  - Australian spelling
+  - Australian English spelling
+  - Australian English orthography

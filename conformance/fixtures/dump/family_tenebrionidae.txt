@@ -1,0 +1,19 @@
+term: family Tenebrionidae
+[Definitions]
+  - (noun) a family of arthropods including darkling beetles and mealworms
+[Synonyms]
+  - Tenebrionidae
+[Is a kind of]
+  - arthropod family
+    - family
+      - taxonomic group, taxonomic category, taxon
+        - biological group
+          - group, grouping
+            - abstraction, abstract entity
+              - entity
+[Part of]
+  - Coleoptera, order Coleoptera
+[Parts]
+  - darkling beetle, tenebrionid, darkling ground beetle
+  - mealworm
+  - Tribolium, genus Tribolium

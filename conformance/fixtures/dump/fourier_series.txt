@@ -1,0 +1,11 @@
+term: Fourier series
+[Definitions]
+  - (noun) the sum of a series of trigonometric expressions; used in the analysis of periodic functions
+[Is a kind of]
+  - series
+    - polynomial, multinomial
+      - function, mathematical function, single-valued function, map, mapping
+        - mathematical relation
+          - relation
+            - abstraction, abstract entity
+              - entity

@@ -1,0 +1,129 @@
+term: scrubs
+[Definitions]
+  - (noun) protective garment worn by surgeons during operations
+  - (verb) clean with hard rubbing
+      "She scrubbed his back"
+  - (verb) wash thoroughly
+      "surgeons must scrub prior to an operation"
+  - (verb) postpone indefinitely or annul something that was scheduled
+      "Call off the engagement"
+      "cancel the dinner party"
+      "we had to scrub our vacation plans"
+      "scratch that meeting — the chair is ill"
+  - (noun) dense vegetation consisting of stunted trees or bushes
+  - (noun) the act of cleaning a surface by rubbing it with a brush and soap and water
+[Synonyms]
+  - gown
+  - surgical gown
+  - chaparral
+  - bush
+  - scrubbing
+  - scouring
+  - scour
+  - scrub up
+  - cancel
+  - call off
+  - scratch
+[Derived forms]
+  - scrabbly
+  - scrubby
+  - scrub up
+  - scour
+  - scrubbing
+  - scouring
+  - scrubber
+  - scrub brush
+  - scrubbing brush
+[Entails]
+  - schedule
+[Is a kind of]
+  - garment
+    - clothing, article of clothing, vesture, wear, wearable, habiliment
+      - covering
+        - artifact, artefact
+          - whole, unit
+            - object, physical object
+              - physical entity
+                - entity
+      - consumer goods
+        - commodity, trade good, good
+          - artifact, artefact
+            - whole, unit
+              - object, physical object
+                - physical entity
+                  - entity
+  - vegetation, flora, botany
+    - collection, aggregation, accumulation, assemblage
+      - group, grouping
+        - abstraction, abstract entity
+          - entity
+  - cleaning, cleansing, cleanup
+    - improvement
+      - change of state
+        - change
+          - action
+            - act, deed, human action, human activity
+              - event
+                - abstraction, abstract entity
+                  - entity
+  - rub
+    - guide, run, draw, pass
+      - travel, go, move, locomote
+        - act, move
+  - wash, lave
+    - cleanse, clean
+      - groom, neaten
+        - fancify, beautify, embellish, prettify
+          - better, improve, amend, ameliorate, meliorate
+            - change, alter, modify
+              - induce, stimulate, cause, have, get, make
+                - act, move
+  - postpone, prorogue, hold over, put over, table, shelve, set back, defer, remit, put off
+    - delay
+      - wait, hold off, hold back
+        - act, move
+[Kinds]
+  - swabbing, mopping
+  - holystone
+[Parts]
+  - garment
+    - armhole
+    - band, banding, stripe
+    - bosom
+    - buttonhole, button hole
+    - dart
+    - eyelet, eyehole
+    - fly, fly front
+    - gusset, inset
+    - jag, dag
+    - jag
+    - liner, lining
+    - neck, neck opening
+      - collar, neckband
+        - facing
+    - pocket
+      - pocket flap
+    - shoulder
+    - skirt
+      - lap, lap covering
+      - seat
+    - sleeve, arm
+      - cuff, turnup
+        - facing
+      - elbow
+      - wristband
+    - yoke
+    - hipline
+    - clothing, article of clothing, vesture, wear, wearable, habiliment
+      - wardrobe
+      - covering
+        - artifact, artefact
+          - whole, unit
+            - part, portion
+            - section, segment
+      - consumer goods
+        - commodity, trade good, good
+          - artifact, artefact
+            - whole, unit
+              - part, portion
+              - section, segment

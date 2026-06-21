@@ -1,0 +1,20 @@
+term: business executive
+[Definitions]
+  - (noun) an executive in a business corporation
+[Synonyms]
+  - corporate executive
+[Is a kind of]
+  - executive, executive director
+    - administrator, decision maker
+      - head, chief, top dog
+        - leader
+          - actor, doer, worker
+            - causal agent, cause, causal agency
+              - physical entity
+                - entity
+[Kinds]
+  - chairman of the board
+  - chief executive officer, CEO, chief operating officer
+  - chief financial officer, CFO
+  - insider
+  - president

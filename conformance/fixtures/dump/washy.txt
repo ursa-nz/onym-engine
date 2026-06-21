@@ -1,0 +1,28 @@
+term: washy
+[Definitions]
+  - (adjective) overly diluted; thin and insipid
+      "washy coffee"
+      "watery milk"
+      "weak tea"
+  - (adjective) having lost freshness or brilliance of color
+      "sun-bleached deck chairs"
+      "faded jeans"
+      "a very pale washed-out blue"
+      "washy colors"
+[Synonyms]
+  - watery
+  - weak
+  - bleached
+  - faded
+  - washed-out
+[Antonyms]
+  - diluted (indirect)
+      -> undiluted
+  - colorless (indirect)
+      -> colorful
+      -> colourful
+[Similar to]
+  - diluted
+  - dilute
+  - colorless
+  - colourless

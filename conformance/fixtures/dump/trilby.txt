@@ -1,0 +1,54 @@
+term: Trilby
+[Definitions]
+  - (noun) singer in a novel by George du Maurier who was under the control of the hypnotist Svengali
+  - (noun) a hat made of felt with a creased crown
+[Synonyms]
+  - fedora
+  - felt hat
+  - homburg
+  - Stetson
+[Is a kind of]
+  - fictional character, fictitious character, character
+    - imaginary being, imaginary creature
+      - imagination, imaginativeness, vision
+        - creativity, creativeness, creative thinking
+          - ability, power
+            - cognition, knowledge, noesis
+              - psychological feature
+                - abstraction, abstract entity
+                  - entity
+  - hat, chapeau, lid
+    - headdress, headgear
+      - clothing, article of clothing, vesture, wear, wearable, habiliment
+        - covering
+          - artifact, artefact
+            - whole, unit
+              - object, physical object
+                - physical entity
+                  - entity
+        - consumer goods
+          - commodity, trade good, good
+            - artifact, artefact
+              - whole, unit
+                - object, physical object
+                  - physical entity
+                    - entity
+[Parts]
+  - hat, chapeau, lid
+    - brim
+    - crown
+    - hatband
+    - headdress, headgear
+      - clothing, article of clothing, vesture, wear, wearable, habiliment
+        - wardrobe
+        - covering
+          - artifact, artefact
+            - whole, unit
+              - part, portion
+              - section, segment
+        - consumer goods
+          - commodity, trade good, good
+            - artifact, artefact
+              - whole, unit
+                - part, portion
+                - section, segment

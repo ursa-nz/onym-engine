@@ -1,0 +1,22 @@
+term: perimysium
+[Definitions]
+  - (noun) the sheath of connective tissue that covers a bundle of muscle fibers
+[Is a kind of]
+  - connective tissue
+    - animal tissue
+      - tissue
+        - body part
+          - part, piece
+            - thing
+              - physical entity
+                - entity
+[Parts]
+  - connective tissue
+    - collagen
+    - histiocyte
+    - matrix, intercellular substance, ground substance
+    - mast cell, mastocyte, labrocyte
+    - animal tissue
+      - tissue
+        - body part
+          - corpus

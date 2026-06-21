@@ -1,0 +1,15 @@
+term: basal body temperature method
+[Definitions]
+  - (noun) natural family planning in which the fertile period of the woman's menstrual cycle is inferred by noting the rise in basal body temperature that typically occurs with ovulation
+[Synonyms]
+  - basal body temperature method of family planning
+[Is a kind of]
+  - natural family planning
+    - birth control, birth prevention, family planning
+      - planning
+        - preparation, readying
+          - activity
+            - act, deed, human action, human activity
+              - event
+                - abstraction, abstract entity
+                  - entity

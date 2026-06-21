@@ -1,0 +1,28 @@
+term: amity
+[Definitions]
+  - (noun) a cordial disposition
+  - (noun) a state of friendship and cordiality
+[Synonyms]
+  - cordiality
+[Derived forms]
+  - affable
+  - amiable
+  - cordial
+  - genial
+[Is a kind of]
+  - friendliness
+    - disposition, temperament
+      - nature
+        - trait
+          - attribute
+            - abstraction, abstract entity
+              - entity
+  - peace
+    - order
+      - state
+        - attribute
+          - abstraction, abstract entity
+            - entity
+[Kinds]
+  - peaceableness, peacefulness
+    - mollification

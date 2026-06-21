@@ -1,0 +1,136 @@
+term: ridge
+[Definitions]
+  - (noun) a long narrow natural elevation or striation
+  - (noun) any long raised strip
+  - (noun) a long narrow natural elevation on the floor of the ocean
+  - (noun) a long narrow range of hills
+  - (noun) any long raised border or margin of a bone or tooth or membrane
+  - (noun) a beam laid along the edge where two sloping sides of a roof meet at the top; provides an attachment for the upper ends of rafters
+  - (verb) extend in ridges
+      "The land ridges towards the South"
+  - (verb) plough alternate strips by throwing the furrow onto an unploughed strip
+  - (verb) throw soil toward (a crop row) from both sides
+      "He ridged his corn"
+  - (verb) spade into alternate ridges and troughs
+      "ridge the soil"
+  - (verb) form into a ridge
+[Synonyms]
+  - ridgeline
+  - ridgepole
+  - rooftree
+[Derived forms]
+  - ridgeline
+[Is a kind of]
+  - natural elevation, elevation
+    - geological formation, formation
+      - object, physical object
+        - physical entity
+          - entity
+  - convex shape, convexity
+    - solid
+      - shape, form
+        - attribute
+          - abstraction, abstract entity
+            - entity
+  - geological formation, formation
+    - object, physical object
+      - physical entity
+        - entity
+  - process, outgrowth, appendage
+    - body part
+      - part, piece
+        - thing
+          - physical entity
+            - entity
+  - beam
+    - structural member
+      - support
+        - device
+          - instrumentality, instrumentation, means
+            - artifact, artefact
+              - whole, unit
+                - object, physical object
+                  - physical entity
+                    - entity
+    - piece
+      - part, portion
+        - object, physical object
+          - physical entity
+            - entity
+  - cover, continue, extend
+    - be
+      - exist, be
+  - plow, plough, turn
+    - till
+      - work, work on, process
+        - transform, transmute, transubstantiate
+          - change, alter, modify
+            - induce, stimulate, cause, have, get, make
+              - act, move
+  - throw, loft
+    - propel, impel
+      - move, displace
+        - change, alter, modify
+          - induce, stimulate, cause, have, get, make
+            - act, move
+  - spade
+    - dig, delve, cut into, turn over
+      - remove, take, take away, withdraw, take off, pull
+        - act, move
+  - shape, form
+    - change, alter, modify
+      - induce, stimulate, cause, have, get, make
+        - act, move
+[Kinds]
+  - bank
+    - bluff
+    - sandbank
+      - shoal
+  - bar
+    - sandbar, sand bar
+  - dune, sand dune
+    - seif dune
+  - esker
+  - ledge, shelf
+    - berm
+  - reef
+    - coral reef
+      - atoll
+        - Bikini Atoll, Bikini
+        - Enewetak Atoll, Eniwetok
+        - Kwajalein Atoll, Kwajalein
+        - Midway Atoll, Midway Islands
+      - barrier reef
+      - key, cay, Florida key
+      - Great Barrier Reef
+  - ripple mark
+  - corrugation
+  - raphe, rhaphe
+    - palatine raphe
+  - Mid-Atlantic Ridge
+  - arete
+  - hogback, horseback
+  - supraorbital ridge, supraorbital torus, superciliary ridge, superciliary arch
+[Part of]
+  - gable roof, saddle roof, saddleback, saddleback roof
+[Parts]
+  - natural elevation, elevation
+    - slope, incline, side
+  - process, outgrowth, appendage
+    - body part
+      - corpus
+  - beam
+    - wood
+      - lignin
+    - structural member
+      - support
+        - device
+          - instrumentality, instrumentation, means
+            - artifact, artefact
+              - whole, unit
+                - part, portion
+                - section, segment
+[Domains]
+  - farming
+  - agriculture
+  - husbandry

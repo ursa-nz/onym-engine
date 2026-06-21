@@ -1,0 +1,27 @@
+term: seeable
+[Definitions]
+  - (adjective) capable of being seen; or open to easy view
+      "a visible object"
+      "visible stars"
+      "mountains visible in the distance"
+      "a visible change of expression"
+      "visible files"
+[Synonyms]
+  - visible
+[Similar to]
+  - circumpolar
+  - in sight
+  - in view
+  - ocular
+  - visual
+  - macroscopic
+  - macroscopical
+  - megascopic
+  - gross
+  - microscopic
+  - microscopical
+  - subgross
+  - panoptic
+  - panoptical
+  - telescopic
+  - viewable

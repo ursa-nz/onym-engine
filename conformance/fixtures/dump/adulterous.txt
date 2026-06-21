@@ -1,0 +1,31 @@
+term: adulterous
+[Definitions]
+  - (adjective) characterized by adultery
+      "an adulterous relationship"
+      "extramarital affairs"
+      "the extracurricular activities of a philandering husband"
+  - (adjective) not faithful to a spouse or lover
+      "adulterous husbands and wives"
+      "a two-timing boyfriend"
+[Synonyms]
+  - extramarital
+  - extracurricular
+  - cheating
+  - two-timing
+[Antonyms]
+  - illicit (indirect)
+      -> licit
+  - unfaithful (indirect)
+      -> faithful
+[Derived forms]
+  - adultery
+  - criminal conversation
+  - fornication
+[Similar to]
+  - illicit
+  - unfaithful
+[Domains]
+  - sexual activity
+  - sexual practice
+  - sex
+  - sex activity

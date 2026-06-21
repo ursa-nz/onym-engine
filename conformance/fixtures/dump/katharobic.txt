@@ -1,0 +1,9 @@
+term: katharobic
+[Definitions]
+  - (adjective) of living being in an oxygenated environment lacking organic matter
+[Pertains to]
+  - katharobe
+    - organism, being
+[Domains]
+  - biology
+  - biological science

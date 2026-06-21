@@ -1,0 +1,13 @@
+term: kitchen match
+[Definitions]
+  - (noun) a wooden friction match that will light on any granular surface; useful to light wood or gas stoves
+[Is a kind of]
+  - match, lucifer, friction match
+    - lighter, light, igniter, ignitor
+      - device
+        - instrumentality, instrumentation, means
+          - artifact, artefact
+            - whole, unit
+              - object, physical object
+                - physical entity
+                  - entity

@@ -1,0 +1,12 @@
+term: Jacques Cartier
+[Definitions]
+  - (noun) French explorer who explored the St. Lawrence river and laid claim to the region for France (1491-1557)
+[Synonyms]
+  - Cartier
+[Is a kind of]
+  - navigator
+    - explorer, adventurer
+      - actor, doer, worker
+        - causal agent, cause, causal agency
+          - physical entity
+            - entity

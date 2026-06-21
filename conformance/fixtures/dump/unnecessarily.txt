@@ -1,0 +1,11 @@
+term: unnecessarily
+[Definitions]
+  - (adverb) in an unnecessary manner
+      "they were unnecessarily rude"
+  - (adverb) without any necessity
+      "this marathon would exhaust him unnecessarily"
+[Antonyms]
+  - necessarily (direct)
+      -> needfully
+[Pertains to]
+  - unnecessary, unneeded

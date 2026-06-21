@@ -1,0 +1,11 @@
+term: ladylikeness
+[Definitions]
+  - (noun) behavior befitting a lady
+[Derived forms]
+  - ladylike
+[Is a kind of]
+  - femininity, muliebrity
+    - trait
+      - attribute
+        - abstraction, abstract entity
+          - entity

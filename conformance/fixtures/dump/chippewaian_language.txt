@@ -1,0 +1,17 @@
+term: Chippewaian language
+[Definitions]
+  - (noun) the language spoken by the Chipewyan
+[Synonyms]
+  - Chipewyan
+  - Chippewyan
+  - Chippewaian
+  - Chipewyan language
+  - Chippewyan language
+[Is a kind of]
+  - Athapaskan, Athapascan, Athabaskan, Athabascan, Athapaskan language
+    - Amerind, Amerindian language, American-Indian language, American Indian, Indian, American Indian language, Indian language, Amerind language
+      - natural language, tongue
+        - language, linguistic communication
+          - communication
+            - abstraction, abstract entity
+              - entity

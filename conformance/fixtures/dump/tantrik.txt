@@ -1,0 +1,9 @@
+term: Tantrik
+[Definitions]
+  - (adjective) of or relating to Tantrism
+      "Tantric rituals"
+[Synonyms]
+  - Tantric
+[Pertains to]
+  - Tantra, Tantrism
+    - Buddhism

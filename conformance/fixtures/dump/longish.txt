@@ -1,0 +1,8 @@
+term: longish
+[Definitions]
+  - (adjective) somewhat long
+[Antonyms]
+  - long (indirect)
+      -> short
+[Similar to]
+  - long

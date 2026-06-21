@@ -1,0 +1,12 @@
+term: intercontinental
+[Definitions]
+  - (adjective) extending or taking place between or among continents
+      "intercontinental exploration"
+      "intercontinental flights"
+[Antonyms]
+  - continental (direct)
+      -> continent-wide
+      -> transcontinental
+[Similar to]
+  - worldwide
+  - world-wide

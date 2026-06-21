@@ -1,0 +1,12 @@
+term: Elsa Schiaparelli
+[Definitions]
+  - (noun) fashion designer born in Italy who was noted for her use of synthetic materials and brilliant colors (1896-1973)
+[Synonyms]
+  - Schiaparelli
+[Is a kind of]
+  - couturier, fashion designer, clothes designer, designer
+    - creator
+      - actor, doer, worker
+        - causal agent, cause, causal agency
+          - physical entity
+            - entity

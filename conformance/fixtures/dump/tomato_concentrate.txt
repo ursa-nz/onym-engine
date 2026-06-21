@@ -1,0 +1,11 @@
+term: tomato concentrate
+[Definitions]
+  - (noun) a concentrated form of tomatoes
+[Is a kind of]
+  - concentrate
+    - foodstuff, food product
+      - food, nutrient
+        - substance
+          - matter
+            - physical entity
+              - entity

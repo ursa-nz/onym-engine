@@ -1,0 +1,24 @@
+term: pepper spray
+[Definitions]
+  - (noun) a nonlethal aerosol spray made with the pepper derivative oleoresin capiscum; used to cause temporary blindness and incapacitate an attacker; also used as a bear deterrent
+[Is a kind of]
+  - aerosol, aerosol container, aerosol can, aerosol bomb, spray can
+    - dispenser
+      - container
+        - instrumentality, instrumentation, means
+          - artifact, artefact
+            - whole, unit
+              - object, physical object
+                - physical entity
+                  - entity
+  - chemical weapon
+    - weapon of mass destruction, WMD, W.M.D.
+      - weapon, arm, weapon system
+        - instrument
+          - device
+            - instrumentality, instrumentation, means
+              - artifact, artefact
+                - whole, unit
+                  - object, physical object
+                    - physical entity
+                      - entity

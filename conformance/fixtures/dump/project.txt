@@ -1,0 +1,249 @@
+term: project
+[Definitions]
+  - (noun) any piece of work that is undertaken or attempted
+      "he prepared for great undertakings"
+  - (noun) a planned undertaking
+  - (verb) communicate vividly
+      "He projected his feelings"
+  - (verb) extend out or project in space
+      "His sharp nose jutted out"
+      "A single rock sticks out from the cliff"
+  - (verb) transfer (ideas or principles) from one domain into another
+  - (verb) project on a screen
+      "The images are projected onto the screen"
+  - (verb) cause to be heard
+      "His voice projects well"
+  - (verb) draw a projection of
+  - (verb) make or work out a plan for; devise
+      "They contrived to murder their boss"
+      "design a new sales strategy"
+      "plan an attack"
+  - (verb) present for consideration, examination, criticism, etc.
+      "He proposed a new plan for dealing with terrorism"
+      "She proposed a new theory of relativity"
+      "The candidate projects himself as a moderate and a reformer"
+  - (verb) imagine; conceive of; see in one's mind
+      "I can't see him on horseback!"
+      "I can see what will happen"
+      "I can see a risk in this strategy"
+  - (verb) put or send forth
+      "She threw the flashlight beam into the corner"
+      "The setting sun threw long shadows"
+      "cast a spell"
+      "cast a warm light"
+  - (verb) throw, send, or cast forward
+      "project a missile"
+  - (verb) regard as objective
+[Synonyms]
+  - undertaking
+  - task
+  - labor
+  - labour
+  - projection
+  - stick out
+  - protrude
+  - jut out
+  - jut
+  - plan
+  - contrive
+  - design
+  - propose
+  - visualize
+  - visualise
+  - envision
+  - fancy
+  - see
+  - figure
+  - picture
+  - image
+  - cast
+  - throw
+  - send off
+  - externalize
+  - externalise
+[Derived forms]
+  - plan
+  - contrive
+  - design
+  - protrusion
+  - projection
+  - jut
+  - jutting
+  - projector
+  - acoustic projection
+  - sound projection
+  - undertaking
+  - task
+  - labor
+  - labour
+[Causes]
+  - appear
+[Is a kind of]
+  - work
+    - activity
+      - act, deed, human action, human activity
+        - event
+          - abstraction, abstract entity
+            - entity
+  - plan, program, programme
+    - idea, thought
+      - content, cognitive content, mental object
+        - cognition, knowledge, noesis
+          - psychological feature
+            - abstraction, abstract entity
+              - entity
+  - communicate, intercommunicate
+    - interact
+      - act, move
+  - exsert, stretch out, put out, extend, hold out, stretch forth
+    - gesticulate, gesture, motion
+      - communicate, intercommunicate
+        - interact
+          - act, move
+  - transmit, transfer, transport, channel, channelize, channelise
+    - move, displace
+      - change, alter, modify
+        - induce, stimulate, cause, have, get, make
+          - act, move
+  - show
+    - change, alter, modify
+      - induce, stimulate, cause, have, get, make
+        - act, move
+  - cause to be perceived
+    - exist, be
+  - draw
+    - represent, interpret
+      - re-create, recreate
+        - make, create
+          - induce, stimulate, cause, have, get, make
+            - act, move
+  - create by mental act, create mentally
+    - make, create
+      - induce, stimulate, cause, have, get, make
+        - act, move
+  - plan
+    - think, cogitate, cerebrate
+      - act, move
+  - imagine, conceive of, ideate, envisage
+    - create by mental act, create mentally
+      - make, create
+        - induce, stimulate, cause, have, get, make
+          - act, move
+  - send, direct
+    - move, displace
+      - change, alter, modify
+        - induce, stimulate, cause, have, get, make
+          - act, move
+  - propel, impel
+    - move, displace
+      - change, alter, modify
+        - induce, stimulate, cause, have, get, make
+          - act, move
+  - impute, ascribe, assign, attribute
+    - evaluate, pass judgment, judge
+      - think, cogitate, cerebrate
+        - act, move
+[Kinds]
+  - cinch, breeze, picnic, snap, duck soup, child's play, pushover, walkover, piece of cake
+    - doddle
+  - adventure, escapade, risky venture, dangerous undertaking
+  - assignment
+    - school assignment, schoolwork, homework
+      - classroom project
+      - classwork
+      - prep, preparation
+      - lesson
+        - exercise, example
+        - reading assignment
+        - history lesson
+    - written assignment, writing assignment
+  - baby
+  - enterprise, endeavor, endeavour
+    - racket, fraudulent scheme, illegitimate enterprise
+    - forlorn hope
+    - business activity, commercial activity
+      - operation
+      - business
+        - trade, patronage
+          - custom
+        - land-office business
+      - wash
+  - labor of love, labour of love
+  - marathon, endurance contest
+  - no-brainer
+  - proposition
+  - tall order, large order
+  - venture
+    - joint venture
+      - foreign direct investment
+    - experiment
+    - campaign, cause, crusade, drive, movement, effort
+      - advertising campaign, ad campaign, ad blitz
+        - sales campaign
+        - public-relations campaign
+      - anti-war movement
+      - charm campaign
+      - consumerism
+      - campaigning, candidacy, candidature, electioneering, political campaign
+        - front-porch campaigning, front-porch campaign
+        - hustings
+        - whispering campaign
+        - stumping
+      - fund-raising campaign, fund-raising drive, fund-raising effort
+      - feminist movement, feminism, women's liberation movement, women's lib
+      - gay liberation movement, gay lib
+      - lost cause
+      - reform
+      - war
+      - youth movement, youth crusade
+    - sally, sallying forth
+    - risk, peril, danger
+      - chance
+      - crapshoot
+      - gamble
+        - long shot
+        - raise
+          - doubling, double
+  - Manhattan Project
+  - moneymaker, money-spinner, cash cow
+  - moonshot
+  - overhang
+  - thrust, push up
+  - spear, spear up
+  - bulge, bag
+    - protuberate
+  - cantilever
+  - silhouette
+  - engineer
+  - plot
+  - concert
+  - redesign
+  - blueprint, draft, draught
+  - map, map out
+  - offer
+  - introduce
+  - shoot
+[Domains]
+  - American spelling
+  - American English spelling
+  - American English orthography
+  - US spelling
+  - US English spelling
+  - US English orthography
+  - British spelling
+  - British English spelling
+  - British English orthography
+  - Irish spelling
+  - Irish English spelling
+  - Irish English orthography
+  - New Zealand spelling
+  - New Zealand English spelling
+  - New Zealand English orthography
+  - Commonwealth spelling
+  - Commonwealth English spelling
+  - Commonwealth English orthography
+  - Australian spelling
+  - Australian English spelling
+  - Australian English orthography
+  - psychology
+  - psychological science

@@ -1,0 +1,17 @@
+term: powdered ginger
+[Definitions]
+  - (noun) dried ground gingerroot
+[Synonyms]
+  - ginger
+[Is a kind of]
+  - spice
+    - flavorer, flavourer, flavoring, flavouring, seasoner, seasoning
+      - ingredient, fixings
+        - foodstuff, food product
+          - food, nutrient
+            - substance
+              - matter
+                - physical entity
+                  - entity
+[Parts]
+  - ginger, gingerroot

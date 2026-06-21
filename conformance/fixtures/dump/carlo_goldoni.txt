@@ -1,0 +1,13 @@
+term: Carlo Goldoni
+[Definitions]
+  - (noun) prolific Italian dramatist (1707-1793)
+[Synonyms]
+  - Goldoni
+[Is a kind of]
+  - dramatist, playwright
+    - writer, author
+      - communicator
+        - actor, doer, worker
+          - causal agent, cause, causal agency
+            - physical entity
+              - entity

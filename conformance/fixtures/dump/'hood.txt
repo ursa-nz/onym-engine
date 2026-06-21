@@ -1,15 +1,16 @@
 term: 'hood
 [Definitions]
-  - (noun) (slang) a neighborhood
+  - (noun) an urban, often lower-income inner-city area
+[Synonyms]
+  - hood
 [Is a kind of]
-  - vicinity, locality, neighborhood, neighbourhood, neck of the woods
-    - section
-      - area, country
-        - region
-          - location
-            - object, physical object
-              - physical entity
-                - entity
+  - neighborhood, neighbourhood
+    - community
+      - gathering, assemblage
+        - social group
+          - group, grouping
+            - abstraction, abstract entity
+              - entity
 [Domains]
   - slang
   - cant
@@ -18,3 +19,11 @@ term: 'hood
   - argot
   - patois
   - vernacular
+  - African American Vernacular English
+  - AAVE
+  - African American English
+  - Black English
+  - Black English Vernacular
+  - Black Vernacular
+  - Black Vernacular English
+  - Ebonics

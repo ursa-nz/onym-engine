@@ -1,0 +1,17 @@
+term: electrosurgery
+[Definitions]
+  - (noun) surgery performed with electrical devices (as in electrocautery)
+[Is a kind of]
+  - operation, surgery, surgical operation, surgical procedure, surgical process
+    - medical procedure
+      - procedure, process
+        - activity
+          - act, deed, human action, human activity
+            - event
+              - abstraction, abstract entity
+                - entity
+[Parts]
+  - operation, surgery, surgical operation, surgical procedure, surgical process
+    - hemostasis, haemostasis, hemostasia, haemostasia
+    - incision, section, surgical incision
+    - suturing

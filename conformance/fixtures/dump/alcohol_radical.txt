@@ -1,0 +1,11 @@
+term: alcohol radical
+[Definitions]
+  - (noun) the chemical group -OH
+[Synonyms]
+  - alcohol group
+[Is a kind of]
+  - group, radical, chemical group
+    - unit, building block
+      - thing
+        - physical entity
+          - entity

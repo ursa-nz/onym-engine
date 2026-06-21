@@ -1,0 +1,24 @@
+term: parsley haw
+[Definitions]
+  - (noun) southern United States hawthorn with pinnately lobed leaves
+[Synonyms]
+  - parsley-leaved thorn
+  - Crataegus apiifolia
+  - Crataegus marshallii
+[Is a kind of]
+  - hawthorn, haw
+    - shrub, bush
+      - woody plant, ligneous plant
+        - vascular plant, tracheophyte
+          - plant, flora, plant life
+            - organism, being
+              - living thing, animate thing
+                - whole, unit
+                  - object, physical object
+                    - physical entity
+                      - entity
+              - causal agent, cause, causal agency
+                - physical entity
+                  - entity
+[Part of]
+  - Crataegus, genus Crataegus

@@ -1,0 +1,29 @@
+term: incessant
+[Definitions]
+  - (adjective) uninterrupted in time and indefinitely long continuing
+      "the ceaseless thunder of surf"
+      "in constant pain"
+      "night and day we live with the incessant noise of the city"
+      "the never-ending search for happiness"
+      "the perpetual struggle to maintain standards in a democracy"
+      "man's unceasing warfare with drought and isolation"
+      "unremitting demands of hunger"
+[Synonyms]
+  - ceaseless
+  - constant
+  - never-ending
+  - perpetual
+  - unceasing
+  - unremitting
+[Antonyms]
+  - continuous (indirect)
+      -> discontinuous
+      -> noncontinuous
+[Derived forms]
+  - continuousness
+  - ceaselessness
+  - incessancy
+  - incessantness
+[Similar to]
+  - continuous
+  - uninterrupted

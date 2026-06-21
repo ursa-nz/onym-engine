@@ -1,0 +1,16 @@
+term: antitrust case
+[Definitions]
+  - (noun) a legal action brought against parties who are charged with limiting free competition in the market place
+[Is a kind of]
+  - legal action, action, action at law
+    - proceeding, legal proceeding, proceedings
+      - due process, due process of law
+        - group action
+          - action
+            - act, deed, human action, human activity
+              - event
+                - abstraction, abstract entity
+                  - entity
+[Domains]
+  - law
+  - jurisprudence

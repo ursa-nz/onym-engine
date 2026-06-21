@@ -1,0 +1,44 @@
+term: recasting
+[Definitions]
+  - (noun) changing a particular word or phrase
+  - (verb) cast again, in a different role
+      "He was recast as Iago"
+  - (verb) cast again
+      "The bell cracked and had to be recast"
+  - (verb) cast or model anew
+      "She had to recast her image to please the electorate in her home state"
+[Synonyms]
+  - rewording
+  - rephrasing
+  - remold
+  - remould
+  - reforge
+  - remodel
+[Is a kind of]
+  - rewriting, revising
+    - editing, redaction
+      - writing, written material, piece of writing
+        - written communication, written language, black and white
+          - communication
+            - abstraction, abstract entity
+              - entity
+  - cast
+    - delegate, designate, depute, assign
+      - appoint, charge
+        - act, move
+  - cast, mold, mould
+    - shape, form, work, mold, mould, forge
+      - create from raw material, create from raw stuff
+        - make, create
+          - induce, stimulate, cause, have, get, make
+            - act, move
+  - remake, refashion, redo, make over
+    - produce, make, create
+      - make, create
+        - induce, stimulate, cause, have, get, make
+          - act, move
+[Kinds]
+  - paraphrase, paraphrasis
+    - translation
+[Domains]
+  - performing arts

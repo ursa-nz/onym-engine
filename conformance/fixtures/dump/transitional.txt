@@ -1,0 +1,7 @@
+term: transitional
+[Definitions]
+  - (adjective) of or relating to or characterized by transition
+      "adolescence is a transitional stage between childhood and adulthood"
+[Pertains to]
+  - conversion, transition, changeover
+    - transformation, transmutation, shift

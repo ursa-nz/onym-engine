@@ -1,0 +1,13 @@
+term: Ortega y Gasset
+[Definitions]
+  - (noun) Spanish philosopher who advocated leadership by an intellectual elite (1883-1955)
+[Synonyms]
+  - Jose Ortega y Gasset
+[Is a kind of]
+  - philosopher
+    - scholar, scholarly person
+      - intellectual, intellect
+        - actor, doer, worker
+          - causal agent, cause, causal agency
+            - physical entity
+              - entity

@@ -1,0 +1,14 @@
+term: Friday
+[Definitions]
+  - (noun) the sixth day of the week; the fifth working day
+[Synonyms]
+  - Fri
+[Is a kind of]
+  - weekday
+    - day of the week
+      - calendar day, civil day
+        - time period, period of time, period
+          - fundamental quantity, fundamental measure
+            - measure, quantity, amount
+              - abstraction, abstract entity
+                - entity

@@ -1,0 +1,56 @@
+term: veteran
+[Definitions]
+  - (adjective) rendered competent through trial and experience
+      "a seasoned traveler"
+      "veteran steadiness"
+      "a veteran officer"
+  - (noun) a serviceman who has seen considerable active service
+      "the veterans laughed at the new recruits"
+  - (noun) a person who has served in the armed forces
+  - (noun) an experienced person who has been through many battles; someone who has given long service
+[Synonyms]
+  - veteran soldier
+  - vet
+  - old-timer
+  - oldtimer
+  - old hand
+  - warhorse
+  - old stager
+  - stager
+  - seasoned
+[Antonyms]
+  - experienced (indirect)
+      -> inexperienced
+      -> inexperient
+[Derived forms]
+  - seasoned
+  - veteran soldier
+  - old-timer
+  - oldtimer
+  - old hand
+  - warhorse
+  - old stager
+  - stager
+[Similar to]
+  - experienced
+  - experient
+[Is a kind of]
+  - military personnel
+    - skilled worker, trained worker
+      - worker
+        - actor, doer, worker
+          - causal agent, cause, causal agency
+            - physical entity
+              - entity
+  - expert
+    - actor, doer, worker
+      - causal agent, cause, causal agency
+        - physical entity
+          - entity
+[Kinds]
+  - Legionnaire
+  - ex-servicewoman
+  - ex-serviceman
+[Part of]
+  - American Legion
+  - Veterans of Foreign Wars, VFW

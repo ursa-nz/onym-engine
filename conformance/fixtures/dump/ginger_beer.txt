@@ -1,0 +1,20 @@
+term: ginger beer
+[Definitions]
+  - (noun) carbonated slightly alcoholic drink flavored with fermented ginger
+[Is a kind of]
+  - beverage, drink, drinkable, potable
+    - food, nutrient
+      - substance
+        - matter
+          - physical entity
+            - entity
+    - liquid
+      - fluid
+        - substance
+          - matter
+            - physical entity
+              - entity
+          - part, portion, component part, component, constituent
+            - relation
+              - abstraction, abstract entity
+                - entity

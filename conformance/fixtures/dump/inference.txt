@@ -1,0 +1,32 @@
+term: inference
+[Definitions]
+  - (noun) the reasoning involved in drawing a conclusion or making a logical judgment on the basis of circumstantial evidence and prior conclusions rather than on the basis of direct observation
+[Synonyms]
+  - illation
+[Derived forms]
+  - illative
+  - inferential
+  - generalize
+  - generalise
+  - extrapolate
+  - infer
+  - deduce
+  - deduct
+  - derive
+[Is a kind of]
+  - reasoning, logical thinking, abstract thought
+    - thinking, thought, thought process, cerebration, intellection, mentation
+      - higher cognitive process
+        - process, cognitive process, mental process, operation, cognitive operation
+          - cognition, knowledge, noesis
+            - psychological feature
+              - abstraction, abstract entity
+                - entity
+[Kinds]
+  - analogy
+  - corollary
+  - derivation
+  - deduction, entailment, implication
+  - extrapolation
+    - trend extrapolation
+  - presumption

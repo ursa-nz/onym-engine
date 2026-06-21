@@ -1,4 +1,0 @@
-term: out of
-[Definitions]
-  - (adverb) motivated by
-      "idleness is the trait of being idle out of a reluctance to work"

@@ -1,0 +1,18 @@
+term: anorexia
+[Definitions]
+  - (noun) a prolonged disorder of eating due to loss of appetite
+[Derived forms]
+  - anorexic
+  - anorectic
+  - anorexigenic
+[Is a kind of]
+  - eating disorder
+    - disorder, upset
+      - physical condition, physiological state, physiological condition
+        - condition, status
+          - state
+            - attribute
+              - abstraction, abstract entity
+                - entity
+[Kinds]
+  - anorexia nervosa

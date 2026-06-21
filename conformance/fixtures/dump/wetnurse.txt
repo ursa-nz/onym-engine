@@ -1,0 +1,39 @@
+term: wetnurse
+[Definitions]
+  - (noun) a woman hired to suckle a child of someone else
+[Synonyms]
+  - wet nurse
+  - wet-nurse
+  - amah
+[Is a kind of]
+  - nanny, nursemaid, nurse
+    - woman, adult female
+      - female, female person
+        - person, individual, someone, somebody, mortal, soul
+          - organism, being
+            - living thing, animate thing
+              - whole, unit
+                - object, physical object
+                  - physical entity
+                    - entity
+            - causal agent, cause, causal agency
+              - physical entity
+                - entity
+      - adult, grownup
+        - person, individual, someone, somebody, mortal, soul
+          - organism, being
+            - living thing, animate thing
+              - whole, unit
+                - object, physical object
+                  - physical entity
+                    - entity
+            - causal agent, cause, causal agency
+              - physical entity
+                - entity
+    - keeper
+      - defender, guardian, protector, shielder
+        - preserver
+          - actor, doer, worker
+            - causal agent, cause, causal agency
+              - physical entity
+                - entity

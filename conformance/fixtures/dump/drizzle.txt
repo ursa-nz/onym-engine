@@ -1,0 +1,43 @@
+term: drizzle
+[Definitions]
+  - (noun) very light rain; stronger than mist but less than a shower
+  - (verb) rain lightly
+      "When it drizzles in summer, hiking can be pleasant"
+  - (verb) moisten with fine drops
+      "drizzle the meat with melted butter"
+[Synonyms]
+  - mizzle
+  - moisten
+[Derived forms]
+  - drippy
+  - drizzly
+  - mizzle
+[Is a kind of]
+  - rain, rainfall
+    - precipitation, downfall
+      - weather, weather condition, conditions, atmospheric condition
+        - atmospheric phenomenon
+          - physical phenomenon
+            - natural phenomenon
+              - phenomenon
+                - process, physical process
+                  - physical entity
+                    - entity
+  - rain, rain down
+    - precipitate, come down, fall
+      - fall
+        - travel, go, move, locomote
+          - act, move
+  - sprinkle, splash, splosh
+    - scatter, sprinkle, dot, dust, disperse
+      - discharge
+        - spread, distribute
+          - move, displace
+            - change, alter, modify
+              - induce, stimulate, cause, have, get, make
+                - act, move
+[Parts]
+  - rain, rainfall
+    - raindrop
+    - precipitation, downfall
+      - ice crystal, snow mist, diamond dust, poudrin, ice needle, frost snow, frost mist

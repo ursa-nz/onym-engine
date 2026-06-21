@@ -1,0 +1,21 @@
+term: continuous creation theory
+[Definitions]
+  - (noun) (cosmology) the theory that the universe maintains a constant average density with matter created to fill the void left by galaxies that are receding from each other
+      "the steady state theory has been abandoned in favor of the big bang theory"
+[Synonyms]
+  - steady state theory
+[Is a kind of]
+  - scientific theory
+    - theory
+      - explanation
+        - thinking, thought, thought process, cerebration, intellection, mentation
+          - higher cognitive process
+            - process, cognitive process, mental process, operation, cognitive operation
+              - cognition, knowledge, noesis
+                - psychological feature
+                  - abstraction, abstract entity
+                    - entity
+[Domains]
+  - cosmology
+  - cosmogony
+  - cosmogeny

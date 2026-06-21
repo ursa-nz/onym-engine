@@ -1,0 +1,37 @@
+term: feeler
+[Definitions]
+  - (noun) one of a pair of mobile appendages on the head of e.g. insects and crustaceans; typically sensitive to touch and taste
+  - (noun) a tentative suggestion designed to elicit the reactions of others
+      "she rejected his advances"
+  - (noun) sensitivity similar to that of a receptor organ
+      "he had a special antenna for public relations"
+  - (noun) slender tactile process on the jaws of a fish
+[Synonyms]
+  - antenna
+  - overture
+  - advance
+  - approach
+  - barbel
+[Derived forms]
+  - feel
+  - finger
+[Is a kind of]
+  - tentacle
+    - process, outgrowth, appendage
+      - body part
+        - part, piece
+          - thing
+            - physical entity
+              - entity
+  - suggestion, proposition, proffer
+    - proposal
+      - message, content, subject matter, substance
+        - communication
+          - abstraction, abstract entity
+            - entity
+  - sensitivity, sensitiveness
+    - ability
+      - quality
+        - attribute
+          - abstraction, abstract entity
+            - entity

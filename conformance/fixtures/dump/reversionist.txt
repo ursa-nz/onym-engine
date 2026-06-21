@@ -1,0 +1,17 @@
+term: reversionist
+[Definitions]
+  - (noun) someone who lapses into previous undesirable patterns of behavior
+[Synonyms]
+  - recidivist
+  - backslider
+[Is a kind of]
+  - wrongdoer, offender
+    - bad person
+      - actor, doer, worker
+        - causal agent, cause, causal agency
+          - physical entity
+            - entity
+[Domains]
+  - disparagement
+  - depreciation
+  - derogation

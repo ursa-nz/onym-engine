@@ -1,0 +1,24 @@
+term: Loxia curvirostra
+[Definitions]
+  - (noun) finch with a bill whose tips cross when closed
+[Synonyms]
+  - crossbill
+[Is a kind of]
+  - finch
+    - oscine, oscine bird
+      - passerine, passeriform bird
+        - bird
+          - vertebrate, craniate
+            - chordate
+              - animal, animate being, beast, brute, creature, fauna
+                - organism, being
+                  - living thing, animate thing
+                    - whole, unit
+                      - object, physical object
+                        - physical entity
+                          - entity
+                  - causal agent, cause, causal agency
+                    - physical entity
+                      - entity
+[Part of]
+  - Loxia, genus Loxia

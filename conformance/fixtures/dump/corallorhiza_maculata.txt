@@ -1,0 +1,22 @@
+term: Corallorhiza maculata
+[Definitions]
+  - (noun) common coral root having yellowish- or reddish- or purplish-brown leafless stems bearing loose racemes of similarly colored flowers with white purple-spotted lips; Guatemala to Canada
+[Synonyms]
+  - spotted coral root
+[Is a kind of]
+  - coral root
+    - orchid, orchidaceous plant
+      - flower
+        - angiosperm, flowering plant
+          - spermatophyte, phanerogam, seed plant
+            - vascular plant, tracheophyte
+              - plant, flora, plant life
+                - organism, being
+                  - living thing, animate thing
+                    - whole, unit
+                      - object, physical object
+                        - physical entity
+                          - entity
+                  - causal agent, cause, causal agency
+                    - physical entity
+                      - entity

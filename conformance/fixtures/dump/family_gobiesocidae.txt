@@ -1,0 +1,18 @@
+term: family Gobiesocidae
+[Definitions]
+  - (noun) clingfishes
+[Synonyms]
+  - Gobiesocidae
+[Is a kind of]
+  - fish family
+    - family
+      - taxonomic group, taxonomic category, taxon
+        - biological group
+          - group, grouping
+            - abstraction, abstract entity
+              - entity
+[Part of]
+  - Perciformes, order Perciformes, Percomorphi, order Percomorphi
+[Parts]
+  - Gobiesox, genus Gobiesox
+  - clingfish

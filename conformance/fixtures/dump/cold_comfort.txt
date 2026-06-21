@@ -1,0 +1,13 @@
+term: cold comfort
+[Definitions]
+  - (noun) very limited consolation or empathy
+      "he told me that time heals all wounds but that was cold comfort to me"
+[Is a kind of]
+  - consolation, solace, solacement
+    - comfort
+      - pleasure, pleasance
+        - feeling
+          - state
+            - attribute
+              - abstraction, abstract entity
+                - entity

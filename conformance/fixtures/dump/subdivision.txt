@@ -1,0 +1,223 @@
+term: subdivision
+[Definitions]
+  - (noun) an area composed of subdivided lots
+  - (noun) the act of subdividing; division of something previously divided
+  - (noun) a division of some larger or more complex organization
+      "a branch of Congress"
+      "botany is a branch of biology"
+      "the Germanic branch of Indo-European languages"
+  - (noun) a self-contained part of a larger composition (written or musical)
+      "he always turns first to the business section"
+      "the history of this work is discussed in the next section"
+  - (noun) a section of a section; a part of a part; i.e., a part of something already divided
+[Synonyms]
+  - branch
+  - arm
+  - section
+  - subsection
+[Derived forms]
+  - subdivide
+[Is a kind of]
+  - tract, piece of land, piece of ground, parcel of land, parcel
+    - geographical area, geographic area, geographical region, geographic region
+      - region
+        - location
+          - object, physical object
+            - physical entity
+              - entity
+  - division, partition, partitioning, segmentation, sectionalization, sectionalisation
+    - separation
+      - change of integrity
+        - change
+          - action
+            - act, deed, human action, human activity
+              - event
+                - abstraction, abstract entity
+                  - entity
+  - division
+    - administrative unit, administrative body
+      - unit, social unit
+        - organization, organisation
+          - social group
+            - group, grouping
+              - abstraction, abstract entity
+                - entity
+  - writing, written material, piece of writing
+    - written communication, written language, black and white
+      - communication
+        - abstraction, abstract entity
+          - entity
+  - music
+    - auditory communication
+      - communication
+        - abstraction, abstract entity
+          - entity
+  - section, segment
+    - part, portion
+      - object, physical object
+        - physical entity
+          - entity
+[Kinds]
+  - post office, local post office
+  - executive branch, Executive Office of the President
+  - legislative branch
+  - judicial branch
+  - lead, lead-in, lede
+  - canto
+  - above
+  - sports section
+  - article, clause
+    - arbitration clause
+    - deductible
+    - double indemnity
+    - escalator clause, escalator
+    - joker
+    - reserve clause
+    - rider
+  - book
+    - epistle
+      - Epistle of Paul the Apostle to the Romans, Epistle to the Romans, Romans
+      - First Epistle of Paul the Apostle to the Corinthians, First Epistle to the Corinthians, I Corinthians
+      - Second Epistle of Paul the Apostle to the Corinthians, Second Epistle to the Corinthians, II Corinthians
+      - Epistle of Paul the Apostle to the Galatians, Epistle to the Galatians, Galatians
+      - Epistle of Paul the Apostle to the Ephesians, Epistle to the Ephesians, Ephesians
+      - Epistle of Paul the Apostle to the Philippians, Epistle to the Philippians, Philippians
+      - Epistle of Paul the Apostle to the Colossians, Epistle to the Colossians, Colossians
+      - First Epistle of Paul the Apostle to the Thessalonians, First Epistle to the Thessalonians, I Thessalonians
+      - Second Epistle of Paul the Apostle to the Thessalonians, Second Epistle to the Thessalonians, II Thessalonians
+      - First Epistle of Paul the Apostle to Timothy, First Epistle to Timothy, I Timothy
+      - Second Epistle of Paul the Apostle to Timothy, Second Epistle to Timothy, II Timothy
+      - Epistle of Paul the Apostle to Titus, Epistle to Titus, Titus
+      - Epistle of Paul the Apostle to Philemon, Epistle to Philemon, Philemon
+      - Epistle to the Hebrews, Hebrews
+      - Epistle of James, James
+      - First Epistle of Peter, I Peter
+      - Second Epistle of Peter, II Peter
+      - First Epistle of John, I John
+      - Second Epistle of John, Second Epistel of John, II John
+      - Third Epistle of John, Third Epistel of John, III John
+      - Epistle of Jude, Jude
+    - Genesis, Book of Genesis
+    - Exodus, Book of Exodus
+    - Leviticus, Book of Leviticus
+    - Numbers, Book of Numbers
+    - Deuteronomy, Book of Deuteronomy
+    - Joshua, Josue, Book of Joshua
+    - Judges, Book of Judges
+    - Ruth, Book of Ruth
+    - I Samuel, 1 Samuel
+    - II Samuel, 2 Samuel
+    - I Kings, 1 Kings
+    - II Kings, 2 Kings
+    - I Chronicles, 1 Chronicles
+    - II Chronicles, 2 Chronicles
+    - Ezra, Book of Ezra
+    - Nehemiah, Book of Nehemiah
+    - Esther, Book of Esther
+    - Job, Book of Job
+    - Psalms, Book of Psalms
+    - Proverbs, Book of Proverbs
+    - Ecclesiastes, Book of Ecclesiastes
+    - Song of Songs, Song of Solomon, Canticle of Canticles, Canticles
+    - Isaiah, Book of Isaiah
+    - Jeremiah, Book of Jeremiah
+    - Lamentations, Book of Lamentations
+    - Ezekiel, Ezechiel, Book of Ezekiel
+    - Daniel, Book of Daniel, Book of the Prophet Daniel
+    - Hosea, Book of Hosea
+    - Joel, Book of Joel
+    - Amos, Book of Amos
+    - Obadiah, Abdias, Book of Obadiah
+    - Jonah, Book of Jonah
+    - Micah, Micheas, Book of Micah
+    - Nahum, Book of Nahum
+    - Habakkuk, Habacuc, Book of Habakkuk
+    - Zephaniah, Sophonias, Book of Zephaniah
+    - Haggai, Aggeus, Book of Haggai
+    - Book of Zechariah, Zechariah, Zacharias, Book of Zachariah
+    - Malachi, Malachias, Book of Malachi
+    - Gospel of Matthew, Matthew, Gospel According to Matthew
+    - Gospel of Mark, Mark, Gospel According to Mark
+    - Luke, Gospel of Luke, Gospel According to Luke
+    - Gospel of John, John, Gospel According to John
+    - Acts of the Apostles, Acts
+    - Revelation, Revelation of Saint John the Divine, Apocalypse, Book of Revelation
+    - Additions to Esther
+    - Prayer of Azariah and Song of the Three Holy Children, Prayer of Azariah and Song of the Three Children
+    - Susanna, Book of Susanna
+    - Bel and the Dragon
+    - Baruch, Book of Baruch
+    - Letter of Jeremiah, Epistle of Jeremiah
+    - Tobit, Book of Tobit
+    - Judith, Book of Judith
+    - I Esdra, 1 Esdras
+    - II Esdras, 2 Esdras
+    - Ben Sira, Sirach, Ecclesiasticus, Wisdom of Jesus the Son of Sirach
+    - Book of Wisdom, Wisdom of Solomon, Wisdom
+    - I Maccabees, 1 Maccabees
+    - II Maccabees, 2 Maccabees
+  - chapter
+  - episode
+  - spot
+  - insert
+  - introduction
+    - exordium
+    - opening
+      - teaser
+      - salutation
+    - foreword, preface, prolusion
+    - preamble
+    - prolegomenon
+    - prologue
+  - narration
+  - conclusion, end, close, closing, ending
+    - anticlimax, bathos
+    - epilogue, epilog
+    - epilogue, epilog
+    - peroration
+    - finale, coda
+  - passage
+    - excerpt, excerption, extract, selection
+      - chrestomathy
+      - analects, analecta
+      - clipping, newspaper clipping, press clipping, cutting, press cutting
+      - cut, track
+      - quotation, quote, citation
+        - epigraph
+        - mimesis
+        - misquotation, misquote
+        - agraphon
+      - Haftorah, Haftarah, Haphtorah, Haphtarah
+    - locus classicus
+    - place
+    - purple passage
+    - transition
+      - flashback
+      - flash-forward
+      - dissolve
+      - cut
+        - jump cut
+      - jump
+    - text
+    - promythium
+    - epimythium
+  - mezuzah, mezuza
+  - sura
+    - Al-Fatiha, Fatiha, Fatihah
+  - exposition
+  - obbligato, obligato
+  - recapitulation
+  - development
+[Parts]
+  - division
+    - administrative unit, administrative body
+      - unit, social unit
+        - organization, organisation
+          - quorum
+          - membership, rank
+  - writing, written material, piece of writing
+    - epilogue, epilog
+    - written communication, written language, black and white
+      - leaf, folio
+[Domains]
+  - music

@@ -1,0 +1,14 @@
+term: Lola Montez
+[Definitions]
+  - (noun) Irish dancer (1818-1861)
+[Synonyms]
+  - Montez
+  - Marie Dolores Eliza Rosanna Gilbert
+[Is a kind of]
+  - dancer, professional dancer, terpsichorean
+    - performer, performing artist
+      - entertainer
+        - actor, doer, worker
+          - causal agent, cause, causal agency
+            - physical entity
+              - entity

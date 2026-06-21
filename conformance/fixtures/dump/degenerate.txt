@@ -1,0 +1,93 @@
+term: degenerate
+[Definitions]
+  - (noun) a person whose behavior deviates from what is acceptable especially in sexual behavior
+  - (verb) grow progressively worse
+      "Her condition deteriorated"
+      "Conditions in the slums degenerated"
+      "The discussion devolved into a shouting match"
+  - (adjective) unrestrained by convention or morality
+      "Congreve draws a debauched aristocratic society"
+      "deplorably dissipated and degraded"
+      "riotous living"
+      "fast women"
+[Synonyms]
+  - pervert
+  - deviant
+  - deviate
+  - perv
+  - perve
+  - devolve
+  - deteriorate
+  - drop
+  - debauched
+  - degraded
+  - dissipated
+  - dissolute
+  - libertine
+  - profligate
+  - riotous
+  - fast
+[Antonyms]
+  - immoral (indirect)
+      -> moral
+[Derived forms]
+  - debauched
+  - degraded
+  - dissipated
+  - dissolute
+  - libertine
+  - profligate
+  - riotous
+  - fast
+  - degenerative
+  - degeneracy
+  - degeneration
+  - decadence
+  - decadency
+  - devolution
+  - pervert
+  - deviant
+  - deviate
+  - perv
+  - perve
+[Similar to]
+  - immoral
+[Is a kind of]
+  - reprobate, miscreant
+    - wrongdoer, offender
+      - bad person
+        - actor, doer, worker
+          - causal agent, cause, causal agency
+            - physical entity
+              - entity
+  - worsen, decline
+    - change state, turn
+      - change
+        - act, move
+[Kinds]
+  - fetishist
+  - masochist
+    - flagellant
+  - nymphomaniac, nympho
+  - pederast, paederast, child molester
+  - pedophile, paedophile
+  - sadist
+  - sadomasochist
+  - satyr, lecher, lech, letch
+  - sodomite, sodomist, sod, bugger
+  - tire, pall, weary, fatigue, jade
+    - retire, withdraw
+      - chicken out, back off, pull out, back down, bow out
+        - resile
+    - poop out, peter out, run down, run out, conk out
+  - languish, fade
+  - waste, rot
+    - necrose, gangrene, mortify, sphacelate
+[Domains]
+  - sexual activity
+  - sexual practice
+  - sex
+  - sex activity
+  - disparagement
+  - depreciation
+  - derogation

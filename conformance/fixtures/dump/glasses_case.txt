@@ -1,0 +1,12 @@
+term: glasses case
+[Definitions]
+  - (noun) a case for carrying spectacles
+[Is a kind of]
+  - case
+    - container
+      - instrumentality, instrumentation, means
+        - artifact, artefact
+          - whole, unit
+            - object, physical object
+              - physical entity
+                - entity

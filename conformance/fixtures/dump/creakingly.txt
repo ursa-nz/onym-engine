@@ -1,7 +1,0 @@
-term: creakingly
-[Definitions]
-  - (adverb) in a creaky manner
-      "the old boat was moving along creakily"
-[Synonyms]
-  - creakily
-  - screakily

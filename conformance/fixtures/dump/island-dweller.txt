@@ -1,0 +1,11 @@
+term: island-dweller
+[Definitions]
+  - (noun) an inhabitant of an island
+[Synonyms]
+  - islander
+[Is a kind of]
+  - inhabitant, habitant, dweller, denizen, indweller
+    - actor, doer, worker
+      - causal agent, cause, causal agency
+        - physical entity
+          - entity

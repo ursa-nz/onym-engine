@@ -1,0 +1,43 @@
+term: ceremonial occasion
+[Definitions]
+  - (noun) a formal event performed on a special occasion
+      "a ceremony commemorating Pearl Harbor"
+[Synonyms]
+  - ceremony
+  - ceremonial
+  - observance
+[Is a kind of]
+  - affair, occasion, social occasion, function, social function, social gathering, social affair
+    - social event
+      - event
+        - abstraction, abstract entity
+          - entity
+    - gathering, assemblage
+      - social group
+        - group, grouping
+          - abstraction, abstract entity
+            - entity
+[Kinds]
+  - circumstance
+  - funeral, obsequy
+    - burial, entombment, inhumation, interment, sepulture
+    - sky burial
+  - wedding, wedding ceremony, nuptials, hymeneals
+  - pageant, pageantry
+  - dedication
+    - rededication
+  - opening
+  - commemoration, memorialization, memorialisation
+  - military ceremony
+  - initiation, induction, installation
+    - coronation, enthronement, enthronization, enthronisation, investiture
+    - bar mitzvah
+    - bat mitzvah, bath mitzvah, bas mitzvah
+    - inauguration, inaugural
+  - exercise
+    - commencement, commencement exercise, commencement ceremony, graduation, graduation exercise
+  - fire walking
+  - formality, formalities
+  - Maundy
+  - potlatch
+  - adiaphoron

@@ -1,0 +1,13 @@
+term: Turkmen monetary unit
+[Definitions]
+  - (noun) monetary unit in Turkmenistan
+[Is a kind of]
+  - monetary unit
+    - unit of measurement, unit
+      - definite quantity
+        - measure, quantity, amount
+          - abstraction, abstract entity
+            - entity
+[Kinds]
+  - manat
+  - tenge

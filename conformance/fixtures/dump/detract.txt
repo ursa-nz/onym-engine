@@ -1,0 +1,19 @@
+term: detract
+[Definitions]
+  - (verb) take away a part from; diminish
+      "His bad manners detract from his good character"
+[Synonyms]
+  - take away
+[Derived forms]
+  - detractive
+  - detraction
+  - detractor
+  - disparager
+  - depreciator
+  - knocker
+[Is a kind of]
+  - reduce, cut down, cut back, trim, trim down, trim back, cut, bring down
+    - decrease, lessen, minify
+      - change, alter, modify
+        - induce, stimulate, cause, have, get, make
+          - act, move

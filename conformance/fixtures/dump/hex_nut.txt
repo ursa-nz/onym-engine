@@ -1,0 +1,11 @@
+term: hex nut
+[Definitions]
+  - (noun) a nut with a hexagonal shape
+[Is a kind of]
+  - nut
+    - block
+      - artifact, artefact
+        - whole, unit
+          - object, physical object
+            - physical entity
+              - entity

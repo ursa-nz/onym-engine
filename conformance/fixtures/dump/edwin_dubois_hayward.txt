@@ -1,0 +1,14 @@
+term: Edwin DuBois Hayward
+[Definitions]
+  - (noun) United States writer (1885-1940)
+[Synonyms]
+  - DuBose Heyward
+  - Heyward
+  - DuBois Heyward
+[Is a kind of]
+  - writer, author
+    - communicator
+      - actor, doer, worker
+        - causal agent, cause, causal agency
+          - physical entity
+            - entity

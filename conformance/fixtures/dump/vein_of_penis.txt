@@ -1,0 +1,18 @@
+term: vein of penis
+[Definitions]
+  - (noun) a vein serving the penis
+[Is a kind of]
+  - vein, vena, venous blood vessel
+    - blood vessel
+      - vessel, vas
+        - tube, tube-shaped structure
+          - structure, anatomical structure, complex body part, bodily structure, body structure
+            - body part
+              - part, piece
+                - thing
+                  - physical entity
+                    - entity
+[Kinds]
+  - venae dorsales penis superficiales
+  - venae dorsales penis profunda
+  - vena profunda penis

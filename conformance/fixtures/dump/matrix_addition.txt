@@ -1,0 +1,13 @@
+term: matrix addition
+[Definitions]
+  - (noun) the addition of matrices
+[Is a kind of]
+  - matrix operation
+    - mathematical process, mathematical operation, operation
+      - calculation, computation, computing
+        - procedure, process
+          - activity
+            - act, deed, human action, human activity
+              - event
+                - abstraction, abstract entity
+                  - entity

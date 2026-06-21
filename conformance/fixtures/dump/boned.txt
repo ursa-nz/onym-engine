@@ -1,0 +1,50 @@
+term: boned
+[Definitions]
+  - (adjective) having had the bones removed
+      "a boneless rib roast"
+      "a boned (or deboned) fish"
+  - (adjective) having bones as specified
+      "his lanky long-boned body"
+  - (verb) study intensively, as before an exam
+      "I had to bone up on my Latin verbs before the final exam"
+  - (verb) remove the bones from
+      "bone the turkey before roasting it"
+[Synonyms]
+  - cram
+  - grind away
+  - drum
+  - bone up
+  - swot
+  - get up
+  - mug up
+  - swot up
+  - debone
+  - deboned
+[Antonyms]
+  - boneless (indirect)
+      -> bony
+      -> boney
+  - bony (indirect)
+      -> boneless
+[Derived forms]
+  - osseous tissue
+[Similar to]
+  - boneless
+  - bony
+  - boney
+[Is a kind of]
+  - study, hit the books
+    - learn, larn, acquire
+      - acquire, win, gain
+        - get, acquire
+          - act, move
+  - remove, take, take away, withdraw, take off, pull
+    - act, move
+[Domains]
+  - animal
+  - animate being
+  - beast
+  - brute
+  - creature
+  - fauna
+  - combining form

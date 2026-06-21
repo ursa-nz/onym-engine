@@ -1,0 +1,31 @@
+term: quavering
+[Definitions]
+  - (adjective) (of the voice) quivering as from weakness or fear
+      "the old lady's quavering voice"
+      "spoke timidly in a tremulous voice"
+  - (verb) give off unsteady sounds, alternating in amplitude or frequency
+  - (verb) sing or play with trills, alternating with the half note above or below
+[Synonyms]
+  - waver
+  - warble
+  - trill
+  - tremulous
+[Antonyms]
+  - unsteady (indirect)
+      -> steady
+[Derived forms]
+  - eighth note
+[Similar to]
+  - unsteady
+[Is a kind of]
+  - voice, sound, vocalize, vocalise
+    - pronounce, articulate, enounce, sound out, enunciate, say
+      - talk, speak, utter, mouth, verbalize, verbalise
+        - communicate, intercommunicate
+          - interact
+            - act, move
+  - sing
+    - talk, speak, utter, mouth, verbalize, verbalise
+      - communicate, intercommunicate
+        - interact
+          - act, move

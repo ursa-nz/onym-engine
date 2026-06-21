@@ -3,7 +3,7 @@ term: oxen
   - (noun) domesticated bovine animals as a group regardless of sex or age
       "so many head of cattle"
       "wait till the cows come home"
-      "seven thin and ill-favored kine- Bible"
+      "seven thin and ill-favored kine"
       "a team of oxen"
   - (noun) an adult castrated bull of the genus Bos; especially Bos taurus
   - (noun) any of various wild bovines especially of the genera Bos or closely related Bibos
@@ -30,6 +30,9 @@ term: oxen
                             - object, physical object
                               - physical entity
                                 - entity
+                        - causal agent, cause, causal agency
+                          - physical entity
+                            - entity
   - cattle, cows, kine, oxen, Bos taurus
     - bovine
       - bovid
@@ -47,6 +50,9 @@ term: oxen
                               - object, physical object
                                 - physical entity
                                   - entity
+                          - causal agent, cause, causal agency
+                            - physical entity
+                              - entity
 [Kinds]
   - ox
   - stirk
@@ -84,6 +90,7 @@ term: oxen
     - gaur, Bibos gaurus
     - gayal, mithan, Bibos frontalis
 [Part of]
+  - herd
   - Bos, genus Bos
     - Bovidae, family Bovidae
       - Ruminantia, suborder Ruminantia
@@ -93,7 +100,6 @@ term: oxen
               - Vertebrata, subphylum Vertebrata, Craniata, subphylum Craniata
                 - Chordata, phylum Chordata
                   - Animalia, kingdom Animalia, animal kingdom
-  - herd
   - Bibos, genus Bibos
     - Bovidae, family Bovidae
       - Ruminantia, suborder Ruminantia
@@ -168,6 +174,8 @@ term: oxen
                     - digit, dactyl
                       - phalanx
                       - nail
+                        - root
+                          - cementum, cement
                         - half-moon, lunula, lunule
                         - matrix
                     - chordate
@@ -211,11 +219,11 @@ term: oxen
                                       - calcarine sulcus, calcarine fissure
                                       - occipital gyrus
                                       - striate cortex, striate area, first visual area, area 17 of Brodmann, Brodmann's area 17
-                                    - temporal lobe, temporal ccortex
+                                    - temporal lobe, temporal cortex
                                       - temporal gyrus
                                       - amygdala, amygdaloid nucleus, corpus amygdaloideum
                                   - gyrus, convolution
-                              - diencephalon, interbrain, betweenbrain, thalmencephalon
+                              - diencephalon, interbrain, betweenbrain
                                 - mamillary body, mammillary body, corpus mamillare
                                 - infundibulum
                                 - third eye, pineal eye
@@ -227,7 +235,7 @@ term: oxen
                                   - posterior pituitary, posterior pituitary gland, neurohypophysis, pars nervosa
                                     - pars intermedia
                                 - basal ganglion
-                                - thalamus
+                                - thalamus, thalamencephalon
                                   - geniculate body
                                   - subthalamus
                                     - subthalamic nucleus
@@ -474,6 +482,8 @@ term: oxen
                   - digit, dactyl
                     - phalanx
                     - nail
+                      - root
+                        - cementum, cement
                       - half-moon, lunula, lunule
                       - matrix
                   - chordate
@@ -517,11 +527,11 @@ term: oxen
                                     - calcarine sulcus, calcarine fissure
                                     - occipital gyrus
                                     - striate cortex, striate area, first visual area, area 17 of Brodmann, Brodmann's area 17
-                                  - temporal lobe, temporal ccortex
+                                  - temporal lobe, temporal cortex
                                     - temporal gyrus
                                     - amygdala, amygdaloid nucleus, corpus amygdaloideum
                                 - gyrus, convolution
-                            - diencephalon, interbrain, betweenbrain, thalmencephalon
+                            - diencephalon, interbrain, betweenbrain
                               - mamillary body, mammillary body, corpus mamillare
                               - infundibulum
                               - third eye, pineal eye
@@ -533,7 +543,7 @@ term: oxen
                                 - posterior pituitary, posterior pituitary gland, neurohypophysis, pars nervosa
                                   - pars intermedia
                               - basal ganglion
-                              - thalamus
+                              - thalamus, thalamencephalon
                                 - geniculate body
                                 - subthalamus
                                   - subthalamic nucleus

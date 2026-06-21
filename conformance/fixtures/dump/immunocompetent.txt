@@ -1,0 +1,8 @@
+term: immunocompetent
+[Definitions]
+  - (adjective) capable of developing an immune response following exposure to an antigen
+      "immunocompetent cells"
+[Antonyms]
+  - immunodeficient (direct)
+[Derived forms]
+  - immunocompetence

@@ -1,0 +1,17 @@
+term: genus Saturnia
+[Definitions]
+  - (noun) type genus of the Saturniidae: emperor moth
+[Synonyms]
+  - Saturnia
+[Is a kind of]
+  - arthropod genus
+    - genus
+      - taxonomic group, taxonomic category, taxon
+        - biological group
+          - group, grouping
+            - abstraction, abstract entity
+              - entity
+[Part of]
+  - Saturniidae, family Saturniidae
+[Parts]
+  - emperor, emperor moth, Saturnia pavonia

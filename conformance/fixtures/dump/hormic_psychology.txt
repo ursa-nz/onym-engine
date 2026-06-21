@@ -1,0 +1,17 @@
+term: hormic psychology
+[Definitions]
+  - (noun) psychology concerned with the purposive factor or force in behavior.
+      "Opposing behaviourism, he argued that behaviour was generally goal-oriented and purposive, an approach he called hormic psychology."
+[Synonyms]
+  - hormism
+[Is a kind of]
+  - scientific theory
+    - theory
+      - explanation
+        - thinking, thought, thought process, cerebration, intellection, mentation
+          - higher cognitive process
+            - process, cognitive process, mental process, operation, cognitive operation
+              - cognition, knowledge, noesis
+                - psychological feature
+                  - abstraction, abstract entity
+                    - entity

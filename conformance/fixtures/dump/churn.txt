@@ -1,0 +1,45 @@
+term: churn
+[Definitions]
+  - (verb) stir (cream) vigorously in order to make butter
+  - (verb) be agitated
+      "the sea was churning in the storm"
+  - (noun) a vessel in which cream is agitated to separate butterfat from buttermilk
+[Synonyms]
+  - butter churn
+  - boil
+  - moil
+  - roil
+[Derived forms]
+  - butter churn
+[Is a kind of]
+  - vessel
+    - container
+      - instrumentality, instrumentation, means
+        - artifact, artefact
+          - whole, unit
+            - object, physical object
+              - physical entity
+                - entity
+  - stir
+    - move, displace
+      - change, alter, modify
+        - induce, stimulate, cause, have, get, make
+          - act, move
+  - move
+    - act, move
+[Kinds]
+  - seethe, roll
+[Parts]
+  - vessel
+    - base
+    - brim, rim, lip
+    - container
+      - instrumentality, instrumentation, means
+        - artifact, artefact
+          - whole, unit
+            - part, portion
+            - section, segment
+[Domains]
+  - cooking
+  - cookery
+  - preparation

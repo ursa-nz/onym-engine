@@ -1,0 +1,232 @@
+term: watercraft
+[Definitions]
+  - (noun) skill in the management of boats
+  - (noun) a craft designed for water transportation
+[Synonyms]
+  - vessel
+[Is a kind of]
+  - craft, craftsmanship, workmanship
+    - skill, accomplishment, acquirement, acquisition, attainment
+      - ability, power
+        - cognition, knowledge, noesis
+          - psychological feature
+            - abstraction, abstract entity
+              - entity
+  - craft
+    - vehicle
+      - conveyance, transport
+        - instrumentality, instrumentation, means
+          - artifact, artefact
+            - whole, unit
+              - object, physical object
+                - physical entity
+                  - entity
+[Kinds]
+  - bareboat
+  - boat
+    - ark
+    - barge, flatboat, hoy, lighter
+      - dredger
+      - houseboat
+      - pontoon
+      - scow
+      - wherry, Norfolk wherry
+    - bumboat
+    - canal boat, narrow boat, narrowboat
+    - catamaran
+    - ferry, ferryboat
+      - car-ferry
+    - fireboat
+    - gondola
+    - guard boat
+    - gunboat
+    - junk
+    - longboat
+    - lugger
+    - mackinaw, Mackinaw boat
+    - mailboat, mail boat, packet, packet boat
+    - motorboat, powerboat
+      - cabin cruiser, cruiser, pleasure boat, pleasure craft
+      - launch
+      - outboard motorboat, outboard
+      - speedboat
+        - hydrofoil, hydroplane
+      - water scooter, sea scooter, scooter
+    - pilot boat
+    - police boat
+    - punt
+    - river boat
+      - keelboat
+      - showboat
+    - scow
+    - sea boat
+      - lifeboat
+      - whaleboat
+    - small boat
+      - canoe
+        - birchbark canoe, birchbark, birch bark
+        - dugout canoe, dugout, pirogue
+        - kayak
+        - outrigger canoe
+      - cockleshell
+      - coracle
+      - dinghy, dory, rowboat
+        - rowing boat
+        - wherry
+      - gig
+      - racing boat
+        - racing gig
+        - shell, racing shell
+          - racing skiff, single shell
+          - scull
+      - skiff
+        - sampan
+      - yawl
+        - jolly boat, jolly
+    - steamboat
+      - showboat
+    - surfboat
+    - tender, ship's boat, pinnace, cutter
+      - gig
+    - tugboat, tug, towboat, tower
+  - fishing boat, fishing smack, fishing vessel
+    - trawler, dragger
+  - galley
+    - trireme
+    - monoreme
+  - iceboat, ice yacht, scooter
+  - patrol boat, patrol ship
+  - sailing vessel, sailing ship
+    - bark, barque
+    - brig
+    - brigantine, hermaphrodite brig
+    - clipper, clipper ship
+    - cutter
+    - dhow
+    - felucca
+    - fore-and-after
+    - galleon
+      - carrack, carack
+    - Indiaman
+    - ketch
+    - rigger
+    - sailboat, sailing boat
+      - catboat
+      - sharpie
+      - trimaran
+    - schooner
+      - sharpshooter
+    - sloop
+      - knockabout
+      - raceabout
+    - smack
+    - square-rigger
+    - windjammer
+    - yawl, dandy
+    - crayer
+  - ship
+    - abandoned ship, derelict
+    - blockade-runner
+    - cargo ship, cargo vessel
+      - banana boat
+      - bottom, freighter, merchantman, merchant ship
+      - cattleship, cattle boat
+      - container ship, containership, container vessel
+      - Liberty ship
+      - oil tanker, oiler, tanker, tank ship
+        - supertanker
+      - car carrier
+    - flagship
+    - gas-turbine ship
+    - hospital ship
+    - hulk
+    - icebreaker, iceboat
+    - lightship
+    - minelayer
+    - minesweeper
+    - nuclear-powered ship
+    - passenger ship
+      - liner, ocean liner
+        - cabin liner
+        - cargo liner
+        - cruise ship, cruise liner
+        - luxury liner, express luxury liner
+    - pirate, pirate ship
+      - corsair
+    - school ship, training ship
+    - shipwreck
+    - sister ship
+    - slave ship
+    - small ship
+    - steamer, steamship
+      - paddle steamer, paddle-wheeler
+        - side-wheeler
+        - sternwheeler
+      - tramp steamer, tramp
+    - tender, supply ship
+    - three-decker
+    - transport ship
+    - treasure ship
+    - troopship
+    - warship, war vessel, combat ship
+      - aircraft carrier, carrier, flattop, attack aircraft carrier
+      - battleship, battlewagon
+        - dreadnought, dreadnaught
+        - pocket battleship
+      - capital ship
+      - corvette
+      - cruiser
+        - battle cruiser
+        - guided missile cruiser
+        - light cruiser
+          - anti-aircraft cruiser
+      - destroyer, guided missile destroyer
+        - tin can
+        - torpedo-boat destroyer
+        - USS Cole
+      - destroyer escort
+      - frigate
+        - guided missile frigate
+      - frigate
+      - guard ship
+      - ironclad
+      - man-of-war, ship of the line
+        - sailing warship
+          - USS Constitution, Constitution, Old Ironsides
+      - privateer
+      - sloop of war
+      - submersible, submersible warship
+        - submarine, pigboat, sub
+          - attack submarine
+          - auxiliary research submarine
+          - fleet ballistic missile submarine
+          - nautilus, nuclear submarine, nuclear-powered submarine
+          - U-boat
+      - surface ship
+      - three-decker
+      - torpedo boat
+        - PT boat, mosquito boat, mosquito craft, motor torpedo boat
+    - whaler, whaling ship
+      - factory ship
+    - wreck
+    - longship
+      - drekkar
+    - HMS Bounty, Bounty, H.M.S. Bounty
+    - Mayflower
+  - shrimper
+  - weather ship
+  - yacht, racing yacht
+  - USS Merrimack, Merrimac
+  - USS Monitor, Monitor
+[Parts]
+  - anchor, ground tackle
+  - bilge
+  - bilge keel
+  - bow, fore, prow, stem
+  - hull
+  - rudder
+  - wale, strake
+  - washboard, splashboard
+[Domains]
+  - clinch
+  - clench

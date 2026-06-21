@@ -8,7 +8,7 @@
 //! per `spec/engine.md` section 8.
 
 use crate::OpenError;
-use crate::textforms::{display_lower, edit_distance, latin1_to_string};
+use crate::textforms::{decode, display_lower, edit_distance};
 use std::fs;
 use std::path::Path;
 
@@ -29,7 +29,7 @@ impl LemmaIndex {
                 continue;
             }
             let bytes = fs::read(&path).map_err(|source| OpenError { file: path, source })?;
-            let text = latin1_to_string(&bytes);
+            let text = decode(&bytes);
             for line in text.lines() {
                 // Lines beginning with a space are the licence header, not lemmas.
                 if line.is_empty() || line.starts_with(' ') {

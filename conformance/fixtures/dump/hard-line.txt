@@ -1,0 +1,22 @@
+term: hard-line
+[Definitions]
+  - (adjective) firm and uncompromising
+      "a hard-line policy"
+  - (noun) a firm and uncompromising stance or position
+      "the governor took a hard line on drugs"
+[Antonyms]
+  - uncompromising (indirect)
+      -> compromising
+      -> conciliatory
+      -> flexible
+[Similar to]
+  - uncompromising
+  - sturdy
+  - inflexible
+[Is a kind of]
+  - position, stance, posture
+    - attitude, mental attitude
+      - cognition, knowledge, noesis
+        - psychological feature
+          - abstraction, abstract entity
+            - entity

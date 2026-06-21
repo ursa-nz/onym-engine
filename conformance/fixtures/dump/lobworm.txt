@@ -1,0 +1,25 @@
+term: lobworm
+[Definitions]
+  - (noun) marine worms having a row of tufted gills along each side of the back; often used for fishing bait
+[Synonyms]
+  - lugworm
+  - lug
+[Is a kind of]
+  - polychaete, polychete, polychaete worm, polychete worm
+    - annelid, annelid worm, segmented worm
+      - worm
+        - invertebrate
+          - animal, animate being, beast, brute, creature, fauna
+            - organism, being
+              - living thing, animate thing
+                - whole, unit
+                  - object, physical object
+                    - physical entity
+                      - entity
+              - causal agent, cause, causal agency
+                - physical entity
+                  - entity
+[Part of]
+  - Polychaeta, class Polychaeta
+    - Annelida, phylum Annelida
+      - Animalia, kingdom Animalia, animal kingdom

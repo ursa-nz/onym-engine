@@ -1,0 +1,17 @@
+term: calcium light
+[Definitions]
+  - (noun) a lamp consisting of a flame directed at a cylinder of lime with a lens to concentrate the light; formerly used for stage lighting
+[Synonyms]
+  - limelight
+[Is a kind of]
+  - lamp
+    - source of illumination
+      - device
+        - instrumentality, instrumentation, means
+          - artifact, artefact
+            - whole, unit
+              - object, physical object
+                - physical entity
+                  - entity
+[Part of]
+  - theater light

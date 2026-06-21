@@ -1,0 +1,24 @@
+term: electric hammer
+[Definitions]
+  - (noun) a hammer driven by electric motor
+[Is a kind of]
+  - hammer, power hammer
+    - power tool
+      - machine
+        - device
+          - instrumentality, instrumentation, means
+            - artifact, artefact
+              - whole, unit
+                - object, physical object
+                  - physical entity
+                    - entity
+      - tool
+        - implement
+          - instrumentality, instrumentation, means
+            - artifact, artefact
+              - whole, unit
+                - object, physical object
+                  - physical entity
+                    - entity
+[Parts]
+  - electric motor

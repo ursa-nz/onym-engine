@@ -1,0 +1,21 @@
+term: callousness
+[Definitions]
+  - (noun) devoid of passion or feeling; hardheartedness
+[Synonyms]
+  - unfeelingness
+  - callosity
+  - hardness
+  - insensibility
+[Derived forms]
+  - callous
+  - indurate
+  - pachydermatous
+[Is a kind of]
+  - insensitivity, insensitiveness
+    - inability, unfitness
+      - quality
+        - attribute
+          - abstraction, abstract entity
+            - entity
+[Kinds]
+  - dullness

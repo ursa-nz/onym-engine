@@ -1,0 +1,14 @@
+term: spittoon
+[Definitions]
+  - (noun) a receptacle for spit (usually in a public place)
+[Synonyms]
+  - cuspidor
+[Is a kind of]
+  - receptacle
+    - container
+      - instrumentality, instrumentation, means
+        - artifact, artefact
+          - whole, unit
+            - object, physical object
+              - physical entity
+                - entity

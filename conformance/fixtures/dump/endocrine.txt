@@ -1,0 +1,144 @@
+term: endocrine
+[Definitions]
+  - (noun) the secretion of an endocrine gland that is transmitted by the blood to the tissue on which it has a specific effect
+  - (noun) any of the glands of the endocrine system that secrete hormones directly into the bloodstream
+  - (adjective) of or belonging to endocrine glands or their secretions
+      "endocrine system"
+[Synonyms]
+  - hormone
+  - internal secretion
+  - endocrine gland
+  - ductless gland
+  - endocrinal
+[Antonyms]
+  - exocrine (direct)
+[Derived forms]
+  - endocrinal
+[Pertains to]
+  - endocrine gland, ductless gland
+    - gland, secretory organ, secretor, secreter
+[Is a kind of]
+  - secretion
+    - liquid body substance, bodily fluid, body fluid, humor, humour
+      - body substance
+        - substance
+          - matter
+            - physical entity
+              - entity
+          - part, portion, component part, component, constituent
+            - relation
+              - abstraction, abstract entity
+                - entity
+  - gland, secretory organ, secretor, secreter
+    - organ
+      - body part
+        - part, piece
+          - thing
+            - physical entity
+              - entity
+[Kinds]
+  - steroid hormone, steroid, sex hormone
+    - progestin, progestogen
+      - progesterone, Lipo-Lutin
+      - megestrol, megestrol acetate
+      - norethindrone, norethindrone acetate, norethandrolone, Norlutin
+      - norethynodrel
+      - norgestrel
+      - medroxyprogesterone, Provera
+    - androgen, androgenic hormone
+      - androsterone
+      - methyltestosterone
+      - nandrolone, Durabolin, Kabolin
+      - testosterone
+    - estrogen, oestrogen
+      - diethylstilbestrol, diethylstilboestrol, stilbestrol, stilboestrol, DES
+      - estradiol, oestradiol
+      - estriol, oestriol
+      - estrone, oestrone, theelin, Estronol
+      - hexestrol
+      - mestranol
+    - corticosteroid, corticoid, adrenal cortical steroid
+      - mineralocorticoid
+        - aldosterone
+      - glucocorticoid
+        - corticosterone
+        - prednisolone, Pediapred, Prelone
+        - prednisone, Orasone, Deltasone, Liquid Pred, Meticorten
+      - hydrocortisone, cortisol, Hydrocortone, Cortef
+      - cortisone, Cortone Acetate
+      - dexamethasone, Decadron, Dexamethasone Intensol, Dexone, Hexadrol, Oradexon
+      - spironolactone, Aldactone
+      - triamcinolone, Aristocort, Aristopak, Kenalog
+    - anabolic steroid
+    - ecdysteroid
+      - zooecdysone
+  - adrenosterone
+  - glucocorticoid
+    - corticosterone
+    - prednisolone, Pediapred, Prelone
+    - prednisone, Orasone, Deltasone, Liquid Pred, Meticorten
+  - catecholamine
+    - noradrenaline, norepinephrine
+  - melanocyte-stimulating hormone, MSH
+  - thyrotropin, thyrotropic hormone, thyrotrophin, thyrotrophic hormone, thyroid-stimulating hormone, TSH
+  - thyrotropin-releasing hormone, TRH, thyrotropin-releasing factor, TRF, protirelin
+  - adrenocorticotropic hormone, adrenocorticotrophic hormone, ACTH, adrenocorticotropin, adrenocorticotrophin, corticotropin, corticotrophin
+  - gastrointestinal hormone, GI hormones
+    - gastrin
+    - cholecystokinin
+    - secretin
+    - ghrelin
+    - motilin
+  - glucagon
+  - gonadotropin, gonadotrophin, gonadotropic hormone, gonadotrophic hormone
+    - follicle-stimulating hormone, FSH
+    - human chorionic gonadotropin, human chorionic gonadotrophin, HCG
+    - luteinizing hormone, LH, interstitial cell-stimulating hormone, ICSH
+    - prolactin, lactogenic hormone, luteotropin
+  - insulin
+    - Lente Insulin, Lente Iletin
+    - recombinant human insulin, Humulin
+  - melatonin
+  - neurohormone
+  - oxytocin, Pitocin
+  - parathyroid hormone, parathormone
+  - relaxin
+  - releasing hormone, RH, releasing factor, hypothalamic releasing hormone, hypothalamic releasing factor
+  - somatotropin, somatotrophin, somatotropic hormone, somatotrophic hormone, STH, human growth hormone, growth hormone
+    - Protropin
+  - thymosin
+  - thyroid hormone
+    - calcitonin, thyrocalcitonin
+    - thyroxine, thyroxin, tetraiodothyronine, T
+    - triiodothyronine, liothyronine, T
+  - vasopressin, antidiuretic hormone, ADH, Pitressin
+  - thyroid gland, thyroid
+  - parathyroid gland, parathyroid
+  - adrenal gland, adrenal, suprarenal gland
+  - prostate gland, prostate
+  - thymus gland, thymus
+  - pituitary, pituitary gland, pituitary body, hypophysis
+  - anterior pituitary, anterior pituitary gland, adenohypophysis
+  - pars distilis, pars anterior
+  - pars intermedia
+  - posterior pituitary, posterior pituitary gland, neurohypophysis, pars nervosa
+  - pineal gland, pineal body, epiphysis cerebri, epiphysis
+  - islands of Langerhans, isles of Langerhans, islets of Langerhans
+  - adrenal cortex
+  - adrenal medulla
+  - corpus luteum
+  - gonad, sex gland
+    - ovary
+    - ovotestis
+    - testis, testicle, orchis, ball, ballock, bollock, nut, egg
+      - cobblers
+      - undescended testis, undescended testicle
+[Part of]
+  - endocrine system
+[Parts]
+  - gland, secretory organ, secretor, secreter
+    - acinus
+    - organ
+      - lobe
+      - body part
+        - corpus

@@ -1,0 +1,8 @@
+term: bespot
+[Definitions]
+  - (verb) mark with, or as if with, spots
+[Is a kind of]
+  - mark
+    - change, alter, modify
+      - induce, stimulate, cause, have, get, make
+        - act, move

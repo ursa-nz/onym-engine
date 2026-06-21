@@ -1,0 +1,18 @@
+term: genus Malacothamnus
+[Definitions]
+  - (noun) genus of shrubs or small trees: chaparral mallow
+[Synonyms]
+  - Malacothamnus
+[Is a kind of]
+  - dilleniid dicot genus
+    - dicot genus, magnoliopsid genus
+      - genus
+        - taxonomic group, taxonomic category, taxon
+          - biological group
+            - group, grouping
+              - abstraction, abstract entity
+                - entity
+[Part of]
+  - Malvaceae, family Malvaceae, mallow family
+[Parts]
+  - chaparral mallow, Malacothamnus fasciculatus, Sphaeralcea fasciculata

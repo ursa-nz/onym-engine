@@ -1,0 +1,102 @@
+term: trigger
+[Definitions]
+  - (noun) lever that activates the firing mechanism of a gun
+  - (noun) a device that activates or releases or causes something to happen
+  - (noun) an act that sets in motion some course of events
+  - (verb) put in motion or move to act
+      "trigger a reaction"
+      "actuate the circuits"
+  - (verb) release or pull the trigger on
+      "Trigger a gun"
+[Synonyms]
+  - gun trigger
+  - induction
+  - initiation
+  - trip
+  - actuate
+  - activate
+  - set off
+  - spark off
+  - spark
+  - trigger off
+  - touch off
+[Derived forms]
+  - trip
+  - actuate
+  - activate
+  - set off
+  - spark off
+  - spark
+  - trigger off
+  - touch off
+  - induction
+  - initiation
+  - gun trigger
+[Causes]
+  - happen
+  - hap
+  - go on
+  - pass off
+  - occur
+  - pass
+  - fall out
+  - come about
+  - take place
+[Entails]
+  - fire
+  - discharge
+[Is a kind of]
+  - lever
+    - bar
+      - implement
+        - instrumentality, instrumentation, means
+          - artifact, artefact
+            - whole, unit
+              - object, physical object
+                - physical entity
+                  - entity
+  - device
+    - instrumentality, instrumentation, means
+      - artifact, artefact
+        - whole, unit
+          - object, physical object
+            - physical entity
+              - entity
+  - causing, causation
+    - act, deed, human action, human activity
+      - event
+        - abstraction, abstract entity
+          - entity
+  - initiate, pioneer
+    - cause, do, make
+      - make, create
+        - induce, stimulate, cause, have, get, make
+          - act, move
+  - trip, actuate, activate, set off, spark off, spark, trigger off, touch off
+    - initiate, pioneer
+      - cause, do, make
+        - make, create
+          - induce, stimulate, cause, have, get, make
+            - act, move
+[Kinds]
+  - hair trigger
+  - plutonium trigger, plutonium pit
+  - fomentation, instigation
+[Part of]
+  - gun
+[Parts]
+  - lever
+    - fulcrum
+    - bar
+      - implement
+        - instrumentality, instrumentation, means
+          - artifact, artefact
+            - whole, unit
+              - part, portion
+              - section, segment
+  - device
+    - instrumentality, instrumentation, means
+      - artifact, artefact
+        - whole, unit
+          - part, portion
+          - section, segment

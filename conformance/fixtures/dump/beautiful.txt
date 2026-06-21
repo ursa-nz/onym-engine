@@ -23,6 +23,8 @@ term: beautiful
       -> unlovely
       -> unpicturesque
       -> unsightly
+      -> ugly ass
+      -> off fleek
   - pleasant (indirect)
       -> unpleasant
 [Similar to]
@@ -40,6 +42,7 @@ term: beautiful
   - handsome
   - well-favored
   - well-favoured
+  - on fleek
   - glorious
   - resplendent
   - splendid

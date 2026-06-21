@@ -1,0 +1,32 @@
+term: emotionalism
+[Definitions]
+  - (noun) emotional nature or quality
+[Synonyms]
+  - emotionality
+[Attributes]
+  - emotional
+  - unemotional
+  - hot
+  - cold
+  - warm
+  - cool
+[Is a kind of]
+  - trait
+    - attribute
+      - abstraction, abstract entity
+        - entity
+[Kinds]
+  - drama
+  - demonstrativeness
+  - affectionateness, fondness, lovingness, warmth
+    - tenderness
+    - uxoriousness
+  - mawkishness, sentimentality, drippiness, mushiness, soupiness, sloppiness
+    - corn
+    - schmaltz, shmaltz, schmalz
+    - sentimentalism
+  - heat, warmth, passion
+    - fieriness
+  - temperament
+  - excitability, excitableness, volatility
+    - boiling point

@@ -1,0 +1,12 @@
+term: foetal
+[Definitions]
+  - (adjective) of or relating to a fetus
+      "fetal development"
+[Synonyms]
+  - fetal
+[Derived forms]
+  - fetus
+  - foetus
+[Pertains to]
+  - fetus, foetus
+    - vertebrate, craniate

@@ -1,0 +1,16 @@
+term: BWR
+[Definitions]
+  - (noun) a nuclear reactor that uses water as a coolant and moderator; the water boils in the reactor core and the steam produced can drive a steam turbine
+[Synonyms]
+  - boiling water reactor
+[Is a kind of]
+  - water-cooled reactor
+    - nuclear reactor, reactor
+      - apparatus, setup
+        - equipment
+          - instrumentality, instrumentation, means
+            - artifact, artefact
+              - whole, unit
+                - object, physical object
+                  - physical entity
+                    - entity

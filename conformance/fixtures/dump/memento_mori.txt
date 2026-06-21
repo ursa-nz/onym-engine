@@ -1,0 +1,11 @@
+term: memento mori
+[Definitions]
+  - (noun) a reminder (as a death's head) of your mortality
+[Is a kind of]
+  - reminder
+    - experience
+      - content, cognitive content, mental object
+        - cognition, knowledge, noesis
+          - psychological feature
+            - abstraction, abstract entity
+              - entity

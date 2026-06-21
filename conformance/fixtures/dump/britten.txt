@@ -1,0 +1,24 @@
+term: Britten
+[Definitions]
+  - (noun) major English composer of the 20th century; noted for his operas (1913-1976)
+[Synonyms]
+  - Benjamin Britten
+  - Edward Benjamin Britten
+  - Lord Britten of Aldeburgh
+[Is a kind of]
+  - conductor, music director, director
+    - musician
+      - artist, creative person
+        - creator
+          - actor, doer, worker
+            - causal agent, cause, causal agency
+              - physical entity
+                - entity
+  - composer
+    - musician
+      - artist, creative person
+        - creator
+          - actor, doer, worker
+            - causal agent, cause, causal agency
+              - physical entity
+                - entity

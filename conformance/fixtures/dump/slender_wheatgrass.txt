@@ -1,0 +1,23 @@
+term: slender wheatgrass
+[Definitions]
+  - (noun) North American grass cultivated in western United States as excellent forage crop
+[Synonyms]
+  - Agropyron trachycaulum
+  - Agropyron pauciflorum
+  - Elymus trachycaulos
+[Is a kind of]
+  - wheatgrass, wheat-grass
+    - grass
+      - gramineous plant, graminaceous plant
+        - herb, herbaceous plant
+          - vascular plant, tracheophyte
+            - plant, flora, plant life
+              - organism, being
+                - living thing, animate thing
+                  - whole, unit
+                    - object, physical object
+                      - physical entity
+                        - entity
+                - causal agent, cause, causal agency
+                  - physical entity
+                    - entity

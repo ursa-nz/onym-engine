@@ -1,0 +1,49 @@
+term: gunnel
+[Definitions]
+  - (noun) wale at the top of the side of boat; topmost planking of a wooden vessel
+  - (noun) small eellike fishes common in shallow waters of the northern Atlantic
+[Synonyms]
+  - gunwale
+  - gun rest
+  - bracketed blenny
+[Is a kind of]
+  - wale, strake
+    - board, plank
+      - lumber, timber
+        - building material
+          - artifact, artefact
+            - whole, unit
+              - object, physical object
+                - physical entity
+                  - entity
+  - blennioid fish, blennioid
+    - percoid fish, percoid, percoidean
+      - spiny-finned fish, acanthopterygian
+        - teleost fish, teleost, teleostan
+          - bony fish
+            - fish
+              - aquatic vertebrate
+                - vertebrate, craniate
+                  - chordate
+                    - animal, animate being, beast, brute, creature, fauna
+                      - organism, being
+                        - living thing, animate thing
+                          - whole, unit
+                            - object, physical object
+                              - physical entity
+                                - entity
+                        - causal agent, cause, causal agency
+                          - physical entity
+                            - entity
+[Kinds]
+  - rock gunnel, butterfish, Pholis gunnellus
+[Part of]
+  - Pholidae, family Pholidae, family Pholididae
+    - Blennioidea, suborder Blennioidea
+      - Perciformes, order Perciformes, Percomorphi, order Percomorphi
+        - Acanthopterygii, superorder Acanthopterygii
+          - Teleostei, subclass Teleostei
+            - Osteichthyes, class Osteichthyes
+              - Vertebrata, subphylum Vertebrata, Craniata, subphylum Craniata
+                - Chordata, phylum Chordata
+                  - Animalia, kingdom Animalia, animal kingdom

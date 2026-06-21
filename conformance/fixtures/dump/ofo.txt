@@ -1,0 +1,23 @@
+term: Ofo
+[Definitions]
+  - (noun) a member of the Siouan people living in the Yazoo river valley in Mississippi
+  - (noun) a Siouan language spoken by the Ofo
+[Synonyms]
+  - Ofo language
+[Is a kind of]
+  - Sioux, Siouan
+    - Plains Indian, Buffalo Indian
+      - Amerindian, Native American
+        - American
+          - inhabitant, habitant, dweller, denizen, indweller
+            - actor, doer, worker
+              - causal agent, cause, causal agency
+                - physical entity
+                  - entity
+  - Siouan, Siouan language
+    - Amerind, Amerindian language, American-Indian language, American Indian, Indian, American Indian language, Indian language, Amerind language
+      - natural language, tongue
+        - language, linguistic communication
+          - communication
+            - abstraction, abstract entity
+              - entity

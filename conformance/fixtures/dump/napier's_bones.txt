@@ -1,0 +1,18 @@
+term: Napier's bones
+[Definitions]
+  - (noun) a set of graduated rods formerly used to do multiplication and division by a method invented by John Napier
+[Synonyms]
+  - Napier's rods
+[Is a kind of]
+  - calculator, calculating machine
+    - machine
+      - device
+        - instrumentality, instrumentation, means
+          - artifact, artefact
+            - whole, unit
+              - object, physical object
+                - physical entity
+                  - entity
+[Domains]
+  - plural
+  - plural form

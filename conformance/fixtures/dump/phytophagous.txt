@@ -1,0 +1,23 @@
+term: phytophagous
+[Definitions]
+  - (adjective) (of animals) feeding on plants
+[Synonyms]
+  - plant-eating
+  - phytophagic
+  - phytophilous
+[Antonyms]
+  - insectivorous (indirect)
+      -> omnivorous
+  - carnivorous (indirect)
+      -> insectivorous
+  - herbivorous (indirect)
+      -> carnivorous
+[Similar to]
+  - herbivorous
+[Domains]
+  - animal
+  - animate being
+  - beast
+  - brute
+  - creature
+  - fauna

@@ -1,0 +1,5 @@
+term: indigenously
+[Definitions]
+  - (adverb) in an indigenous manner
+[Pertains to]
+  - autochthonal, autochthonic, autochthonous, endemic, indigenous

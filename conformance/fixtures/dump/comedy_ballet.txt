@@ -1,0 +1,22 @@
+term: comedy ballet
+[Definitions]
+  - (noun) a ballet that stresses the drama with features of comedy
+[Is a kind of]
+  - ballet, concert dance
+    - stage dancing, choreography
+      - dancing, dance, terpsichore, saltation
+        - diversion, recreation
+          - activity
+            - act, deed, human action, human activity
+              - event
+                - abstraction, abstract entity
+                  - entity
+        - performing arts
+          - humanistic discipline, humanities, liberal arts, arts
+            - discipline, subject, subject area, subject field, field, field of study, study, bailiwick
+              - knowledge domain, knowledge base, domain
+                - content, cognitive content, mental object
+                  - cognition, knowledge, noesis
+                    - psychological feature
+                      - abstraction, abstract entity
+                        - entity

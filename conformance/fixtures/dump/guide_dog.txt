@@ -1,0 +1,35 @@
+term: guide dog
+[Definitions]
+  - (noun) a dog trained to guide the blind
+[Is a kind of]
+  - working dog
+    - dog, domestic dog, Canis familiaris
+      - canine, canid
+        - carnivore
+          - placental, placental mammal, eutherian, eutherian mammal
+            - mammal, mammalian
+              - vertebrate, craniate
+                - chordate
+                  - animal, animate being, beast, brute, creature, fauna
+                    - organism, being
+                      - living thing, animate thing
+                        - whole, unit
+                          - object, physical object
+                            - physical entity
+                              - entity
+                      - causal agent, cause, causal agency
+                        - physical entity
+                          - entity
+      - domestic animal, domesticated animal
+        - animal, animate being, beast, brute, creature, fauna
+          - organism, being
+            - living thing, animate thing
+              - whole, unit
+                - object, physical object
+                  - physical entity
+                    - entity
+            - causal agent, cause, causal agency
+              - physical entity
+                - entity
+[Kinds]
+  - Seeing Eye dog

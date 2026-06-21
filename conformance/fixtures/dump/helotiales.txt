@@ -1,0 +1,21 @@
+term: Helotiales
+[Definitions]
+  - (noun) order of fungi having asci in a disk-shaped to goblet-shaped apothecium
+[Synonyms]
+  - order Helotiales
+[Is a kind of]
+  - fungus order
+    - order
+      - taxonomic group, taxonomic category, taxon
+        - biological group
+          - group, grouping
+            - abstraction, abstract entity
+              - entity
+[Part of]
+  - Ascomycota, subdivision Ascomycota, Ascomycotina, subdivision Ascomycotina
+    - Eumycota, division Eumycota
+      - Fungi, kingdom Fungi, fungus kingdom
+[Parts]
+  - Helotiaceae, family Helotiaceae
+  - Sclerotiniaceae, family Sclerotiniaceae
+  - Geoglossaceae, family Geoglossaceae

@@ -1,0 +1,23 @@
+term: thundershower
+[Definitions]
+  - (noun) a short rainstorm accompanied by thunder and lightning
+[Is a kind of]
+  - rainstorm
+    - storm, violent storm
+      - atmospheric phenomenon
+        - physical phenomenon
+          - natural phenomenon
+            - phenomenon
+              - process, physical process
+                - physical entity
+                  - entity
+    - rain, rainfall
+      - precipitation, downfall
+        - weather, weather condition, conditions, atmospheric condition
+          - atmospheric phenomenon
+            - physical phenomenon
+              - natural phenomenon
+                - phenomenon
+                  - process, physical process
+                    - physical entity
+                      - entity

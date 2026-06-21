@@ -1,0 +1,14 @@
+term: Vitus Bering
+[Definitions]
+  - (noun) Danish explorer who explored the northern Pacific Ocean for the Russians and discovered the Bering Strait (1681-1741)
+[Synonyms]
+  - Bering
+  - Behring
+  - Vitus Behring
+[Is a kind of]
+  - navigator
+    - explorer, adventurer
+      - actor, doer, worker
+        - causal agent, cause, causal agency
+          - physical entity
+            - entity

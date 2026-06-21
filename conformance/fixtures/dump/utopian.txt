@@ -1,13 +1,13 @@
 term: utopian
 [Definitions]
+  - (noun) an idealistic (but usually impractical) social reformer
+      "a Utopian believes in the ultimate perfectibility of man"
   - (adjective) of or pertaining to or resembling a utopia
       "a Utopian novel"
   - (adjective) characterized by or aspiring to impracticable perfection
       "the dim utopian future"
       "utopian idealists"
       "recognized the utopian nature of his hopes"
-  - (noun) an idealistic (but usually impractical) social reformer
-      "a Utopian believes in the ultimate perfectibility of man"
 [Antonyms]
   - dystopian (direct)
 [Derived forms]
@@ -24,13 +24,7 @@ term: utopian
 [Is a kind of]
   - reformer, reformist, crusader, social reformer, meliorist
     - disputant, controversialist, eristic
-      - person, individual, someone, somebody, mortal, soul
-        - organism, being
-          - living thing, animate thing
-            - whole, unit
-              - object, physical object
-                - physical entity
-                  - entity
+      - actor, doer, worker
         - causal agent, cause, causal agency
           - physical entity
             - entity

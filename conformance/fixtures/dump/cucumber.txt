@@ -1,0 +1,92 @@
+term: cucumber
+[Definitions]
+  - (noun) a melon vine of the genus Cucumis; cultivated from earliest times for its cylindrical green fruit
+  - (noun) cylindrical green fruit with thin green rind and white flesh eaten as a vegetable; related to melons
+[Synonyms]
+  - cucumber vine
+  - Cucumis sativus
+  - cuke
+[Is a kind of]
+  - melon, melon vine
+    - gourd, gourd vine
+      - vine
+        - vascular plant, tracheophyte
+          - plant, flora, plant life
+            - organism, being
+              - living thing, animate thing
+                - whole, unit
+                  - object, physical object
+                    - physical entity
+                      - entity
+              - causal agent, cause, causal agency
+                - physical entity
+                  - entity
+  - vegetable, veggie, veg
+    - produce, green goods, green groceries, garden truck
+      - solid food
+        - solid
+          - matter
+            - physical entity
+              - entity
+        - food, nutrient
+          - substance
+            - matter
+              - physical entity
+                - entity
+[Kinds]
+  - kiwano
+  - gherkin
+[Part of]
+  - Cucumis, genus Cucumis
+    - Cucurbitaceae, family Cucurbitaceae, gourd family
+      - Campanulales, order Campanulales
+        - Asteridae, subclass Asteridae
+          - Dicotyledones, class Dicotyledones, Dicotyledonae, class Dicotyledonae, Magnoliopsida, class Magnoliopsida
+            - Angiospermae, class Angiospermae, Magnoliophyta, division Magnoliophyta, Anthophyta, division Anthophyta
+              - Spermatophyta, division Spermatophyta
+                - Plantae, kingdom Plantae, plant kingdom
+  - cucumber vine, Cucumis sativus
+[Parts]
+  - cuke
+  - melon, melon vine
+    - melon
+    - gourd, gourd vine
+      - vine
+        - vascular plant, tracheophyte
+          - vascular system
+            - vessel, vas
+            - vascular tissue
+          - duct
+          - vascular tissue
+          - plant, flora, plant life
+            - hood, cap
+            - plant part, plant structure
+            - organism, being
+              - tissue
+              - cell
+                - cell membrane, cytomembrane, plasma membrane
+                - energid, protoplast
+                - cytoplasm, cytol
+                  - cytoskeleton
+                  - microsome
+                  - Golgi body, Golgi apparatus, Golgi complex, dictyosome
+                - nucleus, cell nucleus, karyon
+                  - nucleolus, nucleole
+                  - chromatin, chromatin granule
+                  - achromatin
+                  - linin
+                  - chromosome
+                    - nucleolus organizer, nucleolus organiser, nucleolar organizer, nucleolar organiser
+                    - chromatin, chromatin granule
+                    - gene, cistron, factor
+                    - chromatid
+                    - centromere, kinetochore
+                    - telomere
+                - organelle, cell organelle, cell organ
+                - vacuole
+              - body part
+                - corpus
+              - living thing, animate thing
+                - whole, unit
+                  - part, portion
+                  - section, segment

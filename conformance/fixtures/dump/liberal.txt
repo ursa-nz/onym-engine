@@ -1,0 +1,99 @@
+term: liberal
+[Definitions]
+  - (noun) a person who favors a political philosophy of progress and reform and the protection of civil liberties
+  - (noun) a person who favors an economic theory of laissez-faire and self-regulating markets
+  - (adjective) showing or characterized by broad-mindedness
+      "a broad political stance"
+      "generous and broad sympathies"
+      "a liberal newspaper"
+      "tolerant of his opponent's opinions"
+  - (adjective) having political or social views favoring reform and progress
+  - (adjective) tolerant of change; not bound by authoritarianism, orthodoxy, or tradition
+  - (adjective) given or giving freely
+      "was a big tipper"
+      "the bounteous goodness of God"
+      "bountiful compliments"
+      "a freehanded host"
+      "a handsome allowance"
+      "Saturday's child is loving and giving"
+      "a liberal backer of the arts"
+      "a munificent gift"
+      "her fond and openhanded grandfather"
+  - (adjective) not literal
+      "a loose interpretation of what she had been told"
+      "a free translation of the poem"
+[Synonyms]
+  - liberalist
+  - progressive
+  - broad
+  - large-minded
+  - tolerant
+  - big
+  - bighearted
+  - bounteous
+  - bountiful
+  - freehanded
+  - handsome
+  - giving
+  - openhanded
+  - free
+  - loose
+[Antonyms]
+  - conservative (direct)
+      -> conservativist
+      -> blimpish
+      -> buttoned-up
+      -> fusty
+      -> standpat
+      -> unprogressive
+      -> nonprogressive
+      -> hidebound
+      -> traditionalist
+      -> ultraconservative
+  - broad-minded (indirect)
+      -> narrow-minded
+      -> narrow
+  - right (indirect)
+      -> center
+      -> centre
+  - left (indirect)
+      -> right
+  - generous (indirect)
+      -> stingy
+      -> ungenerous
+  - inexact (indirect)
+      -> exact
+[Derived forms]
+  - liberality
+  - liberalness
+[Similar to]
+  - broad-minded
+  - left
+  - civil-libertarian
+  - liberalistic
+  - neoliberal
+  - progressive
+  - reformist
+  - reform-minded
+  - socialized
+  - socialised
+  - welfarist
+  - welfare-statist
+  - generous
+  - inexact
+[Attributes]
+  - political orientation
+  - ideology
+  - political theory
+[Is a kind of]
+  - actor, doer, worker
+    - causal agent, cause, causal agency
+      - physical entity
+        - entity
+[Kinds]
+  - armchair liberal
+  - latitudinarian
+  - neoliberal
+  - pluralist
+  - Whig
+  - libtard

@@ -1,0 +1,100 @@
+term: consistency
+[Definitions]
+  - (noun) the property of holding together and retaining its shape
+      "wool has more body than rayon"
+      "when the dough has enough consistency it is ready to bake"
+  - (noun) a harmonious uniformity or agreement among things or parts
+  - (noun) logical coherence and accordance with the facts
+      "a rambling argument that lacked any consistency"
+  - (noun) (logic) an attribute of a logical system that is so constituted that none of the propositions deducible from the axioms contradict one another
+[Synonyms]
+  - consistence
+  - substance
+  - body
+[Antonyms]
+  - inconsistency (direct)
+[Derived forms]
+  - consist
+  - consistent
+[Attributes]
+  - thick
+  - thin
+[Is a kind of]
+  - property
+    - attribute
+      - abstraction, abstract entity
+        - entity
+  - uniformity, uniformness
+    - similarity
+      - sameness
+        - quality
+          - attribute
+            - abstraction, abstract entity
+              - entity
+  - coherence, coherency, cohesion, cohesiveness
+    - connection, link, connectedness
+      - union, unification
+        - state
+          - attribute
+            - abstraction, abstract entity
+              - entity
+  - logicality, logicalness
+    - quality
+      - attribute
+        - abstraction, abstract entity
+          - entity
+[Kinds]
+  - gaseousness
+    - bubbliness, effervescence, frothiness
+    - foaminess
+  - viscosity, viscousness
+    - stickiness
+      - adhesiveness, adhesion, adherence, bond
+    - sliminess
+    - cohesiveness, glueyness, gluiness, gumminess, tackiness, ropiness, viscidity, viscidness
+    - gelatinousness, glutinosity, glutinousness
+  - thickness
+    - semifluidity
+    - creaminess, soupiness
+  - thinness
+    - fluidity, fluidness, liquidity, liquidness, runniness
+    - wateriness
+  - hardness
+    - firmness
+    - incompressibility
+  - softness
+    - compressibility, squeezability, sponginess
+    - downiness, featheriness, fluffiness
+    - flabbiness, limpness, flaccidity
+    - mushiness, pulpiness
+    - velvetiness
+  - breakableness
+    - brittleness, crispness, crispiness
+      - flakiness
+    - crumbliness, friability
+  - unbreakableness
+  - porosity, porousness
+    - sponginess
+    - permeability, permeableness
+      - absorbency
+        - water absorption
+  - solidity, solidness
+    - compactness
+      - density, denseness
+        - bits per inch, bpi
+        - flux density, flux
+        - optical density, transmission density, photographic density, absorbance
+        - rarity, tenuity, low density
+        - relative density
+          - specific gravity
+          - vapor density, vapour density
+    - impermeability, impermeableness
+      - retentiveness, retentivity, retention
+        - urinary retention
+      - nonabsorbency
+      - waterproofness, watertightness
+  - clayeyness, clayishness, clayiness
+  - lumpiness
+  - doughiness
+[Domains]
+  - logic

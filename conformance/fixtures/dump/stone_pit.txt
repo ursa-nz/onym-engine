@@ -1,0 +1,17 @@
+term: stone pit
+[Definitions]
+  - (noun) a surface excavation for extracting stone or slate
+      "a British term for ‘quarry’ is ‘stone pit’"
+[Synonyms]
+  - pit
+  - quarry
+[Is a kind of]
+  - excavation
+    - artifact, artefact
+      - whole, unit
+        - object, physical object
+          - physical entity
+            - entity
+[Kinds]
+  - chalkpit, chalk pit
+  - gravel pit

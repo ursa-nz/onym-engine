@@ -1,0 +1,46 @@
+term: comforted
+[Definitions]
+  - (adjective) made comfortable or more comfortable in a time of distress
+      "the news make her feel comforted"
+  - (verb) give moral or emotional strength to
+      "The good news will comfort her"
+  - (verb) lessen pain or discomfort; alleviate
+      "ease the pain in your legs"
+[Synonyms]
+  - soothe
+  - console
+  - solace
+  - ease
+[Antonyms]
+  - comfortable (indirect)
+      -> uncomfortable
+[Derived forms]
+  - consolation
+  - solace
+  - reliever
+  - allayer
+  - comforter
+  - sympathizer
+  - sympathiser
+  - comfortableness
+  - pacifier
+  - baby's dummy
+  - teething ring
+  - quilt
+  - puff
+[Similar to]
+  - comfortable
+[Is a kind of]
+  - act, move
+  - relieve, alleviate, palliate, assuage
+    - better, improve, amend, ameliorate, meliorate
+      - change, alter, modify
+        - induce, stimulate, cause, have, get, make
+          - act, move
+[Kinds]
+  - calm, calm down, quiet, tranquilize, tranquillize, tranquillise, quieten, lull, still
+    - lull
+    - compose
+    - pacify, lenify, conciliate, assuage, appease, mollify, placate, gentle, gruntle
+  - still, allay, relieve, ease
+    - abreact

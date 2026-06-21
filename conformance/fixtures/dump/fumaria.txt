@@ -1,0 +1,24 @@
+term: Fumaria
+[Definitions]
+  - (noun) annual herbs whose flowers have only one petal spurred at the base
+[Synonyms]
+  - genus Fumaria
+[Is a kind of]
+  - dilleniid dicot genus
+    - dicot genus, magnoliopsid genus
+      - genus
+        - taxonomic group, taxonomic category, taxon
+          - biological group
+            - group, grouping
+              - abstraction, abstract entity
+                - entity
+[Part of]
+  - Fumariaceae, family Fumariaceae, fumitory family
+    - Rhoeadales, order Rhoeadales, Papaverales, order Papaverales
+      - Dilleniidae, subclass Dilleniidae
+        - Dicotyledones, class Dicotyledones, Dicotyledonae, class Dicotyledonae, Magnoliopsida, class Magnoliopsida
+          - Angiospermae, class Angiospermae, Magnoliophyta, division Magnoliophyta, Anthophyta, division Anthophyta
+            - Spermatophyta, division Spermatophyta
+              - Plantae, kingdom Plantae, plant kingdom
+[Parts]
+  - fumitory, fumewort, fumeroot, Fumaria officinalis

@@ -1,0 +1,9 @@
+term: restriction fragment
+[Definitions]
+  - (noun) the fragment of DNA that is produced by cleaving DNA with a restriction enzyme
+[Is a kind of]
+  - fragment
+    - part, piece
+      - thing
+        - physical entity
+          - entity

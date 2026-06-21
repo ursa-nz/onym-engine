@@ -1,0 +1,20 @@
+term: monarchy
+[Definitions]
+  - (noun) an autocracy governed by a monarch who usually inherits the authority
+[Derived forms]
+  - monarchal
+  - monarchical
+  - monarchic
+[Is a kind of]
+  - autocracy, autarchy
+    - political system, form of government
+      - social group
+        - group, grouping
+          - abstraction, abstract entity
+            - entity
+[Kinds]
+  - parliamentary monarchy
+  - kingdom
+  - empire
+    - Mogul empire
+    - Second Empire

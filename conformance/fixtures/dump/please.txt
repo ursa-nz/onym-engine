@@ -1,0 +1,39 @@
+term: please
+[Definitions]
+  - (verb) give pleasure to or be pleasing to
+      "These colors please the senses"
+      "a pleasing sensation"
+  - (verb) be the will of or have the will (to)
+      "he could do many things if he pleased"
+  - (verb) give satisfaction
+      "The waiters around her aim to please"
+  - (adverb) used in polite request
+      "please pay attention"
+[Synonyms]
+  - delight
+[Antonyms]
+  - displease (direct)
+[Derived forms]
+  - pleasant
+  - pleasure
+  - pleasance
+  - joy
+  - delight
+  - pleaser
+  - pleasing
+[Causes]
+  - like
+[Is a kind of]
+  - satisfy, gratify
+    - change, alter, modify
+      - induce, stimulate, cause, have, get, make
+        - act, move
+  - wish, care, like
+    - desire, want
+      - feel, experience
+        - perceive, comprehend
+          - learn, hear, get word, get wind, pick up, find out, get a line, discover, see
+            - act, move
+[Kinds]
+  - endear
+  - enchant, enrapture, transport, enthrall, ravish, enthral, delight

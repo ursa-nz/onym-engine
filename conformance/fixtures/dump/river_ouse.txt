@@ -1,0 +1,15 @@
+term: River Ouse
+[Definitions]
+  - (noun) a river in northeastern England that flows generally southeastward to join the Trent River and form the Humber
+[Synonyms]
+  - Ouse
+  - Ouse River
+[Is a kind of]
+  - river
+    - stream, watercourse
+      - body of water, water
+        - thing
+          - physical entity
+            - entity
+[Part of]
+  - England, Anglia

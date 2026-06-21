@@ -1,0 +1,6 @@
+term: radiantly
+[Definitions]
+  - (adverb) in a radiant manner
+      "the bride smiled radiantly"
+[Pertains to]
+  - beaming, beamy, effulgent, radiant, refulgent

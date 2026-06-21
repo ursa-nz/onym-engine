@@ -1,0 +1,15 @@
+term: ETF
+[Definitions]
+  - (noun) a mutual fund that is traded on a stock exchange
+[Synonyms]
+  - exchange traded fund
+[Is a kind of]
+  - mutual fund
+    - fund, monetary fund
+      - money
+        - medium of exchange, monetary system
+          - standard, criterion, measure, touchstone
+            - system of measurement, metric
+              - measure, quantity, amount
+                - abstraction, abstract entity
+                  - entity

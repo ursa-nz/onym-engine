@@ -46,6 +46,7 @@ ash bin
 # Tree attachment fix words.
 door
 sing
+sang
 casing
 
 # Headword case.
@@ -66,780 +67,807 @@ abalone
 # the WordNet index files (index.noun, index.verb, index.adj,
 # index.adv), with underscores converted to spaces.
 'hood
-abandoned ship
-abruptio placentae
-acariosis
-achaian
-acromial process
-adams
-admission price
-aepyorniformes
-after part
-agriculturist
-airfare
-albert edward
-alexander vi
-all-day sucker
-alnus maritima
-alumbloom
-american
-amicus curiae brief
-amusd
-anatotitan
-angel food cake
-animalism
-anoxic anoxia
-antiarrhythmic drug
-antonio gaudi
-apomict
-aptitude
-arcadic
-areopagite
-armilla
-artaxerxes i
-articulatio coxae
-ash bin
-assiduity
-ataxia
-atomic number 57
-auction block
-australopithecus robustus
-avant-garde
-b complex
+aaron burr
+abradant
+acanthisittidae
+acer rubrum
+acquittance
+acute gastritis
+adjournment
+advertorial
+affront
+ageratum houstonianum
+air castle
+al-hasan ibn al-haytham
+alcohol radical
+alfred russel wallace
+allen wrench
+alpha-adrenoceptor
+alytes cisternasi
+american cranberry bush
+amity
+amylolysis
+anchor light
+angel shark
+animal virus
+anorexia
+anti-imperialist international brigade
+antitrust case
+aplectrum
+appraisal
+aras
+arctocebus calabarensis
+aristotelia serrata
+arpent
+arteria vertebralis
+as
+asparagus setaceous
+aster novae-angliae
+athyrium distentifolium
+atopic allergy
+audrey kathleen ruston
+auto-alarm
+aversive conditioning
+baba
 backpacking
-bakelite
-balsam
-bannockburn
-barnburner
-basic cognitive process
-batidaceae
-bay rum
-beauty shop
-begonia
-belt maker
-berkshire hills
-bezique
-bilge
-biometry
-biteplate
-black marketeer
-blasting cap
-blood
-blue pea
-bocci
-boltzmann's constant
-book of obadiah
-bosnia
-bowdler
-brain-worker
-breach of warranty
-bridge partner
-broca's gyrus
-browsing
-budding
-bullyboy
-burrill bernard crohn
-butterball
-cabin liner
-calabash pipe
-call loan
-camel racing
-cancer
-cantilever bridge
-capital of japan
-capsella
-carchariidae
-carl lewis
-carrot juice
-caspar bartholin
-cataract
-caustic remark
-celioscopy
-centrepiece
-cerulean
-chaldaean
-character reference
-chastening
-chemical reaction
-chicken run
-chinese anise
-chlorophyte
-christiaan huygens
-chukaku-ha
-cinnamomum zeylanicum
-city of brotherly love
-class chrysophyceae
-cleaning woman
-clintonia
-clovis
-coat of paint
-codger
-cold chisel
-color tube
-comfortableness
-common factor
-community center
-compulsivity
-conditioned reaction
-conic morel
-constrictor
-contriver
-copalite
-coriandrum
-corpus mamillare
-cost of capital
-countercoup
-cow
-crankshaft
-crenate leaf
-crocodylus porosus
-crown prince
-cubeb vine
-cupid
-cut-in
-cylindrical lining
-czech
-damascene
-dark field illumination
-dawn horse
-death rate
-decorum
-degree fahrenheit
-demogorgon
-department of mathematics
-desert willow
-deviant
-dianthus latifolius
-diesel engine
-dinette
-direct object
-disesteem
-dissociative disorder
-divorced man
-dogshit
-door
-double star
-dragon lizard
-drip pot
-dry wall
-dumpiness
-dwarf pipefish
-earplug
-ebv
-edgar degas
-efficacy
-elaborateness
-electrical work
-elevator man
-embroideress
-enarthrosis
-engineer's chain
-entombment
-epilachna
-equus
-eructation
-estazolam
-eucharist
-european flatfish
-evolutionism
-exodontist
-external respiration
-facer
-fall
-family araucariaceae
-family colchicaceae
-family graminaceae
-family microhylidae
-family pomatomidae
-family tetragoniaceae
-farm animal
-favorableness
-felis concolor
-ferry
-field-emission microscope
-filicales
-finno-ugric
-first name
-fl
-flaw
-florin
-flying dragon
-fool
-foreshadowing
-foster home
-francis albert sinatra
-frederico garcia lorca
-freshener
-front room
-full skirt
-fussiness
-galingale
-ganoidei
-gas line
-gayal
-genetic disease
-genus aethionema
-genus apocynum
-genus blechnum
-genus castanea
-genus clostridium
-genus dahlia
-genus enterobius
-genus gerardia
-genus hudsonia
-genus leonotis
-genus maranta
-genus nasua
-genus paralichthys
-genus pithecellobium
-genus punica
-genus schizosaccharomyces
-genus streptocarpus
-genus trimorphodon
-geographical region
-gerea
-giant reed
-girard
-glis glis
-gnaphalium sylvaticum
-golden glow
-good night
-government income
-grandfather
-gray catbird
-greek mythology
-grey partridge
-ground sloth
-guelder rose
-gummite
-gynogenesis
-haemoptysis
-half-term
-hand cream
-hard-cooked egg
-harry sinclair lewis
-hayseed
-heartiness
-heinrich rudolph hertz
-hematopoeitic stem cell
-hepatic duct
-herpetology
-hideyo noguchi
-himalayan cedar
-hittite
-holly-leaved cherry
-homo soloensis
-hop
-horsetail lichen
-house snake
-human
-hurting
-hydrolysis
-hyperidrosis
-hyrax
-ictonyx
-iliad
-immunosuppressor
-inadvertency
-independence
-indonesia
-inflectional ending
-inning
-insulator
-internal cerebral vein
-intricacy
-ipsedixitism
-irritability
-isthmus of suez
-jacket crown
-james edmund scripps
-jaspers
-jerusalem sage
-joewood
-john tradescant
-journeyman
-jund-ul-islam
-kakatoe galerita
-kastler
-keratoconjunctivitis
-kidnapper
-kinosternon
-knightliness
-kr
-labetalol hydrochloride
-lady diana frances spencer
-lamellicorn beetle
-lanius borealis
-laser beam
-launchpad
-le chatelier
-lech walesa
-leipoa ocellata
-leper lily
-letup
-librarianship
-lightbulb
-linaria vulgaris
-linus pauling
-lithium carbonate
-llb
-lodging house
-longcase clock
-lotte
-low temperature
-lulli
-lx
-lyssa
-mad apple
-magnolia fraseri
-major tranquilizer
-malignant tumor
-manchu dynasty
-manta birostris
-mare
-marmalade tree
-mary ii
-mastitis
-maurice barrymore
-mealy sage
-medick
-melee
-menses
-merlangus
-metazoan
-mflop
-mid-fifties
-military blockade
-mimidae
-minute of arc
-mitella diphylla
-moeller's glossitis
-moneran
-monotheism
-moreau river
-mother hen
-mountain pride
-mud
-munda
-mushroom cloud
-mutual understanding
-myrtaceous tree
-namib desert
-nasua
-naval brass
-nefazodone
-nephritis
-neurolinguist
-newgate
-nigella damascena
-nitric acid
-non-standard speech
-norman conquest
-note payable
-nucleus
-nycticorax nycticorax
-obsessivity
-odets
-oil pressure
-olfactory bulb
-one-twelfth
-operations research
-orange pekoe
-order foraminifera
-order taxales
-oriya
-oscitance
-ousting
-overmantel
-oyabun
-paeonia
-palestine liberation front
-panga
-papua
-parcheesi
-parsons table
-passiflora maliformis
-patronne
-peach tree
-peeper
-pennon
-perception
-peristedion
-pertainym
-petty spurge
-phenergan
-pholiota squarrosoides
-phylloclade
-picardy
-pig iron
-pinctada margaritifera
-pipe bomb
-pitressin
-plant cell
-platyrrhini
-plinian eruption
-pochard
-poker plant
-polonaise
-pomatomidae
-populus canescens
-possessor
-potato tuberworm
-powwow
-preconceived idea
-president franklin roosevelt
-priggishness
-prison cell
-professing
-propeller
-protestant episcopal church
-prussian blue
-psychosis
-puck
-punjabi
-puss
-pyrus communis
-quartering
-quid pro quo
-racing skate
-rag doll
-ramon lully
-raspberry bush
-razz
-receivables
-red-letter day
-redox
-regional anaesthesia
-religious person
-reprehensibility
-reserve account
-reticulitermes flanipes
-rh
-rhus radicans
-riding bitt
-rinse
-robert alexander schumann
-rocket base
-romanoff
-roseola infantum
-rowing club
-ruination
-rustle
-saddle hackle
-saint francis of assisi
-salix lucida
-sambucus pubens
-sang
-sarcoma
-saurischia
-scalper
-schizaea
-scintillation
-scott joplin
-sculpture
-seam
-secret
-seigneur
-sellers
-senselessness
-serin
-seven-spot
-shah of iran
-sheepshead porgy
-ship's officer
-shore bird
-shrubbery
-sidney webb
-sillabub
-simultaneous equations
-sir hans adolf krebs
-sium suave
-skirmisher
-slenderness
-small cranberry
-snake doctor
-so
-sodium sulphate
-solemnization
-sonority
-sourball
-space writer
-spearmint
-sphaeralcea fasciculata
-spinocerebellar disorder
-spondylolisthesis
-spring cress
-squire
-stage fright
-staple fiber
-statutory offence
-stenotaphrum secundatum
-stigmatization
-stomp
-strait of gibraltar
-striated muscle tissue
-study hall
-subdivision basidiomycota
-suborder sauropoda
-suet
-summum bonum
-superior thalamostriate vein
-surgical instrument
-swamp lily
-swertia
-symphoricarpos alba
-systems program
-tagetes patula
-tam-o'-shanter
-tapeline
-tattoo
-team sport
-telephone line
-tendinitis
-terrestrial dynamical time
-texas fever
-themis
-thigh pad
-thoracotomy
-thuja
-tidewater stream
-timpani
-tlingit
-tom hanks
-topminnow
+baisa
+ballottement
+bank vault
+barium hydroxide
+basal body temperature method
+bastnasite
+battle of rocroi
+beam scale
+bedstraw
+belgium
+benghazi
+beryllium bronze
+bicorn
+billhook
+biplane
+bitter hickory
+black race
+blastogenesis
+blood brotherhood
+blue pikeperch
+bocce ball
+bolometer
+book of haggai
+borscht
+bourgeoisie
+brad
+bratislava
+brewage
+britten
+brosme brosme
+bubbliness
+bulbul
+bureau of diplomatic security
+business executive
+bwr
+caddis-fly
+calcium light
+callousness
+campanula carpatica
+candor
+capacitor mike
+capital of new york
+capture of fort ticonderoga
+cardamon
+carlo goldoni
+carrycot
+casque
+cataract surgery
+causation
+celestial guidance
+central vein of retina
+ceremonial occasion
+chain lightning
+chantarelle
+charles river
+cheetah
+chest of drawers
+chilean flameflower
+chippewaian language
+cholelithotomy
+chromatic color
+churn
+circumduction
+civil rights movement
+class insecta
+cleft palate
+clitocybe robusta
+club steak
+coatrack
+codification
+cold comfort
+color sergeant
+comedy ballet
+common dandelion
+communications
+compound pendulum
+concourse
+conger
+consistency
+continuous creation theory
+cookery book
+corallorhiza maculata
+cornishman
+corydalidae
+cottonwood
+coup de theatre
+cpu board
+creaking
+crex
+cross-pollination
+crushed rock
+cucumber
+curassow
+cutleaved coneflower
+cynancum
+d-layer
+damaraland mole rat
+darius the great
+daviesia
+deanship
+declassification
+definite article
+demarcation
+dental technician
+dermatome
+detecting
+di-iodotyrosine
+dickeybird
+digitaria
+diospyros virginiana
+disarrangement
+disk space
+disturbance of the peace
+docking fee
+domain
+dorotheanthus bellidiformis
+dover
+drapery
+drizzle
+dryopteris
+dungaree
+dwight davis
+earning per share
+ebony family
+edaphosauridae
+edwin dubois hayward
+eindhoven
+electric hammer
+electrosurgery
+elsa schiaparelli
+emotionalism
+endocrine
+enlisted officer
+epacridaceae
+epistle to philemon
+ergotropism
+erythroxylon coca
+etf
+euglena
+european toad
+exaltolide
+exothermic reaction
+extra
+facet plane
+falderol
+family apogonidae
+family clusiaceae
+family gobiesocidae
+family membracidae
+family polygalaceae
+family tenebrionidae
+farce comedy
+faultfinding
+feeler
+fermentation
+fichu
+figured-fabric loom
+finger-roll
+first-place finish
+fistful
+flashcard
+float
+fluke
+folate
+forbearance
+formatting
+fourier series
+frangipanni
+freedom
+friday
+frostweed
+fumaria
+futurism
+galium lanceolatum
+ganja
+gas gage
+gavialis
+generalized epilepsy
+genus actiniopteris
+genus anthoceros
+genus bemisia
+genus cardamine
+genus cirsium
+genus cynocephalus
+genus eleocharis
+genus gastrolobium
+genus hippocrepis
+genus lasiurus
+genus malacothamnus
+genus myricaria
+genus pachyrhizus
+genus pimenta
+genus psychotria
+genus saturnia
+genus stelis
+genus tremella
+genus zygocactus
+georgia bark
+ghq
+ginger beer
+glasses case
+glucose tolerance test
+goebbels
+golgotha
+gorgoniacea
+graham greene
+graphic symbol
+great dividing range
+green soybean
+grindelia robusta
+group therapy
+guide dog
+gunnel
+gyrinidae
+haftarah
+half gainer
+hand line
+harbor
+harriet tubman
+hawse
+hearsay
+hedgefund
+helotiales
+henry clay
+herman northrop frye
+hex nut
+high quality
+hippocrates
+hod carrier
+holy sepulchre
+honey buzzard
+hormic psychology
+hostile takeover
+housing estate
+humanistic discipline
+hustler
+hydrophyllum virginianum
+hyperlipidemia
+hyssopus
+icterus galbula bullockii
+ileitis
+immunoassay
+impulse relay
+incumbency
+indira nehru gandhi
+inference
+inigo jones
+inspector
+intercontinental ballistic missile
+interrogative pronoun
+invite
+irish whisky
+island-dweller
+itineration
+jacques cartier
+james mill
+javelin
+jessye norman
+jogging
+john singer sargent
+joss stick
+jumper stay
+kachinic
+karen language
+ken
+keynesian
+kindheartedness
+kitchen match
+knud rasmussen
+kuan yin
+labor party
+ladylikeness
+laminated glass
+lanset
+lasher
+launderette
+lcd
+lebistes
+leibniz
+leonurus
+letter of credit
+liberal
+light-emitting diode
+limicolae
+lingual
+lisbon
+littoral zone
+lobworm
+lola montez
+loose man
+louis victor de broglie
+loxia curvirostra
+lumpfish
+lycopersicon esculentum cerasiforme
+macadamia integrifolia
+madderwort
+magnoliopsid
+majorana
+malignant hypertension
+managing director
+manner of walking
+marchantiales
+market price
+martin heinrich klaproth
+massiveness
+matrix addition
+mazurka
+medan
+megaloptera
+memento mori
+mentzelia livicaulis
+mesomorphy
+methylene blue
+microbiology
+middle of the roader
+military operation
+mincemeat
+miosis
+mitella pentandra
+modiolus
+monarchy
+mononeuropathy
+moral
+moss-trooper
+mount sinai
+mrd
+multi-billionaire
+muscivora forficata
+muslin
+mylodon
+nabalus serpentarius
+napier's bones
+national security agency
+nazi germany
+negroid race
+nerd
+neuropterous insect
+news
+nigella
+nissan
+nomograph
+norfolk island
+nose candy
+nuclear explosion
+nutmeg geranium
+oblate
+octavian
+ofo
+old person
+omicron
+oort cloud
+opsonin
+order-chenopodiales
+order odonata
+oregon pine
+ortega y gasset
+osteopetrosis
+outlet
+overvaluation
+ozothamnus secundiflorus
+pahlavi language
+palinurus
+panicum
+para
+parchment
+parsley haw
+passeriformes
+patrick white
+peabody
+pediculidae
+peneplane
+pepper spray
+perimysium
+person agreement
+petit jury
+pharmacologist
+philologue
+photoflash
+physical property
+picture gallery
+piling
+pink
+piquet
+place-worship
+plaquenil
+playschool
+plowwoman
+podiceps
+polarization
+polybotrya
+pommy
+poppycock
+posing
+potamogeton crispus
+powdered ginger
+praying mantid
+prep school
+prettiness
+prince edward island
+proboscis
+project
+prorogation
+provenience
+pseudorubella
+pteropogon
+pug-dog
+purchasing department
+pvc
+qandahar
+quasi contract
+quinacrine hydrochloride
+raconteur
+ragged robin
+rampage
+rasping
+razorbacked hog
+recasting
+red-breasted nuthatch
+redhead
+regalecidae
+releasing factor
+reparation
+repulsorlift engine
+restriction fragment
+reversionist
+rhizobium
+richard ii of england
+rigidness
+river ouse
+robin redbreast
+roger fry
+roost
+rotogravure
+rubber cement
+rumpus room
+ryegrass
+safe-conduct
+saint luke
+sally lunn
+samiel
+sangay
+sarcodinian
+sault ste. marie
+scalenus syndrome
+schinus chichita
+scientific theory
+scotch pine
+scrubs
+sea trout
+second law of thermodynamics
+seed sprouter
+self-help
+sendup
+septum
+service of process
+sexagenarian
+sharecrop farmer
+shepherd's crook
+shivaism
+shortness of breath
+sialis
+sigint
+silver bromide
+singan
+sir jacob epstein
+six-spot
+skittishness
+slender wheatgrass
+small-leaved linden
+snaffle
+snowstorm
+soda pop
+solar parallax
+somme river
+sound law
+southwest by west
+sparkle metal
+speed cop
+spiel
+spittoon
+sports writer
+spymaster
+st. gregory i
+staleness
+starlet
+steam heat
+stephen crane
+stimulus generalization
+stone pit
+strange attractor
+stride
+studying
+subdivision
+suborder pinnipedia
+sudoku
+summer squash
+supergrass
+surface chemistry
+swage
+sweet lime
+syllogist
+syntony
+tacheometer
+taklimakan desert
+tangible goods
+taro root
+taxman
+tediousness
+telosporidia
+tent-caterpillar moth
+testa
+thanatology
+theory of organic evolution
+third
+thousand island dressing
+thundershower
+tierce
+tinbergen
+toady
+tomato concentrate
+topographic anatomy
 tours
-trade stoppage
-transient
-treasonist
-tribal sheikh
-trimorphodon
-tropical rain forest
-try square
-tung oil
-turreae
-two iron
-ukrayina
-uncouthness
-uniocular dichromat
-unperson
-ural-altaic
-usaf
-vagabond
-vapidness
-vegetable oyster
-venae interlobulares hepatis
-vernation
-viborg
-vilnius
-virologist
-vividness
-vouchee
-walker
-warhead
-water chute
-wave-particle duality
-wednesday
-westerly
-whimsicality
-white line
-whorehouse
-wildcat
-willingness
-winner
-woe
-woodworking plane
-world traveler
-wye
-yafo
-yellow ocher
-yucatec
-zigadenus
+trade rat
+transfiguration day
+trawl net
+trial impression
+trilby
+trombone
+trunk
+tulu
+turkmen monetary unit
+twilight of the gods
+tyrocidine
+umbilicus
+undine
+united states fish and wildlife service
+untroublesomeness
+urex
+usurpation
+valedictory address
+varanus komodoensis
+vein of penis
+vendor
+veronese
+vibrator
+villainousness
+viridity
+vitus bering
+vonnegut
+waiver
+war game
+watch key
+watercraft
+weatherboard
+welsh terrier
+wetnurse
+white-chinned petrel
+white willow
+wild basil
+william claude dukenfield
+wind tunnel
+wiper arm
+womaniser
+wooly blue curls
+worse
+x-ray therapy
+yalu river
+yellow river
+yucateco language
+zettaflop
+zurvanism
 aah
 alchemize
 ascribe
-bargain down
-bespeckle
-bogey
-bristle at
-call
-caulk
+bargain
+bespot
+boggle
+bristle up
+call attention
+cause
 chuck
 coincide
-conflict
-countersign
-cut short
-deglycerolise
-detransitivise
-dismiss
-drawl
-embed
-eulogize
-fantasy
-fleet
-freak
-get it on
-golf
-hasp
-hook on
-incinerate
-invigilate
-kill oneself
-lexicalise
-lyric
-mess up
-motorise
-obliterate
-overhear
-paw
-plaster over
-predate
-pull someone's leg
-rap
-reexamine
-repute
-roll
-scald
-sequestrate
-sidetrack
-slosh
-spear up
-start out
-sublease
-syllogise
-tease apart
-top
-tune up
-unsanctify
-walk around
-wine and dine
+conflate
+counterpose
+cut into
+degenerate
+detract
+dismay
+draw together
+embarrass
+etymologize
+fan
+flaunt
+fragmentize
+get away
+go to
+harbour
+hollow
+importune
+introduce
+keratinise
+legitimize
+lowball
+meld
+mooch
+notarise
+overcloud
+pass along
+pip
+pound off
+provide
+rage
+recuperate
+repay
+ridge
+saltate
+seine
+shovel in
+sledgehammer
+somnambulate
+squire
+strike
+swathe
+talk into
+tighten up
+trigger
+underspend
+victual
+wharf
+zonk out
 .22-caliber
 79
-acentric
-adumbrative
-al dente
-ambiguous
-angry
-aperient
-areal
-asymmetric
-avocado
-baseborn
-bewitched
-black-and-tan
-bonzer
-bristlelike
-buxom
-cardiovascular
-cereal
-christianly
-clothesless
-commensurate
-consecrate
-correspondent
-cross-modal
-cystic
-deep-seated
-despoiled
-disarrayed
-diversionary
-drum-like
-egocentric
-endowed
-eternal
-exportable
-fast asleep
-firm
-for sale
-frivolous
-general
-good
-gu
-hasidic
-hierarchic
-honorable
-hypotensive
-impermissible
-inconstant
-ingrowing
-interrupted
-isotropous
-knifelike
-lazy
-limbed
-low-cal
-maladaptive
-meaningful
-microscopical
-moneymaking
-multifarious
-needlelike
-non-poisonous
-nonprognosticative
-oblanceolate
-oncologic
-other
-packed
-pasteurian
-permutable
-pinnated
-polyestrous
-preexisting
-proletarian
-puppyish
-radiolucent
-red-orange
-resilient
-robed
-saccadic
-scheduled
-self-limited
-seventieth
-sick-abed
-slaveholding
-softish
-spick-and-span
-starred
-streaky
-sulphuretted
-symbolical
-telepathic
-thoreauvian
-top-down
-trifling
-tympanitic
-unbiased
-uncurving
-unerect
-unidirectional
-unmolested
-unreceptive
-unsound
-unvoiced
-varied
-vivace
-well-balanced
-witchlike
-yeatsian
+acellular
+adulterous
+akin
+ambidextrous
+anglophobic
+aortal
+arco
+astronomic
+avian
+barrelled
+better-known
+bivariate
+boned
+brimming
+buttery
+carbuncled
+centric
+cholinergic
+closed-captioned
+comforted
+connotational
+corporatist
+critical
+cycloid
+decrescendo
+deserted
+directive
+distraught
+drilled
+eellike
+endemic
+eruptive
+expeditious
+far
+fimbriate
+foetal
+freelance
+garmented
+gnarly
+grilled
+hard-line
+het
+homochromatic
+hygroscopic
+immunocompetent
+incessant
+infantile
+intercontinental
+irreparable
+katharobic
+last-ditch
+light-blue
+longish
+macrencephalous
+mateless
+metallic-colored
+mock
+mousy
+native-born
+nip and tuck
+nonliteral
+notional
+older
+orchestral
+overnice
+parental
+penultimate
+phytophagous
+pluralistic
+pragmatical
+prize
+psychoneurotic
+quavering
+receptive
+remote
+ribbonlike
+ruffled
+saturnine
+seeable
+sensorial
+shocking
+sixpenny
+snappy
+spaced
+squashed
+stolid
+submersed
+surmounted
+tantrik
+then
+timeless
+transitional
+turned on
+unanalyzable
+uncomparable
+undisclosed
+unfrozen
+unlaureled
+unplanted
+unsatisfied
+untempered
+urethral
+veteran
+washy
+white-hot
+wraithlike
 'tween
-anatomically
+analogously
 bannerlike
-cerebrally
-creakingly
-displeasingly
+ceremoniously
+credibly
+disproportionately
 even so
-for the most part
-hand in hand
+for the time being
+hand to hand
 implicitly
-indescribably
+indigenously
 justifiably
-meagerly
-nonlexically
-out of
-pleasingly
-raffishly
-secondarily
-soonest
-systematically
-tout ensemble
-unnoticeably
-west
+mayhap
+nonetheless
+out of doors
+please
+radiantly
+seawards
+somewhere
+synchronously
+totally
+unnecessarily
+well

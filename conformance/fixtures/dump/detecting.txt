@@ -1,0 +1,55 @@
+term: detecting
+[Definitions]
+  - (noun) a police investigation to determine the perpetrator
+      "detection is hard on the feet"
+  - (verb) discover or determine the existence, presence, or fact of by perception with the eyes
+      "She detected high levels of lead in her drinking water"
+      "We found traces of lead in the paint"
+[Synonyms]
+  - detection
+  - detective work
+  - sleuthing
+  - observe
+  - find
+  - discover
+  - notice
+[Derived forms]
+  - detect
+  - observe
+  - find
+  - discover
+  - notice
+  - detection
+  - catching
+  - espial
+  - spying
+  - spotting
+  - detector
+  - sensor
+  - sensing element
+  - detecting
+  - detective work
+  - sleuthing
+[Is a kind of]
+  - police work, police investigation
+    - investigation, investigating
+      - work
+        - activity
+          - act, deed, human action, human activity
+            - event
+              - abstraction, abstract entity
+                - entity
+  - spy, sight
+    - perceive, comprehend
+      - learn, hear, get word, get wind, pick up, find out, get a line, discover, see
+        - act, move
+[Kinds]
+  - find out, catch out
+  - sense
+  - instantiate
+  - trace
+  - see
+  - spot, recognize, recognise, distinguish, discern, pick out, make out, tell apart
+    - sniff out, scent out, smell out, nose out
+    - resolve
+    - discriminate

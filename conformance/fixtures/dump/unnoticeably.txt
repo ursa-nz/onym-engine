@@ -1,8 +1,0 @@
-term: unnoticeably
-[Definitions]
-  - (adverb) in an imperceptible manner or to an imperceptible degree
-      "the power of the Secretary of State in London increased gradually but imperceptibly"
-[Synonyms]
-  - imperceptibly
-[Pertains to]
-  - unnoticeable

@@ -1,0 +1,25 @@
+term: white-chinned petrel
+[Definitions]
+  - (noun) large black petrel of southern seas having a white mark on the chin
+[Synonyms]
+  - Procellaria aequinoctialis
+[Is a kind of]
+  - petrel
+    - pelagic bird, oceanic bird
+      - seabird, sea bird, seafowl
+        - aquatic bird
+          - bird
+            - vertebrate, craniate
+              - chordate
+                - animal, animate being, beast, brute, creature, fauna
+                  - organism, being
+                    - living thing, animate thing
+                      - whole, unit
+                        - object, physical object
+                          - physical entity
+                            - entity
+                    - causal agent, cause, causal agency
+                      - physical entity
+                        - entity
+[Part of]
+  - Procellaria, genus Procellaria

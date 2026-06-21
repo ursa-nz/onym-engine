@@ -1,0 +1,22 @@
+term: Nabalus serpentarius
+[Definitions]
+  - (noun) common perennial herb widely distributed in the southern and eastern United States having drooping clusters of pinkish flowers and thick basal leaves suggesting a lion's foot in shape; sometimes placed in genus Prenanthes
+[Synonyms]
+  - lion's foot
+  - gall of the earth
+  - Prenanthes serpentaria
+[Is a kind of]
+  - herb, herbaceous plant
+    - vascular plant, tracheophyte
+      - plant, flora, plant life
+        - organism, being
+          - living thing, animate thing
+            - whole, unit
+              - object, physical object
+                - physical entity
+                  - entity
+          - causal agent, cause, causal agency
+            - physical entity
+              - entity
+[Part of]
+  - Nabalus, genus Nabalus

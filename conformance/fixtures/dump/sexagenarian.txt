@@ -1,0 +1,24 @@
+term: sexagenarian
+[Definitions]
+  - (noun) someone whose age is in the sixties
+  - (adjective) being from 60 to 69 years old
+      "the sexagenarian population is growing"
+[Antonyms]
+  - old (indirect)
+      -> young
+      -> immature
+[Similar to]
+  - old
+[Is a kind of]
+  - oldster, old person, senior citizen, golden ager
+    - adult, grownup
+      - person, individual, someone, somebody, mortal, soul
+        - organism, being
+          - living thing, animate thing
+            - whole, unit
+              - object, physical object
+                - physical entity
+                  - entity
+          - causal agent, cause, causal agency
+            - physical entity
+              - entity

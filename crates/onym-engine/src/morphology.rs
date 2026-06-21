@@ -22,7 +22,7 @@
 //! noun; code 0 has no exception file and no suffix rules, so it always yields nothing, exactly
 //! as the C library does.
 
-use crate::textforms::{ascii_lower, latin1_to_string};
+use crate::textforms::{ascii_lower, decode};
 use std::collections::HashMap;
 use std::fs;
 use std::path::Path;
@@ -78,9 +78,9 @@ impl Morphology {
             if !path.is_file() {
                 continue;
             }
-            // The exception files are ISO-8859-1, whitespace-separated: the inflected headword,
+            // The exception files are UTF-8, whitespace-separated: the inflected headword,
             // then its base forms. Lines starting with a space are skipped.
-            let text = latin1_to_string(&fs::read(path)?);
+            let text = decode(&fs::read(path)?);
             for line in text.lines() {
                 if line.is_empty() || line.starts_with(' ') {
                     continue;

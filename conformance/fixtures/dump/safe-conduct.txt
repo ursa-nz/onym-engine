@@ -1,0 +1,13 @@
+term: safe-conduct
+[Definitions]
+  - (noun) a document or escort providing safe passage through a region especially in time of war
+[Synonyms]
+  - safeguard
+[Is a kind of]
+  - pass, passport
+    - permission
+      - approval, commendation
+        - message, content, subject matter, substance
+          - communication
+            - abstraction, abstract entity
+              - entity

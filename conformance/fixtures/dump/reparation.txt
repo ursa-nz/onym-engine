@@ -1,0 +1,96 @@
+term: reparation
+[Definitions]
+  - (noun) compensation (given or received) for an insult or injury
+      "an act for which there is no reparation"
+  - (noun) (usually plural) compensation exacted from a defeated nation by the victors
+      "Germany was unable to pay the reparations demanded after World War I"
+  - (noun) the act of putting something in working order again
+  - (noun) something done or paid in expiation of a wrong
+      "how can I make amends"
+[Synonyms]
+  - repair
+  - fix
+  - fixing
+  - fixture
+  - mend
+  - mending
+  - amends
+[Derived forms]
+  - compensate
+  - recompense
+  - repair
+  - indemnify
+  - mend
+  - fix
+  - bushel
+  - doctor
+  - furbish up
+  - restore
+  - touch on
+  - rectify
+  - remediate
+  - remedy
+  - amend
+[Is a kind of]
+  - compensation
+    - recompense
+      - payment
+        - cost
+          - outgo, spending, expenditure, outlay
+            - transferred property, transferred possession
+              - possession
+                - relation
+                  - abstraction, abstract entity
+                    - entity
+  - improvement
+    - change of state
+      - change
+        - action
+          - act, deed, human action, human activity
+            - event
+              - abstraction, abstract entity
+                - entity
+  - expiation, atonement, propitiation
+    - redemption, salvation
+      - rescue, deliverance, delivery, saving
+        - recovery, retrieval
+          - act, deed, human action, human activity
+            - event
+              - abstraction, abstract entity
+                - entity
+[Kinds]
+  - darning
+  - patching
+  - care, maintenance, upkeep
+    - camera care
+    - car care
+      - oil change
+    - overhaul, inspection and repair, service
+      - interim overhaul
+    - pump priming
+    - scheduled maintenance
+    - steam fitting
+  - band aid, quick fix, quickie, quicky
+  - restoration
+    - re-establishment
+    - gentrification
+    - reclamation, renewal, rehabilitation
+      - reforestation, re-afforestation
+      - urban renewal
+    - rehabilitation
+      - correctional rehabilitation
+      - physical rehabilitation, physical restoration, therapeutic rehabilitation
+      - vocational rehabilitation
+    - reinstatement
+    - rejuvenation
+      - refreshment, recreation
+  - reconstruction
+    - makeover
+    - reassembly, refabrication
+      - anastylosis
+    - re-formation, regeneration
+    - rebuilding
+  - restitution
+[Domains]
+  - plural
+  - plural form

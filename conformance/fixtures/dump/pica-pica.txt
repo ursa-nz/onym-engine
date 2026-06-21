@@ -20,6 +20,9 @@ term: pica-pica
               - object, physical object
                 - physical entity
                   - entity
+          - causal agent, cause, causal agency
+            - physical entity
+              - entity
   - magpie
     - corvine bird
       - oscine, oscine bird
@@ -34,6 +37,9 @@ term: pica-pica
                         - object, physical object
                           - physical entity
                             - entity
+                    - causal agent, cause, causal agency
+                      - physical entity
+                        - entity
 [Part of]
   - Cnidoscolus, genus Cnidoscolus
     - Euphorbiaceae, family Euphorbiaceae, spurge family

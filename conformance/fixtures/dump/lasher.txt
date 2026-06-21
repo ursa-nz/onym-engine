@@ -1,0 +1,10 @@
+term: lasher
+[Definitions]
+  - (noun) a driver who urges the animals on with lashes of a whip
+[Is a kind of]
+  - driver
+    - worker
+      - actor, doer, worker
+        - causal agent, cause, causal agency
+          - physical entity
+            - entity

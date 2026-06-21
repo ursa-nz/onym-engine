@@ -1,0 +1,13 @@
+term: solar parallax
+[Definitions]
+  - (noun) the angle subtended by the mean equatorial radius of the Earth at a distance of one astronomical unit
+[Is a kind of]
+  - geocentric parallax, diurnal parallax
+    - parallax
+      - optical phenomenon
+        - physical phenomenon
+          - natural phenomenon
+            - phenomenon
+              - process, physical process
+                - physical entity
+                  - entity

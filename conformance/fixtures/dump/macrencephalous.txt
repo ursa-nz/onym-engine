@@ -1,0 +1,10 @@
+term: macrencephalous
+[Definitions]
+  - (adjective) having a large brain case
+[Synonyms]
+  - macrencephalic
+[Derived forms]
+  - macrencephaly
+[Pertains to]
+  - macrencephaly
+    - abnormality, abnormalcy

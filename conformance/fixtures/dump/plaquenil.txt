@@ -1,0 +1,22 @@
+term: Plaquenil
+[Definitions]
+  - (noun) anti-inflammatory drug (trade name Plaquenil) used in the treatment of rheumatoid arthritis and malaria and lupus erythematosus
+[Synonyms]
+  - hydroxychloroquine
+[Is a kind of]
+  - anti-inflammatory, anti-inflammatory drug
+    - medicine, medication, medicament, medicinal drug
+      - drug
+        - agent
+          - causal agent, cause, causal agency
+            - physical entity
+              - entity
+          - substance
+            - matter
+              - physical entity
+                - entity
+[Domains]
+  - trade name
+  - brand name
+  - brand
+  - marque

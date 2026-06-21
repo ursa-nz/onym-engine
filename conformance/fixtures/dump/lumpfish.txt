@@ -1,0 +1,36 @@
+term: lumpfish
+[Definitions]
+  - (noun) clumsy soft thick-bodied northern Atlantic fish with pelvic fins fused into a sucker; edible roe used for caviar
+[Synonyms]
+  - Cyclopterus lumpus
+[Is a kind of]
+  - scorpaenoid, scorpaenoid fish
+    - spiny-finned fish, acanthopterygian
+      - teleost fish, teleost, teleostan
+        - bony fish
+          - fish
+            - aquatic vertebrate
+              - vertebrate, craniate
+                - chordate
+                  - animal, animate being, beast, brute, creature, fauna
+                    - organism, being
+                      - living thing, animate thing
+                        - whole, unit
+                          - object, physical object
+                            - physical entity
+                              - entity
+                      - causal agent, cause, causal agency
+                        - physical entity
+                          - entity
+[Kinds]
+  - lumpsucker
+[Part of]
+  - Cyclopterus, genus Cyclopterus
+    - Cyclopteridae, family Cyclopteridae
+      - Scorpaenoidea, suborder Scorpaenoidea
+        - Acanthopterygii, superorder Acanthopterygii
+          - Teleostei, subclass Teleostei
+            - Osteichthyes, class Osteichthyes
+              - Vertebrata, subphylum Vertebrata, Craniata, subphylum Craniata
+                - Chordata, phylum Chordata
+                  - Animalia, kingdom Animalia, animal kingdom

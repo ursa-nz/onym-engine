@@ -1,0 +1,15 @@
+term: MRD
+[Definitions]
+  - (noun) a machine-readable version of a standard dictionary; organized alphabetically
+[Synonyms]
+  - machine readable dictionary
+  - electronic dictionary
+[Is a kind of]
+  - lexical database
+    - electronic database, on-line database, computer database, electronic information service
+      - database
+        - information, info
+          - message, content, subject matter, substance
+            - communication
+              - abstraction, abstract entity
+                - entity

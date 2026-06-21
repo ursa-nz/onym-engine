@@ -1,0 +1,30 @@
+term: order-Chenopodiales
+[Definitions]
+  - (noun) corresponds approximately to the older group Centrospermae
+[Synonyms]
+  - Caryophyllales
+  - order Caryophyllales
+  - Chenopodiales
+[Is a kind of]
+  - plant order
+    - order
+      - taxonomic group, taxonomic category, taxon
+        - biological group
+          - group, grouping
+            - abstraction, abstract entity
+              - entity
+[Part of]
+  - Caryophyllidae, subclass Caryophyllidae
+    - Dicotyledones, class Dicotyledones, Dicotyledonae, class Dicotyledonae, Magnoliopsida, class Magnoliopsida
+      - Angiospermae, class Angiospermae, Magnoliophyta, division Magnoliophyta, Anthophyta, division Anthophyta
+        - Spermatophyta, division Spermatophyta
+          - Plantae, kingdom Plantae, plant kingdom
+[Parts]
+  - Caryophyllaceae, family Caryophyllaceae, carnation family, pink family
+  - Aizoaceae, family Aizoaceae, Tetragoniaceae, family Tetragoniaceae, carpetweed family
+  - Amaranthaceae, family Amaranthaceae, amaranth family
+  - Batidaceae, family Batidaceae, saltwort family
+  - Chenopodiaceae, family Chenopodiaceae, goosefoot family
+  - Nyctaginaceae, family Nyctaginaceae, Allioniaceae, family Allioniaceae, four-o'clock family
+  - Phytolaccaceae, family Phytolaccaceae, pokeweed family
+  - Portulacaceae, family Portulacaceae, purslane family

@@ -1,0 +1,25 @@
+term: Daviesia
+[Definitions]
+  - (noun) genus of Australasian shrubs and subshrubs having small yellow or purple flowers followed by short triangular pods
+[Synonyms]
+  - genus Daviesia
+[Is a kind of]
+  - rosid dicot genus
+    - dicot genus, magnoliopsid genus
+      - genus
+        - taxonomic group, taxonomic category, taxon
+          - biological group
+            - group, grouping
+              - abstraction, abstract entity
+                - entity
+[Part of]
+  - Papilionoideae, subfamily Papilionoideae
+    - Leguminosae, family Leguminosae, Fabaceae, family Fabaceae, legume family, pea family
+      - Rosales, order Rosales
+        - Rosidae, subclass Rosidae
+          - Dicotyledones, class Dicotyledones, Dicotyledonae, class Dicotyledonae, Magnoliopsida, class Magnoliopsida
+            - Angiospermae, class Angiospermae, Magnoliophyta, division Magnoliophyta, Anthophyta, division Anthophyta
+              - Spermatophyta, division Spermatophyta
+                - Plantae, kingdom Plantae, plant kingdom
+[Parts]
+  - bitter pea

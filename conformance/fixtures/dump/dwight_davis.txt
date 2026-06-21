@@ -1,0 +1,21 @@
+term: Dwight Davis
+[Definitions]
+  - (noun) United States tennis player who donated the Davis Cup for international team tennis competition (1879-1945)
+[Synonyms]
+  - Dwight F. Davis
+  - Davis
+  - Dwight Filley Davis
+[Is a kind of]
+  - tennis player
+    - athlete, jock
+      - contestant
+        - actor, doer, worker
+          - causal agent, cause, causal agency
+            - physical entity
+              - entity
+    - player, participant
+      - contestant
+        - actor, doer, worker
+          - causal agent, cause, causal agency
+            - physical entity
+              - entity

@@ -1,0 +1,14 @@
+term: omicron
+[Definitions]
+  - (noun) the 15th letter of the Greek alphabet
+[Is a kind of]
+  - letter, letter of the alphabet, alphabetic character
+    - character, graph, grapheme, graphic symbol
+      - written symbol, printed symbol
+        - symbol
+          - signal, signaling, sign, signalling
+            - communication
+              - abstraction, abstract entity
+                - entity
+[Part of]
+  - Greek alphabet

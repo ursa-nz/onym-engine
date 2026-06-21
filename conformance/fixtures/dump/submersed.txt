@@ -1,0 +1,53 @@
+term: submersed
+[Definitions]
+  - (adjective) beneath the surface of the water
+      "submerged rocks"
+  - (adjective) growing or remaining under water
+      "viewing subaqueous fauna from a glass-bottomed boat"
+      "submerged leaves"
+  - (verb) sink below the surface; go under or as if under water
+  - (verb) put under water
+      "submerge your head completely"
+[Synonyms]
+  - submerge
+  - submerged
+  - underwater
+  - subaqueous
+  - subaquatic
+[Antonyms]
+  - surface (indirect)
+      -> overhead
+  - subsurface (indirect)
+      -> surface
+  - amphibious (indirect)
+      -> terrestrial
+  - aquatic (indirect)
+      -> amphibious
+[Derived forms]
+  - submergence
+  - submerging
+  - submersion
+  - immersion
+  - ducking
+  - dousing
+[Similar to]
+  - subsurface
+  - aquatic
+[Is a kind of]
+  - sink, settle, go down, go under
+    - descend, fall, go down, come down
+      - travel, go, move, locomote
+        - act, move
+  - immerse, plunge
+    - penetrate, perforate
+      - enter, come in, get into, get in, go into, go in, move into
+        - travel, go, move, locomote
+          - act, move
+[Kinds]
+  - dive
+    - belly-flop
+    - jackknife
+  - drown
+[Domains]
+  - biology
+  - biological science

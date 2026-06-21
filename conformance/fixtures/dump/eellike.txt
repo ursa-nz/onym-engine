@@ -1,0 +1,9 @@
+term: eellike
+[Definitions]
+  - (adjective) resembling an eel in being long and thin and sinuous
+[Antonyms]
+  - curved (indirect)
+      -> straight
+[Similar to]
+  - curved
+  - curving

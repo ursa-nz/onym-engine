@@ -1,0 +1,28 @@
+term: intercontinental ballistic missile
+[Definitions]
+  - (noun) a ballistic missile that is capable of traveling from one continent to another
+[Synonyms]
+  - ICBM
+[Is a kind of]
+  - ballistic missile
+    - missile
+      - rocket, projectile
+        - vehicle
+          - conveyance, transport
+            - instrumentality, instrumentation, means
+              - artifact, artefact
+                - whole, unit
+                  - object, physical object
+                    - physical entity
+                      - entity
+      - weapon, arm, weapon system
+        - instrument
+          - device
+            - instrumentality, instrumentation, means
+              - artifact, artefact
+                - whole, unit
+                  - object, physical object
+                    - physical entity
+                      - entity
+[Kinds]
+  - Minuteman

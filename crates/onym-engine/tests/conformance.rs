@@ -27,13 +27,13 @@ fn open_engine() -> Option<Engine> {
     Some(Engine::open(data_dir).expect("the WordNet database opens"))
 }
 
-fn latin1(bytes: &[u8]) -> String {
-    bytes.iter().map(|&b| b as char).collect()
+fn decode(bytes: &[u8]) -> String {
+    String::from_utf8_lossy(bytes).into_owned()
 }
 
 fn read_fixture(kind: &str, name: &str) -> String {
     let path = conformance_dir().join(format!("fixtures/{kind}/{}.txt", to_query_form(name)));
-    latin1(&fs::read(&path).unwrap_or_else(|_| panic!("fixture {} exists", path.display())))
+    decode(&fs::read(&path).unwrap_or_else(|_| panic!("fixture {} exists", path.display())))
 }
 
 /// Report the first differing line of one mismatching word, the way the Kotlin parity tests do,
@@ -57,7 +57,7 @@ fn first_diff(expected: &str, actual: &str) -> String {
 #[test]
 fn every_corpus_dump_matches_its_fixture() {
     let Some(engine) = open_engine() else { return };
-    let corpus = latin1(&fs::read(conformance_dir().join("corpus.txt")).expect("corpus reads"));
+    let corpus = decode(&fs::read(conformance_dir().join("corpus.txt")).expect("corpus reads"));
 
     let mut mismatches = Vec::new();
     let mut checked = 0;
@@ -93,7 +93,7 @@ fn every_completion_fixture_matches() {
         };
         // The fixture name is the query form of the prefix; the engine takes the typed form.
         let prefix = to_display_form(stem);
-        let expected = latin1(&fs::read(&path).expect("fixture reads"));
+        let expected = decode(&fs::read(&path).expect("fixture reads"));
         let actual: String = engine
             .complete(&prefix, 20)
             .iter()
@@ -120,7 +120,7 @@ fn every_suggestion_fixture_matches() {
             continue;
         };
         let word = to_display_form(stem);
-        let expected = latin1(&fs::read(&path).expect("fixture reads"));
+        let expected = decode(&fs::read(&path).expect("fixture reads"));
         let actual: String = engine
             .suggest(&word, 10)
             .iter()

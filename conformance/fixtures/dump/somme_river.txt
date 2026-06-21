@@ -1,0 +1,21 @@
+term: Somme River
+[Definitions]
+  - (noun) battle of World War II (1944)
+[Synonyms]
+  - Somme
+  - Battle of the Somme
+[Is a kind of]
+  - pitched battle
+    - battle, conflict, fight, engagement
+      - military action, action
+        - group action
+          - action
+            - act, deed, human action, human activity
+              - event
+                - abstraction, abstract entity
+                  - entity
+[Part of]
+  - World War II, World War 2, Second World War
+[Domains]
+  - France
+  - French Republic

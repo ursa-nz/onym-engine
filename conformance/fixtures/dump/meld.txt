@@ -1,0 +1,59 @@
+term: meld
+[Definitions]
+  - (verb) announce for a score; of cards in a card game
+  - (verb) lose its distinct outline or shape; blend gradually
+      "Hundreds of actors were melting into the scene"
+  - (verb) mix together different elements
+      "The colors blend well"
+  - (noun) a form of rummy using two decks of cards and four jokers; jokers and deuces are wild; the object is to form groups of the same rank
+[Synonyms]
+  - canasta
+  - basket rummy
+  - melt
+  - blend
+  - flux
+  - mix
+  - conflate
+  - commingle
+  - immix
+  - fuse
+  - coalesce
+  - combine
+  - merge
+[Derived forms]
+  - canasta
+  - basket rummy
+[Is a kind of]
+  - rummy, rum
+    - card game, cards
+      - game
+        - activity
+          - act, deed, human action, human activity
+            - event
+              - abstraction, abstract entity
+                - entity
+  - announce, denote
+    - inform
+      - communicate, intercommunicate
+        - interact
+          - act, move
+  - blend, flux, mix, conflate, commingle, immix, fuse, coalesce, combine, merge
+    - change integrity
+      - change
+        - act, move
+  - change integrity
+    - change
+      - act, move
+[Kinds]
+  - bolivia
+  - samba
+  - gauge
+  - absorb
+  - melt
+  - blend in, mix in
+    - cut in
+  - accrete, grow together
+  - conjugate
+  - admix
+  - alloy
+  - syncretize, syncretise

@@ -1,0 +1,23 @@
+term: weatherboard
+[Definitions]
+  - (noun) a long thin board with one edge thicker than the other; used as siding by lapping one board over the board below
+  - (noun) the side toward the wind
+[Synonyms]
+  - clapboard
+  - weatherboarding
+  - windward side
+  - weather side
+[Is a kind of]
+  - siding
+    - building material
+      - artifact, artefact
+        - whole, unit
+          - object, physical object
+            - physical entity
+              - entity
+  - windward
+    - direction
+      - position, spatial relation
+        - relation
+          - abstraction, abstract entity
+            - entity

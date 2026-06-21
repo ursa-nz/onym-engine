@@ -1,0 +1,49 @@
+term: stride
+[Definitions]
+  - (noun) a step in walking or running
+  - (noun) the distance covered by a step
+      "he stepped off ten paces from the old tree and began to dig"
+  - (noun) significant progress (especially in the phrase ‘make strides’)
+      "they made big strides in productivity"
+  - (verb) walk with long steps
+      "He strode confidently across the hall"
+[Synonyms]
+  - pace
+  - tread
+  - footstep
+  - step
+[Derived forms]
+  - footstep
+  - pace
+  - step
+  - tread
+  - strider
+[Is a kind of]
+  - step
+    - locomotion, travel
+      - motion, movement, move
+        - change
+          - action
+            - act, deed, human action, human activity
+              - event
+                - abstraction, abstract entity
+                  - entity
+  - indefinite quantity
+    - measure, quantity, amount
+      - abstraction, abstract entity
+        - entity
+  - advancement, progress
+    - development
+      - improvement
+        - change of state
+          - change
+            - action
+              - act, deed, human action, human activity
+                - event
+                  - abstraction, abstract entity
+                    - entity
+  - walk
+    - travel, go, move, locomote
+      - act, move
+[Part of]
+  - walk, walking

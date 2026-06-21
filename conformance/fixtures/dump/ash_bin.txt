@@ -12,7 +12,7 @@ term: ash bin
 [Is a kind of]
   - bin
     - container
-      - instrumentality, instrumentation
+      - instrumentality, instrumentation, means
         - artifact, artefact
           - whole, unit
             - object, physical object

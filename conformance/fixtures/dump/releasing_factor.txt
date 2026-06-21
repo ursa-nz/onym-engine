@@ -1,0 +1,33 @@
+term: releasing factor
+[Definitions]
+  - (noun) a substance produced by the hypothalamus that is capable of accelerating the secretion of a given hormone by the anterior pituitary gland
+  - (noun) any of several hormones produced in the hypothalamus and carried by a vein to the anterior pituitary gland where they stimulate the release of anterior pituitary hormones; each of these hormones causes the anterior pituitary to secrete a specific hormone
+[Synonyms]
+  - releasing hormone
+  - RF
+  - RH
+  - hypothalamic releasing hormone
+  - hypothalamic releasing factor
+[Is a kind of]
+  - factor
+    - cause
+      - origin, origination, inception
+        - beginning
+          - happening, occurrence, occurrent, natural event
+            - event
+              - abstraction, abstract entity
+                - entity
+  - hormone, endocrine, internal secretion
+    - secretion
+      - liquid body substance, bodily fluid, body fluid, humor, humour
+        - body substance
+          - substance
+            - matter
+              - physical entity
+                - entity
+            - part, portion, component part, component, constituent
+              - relation
+                - abstraction, abstract entity
+                  - entity
+[Kinds]
+  - growth hormone-releasing factor, GHRF

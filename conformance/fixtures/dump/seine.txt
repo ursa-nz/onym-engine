@@ -1,0 +1,35 @@
+term: seine
+[Definitions]
+  - (verb) fish with a seine; catch fish with a seine
+      "In the summer they like to go out and seine"
+  - (noun) a French river that flows through the heart of Paris and then northward into the English Channel
+  - (noun) a large fishnet that hangs vertically, with floats at the top and weights at the bottom
+[Synonyms]
+  - Seine River
+[Is a kind of]
+  - river
+    - stream, watercourse
+      - body of water, water
+        - thing
+          - physical entity
+            - entity
+  - fishnet, fishing net
+    - net
+      - trap
+        - device
+          - instrumentality, instrumentation, means
+            - artifact, artefact
+              - whole, unit
+                - object, physical object
+                  - physical entity
+                    - entity
+  - fish
+    - catch, grab
+      - seize, prehend, clutch, take hold, take hold of
+        - take, get hold of
+          - get, acquire
+            - act, move
+[Kinds]
+  - purse seine
+[Part of]
+  - France, French Republic

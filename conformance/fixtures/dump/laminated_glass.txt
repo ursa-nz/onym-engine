@@ -1,0 +1,12 @@
+term: laminated glass
+[Definitions]
+  - (noun) glass made with plates of plastic or resin or other material between two sheets of glass to prevent shattering
+[Synonyms]
+  - safety glass
+  - shatterproof glass
+[Is a kind of]
+  - glass
+    - solid
+      - matter
+        - physical entity
+          - entity

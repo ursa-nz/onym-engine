@@ -1,0 +1,15 @@
+term: genus Actiniopteris
+[Definitions]
+  - (noun) terrestrial ferns of tropical Asia and Africa
+[Synonyms]
+  - Actiniopteris
+[Is a kind of]
+  - fern genus
+    - genus
+      - taxonomic group, taxonomic category, taxon
+        - biological group
+          - group, grouping
+            - abstraction, abstract entity
+              - entity
+[Part of]
+  - Pteridaceae, family Pteridaceae

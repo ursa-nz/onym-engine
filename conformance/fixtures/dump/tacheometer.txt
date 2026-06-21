@@ -1,0 +1,31 @@
+term: tacheometer
+[Definitions]
+  - (noun) a theodolite designed for rapid measurements
+[Synonyms]
+  - tachymeter
+[Is a kind of]
+  - theodolite, transit
+    - surveying instrument, surveyor's instrument
+      - instrument
+        - device
+          - instrumentality, instrumentation, means
+            - artifact, artefact
+              - whole, unit
+                - object, physical object
+                  - physical entity
+                    - entity
+[Parts]
+  - theodolite, transit
+    - alidade, alidad
+    - surveying instrument, surveyor's instrument
+      - sights
+        - eyepiece, ocular
+          - reticle, reticule, graticule
+            - cross hair, cross wire
+      - instrument
+        - device
+          - instrumentality, instrumentation, means
+            - artifact, artefact
+              - whole, unit
+                - part, portion
+                - section, segment

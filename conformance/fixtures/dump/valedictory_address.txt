@@ -1,0 +1,15 @@
+term: valedictory address
+[Definitions]
+  - (noun) a farewell oration (especially one delivered during graduation exercises by an outstanding member of a graduating class)
+[Synonyms]
+  - valediction
+  - valedictory oration
+  - valedictory
+[Is a kind of]
+  - oratory
+    - address, speech
+      - speech act
+        - act, deed, human action, human activity
+          - event
+            - abstraction, abstract entity
+              - entity

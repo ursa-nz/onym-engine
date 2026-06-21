@@ -1,0 +1,13 @@
+term: manner of walking
+[Definitions]
+  - (noun) manner of walking
+      "he had a funny walk"
+[Synonyms]
+  - walk
+[Is a kind of]
+  - carriage, bearing, posture
+    - bodily property
+      - property
+        - attribute
+          - abstraction, abstract entity
+            - entity

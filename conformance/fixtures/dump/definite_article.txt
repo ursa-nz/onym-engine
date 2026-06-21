@@ -1,0 +1,13 @@
+term: definite article
+[Definitions]
+  - (noun) a determiner (as ‘the’ in English) that indicates specificity of reference
+[Is a kind of]
+  - article
+    - determiner, determinative
+      - function word, closed-class word
+        - word
+          - language unit, linguistic unit
+            - part, portion, component part, component, constituent
+              - relation
+                - abstraction, abstract entity
+                  - entity

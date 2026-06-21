@@ -1,0 +1,11 @@
+term: ribbonlike
+[Definitions]
+  - (adjective) long and thin; resembling a ribbon
+      "ribbonlike noodles"
+[Synonyms]
+  - ribbony
+[Antonyms]
+  - thin (indirect)
+      -> thick
+[Similar to]
+  - thin

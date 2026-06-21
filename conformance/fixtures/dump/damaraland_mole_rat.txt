@@ -1,0 +1,18 @@
+term: Damaraland mole rat
+[Definitions]
+  - (noun) colonial mole rat of western Africa; similar to naked mole rat
+[Is a kind of]
+  - fossorial mammal
+    - mammal, mammalian
+      - vertebrate, craniate
+        - chordate
+          - animal, animate being, beast, brute, creature, fauna
+            - organism, being
+              - living thing, animate thing
+                - whole, unit
+                  - object, physical object
+                    - physical entity
+                      - entity
+              - causal agent, cause, causal agency
+                - physical entity
+                  - entity

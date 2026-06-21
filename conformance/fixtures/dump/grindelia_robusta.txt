@@ -1,0 +1,17 @@
+term: Grindelia robusta
+[Definitions]
+  - (noun) perennial gumweed of California and Baja California
+[Is a kind of]
+  - gumweed, gum plant, tarweed, rosinweed
+    - herb, herbaceous plant
+      - vascular plant, tracheophyte
+        - plant, flora, plant life
+          - organism, being
+            - living thing, animate thing
+              - whole, unit
+                - object, physical object
+                  - physical entity
+                    - entity
+            - causal agent, cause, causal agency
+              - physical entity
+                - entity

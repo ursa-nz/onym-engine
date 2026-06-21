@@ -1,0 +1,23 @@
+term: Urex
+[Definitions]
+  - (noun) antibacterial agent (trade names Mandelamine and Urex) that is contained in many products that are used to treat urinary infections
+[Synonyms]
+  - methenamine
+  - Mandelamine
+[Is a kind of]
+  - antibacterial, antibacterial drug, bactericide
+    - medicine, medication, medicament, medicinal drug
+      - drug
+        - agent
+          - causal agent, cause, causal agency
+            - physical entity
+              - entity
+          - substance
+            - matter
+              - physical entity
+                - entity
+[Domains]
+  - trade name
+  - brand name
+  - brand
+  - marque

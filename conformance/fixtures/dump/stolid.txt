@@ -1,0 +1,24 @@
+term: stolid
+[Definitions]
+  - (adjective) having or revealing little emotion or sensibility; not easily aroused or excited
+      "her impassive remoteness"
+      "he remained impassive, showing neither interest in nor concern for our plight"
+      "a silent stolid creature who took it all as a matter of course"
+      "her face showed nothing but stolid indifference"
+[Synonyms]
+  - impassive
+[Antonyms]
+  - unemotional (indirect)
+      -> emotional
+[Derived forms]
+  - stoicism
+  - stolidity
+  - stolidness
+  - emotionlessness
+  - impassivity
+  - impassiveness
+  - phlegm
+  - indifference
+  - unemotionality
+[Similar to]
+  - unemotional

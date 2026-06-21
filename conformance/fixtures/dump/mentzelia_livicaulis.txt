@@ -1,0 +1,23 @@
+term: Mentzelia livicaulis
+[Definitions]
+  - (noun) biennial of southwestern United States having white stems and toothed leaves that is grown for its large pale yellow flowers that open in early morning
+[Synonyms]
+  - blazing star
+  - Mentzelia laevicaulis
+[Is a kind of]
+  - flower
+    - angiosperm, flowering plant
+      - spermatophyte, phanerogam, seed plant
+        - vascular plant, tracheophyte
+          - plant, flora, plant life
+            - organism, being
+              - living thing, animate thing
+                - whole, unit
+                  - object, physical object
+                    - physical entity
+                      - entity
+              - causal agent, cause, causal agency
+                - physical entity
+                  - entity
+[Part of]
+  - Mentzelia, genus Mentzelia

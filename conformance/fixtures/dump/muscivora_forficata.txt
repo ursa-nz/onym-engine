@@ -1,0 +1,26 @@
+term: Muscivora forficata
+[Definitions]
+  - (noun) grey flycatcher of the southwestern United States and Mexico and Central America having a long forked tail and white breast and salmon and scarlet markings
+[Synonyms]
+  - scissortail
+  - scissortailed flycatcher
+  - scissor-tailed flycatcher
+[Is a kind of]
+  - New World flycatcher, flycatcher, tyrant flycatcher, tyrant bird
+    - tyrannid
+      - passerine, passeriform bird
+        - bird
+          - vertebrate, craniate
+            - chordate
+              - animal, animate being, beast, brute, creature, fauna
+                - organism, being
+                  - living thing, animate thing
+                    - whole, unit
+                      - object, physical object
+                        - physical entity
+                          - entity
+                  - causal agent, cause, causal agency
+                    - physical entity
+                      - entity
+[Part of]
+  - Tyrannus, genus Tyrannus, Muscivora, genus Muscivora

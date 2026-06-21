@@ -1,0 +1,26 @@
+term: cross-pollination
+[Definitions]
+  - (noun) fertilization by transfer of pollen from the anthers of one flower to the stigma of another
+  - (noun) stimulating influence among diverse elements
+      "the cross-pollination of the arts"
+[Antonyms]
+  - self-pollination (direct)
+[Derived forms]
+  - pollinate
+  - pollenate
+  - cross-pollinate
+[Is a kind of]
+  - pollination, pollenation
+    - fertilization, fertilisation, fecundation, impregnation
+      - creation, conception
+        - beginning
+          - happening, occurrence, occurrent, natural event
+            - event
+              - abstraction, abstract entity
+                - entity
+  - influence
+    - causing, causation
+      - act, deed, human action, human activity
+        - event
+          - abstraction, abstract entity
+            - entity

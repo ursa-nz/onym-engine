@@ -7,8 +7,8 @@
 //! the engine is byte-for-byte what it was without it, so the overlay never alters WordNet
 //! behaviour; it only adds the Etymology section when a looked-up headword has an entry.
 //!
-//! The file is UTF-8, unlike the ISO-8859-1 WordNet database, because etymology prose carries the
-//! accented spellings of source languages. Each entry is one physical line, `lemma\tparagraph`
+//! The file is UTF-8, as the OEWN WordNet database now is, and carries the accented spellings of
+//! source languages in its etymology prose. Each entry is one physical line, `lemma\tparagraph`
 //! with further tab-separated paragraphs for a word with several etymologies (Wiktionary's
 //! "Etymology 1", "Etymology 2"). The lemma is WordNet query form: ASCII, lowercase, underscored,
 //! exactly an index key. A leading-space or `#` line is a header and is skipped, mirroring the

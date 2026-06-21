@@ -1,0 +1,24 @@
+term: boggle
+[Definitions]
+  - (verb) startle with amazement or fear
+  - (verb) hesitate when confronted with a problem, or when in doubt or fear
+  - (verb) overcome with amazement
+      "This boggles the mind!"
+[Synonyms]
+  - flabbergast
+  - bowl over
+[Is a kind of]
+  - startle, jump, start
+    - move
+      - act, move
+  - hesitate, waver, waffle
+    - hesitate, pause
+      - delay
+        - wait, hold off, hold back
+          - act, move
+  - surprise
+    - affect, impress, move, strike
+      - affect, impact, bear upon, bear on, touch on, touch
+        - change, alter, modify
+          - induce, stimulate, cause, have, get, make
+            - act, move

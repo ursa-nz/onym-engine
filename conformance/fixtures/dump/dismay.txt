@@ -1,0 +1,75 @@
+term: dismay
+[Definitions]
+  - (noun) the feeling of despair in the face of obstacles
+  - (noun) fear resulting from the awareness of danger
+  - (verb) lower someone's spirits; make downhearted
+      "These news depressed her"
+      "The bad state of her child's health demoralizes her"
+  - (verb) fill with apprehension or alarm; cause to be unpleasantly surprised
+      "I was horrified at the thought of being late for my interview"
+      "The news of the executions horrified us"
+[Synonyms]
+  - discouragement
+  - disheartenment
+  - alarm
+  - consternation
+  - depress
+  - deject
+  - cast down
+  - get down
+  - dispirit
+  - demoralize
+  - demoralise
+  - appal
+  - appall
+  - horrify
+[Derived forms]
+  - depress
+  - deject
+  - cast down
+  - get down
+  - dispirit
+  - demoralize
+  - demoralise
+  - alarm
+  - appal
+  - appall
+  - horrify
+  - discouragement
+  - disheartenment
+  - consternation
+[Attributes]
+  - alarming
+  - unalarming
+[Is a kind of]
+  - despair
+    - feeling
+      - state
+        - attribute
+          - abstraction, abstract entity
+            - entity
+  - fear, fearfulness, fright
+    - emotion
+      - feeling
+        - state
+          - attribute
+            - abstraction, abstract entity
+              - entity
+  - discourage
+    - change, alter, modify
+      - induce, stimulate, cause, have, get, make
+        - act, move
+  - frighten, fright, scare, affright
+    - stimulate, shake, shake up, excite, stir
+      - arouse, elicit, enkindle, kindle, evoke, fire, raise, provoke
+        - make, create
+          - induce, stimulate, cause, have, get, make
+            - act, move
+[Kinds]
+  - intimidation
+  - embitter, envenom, acerbate
+  - chill
+  - shock
+[Parts]
+  - fear, fearfulness, fright
+    - cold sweat

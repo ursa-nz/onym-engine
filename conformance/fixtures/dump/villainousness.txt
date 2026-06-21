@@ -1,0 +1,20 @@
+term: villainousness
+[Definitions]
+  - (noun) the quality of evil by virtue of villainous behavior
+[Synonyms]
+  - villainy
+[Derived forms]
+  - nefarious
+  - villainous
+[Is a kind of]
+  - evil, evilness
+    - immorality
+      - quality
+        - attribute
+          - abstraction, abstract entity
+            - entity
+    - bad, badness
+      - quality
+        - attribute
+          - abstraction, abstract entity
+            - entity

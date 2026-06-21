@@ -7,9 +7,10 @@
 //! allocation is reclaimed by exactly one matching `onym_core_*` free function, and fields the
 //! header documents as static are never freed.
 //!
-//! Strings cross the boundary as UTF-8. The WordNet database is ASCII, so the bytes equal what
-//! the dictionary files carry; queries arrive as whatever the application passes (GTK hands the
-//! engine UTF-8) and the engine normalises them itself.
+//! Strings cross the boundary as UTF-8, the encoding of the OEWN database and of every string the
+//! engine produces, so a result carries accented lemmas and glosses unchanged; queries arrive as
+//! whatever the application passes (GTK hands the engine UTF-8) and the engine normalises them
+//! itself.
 
 use onym_engine::{Antonym, Definition, Engine, Entry, SectionItems, TreeNode};
 use std::ffi::{CStr, CString, c_char, c_int};

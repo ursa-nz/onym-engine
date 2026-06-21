@@ -1,0 +1,11 @@
+term: syntony
+[Definitions]
+  - (noun) the state of being normally responsive to and in harmony with the environment.
+      "Syntony means resonance, to tune in or harmonize with each other, our surroundings, and the way in which we flow with them."
+[Is a kind of]
+  - psychological state, psychological condition, mental state, mental condition
+    - condition, status
+      - state
+        - attribute
+          - abstraction, abstract entity
+            - entity

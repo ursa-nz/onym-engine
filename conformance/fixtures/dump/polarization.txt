@@ -1,0 +1,44 @@
+term: polarization
+[Definitions]
+  - (noun) the phenomenon in which waves of light or other radiation are restricted in direction of vibration
+  - (noun) the condition of having or giving polarity
+[Synonyms]
+  - polarisation
+[Derived forms]
+  - polarize
+  - polarise
+[Is a kind of]
+  - optical phenomenon
+    - physical phenomenon
+      - natural phenomenon
+        - phenomenon
+          - process, physical process
+            - physical entity
+              - entity
+  - condition, status
+    - state
+      - attribute
+        - abstraction, abstract entity
+          - entity
+[Domains]
+  - American spelling
+  - American English spelling
+  - American English orthography
+  - US spelling
+  - US English spelling
+  - US English orthography
+  - British spelling
+  - British English spelling
+  - British English orthography
+  - Irish spelling
+  - Irish English spelling
+  - Irish English orthography
+  - New Zealand spelling
+  - New Zealand English spelling
+  - New Zealand English orthography
+  - Commonwealth spelling
+  - Commonwealth English spelling
+  - Commonwealth English orthography
+  - Australian spelling
+  - Australian English spelling
+  - Australian English orthography

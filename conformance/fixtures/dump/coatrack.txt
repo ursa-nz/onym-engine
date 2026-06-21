@@ -1,0 +1,26 @@
+term: coatrack
+[Definitions]
+  - (noun) a rack with hooks for temporarily holding coats and hats
+[Synonyms]
+  - coat rack
+  - hatrack
+[Is a kind of]
+  - rack, stand
+    - support
+      - device
+        - instrumentality, instrumentation, means
+          - artifact, artefact
+            - whole, unit
+              - object, physical object
+                - physical entity
+                  - entity
+[Parts]
+  - rack, stand
+    - spit
+    - support
+      - device
+        - instrumentality, instrumentation, means
+          - artifact, artefact
+            - whole, unit
+              - part, portion
+              - section, segment

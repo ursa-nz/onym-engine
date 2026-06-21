@@ -1,0 +1,22 @@
+term: Regalecidae
+[Definitions]
+  - (noun) oarfishes (Regalecidae)
+[Synonyms]
+  - family Regalecidae
+[Is a kind of]
+  - fish family
+    - family
+      - taxonomic group, taxonomic category, taxon
+        - biological group
+          - group, grouping
+            - abstraction, abstract entity
+              - entity
+[Part of]
+  - Malacopterygii, superorder Malacopterygii
+    - Teleostei, subclass Teleostei
+      - Osteichthyes, class Osteichthyes
+        - Vertebrata, subphylum Vertebrata, Craniata, subphylum Craniata
+          - Chordata, phylum Chordata
+            - Animalia, kingdom Animalia, animal kingdom
+[Parts]
+  - genus Regalecus, Regalecus

@@ -1,0 +1,18 @@
+term: beam scale
+[Definitions]
+  - (noun) a portable balance consisting of a pivoted bar with arms of unequal length
+[Synonyms]
+  - steelyard
+  - lever scale
+[Is a kind of]
+  - balance
+    - scale, weighing machine
+      - measuring instrument, measuring system, measuring device
+        - instrument
+          - device
+            - instrumentality, instrumentation, means
+              - artifact, artefact
+                - whole, unit
+                  - object, physical object
+                    - physical entity
+                      - entity

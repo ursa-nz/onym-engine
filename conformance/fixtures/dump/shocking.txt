@@ -1,0 +1,95 @@
+term: shocking
+[Definitions]
+  - (adjective) glaringly vivid and graphic; marked by sensationalism
+      "lurid details of the accident"
+  - (adjective) giving offense to moral sensibilities and injurious to reputation
+      "scandalous behavior"
+      "the wicked rascally shameful conduct of the bankrupt"
+      "the most shocking book of its time"
+  - (verb) surprise greatly; knock someone's socks off
+      "I was floored when I heard that I was promoted"
+  - (verb) strike with disgust or revulsion
+      "The scandalous behavior of this married woman shocked her friends"
+  - (verb) strike with horror or terror
+      "The news of the bombing shocked her"
+  - (verb) collide violently
+  - (verb) collect or gather into shocks
+      "shock grain"
+  - (verb) subject to electrical shocks
+  - (verb) inflict a trauma upon
+[Synonyms]
+  - floor
+  - ball over
+  - blow out of the water
+  - take aback
+  - offend
+  - scandalize
+  - scandalise
+  - appal
+  - appall
+  - outrage
+  - traumatize
+  - traumatise
+  - lurid
+  - disgraceful
+  - scandalous
+  - shameful
+[Antonyms]
+  - sensational (indirect)
+      -> unsensational
+  - immoral (indirect)
+      -> moral
+[Derived forms]
+  - blow
+  - daze
+  - stupor
+  - shocker
+  - impact
+  - electric shock
+  - electrical shock
+[Similar to]
+  - sensational
+  - immoral
+[Is a kind of]
+  - surprise
+    - affect, impress, move, strike
+      - affect, impact, bear upon, bear on, touch on, touch
+        - change, alter, modify
+          - induce, stimulate, cause, have, get, make
+            - act, move
+  - disgust, revolt, nauseate, sicken, churn up
+    - repel, repulse
+      - displease
+        - induce, stimulate, cause, have, get, make
+          - act, move
+  - dismay, alarm, appal, appall, horrify
+    - frighten, fright, scare, affright
+      - stimulate, shake, shake up, excite, stir
+        - arouse, elicit, enkindle, kindle, evoke, fire, raise, provoke
+          - make, create
+            - induce, stimulate, cause, have, get, make
+              - act, move
+  - collide, clash
+    - hit, strike, impinge on, run into, collide with
+      - touch
+        - act, move
+  - gather, garner, collect, pull together
+    - group
+      - classify, class, sort, assort, sort out, separate
+        - categorize, categorise
+          - reason
+            - think, cogitate, cerebrate
+              - act, move
+  - treat, care for
+    - treat, handle, do by
+      - interact
+        - act, move
+  - injure, wound
+    - hurt
+      - indispose
+        - change, alter, modify
+          - induce, stimulate, cause, have, get, make
+            - act, move
+[Kinds]
+  - startle, galvanize, galvanise
+  - galvanize, galvanise

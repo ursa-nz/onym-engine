@@ -1,0 +1,23 @@
+term: hyperlipidemia
+[Definitions]
+  - (noun) presence of excess lipids in the blood
+[Synonyms]
+  - lipemia
+  - lipaemia
+  - lipidemia
+  - lipidaemia
+  - lipoidemia
+  - lipoidaemia
+  - hyperlipemia
+  - hyperlipaemia
+  - hyperlipidaemia
+  - hyperlipoidemia
+  - hyperlipoidaemia
+[Is a kind of]
+  - symptom
+    - evidence, grounds
+      - information
+        - cognition, knowledge, noesis
+          - psychological feature
+            - abstraction, abstract entity
+              - entity

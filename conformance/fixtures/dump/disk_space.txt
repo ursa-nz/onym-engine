@@ -1,0 +1,19 @@
+term: disk space
+[Definitions]
+  - (noun) (computer science) the space available on a magnetic disk
+[Synonyms]
+  - disc space
+[Is a kind of]
+  - space
+    - area, country
+      - region
+        - location
+          - object, physical object
+            - physical entity
+              - entity
+[Kinds]
+  - disk overhead, overhead
+  - swap space, swap file
+[Domains]
+  - computer science
+  - computing

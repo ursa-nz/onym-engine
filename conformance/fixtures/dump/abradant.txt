@@ -1,0 +1,39 @@
+term: abradant
+[Definitions]
+  - (noun) a substance that abrades or wears down
+  - (noun) a tool or machine used for wearing down or smoothing or polishing
+[Synonyms]
+  - abrasive
+  - abrasive material
+  - abrader
+[Derived forms]
+  - abrade
+  - corrade
+  - abrase
+  - rub down
+  - rub off
+[Is a kind of]
+  - material, stuff
+    - substance
+      - matter
+        - physical entity
+          - entity
+      - part, portion, component part, component, constituent
+        - relation
+          - abstraction, abstract entity
+            - entity
+  - tool
+    - implement
+      - instrumentality, instrumentation, means
+        - artifact, artefact
+          - whole, unit
+            - object, physical object
+              - physical entity
+                - entity
+[Kinds]
+  - carborundum
+  - steel wool, wire wool
+  - emery cloth
+  - emery paper, sandpaper
+  - abrading stone
+  - steel-wool pad

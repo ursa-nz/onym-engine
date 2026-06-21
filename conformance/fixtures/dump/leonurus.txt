@@ -1,0 +1,24 @@
+term: Leonurus
+[Definitions]
+  - (noun) genus of stout Old World herbs having flowers in whorls
+[Synonyms]
+  - genus Leonurus
+[Is a kind of]
+  - asterid dicot genus
+    - dicot genus, magnoliopsid genus
+      - genus
+        - taxonomic group, taxonomic category, taxon
+          - biological group
+            - group, grouping
+              - abstraction, abstract entity
+                - entity
+[Part of]
+  - Labiatae, family Labiatae, Lamiaceae, family Lamiaceae, mint family
+    - Polemoniales, order Polemoniales
+      - Asteridae, subclass Asteridae
+        - Dicotyledones, class Dicotyledones, Dicotyledonae, class Dicotyledonae, Magnoliopsida, class Magnoliopsida
+          - Angiospermae, class Angiospermae, Magnoliophyta, division Magnoliophyta, Anthophyta, division Anthophyta
+            - Spermatophyta, division Spermatophyta
+              - Plantae, kingdom Plantae, plant kingdom
+[Parts]
+  - motherwort, Leonurus cardiaca

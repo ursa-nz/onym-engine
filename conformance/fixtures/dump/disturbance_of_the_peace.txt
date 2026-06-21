@@ -1,0 +1,18 @@
+term: disturbance of the peace
+[Definitions]
+  - (noun) any act of molesting, interrupting, hindering, agitating, or arousing from a state of repose or otherwise depriving inhabitants of the peace and quiet to which they are entitled
+[Synonyms]
+  - disorderly conduct
+  - disorderly behavior
+  - breach of the peace
+[Is a kind of]
+  - misdemeanor, misdemeanour, infraction, violation, infringement
+    - crime, criminal offense, criminal offence, law-breaking
+      - offense, offence
+        - transgression, evildoing
+          - wrongdoing, wrongful conduct, misconduct, actus reus
+            - activity
+              - act, deed, human action, human activity
+                - event
+                  - abstraction, abstract entity
+                    - entity

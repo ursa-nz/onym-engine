@@ -1,0 +1,11 @@
+term: amylolysis
+[Definitions]
+  - (noun) conversion of starch to sugar
+[Derived forms]
+  - amylolytic
+[Is a kind of]
+  - chemical process, chemical change, chemical action
+    - natural process, natural action, action, activity
+      - process, physical process
+        - physical entity
+          - entity

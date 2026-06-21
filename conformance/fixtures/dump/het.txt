@@ -1,0 +1,15 @@
+term: het
+[Definitions]
+  - (adjective) made warm or hot (‘het’ is a dialectal variant of ‘heated’)
+      "a heated swimming pool"
+      "wiped his heated-up face with a large bandana"
+      "he was all het up and sweaty"
+[Synonyms]
+  - heated
+  - heated up
+  - het up
+[Antonyms]
+  - hot (indirect)
+      -> cold
+[Similar to]
+  - hot

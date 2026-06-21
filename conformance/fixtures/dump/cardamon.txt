@@ -1,0 +1,74 @@
+term: cardamon
+[Definitions]
+  - (noun) rhizomatous herb of India having aromatic seeds used as seasoning
+  - (noun) aromatic seeds used as seasoning like cinnamon and cloves especially in pickles and barbecue sauces
+[Synonyms]
+  - cardamom
+  - Elettaria cardamomum
+  - cardamum
+[Is a kind of]
+  - herb, herbaceous plant
+    - vascular plant, tracheophyte
+      - plant, flora, plant life
+        - organism, being
+          - living thing, animate thing
+            - whole, unit
+              - object, physical object
+                - physical entity
+                  - entity
+          - causal agent, cause, causal agency
+            - physical entity
+              - entity
+  - flavorer, flavourer, flavoring, flavouring, seasoner, seasoning
+    - ingredient, fixings
+      - foodstuff, food product
+        - food, nutrient
+          - substance
+            - matter
+              - physical entity
+                - entity
+[Part of]
+  - Elettaria, genus Elettaria
+  - cardamom, Elettaria cardamomum
+[Parts]
+  - cardamom, cardamum
+  - herb, herbaceous plant
+    - vegetable, veggie, veg
+    - vascular plant, tracheophyte
+      - vascular system
+        - vessel, vas
+        - vascular tissue
+      - duct
+      - vascular tissue
+      - plant, flora, plant life
+        - hood, cap
+        - plant part, plant structure
+        - organism, being
+          - tissue
+          - cell
+            - cell membrane, cytomembrane, plasma membrane
+            - energid, protoplast
+            - cytoplasm, cytol
+              - cytoskeleton
+              - microsome
+              - Golgi body, Golgi apparatus, Golgi complex, dictyosome
+            - nucleus, cell nucleus, karyon
+              - nucleolus, nucleole
+              - chromatin, chromatin granule
+              - achromatin
+              - linin
+              - chromosome
+                - nucleolus organizer, nucleolus organiser, nucleolar organizer, nucleolar organiser
+                - chromatin, chromatin granule
+                - gene, cistron, factor
+                - chromatid
+                - centromere, kinetochore
+                - telomere
+            - organelle, cell organelle, cell organ
+            - vacuole
+          - body part
+            - corpus
+          - living thing, animate thing
+            - whole, unit
+              - part, portion
+              - section, segment

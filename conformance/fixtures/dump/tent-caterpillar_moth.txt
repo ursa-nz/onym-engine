@@ -1,0 +1,41 @@
+term: tent-caterpillar moth
+[Definitions]
+  - (noun) moth whose gregarious larvae spin webs resembling carpets
+  - (noun) moth whose larvae are tent caterpillars
+[Synonyms]
+  - Malacosoma disstria
+  - Malacosoma americana
+[Is a kind of]
+  - lasiocampid, lasiocampid moth
+    - moth
+      - lepidopterous insect, lepidopteron, lepidopteran
+        - insect
+          - arthropod
+            - invertebrate
+              - animal, animate being, beast, brute, creature, fauna
+                - organism, being
+                  - living thing, animate thing
+                    - whole, unit
+                      - object, physical object
+                        - physical entity
+                          - entity
+                  - causal agent, cause, causal agency
+                    - physical entity
+                      - entity
+  - moth
+    - lepidopterous insect, lepidopteron, lepidopteran
+      - insect
+        - arthropod
+          - invertebrate
+            - animal, animate being, beast, brute, creature, fauna
+              - organism, being
+                - living thing, animate thing
+                  - whole, unit
+                    - object, physical object
+                      - physical entity
+                        - entity
+                - causal agent, cause, causal agency
+                  - physical entity
+                    - entity
+[Part of]
+  - Malacosoma, genus Malacosoma

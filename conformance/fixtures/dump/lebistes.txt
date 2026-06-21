@@ -1,0 +1,22 @@
+term: Lebistes
+[Definitions]
+  - (noun) guppies
+[Synonyms]
+  - genus Lebistes
+[Is a kind of]
+  - fish genus
+    - genus
+      - taxonomic group, taxonomic category, taxon
+        - biological group
+          - group, grouping
+            - abstraction, abstract entity
+              - entity
+[Part of]
+  - Cyprinodontidae, family Cyprinodontidae
+    - Cypriniformes, order Cypriniformes
+      - Malacopterygii, superorder Malacopterygii
+        - Teleostei, subclass Teleostei
+          - Osteichthyes, class Osteichthyes
+            - Vertebrata, subphylum Vertebrata, Craniata, subphylum Craniata
+              - Chordata, phylum Chordata
+                - Animalia, kingdom Animalia, animal kingdom

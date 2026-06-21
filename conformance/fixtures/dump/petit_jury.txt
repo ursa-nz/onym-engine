@@ -1,0 +1,17 @@
+term: petit jury
+[Definitions]
+  - (noun) a jury of 12 to determine the facts and decide the issue in civil or criminal proceedings
+[Synonyms]
+  - petty jury
+[Is a kind of]
+  - jury
+    - body
+      - social group
+        - group, grouping
+          - abstraction, abstract entity
+            - entity
+[Parts]
+  - petit juror, petty juror
+[Domains]
+  - law
+  - jurisprudence

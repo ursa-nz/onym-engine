@@ -1,0 +1,272 @@
+term: pass along
+[Definitions]
+  - (verb) transmit information
+      "Please communicate this message to all employees"
+      "pass along the good news"
+[Synonyms]
+  - communicate
+  - pass on
+  - pass
+  - put across
+[Is a kind of]
+  - convey, transmit, communicate
+    - transfer
+      - move, displace
+        - change, alter, modify
+          - induce, stimulate, cause, have, get, make
+            - act, move
+[Kinds]
+  - resonate, come across
+    - strike a chord
+  - plant, implant
+  - send a message
+  - relay
+  - get across, put over
+  - request, ask for, bespeak, call for, quest
+    - beg
+      - schnorr, shnorr, scrounge, cadge
+      - panhandle
+    - claim, lay claim, arrogate
+      - pretend
+      - requisition
+      - arrogate, assign
+    - invite, ask over, ask round
+    - call
+    - ask out, ask, invite out, take out
+    - reserve, hold, book
+      - keep open, hold open, keep, save
+    - desire
+    - invite, ask in
+      - call in
+    - order
+      - commission
+      - reorder
+      - place
+      - call
+      - wish
+    - ask
+      - request
+        - order, tell, enjoin, say
+          - direct
+            - control, command
+              - hold one's own
+              - manage, deal, care, handle
+                - administer, administrate
+                  - pontificate
+                  - oversee, supervise, superintend, manage
+                    - build
+                - organize, organise
+                  - rationalize, rationalise
+                  - arrange, set up, put, order
+                    - synchronize, synchronise, contemporize, contemporise
+                    - phrase
+                  - territorialize, territorialise
+                  - reorganize, reorganise, shake up
+                    - retool, revise
+                  - collectivize, collectivise
+                - work
+                - come to grips, get to grips
+                - dispose of
+                - take care, mind
+                  - tend
+                    - stoke
+                - coordinate
+                - juggle
+                - process
+                - mismanage, mishandle, misconduct
+                - direct
+                  - hold, throw, have, make, give
+                  - guide, steer
+                  - head, lead
+                    - chair, chairman
+                    - captain
+                    - spearhead
+                    - take hold, take charge, take control
+                      - move in on
+                    - head, head up
+                  - operate, run
+                    - financier
+                    - work
+                    - block
+                    - warm up
+                  - administer
+                - conduct, carry on, deal
+                  - racketeer
+                - touch
+              - internationalize, internationalise
+              - hold
+                - trap, pin, immobilize, immobilise
+              - hold sway
+              - govern
+              - regiment
+              - monopolize, monopolise
+              - harness, rein in, draw rein, rein
+              - corner
+              - preside
+              - dominate, master
+                - subjugate, subject
+                  - dragoon
+                  - enslave
+                - command
+                  - general
+                  - officer
+              - charm, becharm
+                - hex, bewitch, glamour, witch, enchant, jinx
+                  - voodoo
+                  - spell
+              - govern, rule
+                - throne
+                - misgovern
+                - dictate
+                  - tyrannize, tyrannise, grind down
+                - reign
+              - call the shots, call the tune, wear the trousers
+              - preoccupy
+                - haunt, obsess, ghost
+                - prepossess
+              - steer, maneuver, manoeuver, manoeuvre, direct, point, head, guide, channelize, channelise
+                - dock
+                  - dry-dock, drydock
+                - sheer
+                - pull over
+                - helm
+                - crab
+                - navigate
+                - stand out
+                - starboard
+                - conn
+                - navigate, pilot
+                  - astrogate
+                - channel
+                - corner, tree
+                - park
+                  - angle-park
+                  - parallel-park
+                  - double-park
+              - steer
+            - stet
+          - instruct
+            - charge
+            - charge
+          - command, require
+            - charge, saddle, burden
+              - overburden
+              - bear down
+              - overwhelm, deluge, flood out
+              - adjure
+            - requisition
+            - forbid, prohibit, interdict, proscribe, veto, disallow, nix
+              - outlaw, criminalize, criminalise, illegalize, illegalise
+                - ban, censor
+                  - embargo
+              - ban
+              - bar, debar, exclude
+              - enjoin
+          - call, send for
+            - call up, mobilize, mobilise, rally
+            - summon, summons, cite
+              - vouch
+              - demand
+            - beep
+            - recall, call back
+            - call in
+            - lift
+            - muster
+            - hail
+            - summon
+              - page
+              - buzz
+              - convoke, convene
+              - beckon
+          - warn
+          - prescribe
+        - call
+          - arraign
+        - invite, bid
+          - tempt, allure
+          - challenge
+            - appeal
+            - action, sue, litigate, process
+              - expedite
+            - litigate
+            - provoke, stimulate
+              - agitate, foment, stir up
+                - rumpus
+              - entice, lure, tempt
+                - decoy
+                - bait
+                - hook, snare
+                - seduce
+                - call
+                - stool
+                - lead on
+                - tweedle
+              - rejuvenate
+              - jog
+              - incite, instigate, set off, stir up
+                - raise
+            - counterchallenge
+            - question, oppugn, call into question
+            - impeach
+            - impugn
+            - defy, dare
+              - brazen
+            - call one's bluff
+            - call out
+            - remit, remand, send back
+        - propose, declare oneself, offer, pop the question
+      - solicit
+    - encore
+    - petition
+      - supplicate
+    - demand
+      - want
+      - ask, require, expect
+        - call
+      - clamor, clamour
+      - dun
+      - ask
+    - appeal, invoke
+      - plead
+        - beg, implore, pray
+          - crave
+          - supplicate
+          - importune, insist
+            - besiege
+        - bid, beseech, entreat, adjure, press, conjure
+      - call on, turn
+    - supplicate
+    - apply
+      - put in, submit
+    - solicit, beg, tap
+      - canvass
+        - circularize
+      - lobby, buttonhole
+      - quest
+    - reserve
+      - book up
+    - challenge
+    - excuse, beg off
+    - demand
+    - claim
+      - demand, exact
+        - call, call in
+        - command
+      - counterclaim
+      - demand
+    - invite, call for
+  - telecommunicate
+    - call, telephone, call up, phone, ring
+      - cell phone
+      - call in
+    - telex
+    - cable, telegraph, wire
+    - fax, telefax, facsimile
+    - e-mail, email, netmail
+      - spam
+    - call
+  - acknowledge, receipt
+  - carry
+  - render, deliver, return
+  - message
+  - skype

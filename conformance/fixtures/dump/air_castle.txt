@@ -1,0 +1,20 @@
+term: air castle
+[Definitions]
+  - (noun) absentminded dreaming while awake
+[Synonyms]
+  - reverie
+  - revery
+  - daydream
+  - daydreaming
+  - oneirism
+  - castle in the air
+  - castle in Spain
+[Is a kind of]
+  - dream, dreaming
+    - imagination, imaginativeness, vision
+      - creativity, creativeness, creative thinking
+        - ability, power
+          - cognition, knowledge, noesis
+            - psychological feature
+              - abstraction, abstract entity
+                - entity

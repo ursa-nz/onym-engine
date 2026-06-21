@@ -1,0 +1,10 @@
+term: unlaureled
+[Definitions]
+  - (adjective) not crowned with laurel; having no acclaim or reward
+      "the unlaureled heroism of endurance"
+[Synonyms]
+  - unlaurelled
+[Antonyms]
+  - laureled (direct)
+      -> laurelled
+      -> crowned

@@ -1,0 +1,180 @@
+term: military operation
+[Definitions]
+  - (noun) activity by a military or naval force (as a maneuver or campaign)
+      "it was a joint operation of the navy and air force"
+[Synonyms]
+  - operation
+[Is a kind of]
+  - activity
+    - act, deed, human action, human activity
+      - event
+        - abstraction, abstract entity
+          - entity
+[Kinds]
+  - combined operation
+  - maneuver, manoeuvre, simulated military operation
+  - campaign, military campaign
+    - expedition, military expedition, hostile expedition
+      - Crusade
+        - First Crusade
+        - Second Crusade
+        - Third Crusade
+        - Fourth Crusade
+        - Fifth Crusade
+        - Sixth Crusade
+        - Seventh Crusade
+    - Gallipoli Campaign, Dardanelles, Dardanelles campaign
+    - Battle of Okinawa, Okinawa, Okinawa campaign
+    - Petersburg, Petersburg Campaign
+    - Overland Campaign, Wilderness Campaign
+  - naval campaign
+  - mission, military mission
+    - combat mission
+    - search mission
+    - search and destroy mission
+    - direct support
+  - support, reinforcement, reenforcement
+    - close support
+  - attack, onslaught, onset, onrush
+    - ground attack
+    - charge
+      - countercharge
+    - banzai attack, banzai charge
+    - diversion, diversionary attack
+      - diversionary landing
+    - penetration, incursion
+      - interpenetration
+      - breakthrough
+      - invasion
+        - inroad
+      - infiltration
+      - foray, raid, maraud
+        - air raid, air attack
+        - swoop
+    - blitz, blitzkrieg
+    - strike
+      - first strike
+      - surgical strike
+      - preventive strike, preventive attack
+    - counterattack, countermove
+      - riposte
+    - bombing, bombardment
+      - bombing run
+        - dive-bombing
+        - loft bombing, toss bombing
+          - over-the-shoulder bombing
+      - carpet bombing, area bombing, saturation bombing
+    - fire, firing
+      - antiaircraft fire
+      - barrage, barrage fire, battery, bombardment, shelling
+      - broadside
+      - fusillade, salvo, volley, burst
+      - call fire
+      - cover, covering fire
+      - concentrated fire, massed fire
+      - counterfire
+        - counterbattery fire
+        - counterbombardment
+        - countermortar fire
+      - counterpreparation fire
+      - crossfire
+      - destruction fire
+      - direct fire
+      - distributed fire
+      - friendly fire, fratricide
+      - hostile fire
+      - grazing fire
+      - harassing fire
+      - indirect fire
+      - interdiction fire
+      - neutralization fire
+      - observed fire
+      - preparation fire
+      - radar fire
+      - registration fire
+      - scheduled fire
+      - searching fire
+      - supporting fire
+        - close supporting fire
+        - deep supporting fire
+        - direct supporting fire
+      - suppressive fire
+      - unobserved fire
+      - artillery fire, cannon fire
+        - cannonade, drumfire
+        - high-angle fire
+        - mortar fire
+        - zone fire
+    - strafe
+    - surprise attack, coup de main
+      - terrorist attack
+        - September 11 attacks, 9/11, 9-11, September 11, Sept. 11, Sep 11
+      - ambush, ambuscade, lying in wait, trap
+        - dry-gulching
+      - pre-emptive strike
+  - offense, offence, offensive
+    - counteroffensive
+    - dirty war
+    - rollback, push back
+  - peacekeeping, peacekeeping mission, peacekeeping operation
+  - amphibious operation
+    - amphibious demonstration
+    - amphibious assault
+      - Battle of Eniwetok, Eniwetok
+      - Battle of Inchon, Inchon
+      - Battle of Iwo Jima, Iwo, Iwo Jima, invasion of Iwo
+      - Battle of Kwajalein, Kwajalein
+      - Battle of Leyte, Leyte, Leyte Island, Leyte invasion
+      - Saipan
+      - Salerno
+      - Battle of Tarawa, Tarawa, Makin, Tarawa-Makin
+      - Battle of Wake, Battle of Wake Island
+    - Dunkirk evacuation, Dunkirk, Dunkerque
+  - information gathering
+    - intelligence, intelligence activity, intelligence operation
+      - spying, undercover work
+        - espionage
+      - current intelligence
+      - tactical intelligence, combat intelligence
+        - terrain intelligence
+      - strategic intelligence
+      - signals intelligence, SIGINT
+        - electronics intelligence, ELINT
+        - communications intelligence, COMINT
+        - telemetry intelligence, TELINT
+      - clandestine operation
+        - exfiltration operation
+      - overt operation
+      - reconnaissance, reconnaissance mission
+        - recce, recco, reccy
+        - scouting, exploratory survey, reconnoitering, reconnoitring
+        - air reconnaissance
+        - reconnaissance by fire
+        - reconnaissance in force
+        - shufti
+        - electronic reconnaissance
+      - counterintelligence
+        - counterespionage
+        - security intelligence
+        - censoring, censorship, security review
+          - military censorship
+            - civil censorship
+            - field press censorship
+            - prisoner of war censorship
+            - armed forces censorship
+              - primary censorship
+              - secondary censorship
+          - national censorship
+        - countersubversion
+        - counter-sabotage
+  - psychological operation, psyop
+  - covert operation
+    - black operation
+  - Meuse-Argonne Offensive, Meuse, Meuse River, Argonne, Argonne Forest, Meuse-Argonne, Meuse-Argonne operation
+  - Operation Desert Storm
+[Domains]
+  - military
+  - armed forces
+  - armed services
+  - military machine
+  - war machine

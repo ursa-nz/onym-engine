@@ -1,0 +1,26 @@
+term: jumper stay
+[Definitions]
+  - (noun) an additional stay that limits the amount that the upper portion of the mast can bend, and thereby enables tension to be effectively transferred from the backstay to the forestay.
+      "Jumper stays were common in the first part of the 20th century."
+[Is a kind of]
+  - stay
+    - brace, bracing
+      - structural member
+        - support
+          - device
+            - instrumentality, instrumentation, means
+              - artifact, artefact
+                - whole, unit
+                  - object, physical object
+                    - physical entity
+                      - entity
+      - strengthener, reinforcement
+        - device
+          - instrumentality, instrumentation, means
+            - artifact, artefact
+              - whole, unit
+                - object, physical object
+                  - physical entity
+                    - entity
+[Part of]
+  - fractional rig

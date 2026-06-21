@@ -31,10 +31,6 @@ term: bear
   - (verb) have on one's person
       "He wore a red ribbon"
       "bear a scar"
-  - (verb) behave in a certain manner
-      "She carried herself well"
-      "he bore himself with dignity"
-      "They conducted themselves well during these difficult times"
   - (verb) have rightfully; of rights, titles, and offices
       "She bears the title of Duchess"
       "He held the governorship for almost a decade"
@@ -43,8 +39,17 @@ term: bear
       "He carried himself upright"
   - (verb) be pregnant with
       "She is bearing his child"
-      "The are expecting another child in January"
+      "They are expecting another child in January"
       "I am carrying his child"
+  - (verb) maintain (a theory, thoughts, or feelings)
+      "bear a grudge"
+      "entertain interesting notions"
+      "harbor a resentment"
+  - (verb) behave in a certain manner; show a certain behavior; conduct or comport oneself
+      "You should act like an adult"
+      "Don't behave like a fool"
+      "What makes her do this way?"
+      "The dog acts ferocious, but he is really afraid of people"
   - (noun) massive plantigrade carnivorous or omnivorous mammals with long shaggy coats and strong claws
   - (noun) an investor with a pessimistic market outlook; an investor who expects prices to fall and so sells now in order to buy later at a lower price
 [Etymology]
@@ -76,14 +81,20 @@ term: bear
   - yield
   - pay
   - wear
+  - have a bun in the oven
+  - gestate
+  - expect
+  - harbor
+  - harbour
+  - entertain
+  - nurse
+  - act
   - behave
+  - do
   - acquit
   - deport
   - conduct
   - comport
-  - have a bun in the oven
-  - gestate
-  - expect
 [Antonyms]
   - bull (direct)
 [Derived forms]
@@ -95,13 +106,13 @@ term: bear
   - bearer
   - toter
   - pallbearer
+  - holder
+  - carriage
   - bearing
+  - posture
   - comportment
   - presence
   - mien
-  - holder
-  - carriage
-  - posture
 [Entails]
   - conceive
   - move
@@ -119,38 +130,53 @@ term: bear
                     - object, physical object
                       - physical entity
                         - entity
+                - causal agent, cause, causal agency
+                  - physical entity
+                    - entity
   - investor
     - capitalist
-      - person, individual, someone, somebody, mortal, soul
-        - organism, being
-          - living thing, animate thing
-            - whole, unit
-              - object, physical object
-                - physical entity
-                  - entity
+      - actor, doer, worker
         - causal agent, cause, causal agency
           - physical entity
             - entity
   - have, feature
+    - have, have got, hold
   - produce, bring forth
     - make, create
+      - induce, stimulate, cause, have, get, make
+        - act, move
   - permit, allow, let, countenance
     - accept, consent, go for
       - react, respond
         - act, move
   - transport, carry
     - move, displace
+      - change, alter, modify
+        - induce, stimulate, cause, have, get, make
+          - act, move
   - make, create
+    - induce, stimulate, cause, have, get, make
+      - act, move
   - take
+    - act, move
   - include
+    - have, have got, hold
   - gain, take in, clear, make, earn, realize, realise, pull in, bring in
     - get, acquire
-  - hold, carry
-  - act, move
+      - act, move
   - have, have got, hold
+  - hold, support, sustain, hold up
+    - act, move
   - give birth, deliver, birth, have
     - produce, bring forth
       - make, create
+        - induce, stimulate, cause, have, get, make
+          - act, move
+  - feel, experience
+    - perceive, comprehend
+      - learn, hear, get word, get wind, pick up, find out, get a line, discover, see
+        - act, move
+  - act, move
 [Kinds]
   - bear cub
   - brown bear, bruin, Ursus arctos
@@ -160,8 +186,8 @@ term: bear
   - bruin
   - American black bear, black bear, Ursus americanus, Euarctos americanus
     - cinnamon bear
-  - Asiatic black bear, black bear, Ursus thibetanus, Selenarctos thibetanus
-  - ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus
+  - Asiatic black bear, black bear, Ursus thibetanus, Selenarctos thibetanus, Arcticonus thibetanus
+  - ice bear, polar bear, Ursus maritimus, Thalarctos maritimus
   - sloth bear, Melursus ursinus, Ursus ursinus
   - carry
   - twin
@@ -185,12 +211,12 @@ term: bear
   - pay
     - take one's lumps, get one's lumps
   - frogmarch
-  - spin off
   - seed
   - crop
   - overbear
   - fruit
-  - face the music, carry-the can
+  - spin off
+  - face the music, carry the can
   - retain
   - enclose, hold in, confine
     - bound, border
@@ -203,24 +229,72 @@ term: bear
     - frame
   - net, clear
   - pay off
-  - fluster
-  - assert, put forward
-  - deal
-  - walk around
-  - pose, posture
-    - attitudinize, attitudinise
   - sling
   - stoop
   - piggyback
   - poise, balance
     - juggle
-  - behave, acquit, deport, conduct, comport, carry
-    - fluster
-    - assert, put forward
-    - deal
-    - walk around
-    - pose, posture
-      - attitudinize, attitudinise
+  - dissemble, pretend, act
+    - simulate, assume, sham, feign
+      - play
+      - feint
+  - assert, put forward
+  - backslap
+  - deal
+  - hugger mugger
+  - walk around
+  - sauce
+  - pose, posture
+    - attitudinize, attitudinise
+  - footle
+  - observe, celebrate, keep
+    - commemorate, remember
+    - commemorate, mark
+    - solemnize, solemnise
+    - mourn
+  - frivol, trifle
+  - swell, puff up
+  - follow
+  - relax, loosen up
+  - break down, lose it, snap
+    - dissolve
+    - die
+    - fall apart, go to pieces
+  - fluster
+  - ramp, rage, storm
+  - work
+  - act involuntarily, act reflexively
+    - sneeze
+    - blink, wink, nictitate, nictate
+      - palpebrate
+      - bat, flutter
+    - fart, break wind
+    - salivate
+      - drivel, drool, slabber, slaver, slobber, dribble
+  - fall over backwards, bend over backwards
+  - presume
+  - vulgarize, vulgarise
+  - optimize, optimise
+  - quack
+  - menace
+  - make
+  - swagger, bluster, swash
+  - freeze
+  - wanton
+  - romanticize
+  - sentimentalise, sentimentalize, sentimentize, sentimentise
+  - bungle
+  - play, toy
+  - act, play, act as
+  - stooge
+  - joke, jest
+    - clown, clown around, antic
+  - piffle
+  - make as if
+  - wildin'
+  - spaz
+  - thug
+  - dally, dawdle
 [Part of]
   - Ursidae, family Ursidae
     - Carnivora, order Carnivora
@@ -232,3 +306,27 @@ term: bear
 [Domains]
   - investment
   - investment funds
+  - American spelling
+  - American English spelling
+  - American English orthography
+  - US spelling
+  - US English spelling
+  - US English orthography
+  - British spelling
+  - British English spelling
+  - British English orthography
+  - Irish spelling
+  - Irish English spelling
+  - Irish English orthography
+  - New Zealand spelling
+  - New Zealand English spelling
+  - New Zealand English orthography
+  - Commonwealth spelling
+  - Commonwealth English spelling
+  - Commonwealth English orthography
+  - Canadian spelling
+  - Canadian English spelling
+  - Canadian English orthography
+  - Australian spelling
+  - Australian English spelling
+  - Australian English orthography

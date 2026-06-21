@@ -1,0 +1,60 @@
+term: fragmentize
+[Definitions]
+  - (verb) break or cause to break into pieces
+      "The plate fragmented"
+[Synonyms]
+  - break up
+  - fragment
+  - fragmentise
+[Derived forms]
+  - fragment
+[Is a kind of]
+  - break, separate, split up, fall apart, come apart
+    - change integrity
+      - change
+        - act, move
+[Kinds]
+  - grate, grind
+    - chew, masticate, manducate, jaw
+      - chomp, champ
+      - champ
+      - mumble, gum
+      - chaw
+      - crunch, munch
+      - gnaw
+    - gnash
+  - atomize, atomise
+  - grind, mash, crunch, bray, comminute
+    - pulp
+    - pestle
+    - mill
+  - pound
+  - sunder
+  - splinter, sliver
+  - rag
+  - crumb
+  - brecciate
+  - crush
+    - bruise
+[Domains]
+  - American spelling
+  - American English spelling
+  - American English orthography
+  - US spelling
+  - US English spelling
+  - US English orthography
+  - British spelling
+  - British English spelling
+  - British English orthography
+  - Irish spelling
+  - Irish English spelling
+  - Irish English orthography
+  - New Zealand spelling
+  - New Zealand English spelling
+  - New Zealand English orthography
+  - Commonwealth spelling
+  - Commonwealth English spelling
+  - Commonwealth English orthography
+  - Australian spelling
+  - Australian English spelling
+  - Australian English orthography

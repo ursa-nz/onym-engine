@@ -1,0 +1,39 @@
+term: miosis
+[Definitions]
+  - (noun) (genetics) cell division that produces reproductive cells in sexually reproducing organisms; the nucleus divides into four nuclei each containing half the chromosome number (leading to gametes in animals and spores in plants)
+  - (noun) reflex contraction of the sphincter muscle of the iris in response to a bright light (or certain drugs) causing the pupil to become smaller
+[Synonyms]
+  - meiosis
+  - reduction division
+  - light reflex
+  - pupillary reflex
+  - myosis
+[Derived forms]
+  - miotic
+  - myotic
+[Is a kind of]
+  - cell division, cellular division
+    - organic process, biological process
+      - process, physical process
+        - physical entity
+          - entity
+  - reflex, reflex response, reflex action, instinctive reflex, innate reflex, inborn reflex, unconditioned reflex, physiological reaction
+    - reaction, response
+      - bodily process, body process, bodily function, activity
+        - organic process, biological process
+          - process, physical process
+            - physical entity
+              - entity
+[Kinds]
+  - nondisjunction
+[Parts]
+  - anaphase
+  - cytokinesis
+  - karyokinesis
+  - metaphase
+  - prophase
+  - segregation
+  - telophase
+[Domains]
+  - genetics
+  - genetic science

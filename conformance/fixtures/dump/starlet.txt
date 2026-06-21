@@ -1,0 +1,43 @@
+term: starlet
+[Definitions]
+  - (noun) a young (film) actress who is publicized as a future star
+  - (noun) a small star
+[Is a kind of]
+  - actress
+    - actor, histrion, player, thespian, role player
+      - performer, performing artist
+        - entertainer
+          - actor, doer, worker
+            - causal agent, cause, causal agency
+              - physical entity
+                - entity
+    - woman, adult female
+      - female, female person
+        - person, individual, someone, somebody, mortal, soul
+          - organism, being
+            - living thing, animate thing
+              - whole, unit
+                - object, physical object
+                  - physical entity
+                    - entity
+            - causal agent, cause, causal agency
+              - physical entity
+                - entity
+      - adult, grownup
+        - person, individual, someone, somebody, mortal, soul
+          - organism, being
+            - living thing, animate thing
+              - whole, unit
+                - object, physical object
+                  - physical entity
+                    - entity
+            - causal agent, cause, causal agency
+              - physical entity
+                - entity
+  - star
+    - celestial body, heavenly body
+      - natural object
+        - whole, unit
+          - object, physical object
+            - physical entity
+              - entity

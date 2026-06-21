@@ -1,0 +1,24 @@
+term: razorbacked hog
+[Definitions]
+  - (noun) a mongrel hog with a thin body and long legs and a ridged back; a wild or semi-wild descendant of improved breeds; found chiefly in the southeastern United States
+[Synonyms]
+  - razorback
+  - razorback hog
+[Is a kind of]
+  - swine
+    - even-toed ungulate, artiodactyl, artiodactyl mammal
+      - ungulate, hoofed mammal
+        - placental, placental mammal, eutherian, eutherian mammal
+          - mammal, mammalian
+            - vertebrate, craniate
+              - chordate
+                - animal, animate being, beast, brute, creature, fauna
+                  - organism, being
+                    - living thing, animate thing
+                      - whole, unit
+                        - object, physical object
+                          - physical entity
+                            - entity
+                    - causal agent, cause, causal agency
+                      - physical entity
+                        - entity

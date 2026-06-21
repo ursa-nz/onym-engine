@@ -1,0 +1,20 @@
+term: importune
+[Definitions]
+  - (verb) beg persistently and urgently
+      "I importune you to help them"
+[Synonyms]
+  - insist
+[Is a kind of]
+  - beg, implore, pray
+    - plead
+      - appeal, invoke
+        - request, ask for, bespeak, call for, quest
+          - communicate, pass on, pass, pass along, put across
+            - convey, transmit, communicate
+              - transfer
+                - move, displace
+                  - change, alter, modify
+                    - induce, stimulate, cause, have, get, make
+                      - act, move
+[Kinds]
+  - besiege

@@ -1,0 +1,43 @@
+term: roost
+[Definitions]
+  - (verb) sit, as on a branch
+      "The birds perched high in the tree"
+  - (verb) settle down or stay, as if on a roost
+  - (noun) a shelter with perches for fowl or other birds
+  - (noun) a perch on which domestic fowl rest or sleep
+[Synonyms]
+  - perch
+  - rest
+[Derived forms]
+  - perch
+  - rest
+[Is a kind of]
+  - shelter
+    - protective covering, protective cover, protection
+      - covering
+        - artifact, artefact
+          - whole, unit
+            - object, physical object
+              - physical entity
+                - entity
+  - perch
+    - support
+      - device
+        - instrumentality, instrumentation, means
+          - artifact, artefact
+            - whole, unit
+              - object, physical object
+                - physical entity
+                  - entity
+  - sit, sit down
+    - rest
+      - be
+        - exist, be
+  - settle, root, take root, steady down, settle down
+    - stabilize, stabilise
+      - change
+        - act, move
+[Kinds]
+  - henroost
+[Parts]
+  - perch

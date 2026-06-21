@@ -1,0 +1,24 @@
+term: Aristotelia serrata
+[Definitions]
+  - (noun) graceful deciduous shrub or small tree having attractive foliage and small red berries that turn black at maturity and are used for making wine
+[Synonyms]
+  - makomako
+  - New Zealand wine berry
+  - wineberry
+  - Aristotelia racemosa
+[Is a kind of]
+  - shrub, bush
+    - woody plant, ligneous plant
+      - vascular plant, tracheophyte
+        - plant, flora, plant life
+          - organism, being
+            - living thing, animate thing
+              - whole, unit
+                - object, physical object
+                  - physical entity
+                    - entity
+            - causal agent, cause, causal agency
+              - physical entity
+                - entity
+[Part of]
+  - Aristotelia, genus Aristotelia

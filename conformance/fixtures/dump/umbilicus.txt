@@ -1,0 +1,22 @@
+term: umbilicus
+[Definitions]
+  - (noun) a scar where the umbilical cord was attached
+      "you were not supposed to show your navel on television"
+      "they argued whether or not Adam had a navel"
+      "she had a tattoo just above her bellybutton"
+[Synonyms]
+  - navel
+  - bellybutton
+  - belly button
+  - omphalos
+  - omphalus
+[Derived forms]
+  - umbilical
+[Is a kind of]
+  - point
+    - location
+      - object, physical object
+        - physical entity
+          - entity
+[Part of]
+  - abdomen, venter, stomach, belly

@@ -3,7 +3,7 @@ term: child
   - (noun) a young person of either sex
       "she writes books for children"
       "they're just kids"
-      "`tiddler' is a British term for youngster"
+      "‘tiddler’ is a British term for youngster"
   - (noun) a human offspring (son or daughter) of any age
       "they had three children"
       "they were able to send their kids to college"
@@ -41,9 +41,9 @@ term: child
             - object, physical object
               - physical entity
                 - entity
-      - causal agent, cause, causal agency
-        - physical entity
-          - entity
+        - causal agent, cause, causal agency
+          - physical entity
+            - entity
   - offspring, progeny, issue
     - relative, relation
       - person, individual, someone, somebody, mortal, soul
@@ -53,9 +53,9 @@ term: child
               - object, physical object
                 - physical entity
                   - entity
-        - causal agent, cause, causal agency
-          - physical entity
-            - entity
+          - causal agent, cause, causal agency
+            - physical entity
+              - entity
   - person, individual, someone, somebody, mortal, soul
     - organism, being
       - living thing, animate thing
@@ -63,9 +63,9 @@ term: child
           - object, physical object
             - physical entity
               - entity
-    - causal agent, cause, causal agency
-      - physical entity
-        - entity
+      - causal agent, cause, causal agency
+        - physical entity
+          - entity
   - descendant, descendent
     - relative, relation
       - person, individual, someone, somebody, mortal, soul
@@ -75,20 +75,19 @@ term: child
               - object, physical object
                 - physical entity
                   - entity
-        - causal agent, cause, causal agency
-          - physical entity
-            - entity
+          - causal agent, cause, causal agency
+            - physical entity
+              - entity
 [Kinds]
   - bairn
   - buster
   - changeling
-  - child prodigy, infant prodigy, wonder child
   - foster-child, foster child, fosterling
     - foster-daughter, foster daughter
     - foster-son, foster son
   - imp, scamp, monkey, rascal, rapscallion, scalawag, scallywag
     - terror, brat, little terror, holy terror
-  - kiddy
+  - kiddy, kiddie
   - orphan
   - peanut
   - pickaninny, piccaninny, picaninny
@@ -113,7 +112,7 @@ term: child
     - godchild
       - goddaughter
       - godson
-    - neonate, newborn, newborn infant, newborn baby
+    - neonate, newborn
       - liveborn infant
       - low-birth-weight baby, low-birth-weight infant
       - postmature infant

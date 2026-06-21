@@ -1,0 +1,18 @@
+term: overcloud
+[Definitions]
+  - (verb) become covered with clouds
+      "The sky clouded over"
+  - (verb) make unintelligible or unclear
+      "The distinction was obscured"
+[Synonyms]
+  - cloud over
+  - cloud up
+  - obscure
+  - bedim
+[Is a kind of]
+  - darken
+    - change
+      - act, move
+  - change, alter, modify
+    - induce, stimulate, cause, have, get, make
+      - act, move

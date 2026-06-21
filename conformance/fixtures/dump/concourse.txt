@@ -1,0 +1,71 @@
+term: concourse
+[Definitions]
+  - (noun) a large gathering of people
+  - (noun) a wide hallway in a building where people can walk
+  - (noun) a coming together of people
+[Synonyms]
+  - multitude
+  - throng
+  - confluence
+[Is a kind of]
+  - gathering, assemblage
+    - social group
+      - group, grouping
+        - abstraction, abstract entity
+          - entity
+  - hallway, hall
+    - corridor
+      - passageway
+        - passage
+          - way
+            - artifact, artefact
+              - whole, unit
+                - object, physical object
+                  - physical entity
+                    - entity
+  - merging, meeting, coming together
+    - convergence, converging, convergency
+      - joining, connection, connexion
+        - change of integrity
+          - change
+            - action
+              - act, deed, human action, human activity
+                - event
+                  - abstraction, abstract entity
+                    - entity
+[Kinds]
+  - hive
+  - horde, host, legion
+  - ruck, herd
+[Parts]
+  - hallway, hall
+    - ceiling
+    - floor, flooring
+    - wall
+      - arch, archway
+      - capstone, copestone, coping stone, stretcher
+      - course, row
+      - doorway, door, room access, threshold
+        - casing, case
+        - door
+          - lock
+            - bolt, deadbolt
+            - keyhole
+            - tumbler
+        - doorframe, doorcase
+          - doorjamb, doorpost
+        - doorsill, doorstep, threshold
+      - header, coping, cope
+      - paneling, panelling, pane
+      - pier
+      - wainscot, dado
+      - wall panel
+    - corridor
+      - passageway
+        - passage
+          - way
+            - wayside, roadside
+            - artifact, artefact
+              - whole, unit
+                - part, portion
+                - section, segment

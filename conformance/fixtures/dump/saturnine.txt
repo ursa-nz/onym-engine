@@ -1,0 +1,30 @@
+term: saturnine
+[Definitions]
+  - (adjective) bitter or scornful
+      "the face was saturnine and swarthy, and the sensual lips … twisted with disdain"
+  - (adjective) showing a brooding ill humor
+      "a dark scowl"
+      "the proverbially dour New England Puritan"
+      "a glum, hopeless shrug"
+      "he sat in moody silence"
+      "a morose and unsociable manner"
+      "a saturnine, almost misanthropic young genius"
+      "a sour temper"
+      "a sullen crowd"
+[Synonyms]
+  - dark
+  - dour
+  - glowering
+  - glum
+  - moody
+  - morose
+  - sour
+  - sullen
+[Antonyms]
+  - sarcastic (indirect)
+      -> unsarcastic
+  - ill-natured (indirect)
+      -> good-natured
+[Similar to]
+  - sarcastic
+  - ill-natured

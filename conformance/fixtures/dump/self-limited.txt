@@ -1,9 +1,0 @@
-term: self-limited
-[Definitions]
-  - (adjective) relating to a disease that tends to run a definite course without treatment
-[Pertains to]
-  - terminus ad quem, terminal point, limit
-    - end, ending
-[Domains]
-  - medicine
-  - medical specialty

@@ -1,0 +1,22 @@
+term: nutmeg geranium
+[Definitions]
+  - (noun) geranium with round fragrant leaves and small white flowers
+[Synonyms]
+  - apple geranium
+  - Pelargonium odoratissimum
+[Is a kind of]
+  - geranium
+    - herb, herbaceous plant
+      - vascular plant, tracheophyte
+        - plant, flora, plant life
+          - organism, being
+            - living thing, animate thing
+              - whole, unit
+                - object, physical object
+                  - physical entity
+                    - entity
+            - causal agent, cause, causal agency
+              - physical entity
+                - entity
+[Part of]
+  - Pelargonium, genus Pelargonium

@@ -1,0 +1,27 @@
+term: Diospyros virginiana
+[Definitions]
+  - (noun) medium-sized tree of dry woodlands in the southern and eastern United States bearing yellow or orange very astringent fruit that is edible when fully ripe
+[Synonyms]
+  - American persimmon
+  - possumwood
+[Is a kind of]
+  - persimmon, persimmon tree
+    - fruit tree
+      - angiospermous tree, flowering tree
+        - tree
+          - woody plant, ligneous plant
+            - vascular plant, tracheophyte
+              - plant, flora, plant life
+                - organism, being
+                  - living thing, animate thing
+                    - whole, unit
+                      - object, physical object
+                        - physical entity
+                          - entity
+                  - causal agent, cause, causal agency
+                    - physical entity
+                      - entity
+[Part of]
+  - Diospyros, genus Diospyros
+[Parts]
+  - persimmon

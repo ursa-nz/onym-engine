@@ -1,0 +1,63 @@
+term: mock
+[Definitions]
+  - (verb) treat with contempt
+      "The new constitution mocks all democratic principles"
+  - (verb) imitate with mockery and derision
+      "The children mocked their handicapped classmate"
+  - (adjective) constituting a copy or imitation of something
+      "boys in mock battle"
+  - (noun) the act of mocking or ridiculing
+      "they made a mock of him"
+[Synonyms]
+  - bemock
+[Antonyms]
+  - counterfeit (indirect)
+      -> genuine
+      -> echt
+[Derived forms]
+  - scoffer
+  - flouter
+  - mocker
+  - jeerer
+  - jeer
+  - jeering
+  - mockery
+  - scoff
+  - scoffing
+[Similar to]
+  - counterfeit
+  - imitative
+[Is a kind of]
+  - derision, ridicule
+    - discourtesy, offense, offence, offensive activity
+      - behavior, behaviour, conduct, doings
+        - activity
+          - act, deed, human action, human activity
+            - event
+              - abstraction, abstract entity
+                - entity
+  - treat, handle, do by
+    - interact
+      - act, move
+  - imitate, copy, simulate
+    - reproduce
+      - produce, make, create
+        - make, create
+          - induce, stimulate, cause, have, get, make
+            - act, move
+[Kinds]
+  - tease, razz, rag, cod, tantalize, tantalise, bait, taunt, twit, rally, ride
+    - jeer, scoff, flout, barrack, gibe
+    - kid, chaff, jolly, josh, banter
+  - ridicule, roast, guy, blackguard, laugh at, jest at, rib, poke fun, make fun of
+    - tease
+    - satirize, satirise, lampoon
+    - debunk, expose
+      - unmask, uncloak
+    - stultify
+  - deride
+    - catcall
+  - caricature, ape
+  - impersonate
+  - spoof, burlesque, parody
+    - travesty

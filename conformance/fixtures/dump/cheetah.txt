@@ -1,0 +1,33 @@
+term: cheetah
+[Definitions]
+  - (noun) long-legged spotted cat of Africa and southwestern Asia having nonretractile claws; the swiftest mammal; can be trained to run down game
+[Synonyms]
+  - chetah
+  - Acinonyx jubatus
+[Is a kind of]
+  - big cat, cat
+    - feline, felid, cat
+      - carnivore
+        - placental, placental mammal, eutherian, eutherian mammal
+          - mammal, mammalian
+            - vertebrate, craniate
+              - chordate
+                - animal, animate being, beast, brute, creature, fauna
+                  - organism, being
+                    - living thing, animate thing
+                      - whole, unit
+                        - object, physical object
+                          - physical entity
+                            - entity
+                    - causal agent, cause, causal agency
+                      - physical entity
+                        - entity
+[Part of]
+  - Acinonyx, genus Acinonyx
+    - Felidae, family Felidae
+      - Carnivora, order Carnivora
+        - Eutheria, subclass Eutheria
+          - Mammalia, class Mammalia
+            - Vertebrata, subphylum Vertebrata, Craniata, subphylum Craniata
+              - Chordata, phylum Chordata
+                - Animalia, kingdom Animalia, animal kingdom

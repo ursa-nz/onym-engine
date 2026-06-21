@@ -9,6 +9,8 @@ serb
 serbia
 serbia and montenegro
 serbian
+serbian monetary unit
+serbianness
 serbo-croat
 serbo-croatian
 serdica
@@ -16,5 +18,3 @@ sere
 serenade
 serendipitous
 serendipity
-serene
-serenely

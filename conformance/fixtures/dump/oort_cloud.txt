@@ -1,0 +1,11 @@
+term: Oort cloud
+[Definitions]
+  - (noun) (astronomy) a hypothetical huge collection of comets orbiting the sun far beyond the orbit of Pluto; perturbations (as by other stars) can upset a comet's orbit and may send it tumbling toward the sun
+[Is a kind of]
+  - collection, aggregation, accumulation, assemblage
+    - group, grouping
+      - abstraction, abstract entity
+        - entity
+[Domains]
+  - astronomy
+  - uranology

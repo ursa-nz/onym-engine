@@ -1,0 +1,47 @@
+term: etymologize
+[Definitions]
+  - (verb) give the etymology or derivation or suggest an etymology (for a word)
+      "The linguist probably etymologized the words incorrectly"
+      "Although he is not trained in this, his hobby is etymologizing"
+  - (verb) construct the history of words
+[Synonyms]
+  - etymologise
+[Derived forms]
+  - etymology
+  - deriving
+  - derivation
+  - etymologizing
+[Is a kind of]
+  - derive, educe
+    - make, create
+      - induce, stimulate, cause, have, get, make
+        - act, move
+  - reconstruct, construct, retrace
+    - speculate, theorize, theorise, conjecture, hypothesize, hypothesise, hypothecate, suppose
+      - expect, anticipate
+        - evaluate, pass judgment, judge
+          - think, cogitate, cerebrate
+            - act, move
+[Domains]
+  - American spelling
+  - American English spelling
+  - American English orthography
+  - US spelling
+  - US English spelling
+  - US English orthography
+  - British spelling
+  - British English spelling
+  - British English orthography
+  - Irish spelling
+  - Irish English spelling
+  - Irish English orthography
+  - New Zealand spelling
+  - New Zealand English spelling
+  - New Zealand English orthography
+  - Commonwealth spelling
+  - Commonwealth English spelling
+  - Commonwealth English orthography
+  - Australian spelling
+  - Australian English spelling
+  - Australian English orthography
+  - linguistics

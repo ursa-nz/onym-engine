@@ -1,0 +1,14 @@
+term: prettiness
+[Definitions]
+  - (noun) the quality of being appealing in a delicate or graceful way (of a girl or young woman)
+[Synonyms]
+  - cuteness
+[Derived forms]
+  - pretty
+[Is a kind of]
+  - beauty
+    - appearance, visual aspect
+      - quality
+        - attribute
+          - abstraction, abstract entity
+            - entity

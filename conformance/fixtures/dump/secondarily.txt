@@ -1,9 +1,0 @@
-term: secondarily
-[Definitions]
-  - (adverb) of secondary import
-      "secondarily affected"
-[Antonyms]
-  - primarily (direct)
-      -> in the first place
-[Pertains to]
-  - secondary

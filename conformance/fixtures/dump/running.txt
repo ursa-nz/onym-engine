@@ -7,7 +7,7 @@ term: running
       "he broke into a run"
       "his daily run keeps him fit"
   - (noun) the state of being in operation
-      "the engine is running smoothly"
+      "a running engine"
   - (noun) the act of administering or being in charge of something
       "he has responsibility for the running of two companies at the same time"
   - (noun) the act of participating in an athletic competition involving running on a track
@@ -28,7 +28,7 @@ term: running
       "in running (or working) order"
       "a functional set of brakes"
   - (verb) move fast by using one's feet, with one foot off the ground at any given time
-      "Don't run--you'll be out of breath"
+      "Don't run — you'll be out of breath"
       "The children ran to the store"
   - (verb) flee; take to one's heels; cut and run
       "If you see this man, run!"
@@ -42,7 +42,7 @@ term: running
       "She is running a relief operation in the Sudan"
   - (verb) have a particular form
       "the story or argument runs as follows"
-      "as the saying goes..."
+      "as the saying goes …"
   - (verb) move along, of liquids
       "Water flowed into the cave"
       "the Missouri feeds into the Mississippi"
@@ -70,7 +70,7 @@ term: running
       "These dresses run small"
       "He inclined to corpulence"
   - (verb) be operating, running or functioning
-      "The car is still running--turn it off!"
+      "The car is still running — turn it off!"
   - (verb) change from one state to another
       "run amok"
       "run rogue"
@@ -94,7 +94,7 @@ term: running
       "We ran the ad three times"
       "This paper carries a restaurant review"
       "All major networks carried the press conference"
-  - (verb) carry out
+  - (verb) conduct to completion
       "run an errand"
   - (verb) pass over, across, or through
       "He ran his eyes over her body"
@@ -268,9 +268,8 @@ term: running
         - action
           - act, deed, human action, human activity
             - event
-              - psychological feature
-                - abstraction, abstract entity
-                  - entity
+              - abstraction, abstract entity
+                - entity
   - operation
     - action, activity, activeness
       - state
@@ -281,53 +280,81 @@ term: running
     - management, direction
       - social control
         - group action
-          - act, deed, human action, human activity
-            - event
-              - psychological feature
+          - action
+            - act, deed, human action, human activity
+              - event
                 - abstraction, abstract entity
                   - entity
-          - event
-            - psychological feature
-              - abstraction, abstract entity
-                - entity
   - track and field
     - sport, athletics
       - diversion, recreation
         - activity
           - act, deed, human action, human activity
             - event
-              - psychological feature
-                - abstraction, abstract entity
-                  - entity
+              - abstraction, abstract entity
+                - entity
   - travel rapidly, speed, hurry, zip
     - travel, go, move, locomote
+      - act, move
   - leave, go forth, go away
+    - travel, go, move, locomote
+      - act, move
   - be
+    - exist, be
   - direct
     - manage, deal, care, handle
       - control, command
+        - direct
+          - order, tell, enjoin, say
+            - request
+              - ask
+                - request, ask for, bespeak, call for, quest
+                  - communicate, pass on, pass, pass along, put across
+                    - convey, transmit, communicate
+                      - transfer
+                        - move, displace
+                          - change, alter, modify
+                            - induce, stimulate, cause, have, get, make
+                              - act, move
   - move
+    - act, move
+  - perform, execute, do
+    - act, move
   - race
     - compete, vie, contend
+      - act, move
+  - get down, begin, get, start out, start, set about, set out, commence
+    - act, move
   - travel, go, move, locomote
+    - act, move
   - function, work, operate, go
+    - perform, execute, do
+      - act, move
   - become, go, get
     - change state, turn
       - change
+        - act, move
   - process, treat
     - affect, impact, bear upon, bear on, touch on, touch
       - change, alter, modify
+        - induce, stimulate, cause, have, get, make
+          - act, move
   - incur
     - subject
       - affect, impact, bear upon, bear on, touch on, touch
         - change, alter, modify
+          - induce, stimulate, cause, have, get, make
+            - act, move
   - continue
-    - be
+    - exist, be
   - occur
     - appear, come along
+      - change
+        - act, move
   - enforce, implement, apply
     - compel, oblige, obligate
       - induce, stimulate, cause, have, get, make
+        - act, move
   - circulate, circularize, circularise, distribute, disseminate, propagate, broadcast, spread, diffuse, disperse, pass around
     - publicize, publicise, air, bare
       - tell
@@ -339,42 +366,72 @@ term: running
     - complete, finish
       - end, terminate
         - change, alter, modify
+          - induce, stimulate, cause, have, get, make
+            - act, move
     - effect, effectuate, set up
       - cause, do, make
         - make, create
+          - induce, stimulate, cause, have, get, make
+            - act, move
   - pass, make pass
+    - induce, stimulate, cause, have, get, make
+      - act, move
   - succeed, win, come through, bring home the bacon, deliver the goods
+    - act, move
   - trade, merchandise
+    - act, move
   - move, displace
+    - change, alter, modify
+      - induce, stimulate, cause, have, get, make
+        - act, move
   - diffuse, spread, spread out, fan out
     - spread, distribute
+      - move, displace
+        - change, alter, modify
+          - induce, stimulate, cause, have, get, make
+            - act, move
   - sail
     - boat
       - ride
         - travel
           - travel, go, move, locomote
-  - pass, go through, go across
+            - act, move
+  - pass
     - travel, go, move, locomote
+      - act, move
   - last, endure
     - measure
       - be
+        - refer, pertain, relate, concern, come to, bear on, touch, touch on, have to do with
   - free, liberate, release, unloose, unloosen, loose
+    - change, alter, modify
+      - induce, stimulate, cause, have, get, make
+        - act, move
   - accompany
     - travel, go, move, locomote
+      - act, move
   - travel, trip, jaunt
+    - travel, go, move, locomote
+      - act, move
   - capture, catch
     - get, acquire
+      - act, move
   - compete, vie, contend
+    - act, move
   - change
+    - act, move
   - dissolve, resolve, break up
     - change integrity
       - change
+        - act, move
   - break, separate, split up, fall apart, come apart
     - change integrity
       - change
+        - act, move
   - disintegrate
     - change integrity
       - change
+        - act, move
 [Kinds]
   - draw, draw play
   - end run, sweep
@@ -399,32 +456,43 @@ term: running
   - rush
   - hare
   - flee, fly, take flight
+    - defect, desert
+      - rat
     - break
     - stampede
     - abscond, bolt, absquatulate, decamp, run off, go off, make off
       - levant
     - elope, run off
     - escape, get away, break loose
+      - escape, get away
       - break, break out, break away
       - shake, shake off, throw off, escape from
       - elude, evade, bilk
+      - exfiltrate
       - slip
       - run away
-      - escape, get away
-    - high-tail
-    - defect, desert
-      - rat
+    - high-tail, hightail
   - skedaddle
   - come
   - radiate, ray
+  - diverge
+    - divaricate
+    - bifurcate
   - go far, go deep
+  - wind, twist, curve
+    - circumvolute
+    - spiral
+    - snake
+  - underrun
   - financier
   - work
   - block
   - warm up
+  - range
+    - carry
+  - jet, gush
   - flush
     - wash down, flush down
-  - jet, gush
   - tide, surge
   - circulate
     - ventilate
@@ -449,18 +517,20 @@ term: running
   - drain, run out
   - seep, ooze
   - gutter
+  - service, serve
   - double
   - roll
   - cut
-  - service, serve
+  - drive, ride
+  - cross-file, register
+    - slate
   - stump
   - rerun
   - whistlestop
-  - cross-file, register
-    - slate
   - take kindly to
   - suffer
   - gravitate
+  - idle, tick over
   - carry over
   - reverberate
   - step
@@ -489,6 +559,8 @@ term: running
     - grate
   - thread
   - crock
+  - scrounge, forage
+    - rustle
   - snipe
   - whale
   - still-hunt, ambush
@@ -505,19 +577,17 @@ term: running
   - jacklight, jack
   - hawk
   - falcon
-  - scrounge, forage
-    - rustle
   - show
   - place
   - boat-race
   - horse-race
     - jockey
   - campaign
+    - cross-file, register
+      - slate
     - stump
     - rerun
     - whistlestop
-    - cross-file, register
-      - slate
   - speed skate
   - fuse
   - try, render
@@ -529,10 +599,8 @@ term: running
   - sport
   - athletics
   - crime
-  - offense
   - criminal offense
   - criminal offence
-  - offence
   - law-breaking
   - football
   - football game

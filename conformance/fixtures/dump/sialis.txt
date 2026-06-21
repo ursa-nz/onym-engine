@@ -1,0 +1,22 @@
+term: Sialis
+[Definitions]
+  - (noun) type genus of the Sialidae
+[Synonyms]
+  - genus Sialis
+[Is a kind of]
+  - arthropod genus
+    - genus
+      - taxonomic group, taxonomic category, taxon
+        - biological group
+          - group, grouping
+            - abstraction, abstract entity
+              - entity
+[Part of]
+  - Sialidae, family Sialidae
+    - Megaloptera, suborder Megaloptera
+      - Neuroptera, order Neuroptera
+        - Insecta, class Insecta, Hexapoda, class Hexapoda
+          - Arthropoda, phylum Arthropoda
+            - Animalia, kingdom Animalia, animal kingdom
+[Parts]
+  - alderfly, alder fly, Sialis lutaria

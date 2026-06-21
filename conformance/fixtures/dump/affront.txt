@@ -1,0 +1,34 @@
+term: affront
+[Definitions]
+  - (noun) a deliberately offensive act or something producing the effect of deliberate disrespect
+      "turning his back on me was a deliberate insult"
+  - (verb) treat, mention, or speak to rudely
+      "He insulted her with his rude remarks"
+      "the student who had betrayed his classmate was dissed by everyone"
+[Synonyms]
+  - insult
+  - diss
+[Derived forms]
+  - diss
+  - insult
+[Is a kind of]
+  - discourtesy, offense, offence, offensive activity
+    - behavior, behaviour, conduct, doings
+      - activity
+        - act, deed, human action, human activity
+          - event
+            - abstraction, abstract entity
+              - entity
+  - hurt, wound, injure, bruise, offend, spite
+    - arouse, elicit, enkindle, kindle, evoke, fire, raise, provoke
+      - make, create
+        - induce, stimulate, cause, have, get, make
+          - act, move
+[Kinds]
+  - indignity
+  - scandalization, scandalisation, outrage
+[Domains]
+  - sexual activity
+  - sexual practice
+  - sex
+  - sex activity

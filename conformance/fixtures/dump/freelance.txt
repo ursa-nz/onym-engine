@@ -1,0 +1,37 @@
+term: freelance
+[Definitions]
+  - (adjective) working for yourself
+  - (adjective) serving for wages in a foreign army
+      "mercenary killers"
+  - (noun) a writer or artist who sells services to different employers without a long-term contract with any of them
+  - (verb) work independently and on temporary contracts rather than for a long-term employer
+[Synonyms]
+  - freelancer
+  - free-lance
+  - free lance
+  - independent
+  - self-employed person
+  - self-employed
+  - mercenary
+[Antonyms]
+  - salaried (direct)
+  - paid (indirect)
+      -> unpaid
+[Derived forms]
+  - freelancer
+  - free-lance
+  - free lance
+  - independent
+  - self-employed person
+  - self-employed
+[Similar to]
+  - paid
+[Is a kind of]
+  - worker
+    - actor, doer, worker
+      - causal agent, cause, causal agency
+        - physical entity
+          - entity
+  - work, do work
+    - exert
+      - act, move

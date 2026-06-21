@@ -1,0 +1,30 @@
+term: viridity
+[Definitions]
+  - (noun) green color or pigment; resembling the color of growing grass
+[Synonyms]
+  - green
+  - greenness
+[Is a kind of]
+  - chromatic color, chromatic colour, spectral color, spectral colour
+    - color, colour, coloring, colouring
+      - visual property
+        - property
+          - attribute
+            - abstraction, abstract entity
+              - entity
+[Kinds]
+  - greenishness
+  - sea green
+  - sage green
+  - bottle green
+  - chrome green
+  - emerald
+  - olive green, olive-green
+  - yellow green, yellowish green, chartreuse, Paris green, pea green
+  - bluish green, blue green, teal
+    - cyan
+  - jade green, jade
+  - pistachio green
+[Parts]
+  - chromatic color, chromatic colour, spectral color, spectral colour
+    - saturation, chroma, intensity, vividness

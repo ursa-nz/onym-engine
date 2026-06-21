@@ -1,0 +1,17 @@
+term: keynesian
+[Definitions]
+  - (adjective) of or relating to John Maynard Keynes or to his economic theories
+  - (noun) a follower of the economic theories of John Maynard Keynes
+[Derived forms]
+  - Keynes
+  - John Maynard Keynes
+[Pertains to]
+  - Keynesianism
+    - economic theory
+  - Keynes, John Maynard Keynes
+[Is a kind of]
+  - follower
+    - actor, doer, worker
+      - causal agent, cause, causal agency
+        - physical entity
+          - entity

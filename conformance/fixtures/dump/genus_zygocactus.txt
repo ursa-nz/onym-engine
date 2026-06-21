@@ -1,0 +1,18 @@
+term: genus Zygocactus
+[Definitions]
+  - (noun) small genus of Brazilian cacti having flat fleshy usually branched joints and showy red or pink flowers followed by red fleshy fruits
+[Synonyms]
+  - Zygocactus
+[Is a kind of]
+  - caryophylloid dicot genus
+    - dicot genus, magnoliopsid genus
+      - genus
+        - taxonomic group, taxonomic category, taxon
+          - biological group
+            - group, grouping
+              - abstraction, abstract entity
+                - entity
+[Part of]
+  - Cactaceae, family Cactaceae, cactus family
+[Parts]
+  - crab cactus, Thanksgiving cactus, Zygocactus truncatus, Schlumbergera truncatus

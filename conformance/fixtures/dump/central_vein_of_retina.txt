@@ -1,0 +1,16 @@
+term: central vein of retina
+[Definitions]
+  - (noun) vein formed by the union of the retinal veins; accompanies central arteries of the retina in the optic nerve
+[Synonyms]
+  - vena centralis retinae
+[Is a kind of]
+  - vein, vena, venous blood vessel
+    - blood vessel
+      - vessel, vas
+        - tube, tube-shaped structure
+          - structure, anatomical structure, complex body part, bodily structure, body structure
+            - body part
+              - part, piece
+                - thing
+                  - physical entity
+                    - entity

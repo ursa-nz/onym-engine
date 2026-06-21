@@ -1,0 +1,18 @@
+term: bank vault
+[Definitions]
+  - (noun) a strongroom or compartment (often made of steel) for safekeeping of valuables
+[Synonyms]
+  - vault
+[Is a kind of]
+  - strongroom
+    - storeroom, storage room, stowage
+      - room
+        - area
+          - structure, construction
+            - artifact, artefact
+              - whole, unit
+                - object, physical object
+                  - physical entity
+                    - entity
+[Part of]
+  - bank, bank building

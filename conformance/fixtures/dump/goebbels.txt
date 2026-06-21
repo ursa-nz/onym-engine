@@ -1,0 +1,20 @@
+term: Goebbels
+[Definitions]
+  - (noun) German propaganda minister in Nazi Germany who persecuted the Jews (1897-1945)
+[Synonyms]
+  - Joseph Goebbels
+  - Paul Joseph Goebbels
+[Is a kind of]
+  - Nazi, German Nazi
+    - fascist
+      - advocate, advocator, proponent, exponent
+        - actor, doer, worker
+          - causal agent, cause, causal agency
+            - physical entity
+              - entity
+  - propagandist
+    - communicator
+      - actor, doer, worker
+        - causal agent, cause, causal agency
+          - physical entity
+            - entity

@@ -1,0 +1,14 @@
+term: Negroid race
+[Definitions]
+  - (noun) a dark-skinned race
+[Synonyms]
+  - Black race
+  - Negro race
+[Is a kind of]
+  - race
+    - group, grouping
+      - abstraction, abstract entity
+        - entity
+[Parts]
+  - Black person, blackamoor
+  - Black, African-American, Negro, Negroid

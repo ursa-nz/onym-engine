@@ -1,0 +1,31 @@
+term: lingual
+[Definitions]
+  - (adjective) consisting of or related to language
+      "linguistic behavior"
+      "a linguistic atlas"
+      "lingual diversity"
+  - (adjective) pertaining to or resembling or lying near the tongue
+      "lingual inflammation"
+      "the lingual surface of the teeth"
+  - (noun) a consonant that is produced with the tongue and other speech organs
+[Synonyms]
+  - linguistic
+[Derived forms]
+  - tongue
+  - lingua
+  - glossa
+  - clapper
+[Pertains to]
+  - language, linguistic communication
+    - communication
+  - tongue, lingua, glossa, clapper
+    - organ
+    - articulator
+[Is a kind of]
+  - consonant
+    - phone, speech sound, sound
+      - language unit, linguistic unit
+        - part, portion, component part, component, constituent
+          - relation
+            - abstraction, abstract entity
+              - entity

@@ -1,0 +1,24 @@
+term: go to
+[Definitions]
+  - (verb) be present at (meetings, church services, university), etc.
+      "She attends class regularly"
+      "I rarely attend services at my church"
+      "did you go to the meeting?"
+  - (noun) an action or object one always chooses first
+[Synonyms]
+  - attend
+[Is a kind of]
+  - thing
+    - entity
+  - be
+    - exist, be
+[Kinds]
+  - stag
+  - sit in
+  - worship
+    - offer, offer up
+      - sacrifice
+        - immolate
+[Domains]
+  - church service
+  - church

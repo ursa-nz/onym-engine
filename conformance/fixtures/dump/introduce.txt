@@ -1,0 +1,136 @@
+term: introduce
+[Definitions]
+  - (verb) cause to come to know personally
+      "permit me to acquaint you with my son"
+      "introduce the new neighbors to the community"
+  - (verb) bring something new to an environment
+      "A new word processor was introduced"
+  - (verb) place, fit, or thrust (something) into another thing
+      "Insert your ticket here"
+  - (verb) bring in a new person or object into a familiar environment
+      "He brought in a new judge"
+      "The new secretary introduced a nasty rumor"
+  - (verb) bring in or establish in a new place or environment
+      "introduce a rule"
+      "introduce exotic fruits"
+  - (verb) put or introduce into something
+      "insert a picture into the text"
+  - (verb) bring before the public for the first time, as of an actor, song, etc.
+  - (verb) put before (a body)
+      "introduce legislation"
+  - (verb) furnish with a preface or introduction
+      "She always precedes her lectures with a joke"
+      "He prefaced his lecture with a critical remark about the institution"
+  - (verb) be a precursor of
+      "The fall of the Berlin Wall ushered in the post-Cold War period"
+[Synonyms]
+  - present
+  - acquaint
+  - innovate
+  - insert
+  - enclose
+  - inclose
+  - stick in
+  - put in
+  - bring in
+  - infix
+  - enter
+  - bring out
+  - precede
+  - preface
+  - premise
+  - inaugurate
+  - usher in
+[Derived forms]
+  - presentation
+  - introduction
+  - intro
+  - insertion
+  - intromission
+  - introductory
+  - prefatorial
+  - prefatory
+[Is a kind of]
+  - inform
+    - communicate, intercommunicate
+      - interact
+        - act, move
+  - initiate, pioneer
+    - cause, do, make
+      - make, create
+        - induce, stimulate, cause, have, get, make
+          - act, move
+  - put, set, place, pose, position, lay
+    - move, displace
+      - change, alter, modify
+        - induce, stimulate, cause, have, get, make
+          - act, move
+  - act, move
+  - establish, give
+    - make, create
+      - induce, stimulate, cause, have, get, make
+        - act, move
+  - attach
+    - connect, link, tie, link up
+      - act, move
+  - present, acquaint
+    - inform
+      - communicate, intercommunicate
+        - interact
+          - act, move
+  - project, propose
+    - plan
+      - think, cogitate, cerebrate
+        - act, move
+  - state, say, tell
+    - express, verbalize, verbalise, utter, give tongue to
+      - express, show, evince
+        - convey
+          - impart, leave, give, pass on
+            - tell
+              - inform
+                - communicate, intercommunicate
+                  - interact
+                    - act, move
+  - begin, lead off, start, commence
+    - induce, stimulate, cause, have, get, make
+      - act, move
+[Kinds]
+  - reintroduce, re-introduce
+  - present
+  - bring out
+  - phase in
+  - pioneer, open up
+  - debut
+  - inject, shoot
+  - plug
+  - inoculate
+    - seed
+  - inset
+  - glass
+  - catheterize, catheterise
+  - cup
+  - intersperse, interlard
+    - interleave
+  - feed, feed in
+  - slip
+  - foist
+  - immigrate
+  - track
+  - insinuate
+  - interpose
+  - plug in, plug into, connect
+  - penetrate
+  - cannulate, cannulize, cannulise, intubate, canulate
+  - input
+  - instill, instil
+  - implant, engraft, embed, imbed, plant
+    - pot
+      - repot
+    - nest
+    - bury, sink
+      - set, countersink
+  - sandwich
+  - transplant, graft
+  - preamble
+  - prologize, prologuize, prologise

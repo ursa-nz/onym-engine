@@ -1,7 +1,0 @@
-term: top-down
-[Definitions]
-  - (adjective) of an approach to a problem that begins at the highest conceptual level and works down to the details
-      "a top-down analysis might begin by looking at macro-economic trends"
-      "top-down programming"
-[Antonyms]
-  - bottom-up (direct)

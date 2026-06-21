@@ -1,9 +1,0 @@
-term: Thoreauvian
-[Definitions]
-  - (adjective) relating to or like or in the manner of Henry David Thoreau
-[Derived forms]
-  - Thoreau
-  - Henry David Thoreau
-[Pertains to]
-  - Thoreau, Henry David Thoreau
-    - writer, author

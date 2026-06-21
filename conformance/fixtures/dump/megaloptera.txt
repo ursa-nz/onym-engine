@@ -1,0 +1,22 @@
+term: Megaloptera
+[Definitions]
+  - (noun) in some classifications considered a separate order: alderflies, dobsonflies, snake flies
+[Synonyms]
+  - suborder Megaloptera
+[Is a kind of]
+  - animal order
+    - order
+      - taxonomic group, taxonomic category, taxon
+        - biological group
+          - group, grouping
+            - abstraction, abstract entity
+              - entity
+[Part of]
+  - Neuroptera, order Neuroptera
+    - Insecta, class Insecta, Hexapoda, class Hexapoda
+      - Arthropoda, phylum Arthropoda
+        - Animalia, kingdom Animalia, animal kingdom
+[Parts]
+  - Corydalidae, family Corydalidae
+  - Sialidae, family Sialidae
+  - Raphidiidae, family Raphidiidae

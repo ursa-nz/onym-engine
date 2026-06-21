@@ -1,0 +1,33 @@
+term: conger
+[Definitions]
+  - (noun) large dark-colored scaleless marine eel found in temperate and tropical coastal waters; some used for food
+[Synonyms]
+  - conger eel
+[Is a kind of]
+  - eel
+    - soft-finned fish, malacopterygian
+      - teleost fish, teleost, teleostan
+        - bony fish
+          - fish
+            - aquatic vertebrate
+              - vertebrate, craniate
+                - chordate
+                  - animal, animate being, beast, brute, creature, fauna
+                    - organism, being
+                      - living thing, animate thing
+                        - whole, unit
+                          - object, physical object
+                            - physical entity
+                              - entity
+                      - causal agent, cause, causal agency
+                        - physical entity
+                          - entity
+[Part of]
+  - Congridae, family Congridae
+    - Anguilliformes, order Anguilliformes, order Apodes
+      - Malacopterygii, superorder Malacopterygii
+        - Teleostei, subclass Teleostei
+          - Osteichthyes, class Osteichthyes
+            - Vertebrata, subphylum Vertebrata, Craniata, subphylum Craniata
+              - Chordata, phylum Chordata
+                - Animalia, kingdom Animalia, animal kingdom

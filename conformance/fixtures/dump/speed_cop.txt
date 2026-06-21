@@ -1,0 +1,17 @@
+term: speed cop
+[Definitions]
+  - (noun) a policeman who rides a motorcycle (and who checks the speeds of motorists)
+[Synonyms]
+  - motorcycle cop
+[Is a kind of]
+  - police officer, officer
+    - law officer, peace officer
+      - defender, guardian, protector, shielder
+        - preserver
+          - actor, doer, worker
+            - causal agent, cause, causal agency
+              - physical entity
+                - entity
+[Kinds]
+  - motorcycle policewoman
+  - motorcycle policeman

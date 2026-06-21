@@ -1,0 +1,21 @@
+term: Aster novae-angliae
+[Definitions]
+  - (noun) common perennial of eastern North America having showy purplish flowers; a parent of the Michaelmas daisy
+[Synonyms]
+  - New England aster
+[Is a kind of]
+  - aster
+    - flower
+      - angiosperm, flowering plant
+        - spermatophyte, phanerogam, seed plant
+          - vascular plant, tracheophyte
+            - plant, flora, plant life
+              - organism, being
+                - living thing, animate thing
+                  - whole, unit
+                    - object, physical object
+                      - physical entity
+                        - entity
+                - causal agent, cause, causal agency
+                  - physical entity
+                    - entity

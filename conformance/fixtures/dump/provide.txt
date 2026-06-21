@@ -1,0 +1,310 @@
+term: provide
+[Definitions]
+  - (verb) give something useful or necessary to
+      "We provided the room with an electrical heater"
+      "The conference center offers a health spa"
+      "The hotel offers private meeting rooms"
+  - (verb) give what is desired or needed, especially support, food or sustenance
+      "The hostess provided lunch for all the guests"
+  - (verb) determine (what is to happen in certain contingencies), especially by including a proviso condition or stipulation
+      "The will provides that each child should receive half of the money"
+      "The Constitution provides for the right to free speech"
+  - (verb) mount or put up
+      "put up a good fight"
+      "offer resistance"
+  - (verb) make a possibility or provide opportunity for; permit to be attainable or cause to remain
+      "This leaves no room for improvement"
+      "The evidence allows only one conclusion"
+      "allow for mistakes"
+      "leave lots of time for the trip"
+      "This procedure provides for lots of leeway"
+  - (verb) supply means of subsistence; earn a living
+      "He provides for his large family by working three jobs"
+      "Women nowadays not only take care of the household but also bring home the bacon"
+  - (verb) take measures in preparation for
+      "provide for the proper care of the passengers on the cruise ship"
+[Synonyms]
+  - supply
+  - render
+  - furnish
+  - offer
+  - ply
+  - cater
+  - put up
+  - leave
+  - allow for
+  - allow
+  - bring home the bacon
+[Derived forms]
+  - provision
+  - supply
+  - supplying
+  - supplier
+  - provider
+  - proviso
+  - provident
+[Is a kind of]
+  - give
+    - transfer
+      - change, alter, modify
+        - induce, stimulate, cause, have, get, make
+          - act, move
+  - stipulate, qualify, condition, specify
+    - contract, undertake
+      - promise, assure
+        - declare
+          - state, say, tell
+            - express, verbalize, verbalise, utter, give tongue to
+              - express, show, evince
+                - convey
+                  - impart, leave, give, pass on
+                    - tell
+                      - inform
+                        - communicate, intercommunicate
+                          - interact
+                            - act, move
+  - engage, wage
+    - contend, fight, struggle
+      - act, move
+  - yield, give, afford
+    - supply, render, furnish, offer
+      - give
+        - transfer
+          - change, alter, modify
+            - induce, stimulate, cause, have, get, make
+              - act, move
+  - support
+    - give
+      - transfer
+        - change, alter, modify
+          - induce, stimulate, cause, have, get, make
+            - act, move
+  - fix, prepare, set up, ready, gear up, set
+    - change, alter, modify
+      - induce, stimulate, cause, have, get, make
+        - act, move
+[Kinds]
+  - fund
+  - stint, skimp, scant
+  - terrace, terrasse
+  - dado
+  - innervate
+  - signalize, signalise
+  - extend, offer
+  - stock
+    - plant
+    - restock
+  - stock, buy in, stock up
+    - overstock
+    - understock
+  - caption
+  - tube
+  - ticket
+  - rim
+  - fret
+  - step
+  - rail
+  - grate
+  - capitalize, capitalise
+  - alphabetize
+  - wharf
+  - air-cool, air-condition
+  - uniform
+  - railroad
+  - partner
+  - bewhisker, whisker
+  - subtitle
+  - headline
+  - match
+  - hobnail
+  - wive
+  - victual
+  - surfeit, cloy
+  - heat
+    - steam-heat
+  - seat
+    - reseat
+  - ramp
+  - arm
+    - munition
+    - rearm
+  - interleave
+  - glass, glaze
+    - double-glaze
+  - crenel, crenelate, crenellate
+  - causeway
+  - canal, canalize, canalise
+  - bush
+  - brattice
+  - furnish
+    - refurnish
+  - slat
+  - berth
+  - bed
+    - bunk
+  - computerize, computerise
+  - costume
+  - bottom
+  - rafter
+  - tool
+  - key
+  - fuel
+    - gas up
+    - refuel
+    - bunker
+  - provision, purvey
+  - yield, give, afford
+    - open, open up
+    - leave, allow for, allow
+  - equip, fit, fit out, outfit
+    - fin
+    - motorize
+    - motorize
+    - stock
+    - horseshoe
+    - turn out
+    - instrument
+    - muzzle
+    - kit out, kit up, kit
+    - appoint
+    - re-equip, rejig
+    - refit
+    - armor, armour
+    - accouter, accoutre
+    - wire
+      - rewire
+    - shaft
+    - spar
+    - stave
+    - invest, clothe, adorn
+    - commission
+    - fuse
+    - collar
+    - spur
+    - rig, set, set up
+    - mechanize, mechanise, motorize, motorise
+  - transistorize, transistorise
+  - upholster
+  - cleat
+  - coal
+  - corbel
+  - cornice
+  - constitutionalize
+  - copper-bottom
+  - curtain
+  - gate
+  - index
+  - joint, articulate
+  - pour
+  - pump
+  - fuel, fire
+  - flood, oversupply, glut
+  - toggle
+  - patch
+  - water
+  - leverage
+  - tap
+  - top, top out
+  - reflectorize, reflectorise
+  - retrofit
+  - border, edge
+  - machicolate
+  - sanitate
+  - hat
+  - theme
+  - kern
+  - headquarter
+  - date
+    - dateline, datemark, date-mark
+    - date, date stamp
+  - feed
+  - calk
+  - hydrate
+  - charge
+    - recharge
+  - shelter
+    - house, put up, domiciliate
+      - rehouse
+      - home
+      - lodge, accommodate
+        - barrack
+        - keep
+        - quarter, billet, canton
+      - chamber
+      - take in
+    - kennel
+    - stable
+    - stall
+    - harbor, harbour
+  - hook, solicit, accost
+  - drench
+  - regale, treat
+    - wine
+    - alcoholize
+    - feed, feast
+  - board
+    - live in, sleep in
+  - feed, give
+    - dine
+    - scavenge
+    - fodder
+    - slop, swill
+    - regurgitate
+    - corn
+    - undernourish, malnourish
+    - overfeed
+    - spoonfeed
+    - force-feed
+    - lunch
+    - breakfast
+    - breastfeed, suckle, suck, nurse, wet-nurse, lactate, give suck
+    - bottlefeed
+    - inject
+    - nutrify, aliment, nourish
+    - range
+    - crop, graze, pasture
+      - grass
+      - drift
+  - serve, serve up, dish out, dish up, dish
+    - plank
+  - cater
+  - pander, pimp, procure
+  - serve, help
+  - power
+    - drive
+  - gratify, pander, indulge
+    - spree
+    - sow one's oats, sow one's wild oats
+    - humor, humour
+  - underlay
+  - fit, conform to, meet, satisfy, fill, fulfill, fulfil
+    - answer
+    - quell, stay, appease
+    - content
+    - feed on, feed upon
+    - quench, slake, allay, assuage
+    - fit the bill, fill the bill
+    - satisfy, fulfill, fulfil, live up to
+      - cover
+      - suffice, do, answer, serve
+        - tide over, bridge over, keep going
+        - go a long way
+        - serve, function
+          - prelude
+          - act as
+        - qualify, measure up
+        - go around
+      - cover
+    - suit, accommodate, fit
+      - accept, take
+  - horse
+    - remount
+  - shower
+  - accommodate
+  - nourish, nurture, sustain
+    - carry
+  - fix up
+  - gutter
+  - staff
+    - man
+      - crew

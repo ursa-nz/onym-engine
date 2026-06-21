@@ -1,0 +1,15 @@
+term: X-ray therapy
+[Definitions]
+  - (noun) the therapeutic use of X rays
+[Is a kind of]
+  - radiotherapy, radiation therapy, radiation, actinotherapy, irradiation
+    - therapy, treatment
+      - medical care, medical aid
+        - treatment, intervention
+          - care, attention, aid, tending
+            - work
+              - activity
+                - act, deed, human action, human activity
+                  - event
+                    - abstraction, abstract entity
+                      - entity

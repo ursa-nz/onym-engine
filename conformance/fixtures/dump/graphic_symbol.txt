@@ -1,0 +1,150 @@
+term: graphic symbol
+[Definitions]
+  - (noun) a written symbol that is used to represent speech
+      "the Greek alphabet has 24 characters"
+[Synonyms]
+  - character
+  - graph
+  - grapheme
+[Is a kind of]
+  - written symbol, printed symbol
+    - symbol
+      - signal, signaling, sign, signalling
+        - communication
+          - abstraction, abstract entity
+            - entity
+[Kinds]
+  - allograph
+  - check character
+  - superscript, superior
+  - subscript, inferior
+  - ASCII character
+    - control character, ASCII control character
+      - backspace character
+  - ligature
+  - capital, capital letter, uppercase, upper-case letter, majuscule
+    - small capital, small cap
+  - small letter, lowercase, lower-case letter, minuscule
+  - type
+    - type family
+    - font, fount, typeface, face, case
+      - unicameral script
+        - Hebrew alphabet, Hebraic alphabet, Hebrew script
+        - Arabic alphabet
+      - bicameral script
+        - Roman alphabet, Latin alphabet
+        - Cyrillic alphabet, Cyrillic
+          - civil script
+      - typewriter font, constant-width font, fixed-width font, monospaced font
+      - proportional font
+        - modern, modern font, Bodoni, Bodoni font
+        - old style, old style font
+        - roman, roman type, roman letters, roman print
+      - font cartridge, cartridge font
+      - Gothic, black letter
+      - boldface, bold face, bold
+      - italic
+      - screen font, raster font
+      - sans serif, Helvetica
+  - percent sign, percentage sign
+  - asterisk, star
+  - dagger, obelisk
+  - double dagger, double obelisk, diesis
+  - letter, letter of the alphabet, alphabetic character
+    - ascender
+    - descender
+    - digraph, digram
+    - initial
+    - A, a
+    - B, b
+    - C, c
+    - D, d
+    - E, e
+    - F, f
+    - G, g
+    - H, h
+    - I, i
+    - J, j
+    - K, k
+    - L, l
+    - M, m
+    - N, n
+    - O, o
+    - P, p
+    - Q, q
+    - R, r
+    - S, s
+    - T, t
+    - U, u
+    - V, v
+    - W, w, double-u
+    - X, x, ex
+    - Y, y, wye
+    - Z, z, zee, zed, ezed, izzard
+    - alpha
+    - beta
+    - gamma
+    - delta
+    - epsilon
+    - zeta
+    - eta
+    - theta
+    - iota
+    - kappa
+    - lambda
+    - mu
+    - nu
+    - xi
+    - omicron
+    - pi
+    - rho
+    - sigma
+    - tau
+    - upsilon
+    - phi
+    - chi, khi
+    - psi
+    - omega
+    - aleph
+    - beth
+    - gimel
+    - daleth
+    - he
+    - waw
+    - zayin
+    - heth
+    - teth
+    - yodh
+    - kaph
+    - lamedh
+    - mem
+    - nun
+    - samekh
+    - ayin
+    - pe
+    - sadhe
+    - qoph
+    - resh
+    - sin
+    - shin
+    - taw
+    - polyphone, polyphonic letter
+    - block letter, block capital
+    - vowel
+      - vowel point
+    - consonant
+    - yus
+      - big yus
+      - little yus
+  - space, blank
+  - phonetic symbol
+  - mathematical symbol
+  - rune, runic letter
+    - thorn
+  - pictograph
+  - ideogram, ideograph
+    - logogram, logograph
+    - emoji
+  - radical
+  - stenograph
+  - siglum

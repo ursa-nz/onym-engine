@@ -1,0 +1,8 @@
+term: closed-captioned
+[Definitions]
+  - (adjective) broadcast with captions that are seen only on receivers having special equipment; can be provided for hard-of-hearing viewers
+[Domains]
+  - television
+  - telecasting
+  - TV
+  - video

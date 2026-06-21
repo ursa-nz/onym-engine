@@ -1,0 +1,79 @@
+term: sea trout
+[Definitions]
+  - (noun) flesh of marine trout that migrate from salt to fresh water
+  - (noun) any of several sciaenid fishes of North American coastal waters
+  - (noun) silvery marine variety of brown trout that migrates to fresh water to spawn
+[Synonyms]
+  - salmon trout
+[Is a kind of]
+  - trout
+    - fish
+      - solid food
+        - solid
+          - matter
+            - physical entity
+              - entity
+        - food, nutrient
+          - substance
+            - matter
+              - physical entity
+                - entity
+  - sciaenid fish, sciaenid
+    - percoid fish, percoid, percoidean
+      - spiny-finned fish, acanthopterygian
+        - teleost fish, teleost, teleostan
+          - bony fish
+            - fish
+              - aquatic vertebrate
+                - vertebrate, craniate
+                  - chordate
+                    - animal, animate being, beast, brute, creature, fauna
+                      - organism, being
+                        - living thing, animate thing
+                          - whole, unit
+                            - object, physical object
+                              - physical entity
+                                - entity
+                        - causal agent, cause, causal agency
+                          - physical entity
+                            - entity
+  - brown trout, salmon trout, Salmo trutta
+    - trout
+      - salmonid
+        - soft-finned fish, malacopterygian
+          - teleost fish, teleost, teleostan
+            - bony fish
+              - fish
+                - aquatic vertebrate
+                  - vertebrate, craniate
+                    - chordate
+                      - animal, animate being, beast, brute, creature, fauna
+                        - organism, being
+                          - living thing, animate thing
+                            - whole, unit
+                              - object, physical object
+                                - physical entity
+                                  - entity
+                          - causal agent, cause, causal agency
+                            - physical entity
+                              - entity
+      - food fish
+        - fish
+          - aquatic vertebrate
+            - vertebrate, craniate
+              - chordate
+                - animal, animate being, beast, brute, creature, fauna
+                  - organism, being
+                    - living thing, animate thing
+                      - whole, unit
+                        - object, physical object
+                          - physical entity
+                            - entity
+                    - causal agent, cause, causal agency
+                      - physical entity
+                        - entity
+[Kinds]
+  - weakfish, Cynoscion regalis
+  - spotted weakfish, spotted sea trout, spotted squeateague, Cynoscion nebulosus
+[Part of]
+  - brown trout, salmon trout, Salmo trutta

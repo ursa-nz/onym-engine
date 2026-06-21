@@ -1,0 +1,14 @@
+term: white-hot
+[Definitions]
+  - (adjective) intensely zealous or fervid
+      "fierce white-hot loyalty"
+  - (adjective) glowing white with heat
+      "white flames"
+      "a white-hot center of the fire"
+[Synonyms]
+  - white
+[Antonyms]
+  - hot (indirect)
+      -> cold
+[Similar to]
+  - hot

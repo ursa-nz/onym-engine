@@ -1,0 +1,14 @@
+term: mononeuropathy
+[Definitions]
+  - (noun) any neuropathy of a single nerve trunk
+[Is a kind of]
+  - neuropathy
+    - pathology
+      - ill health, unhealthiness, health problem
+        - pathological state
+          - physical condition, physiological state, physiological condition
+            - condition, status
+              - state
+                - attribute
+                  - abstraction, abstract entity
+                    - entity

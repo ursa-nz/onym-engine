@@ -1,0 +1,24 @@
+term: Sault Ste. Marie
+[Definitions]
+  - (noun) a town of southern Ontario opposite northern Michigan
+[Synonyms]
+  - Sault Sainte Marie
+[Is a kind of]
+  - town
+    - municipality
+      - urban area, populated area
+        - geographical area, geographic area, geographical region, geographic region
+          - region
+            - location
+              - object, physical object
+                - physical entity
+                  - entity
+      - administrative district, administrative division, territorial division
+        - district, territory, territorial dominion, dominion
+          - region
+            - location
+              - object, physical object
+                - physical entity
+                  - entity
+[Part of]
+  - Ontario

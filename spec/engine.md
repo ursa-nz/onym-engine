@@ -9,11 +9,11 @@ This document is the single source of truth for the Onym lookup engine. The Rust
 repository implements it; the conformance fixtures answer to it. It distils two parity-proven
 implementations: the C library Onym carried before it adopted this core (libonym over the vendored
 Artha `wni.c` and libwordnet, now only in Onym's git history) and the Kotlin core in
-`../onymdroid`, which was proven byte-for-byte equal to `onym-cli`.
+`../android`, which was proven byte-for-byte equal to `onym-cli`.
 
 Citations use `file:line`. Kotlin files live at
-`../onymdroid/core/src/main/kotlin/nz/ursa/onymdroid/core/`; `PLAN.md` is `../onymdroid/PLAN.md`;
-`onym-engine.c` is in `../onym/libonym/`; `onym-cli.c` is in `../onym/tools/`. Citations into
+`../android/core/src/main/kotlin/nz/ursa/onymdroid/core/`; `PLAN.md` is the umbrella `../../PLAN.md`;
+`onym-engine.c` is in `../gtk/libonym/`; `onym-cli.c` is in `../gtk/tools/`. Citations into
 `onym-lookup.c` refer to the pre-swap libonym, which survives in Onym's git history at the commit
 before the engine swap. Line numbers are as of the trees at the time of writing.
 
@@ -25,19 +25,24 @@ Every word a deliberate fix or validation note names must appear in the conforma
 
 ## 1. Scope
 
-- The engine reads WordNet 3.0 and nothing else. The data is frozen forever: no other WordNet
-  version, no updates, no alternative databases (PLAN.md:16).
-- The database files are the ones shipped by Debian's `wordnet-base` package, which carries
-  Debian's fixes to the Princeton 3.0 database. The same files back the GTK app, the Flatpak, and
-  the Android port, so every implementation reads identical bytes (PLAN.md:605).
+- The engine reads a WordNet-family database in WNDB format and nothing else. The edition is pinned,
+  not frozen: it is whatever the `onym-data` submodule supplies, and it moves only when that pin is
+  bumped behind the data-validation and coverage suite. The base is currently Open English WordNet
+  2025, the Plus edition with proper nouns, replacing the Princeton 3.0 database the engine was first
+  written against.
+- The database files come from the `onym-data` submodule, which vendors one set of bytes that backs
+  the GTK app, the Flatpak, and the Android port alike, so every implementation reads identical
+  bytes. There is no system-WordNet fallback; the engine opens the prepared submodule data over an
+  explicit path.
 - The engine owns everything above the data files: file parsing, morphology, the lookup pipeline,
-  completion, suggestion, and verb example sentences. The data files are an external, read-only,
-  frozen input.
-- One optional input sits outside WordNet: the etymology overlay of [section 6.10](#610-etymology-the-optional-overlay).
-  It is a frozen, preprocessed file the engine reads in place, exactly as it reads the database, and
-  it is the single deliberate exception to "WordNet and nothing else". The exception is confined to
+  completion, suggestion, and verb example sentences. The data files are an external, read-only
+  input.
+- One optional input sits outside the base graph: the etymology overlay of [section 6.10](#610-etymology-the-optional-overlay).
+  It is a preprocessed file the engine reads in place, exactly as it reads the database, and it is the
+  single deliberate exception to "the base graph and nothing else". The exception is confined to
   additive prose: the overlay never alters a WordNet-derived section, and when it is absent the
-  engine's output is byte-for-byte what WordNet alone produces. It only adds the Etymology section.
+  engine's output is byte-for-byte what the base graph alone produces. It only adds the Etymology
+  section.
 
 ## 2. The result model
 
@@ -57,7 +62,7 @@ display form (section 3). The model carries no WordNet types; consumers read it 
 - **Tree node**: a list of `terms` (the words of one synset, each independently meaningful) and a
   list of child nodes. A node's `label` is its terms joined with `", "` exactly; the label is used
   for display and for top-level deduplication (OnymResult.kt:75-80, PLAN.md:246, the join rule
-  originates at `../onym/libonym/onym-result.c:304`).
+  originates at `../gtk/libonym/onym-result.c:304`).
 
 A lookup returns either a result or nothing. Nothing means the word is simply not in WordNet; a
 missing database is a distinct open-time error, never a quiet miss (PLAN.md:270-271).
@@ -76,11 +81,15 @@ missing database is a distinct open-time error, never a quiet miss (PLAN.md:270-
   are exact-key: index keys are lowercase and underscored, and every searched form already is.
   (The Kotlin reference's extJWNL adapter applied a further locale lowercase before each search;
   that is an adapter wart, not contract.)
+- **Encoding**: the database is UTF-8. Non-ASCII is confined to glosses and a few accented lemmas
+  and proper nouns; the structure (offsets, pointers, counts) is ASCII. ASCII-only lowering means
+  an accented letter in a lemma is never case-folded, which is correct because the index keys carry
+  those letters in the same case, so an exact-key match still finds them. The engine decodes every
+  file as UTF-8 and every result string is UTF-8.
 - **Unicode edges, pinned**: query trimming strips the Unicode white space property, and lengths
-  and edit distances count Unicode scalar values (`textforms.rs`). The database is ASCII, so
-  these definitions only bite for exotic pasted queries; they are fixed here so every port
-  agrees. The JVM reference differed harmlessly at five trim code points and on astral-plane
-  distances, which no fixture and no database byte can reach.
+  and edit distances count Unicode scalar values (`textforms.rs`), so an accented gloss character is
+  one unit. They are fixed here so every port agrees. The JVM reference differed harmlessly at five
+  trim code points and on astral-plane distances, which no fixture can reach.
 - **Lowercased display form** (`displayLower`): underscores to spaces, then ASCII lowering
   (WordNetLookup.kt:865). Used for all case-insensitive comparisons and for the lemma index.
 
@@ -161,7 +170,7 @@ straight to the correct code.
 
 ## 5. Morphology
 
-The engine implements WordNet 3.0's `morphstr` itself, ported to the letter from `lib/morph.c`
+The engine implements WordNet's `morphstr` itself, ported to the letter from `lib/morph.c`
 (`morphstr`, `morphword`, `wordbase`, `exc_lookup`, `hasprep`, `morphprep`), because reader
 libraries over-generate relative to it (Morphology.kt:8-26). Part-of-speech codes follow WordNet's
 numbering: 1 noun, 2 verb, 3 adjective, 4 adverb. Code 0 (the shifted-noun case from section 4.2)
@@ -171,7 +180,7 @@ has no exception file and no suffix rules, so it always yields nothing (Morpholo
 ### 5.1 Exception files
 
 `noun.exc`, `verb.exc`, `adj.exc`, `adv.exc`, keyed by part-of-speech code (Morphology.kt:202).
-ISO-8859-1, whitespace-separated: the inflected headword, then its base forms. Lines starting with
+UTF-8, whitespace-separated: the inflected headword, then its base forms. Lines starting with
 a space are skipped. An absent file contributes nothing (Morphology.kt:228-248).
 
 ### 5.2 morphstr
@@ -391,7 +400,7 @@ INSTANCE_HYPERNYM group, depth 1); every later pertainym of the same sense is le
 ### 6.10 Etymology (the optional overlay)
 
 The engine reads one optional file that is not part of WordNet: `etym.onym`, the etymology overlay,
-from the data directory (section 10). It is a frozen, preprocessed artifact keyed by WordNet lemma,
+from the data directory (section 10). It is a preprocessed artifact keyed by WordNet lemma,
 built offline from Wiktionary's etymology prose by `tools/etym-build`; the engine reads it in place,
 read-only, like every other file, and parses none of WordNet's own files differently because of it.
 
@@ -406,9 +415,8 @@ The keying is by **headword only**: the section reflects the word the entry reso
 query and not the other gathered lemmas, so a morphological lookup (`dogs`) shows its base word's
 etymology (`dog`) and the result is deterministic regardless of index iteration order. The paragraphs
 are display text. The engine does not parse, reflow, or navigate them; it passes them through exactly
-as the overlay holds them. They are the one place a model string is UTF-8 rather than ISO-8859-1
-(the source languages carry accented spellings), so a consumer must treat the section's strings as
-UTF-8.
+as the overlay holds them. Like every model string they are UTF-8 (the source languages carry
+accented spellings), so a consumer treats the section's strings, and all others, as UTF-8.
 
 The overlay's format, the producer's join against the WordNet lemma set, and the prose cleaning are
 specified by `tools/etym-build`, not here: the engine's contract is only that it reads `etym.onym` if
@@ -511,11 +519,11 @@ no generic examples, never an error (VerbExampleIndex.kt:31-46).
 
 An engine opens over an **explicit data directory path** passed by the caller. No environment
 variables are consulted (the C engine's `WNSEARCHDIR`/`WNHOME` resolution at
-`../onym/libonym/onym-engine.c:74-96` does not carry over). The directory is never written to:
+`../gtk/libonym/onym-engine.c:74-96` does not carry over). The directory is never written to:
 files are read in place, read-only (the Android port's copy-to-writable-storage step exists only
 because extJWNL demands it; this engine must not).
 
-The file set, all ISO-8859-1:
+The file set, all UTF-8:
 
 | Files | Required | Absent means |
 |---|---|---|
@@ -524,10 +532,10 @@ The file set, all ISO-8859-1:
 | `noun.exc`, `verb.exc`, `adj.exc`, `adv.exc` | no | no morphology exceptions for that pos (Morphology.kt:233-236) |
 | `cntlist.rev` | no | every tag count is 0 |
 | `sentidx.vrb`, `sents.vrb` | no | no generic verb examples (VerbExampleIndex.kt:31-46) |
-| `etym.onym` | no | no Etymology section for any word (section 6.10). UTF-8, not ISO-8859-1 |
+| `etym.onym` | no | no Etymology section for any word (section 6.10) |
 
 `cntlist.rev` is the reverse sense-count list (sense key, sense number, tag count), the file the
-WordNet C library's `GetTagcnt` reads; Debian's `wordnet-base` ships it under exactly that name. The
+WordNet C library's `GetTagcnt` reads; OEWN's WNDB build ships it under exactly that name. The
 forward `cntlist` file is not read. A failed open (missing directory, missing required file) is an
 error, reported distinctly from a word that is simply not in WordNet (PLAN.md:270-271).
 

@@ -1,0 +1,21 @@
+term: Dryopteris
+[Definitions]
+  - (noun) large widespread genus of medium-sized terrestrial ferns; in some classification systems placed in Polypodiaceae
+[Synonyms]
+  - genus Dryopteris
+[Is a kind of]
+  - fern genus
+    - genus
+      - taxonomic group, taxonomic category, taxon
+        - biological group
+          - group, grouping
+            - abstraction, abstract entity
+              - entity
+[Part of]
+  - Dryopteridaceae, family Dryopteridaceae, Athyriaceae, family Athyriaceae
+    - Filicopsida, class Filicopsida, Filicinae, class Filicinae
+      - Pteridophyta, division Pteridophyta
+        - Plantae, kingdom Plantae, plant kingdom
+[Parts]
+  - broad buckler-fern, Dryopteris dilatata
+  - wood fern, wood-fern, woodfern

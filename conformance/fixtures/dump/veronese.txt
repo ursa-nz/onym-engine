@@ -1,0 +1,22 @@
+term: Veronese
+[Definitions]
+  - (noun) Italian painter of the Venetian school (1528-1588)
+[Synonyms]
+  - Paolo Veronese
+  - Paola Caliari
+[Is a kind of]
+  - old master
+    - painter
+      - artist, creative person
+        - creator
+          - actor, doer, worker
+            - causal agent, cause, causal agency
+              - physical entity
+                - entity
+    - maestro, master
+      - artist, creative person
+        - creator
+          - actor, doer, worker
+            - causal agent, cause, causal agency
+              - physical entity
+                - entity

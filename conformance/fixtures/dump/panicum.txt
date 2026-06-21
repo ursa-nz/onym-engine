@@ -1,0 +1,23 @@
+term: Panicum
+[Definitions]
+  - (noun) panic grass
+[Synonyms]
+  - genus Panicum
+[Is a kind of]
+  - monocot genus, liliopsid genus
+    - genus
+      - taxonomic group, taxonomic category, taxon
+        - biological group
+          - group, grouping
+            - abstraction, abstract entity
+              - entity
+[Part of]
+  - Gramineae, family Gramineae, Graminaceae, family Graminaceae, Poaceae, family Poaceae, grass family
+    - Graminales, order Graminales
+      - Commelinidae, subclass Commelinidae
+        - Monocotyledones, class Monocotyledones, Monocotyledonae, class Monocotyledonae, Liliopsida, class Liliopsida
+          - Angiospermae, class Angiospermae, Magnoliophyta, division Magnoliophyta, Anthophyta, division Anthophyta
+            - Spermatophyta, division Spermatophyta
+              - Plantae, kingdom Plantae, plant kingdom
+[Parts]
+  - panic grass

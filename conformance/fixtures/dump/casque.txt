@@ -1,0 +1,31 @@
+term: casque
+[Definitions]
+  - (noun) (15-16th century) any armor for the head; usually ornate without a visor
+[Is a kind of]
+  - helmet
+    - armor plate, armour plate, armor plating, plate armor, plate armour
+      - plate, scale, shell
+        - shield
+          - protective covering, protective cover, protection
+            - covering
+              - artifact, artefact
+                - whole, unit
+                  - object, physical object
+                    - physical entity
+                      - entity
+[Kinds]
+  - casquet, casquetel
+[Part of]
+  - body armor, body armour, suit of armor, suit of armour, coat of mail, cataphract
+[Parts]
+  - helmet
+    - visor, vizor
+    - armor plate, armour plate, armor plating, plate armor, plate armour
+      - plate, scale, shell
+        - shield
+          - protective covering, protective cover, protection
+            - covering
+              - artifact, artefact
+                - whole, unit
+                  - part, portion
+                  - section, segment

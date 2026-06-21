@@ -1,0 +1,13 @@
+term: Patrick White
+[Definitions]
+  - (noun) Australian writer (1912-1990)
+[Synonyms]
+  - White
+  - Patrick Victor Martindale White
+[Is a kind of]
+  - writer, author
+    - communicator
+      - actor, doer, worker
+        - causal agent, cause, causal agency
+          - physical entity
+            - entity

@@ -1,0 +1,38 @@
+term: then
+[Definitions]
+  - (adverb) subsequently or soon afterward (often used as sentence connectors)
+      "then he left"
+      "go left first, then right"
+      "first came lightning, then thunder"
+      "we watched the late movie and then went to bed"
+      "and so home and to bed"
+  - (adverb) in that case or as a consequence
+      "if he didn't take it, then who did?"
+      "keep it then if you want to"
+      "the case, then, is closed"
+      "you've made up your mind then?"
+      "then you'll be rich"
+  - (adverb) at that time
+      "I was young then"
+      "prices were lower back then"
+      "science as it was then taught"
+  - (noun) that time; that moment
+      "we will arrive before then"
+      "we were friends from then on"
+  - (adjective) at a specific prior time
+      "the then president"
+[Synonyms]
+  - so
+  - and so
+[Antonyms]
+  - future (indirect)
+      -> present
+  - past (indirect)
+      -> future
+[Similar to]
+  - past
+[Is a kind of]
+  - point, point in time
+    - measure, quantity, amount
+      - abstraction, abstract entity
+        - entity

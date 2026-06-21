@@ -1,0 +1,27 @@
+term: billhook
+[Definitions]
+  - (noun) a cutting tool with a sharp edge
+      "he used a bill to prune branches off of the tree"
+[Synonyms]
+  - bill
+[Is a kind of]
+  - hand tool
+    - tool
+      - implement
+        - instrumentality, instrumentation, means
+          - artifact, artefact
+            - whole, unit
+              - object, physical object
+                - physical entity
+                  - entity
+[Parts]
+  - hand tool
+    - handle, grip, handgrip, hold
+      - shank, stem
+    - tool
+      - implement
+        - instrumentality, instrumentation, means
+          - artifact, artefact
+            - whole, unit
+              - part, portion
+              - section, segment

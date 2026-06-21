@@ -1,0 +1,18 @@
+term: gnarly
+[Definitions]
+  - (adjective) used of old persons or old trees; covered with knobs or knots
+      "gnarled and knotted hands"
+      "a knobbed stick"
+[Synonyms]
+  - gnarled
+  - knotted
+  - knotty
+  - knobbed
+[Antonyms]
+  - crooked (indirect)
+      -> straight
+[Derived forms]
+  - knot
+  - gnarl
+[Similar to]
+  - crooked

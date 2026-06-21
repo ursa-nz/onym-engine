@@ -1,0 +1,12 @@
+term: southwest by west
+[Definitions]
+  - (noun) the compass point that is one point west of southwest
+[Synonyms]
+  - SWbW
+[Is a kind of]
+  - compass point, point
+    - direction
+      - position, spatial relation
+        - relation
+          - abstraction, abstract entity
+            - entity

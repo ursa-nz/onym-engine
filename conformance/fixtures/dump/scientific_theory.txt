@@ -1,0 +1,59 @@
+term: scientific theory
+[Definitions]
+  - (noun) a theory that explains scientific observations
+      "scientific theories must be falsifiable"
+[Is a kind of]
+  - theory
+    - explanation
+      - thinking, thought, thought process, cerebration, intellection, mentation
+        - higher cognitive process
+          - process, cognitive process, mental process, operation, cognitive operation
+            - cognition, knowledge, noesis
+              - psychological feature
+                - abstraction, abstract entity
+                  - entity
+[Kinds]
+  - big-bang theory, big bang theory
+  - nebular hypothesis
+  - planetesimal hypothesis
+  - steady state theory, continuous creation theory
+  - theory of gravitation, theory of gravity, gravitational theory, Newton's theory of gravitation
+  - organicism
+  - atomic theory
+    - Bohr theory
+    - Rutherford atom
+  - cell theory, cell doctrine
+  - wave theory, undulatory theory, wave theory of light
+  - corpuscular theory, corpuscular theory of light
+  - kinetic theory, kinetic theory of gases
+    - kinetic theory of heat
+  - relativity, theory of relativity, relativity theory, Einstein's theory of relativity
+    - general relativity, general theory of relativity, general relativity theory, Einstein's general theory of relativity
+    - special relativity, special theory of relativity, special relativity theory, Einstein's special theory of relativity
+  - supersymmetry
+  - quantum theory
+  - uncertainty principle, indeterminacy principle
+  - germ theory
+  - information theory
+  - theory of dissociation, theory of electrolytic dissociation, Arrhenius theory of dissociation
+  - theory of evolution, theory of organic evolution, evolutionism
+    - Darwinism
+      - neo-Darwinism
+    - Lamarckism
+      - Neo-Lamarckism
+    - punctuated equilibrium, theory of punctuated equilibrium
+    - neoevolutionism, neo-evolutionism
+      - multilinear evolution
+  - theory of indicators, Ostwald's theory of indicators
+  - theory of inheritance
+    - Mendelism, Mendelianism
+  - associationism, association theory
+  - atomism
+  - functionalism
+  - Gestalt psychology, configurationism
+  - game theory, theory of games
+  - memetics
+  - constitutional psychology
+  - hormism, hormic psychology
+[Part of]
+  - science, scientific discipline

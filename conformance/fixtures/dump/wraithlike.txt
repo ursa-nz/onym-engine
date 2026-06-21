@@ -1,0 +1,17 @@
+term: wraithlike
+[Definitions]
+  - (adjective) lacking in substance
+      "strange fancies of unreal and shadowy worlds"
+      "dim shadowy forms"
+      "a wraithlike column of smoke"
+[Synonyms]
+  - shadowy
+[Antonyms]
+  - insubstantial (indirect)
+      -> substantial
+      -> real
+      -> material
+[Similar to]
+  - insubstantial
+  - unsubstantial
+  - unreal

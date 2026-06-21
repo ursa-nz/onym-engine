@@ -1,0 +1,11 @@
+term: undisclosed
+[Definitions]
+  - (adjective) not made known
+[Synonyms]
+  - unrevealed
+[Antonyms]
+  - covert (indirect)
+      -> overt
+      -> open
+[Similar to]
+  - covert

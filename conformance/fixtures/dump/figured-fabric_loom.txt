@@ -1,0 +1,16 @@
+term: figured-fabric loom
+[Definitions]
+  - (noun) a loom for weaving figured fabrics
+[Synonyms]
+  - figure loom
+[Is a kind of]
+  - loom
+    - textile machine
+      - machine
+        - device
+          - instrumentality, instrumentation, means
+            - artifact, artefact
+              - whole, unit
+                - object, physical object
+                  - physical entity
+                    - entity

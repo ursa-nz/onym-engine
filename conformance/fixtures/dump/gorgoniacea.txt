@@ -1,0 +1,23 @@
+term: Gorgoniacea
+[Definitions]
+  - (noun) red corals and sea fans
+[Synonyms]
+  - Gorgonacea
+  - suborder Gorgonacea
+  - suborder Gorgoniacea
+[Is a kind of]
+  - animal order
+    - order
+      - taxonomic group, taxonomic category, taxon
+        - biological group
+          - group, grouping
+            - abstraction, abstract entity
+              - entity
+[Part of]
+  - Alcyonaria, order Alcyonaria
+    - Anthozoa, class Anthozoa, Actinozoa, class Actinozoa
+      - Cnidaria, phylum Cnidaria, Coelenterata, phylum Coelenterata
+        - Metazoa, subkingdom Metazoa
+          - Animalia, kingdom Animalia, animal kingdom
+[Parts]
+  - gorgonian, gorgonian coral

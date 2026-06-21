@@ -1,0 +1,16 @@
+term: credibly
+[Definitions]
+  - (adverb) easy to believe on the basis of available evidence
+      "he talked plausibly before the committee"
+      "he will probably win the election"
+[Synonyms]
+  - believably
+  - plausibly
+  - probably
+[Antonyms]
+  - incredibly (direct)
+      -> improbably
+      -> implausibly
+      -> unbelievably
+[Pertains to]
+  - credible, believable

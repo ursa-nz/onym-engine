@@ -1,0 +1,17 @@
+term: service of process
+[Definitions]
+  - (noun) the act of delivering a writ or summons upon someone
+      "he accepted service of the subpoena"
+[Synonyms]
+  - service
+  - serving
+[Is a kind of]
+  - delivery, bringing
+    - transportation, transport, transfer, transferral, conveyance
+      - movement
+        - change
+          - action
+            - act, deed, human action, human activity
+              - event
+                - abstraction, abstract entity
+                  - entity

@@ -1,0 +1,87 @@
+term: critical
+[Definitions]
+  - (adjective) marked by a tendency to find and call attention to errors and flaws
+      "a critical attitude"
+  - (adjective) at or of a point at which a property or phenomenon suffers an abrupt change especially having enough mass to sustain a chain reaction
+      "a critical temperature of water is 100 degrees C — its boiling point at standard atmospheric pressure"
+      "critical mass"
+      "go critical"
+  - (adjective) characterized by careful evaluation and judgment
+      "a critical reading"
+      "a critical dissertation"
+      "a critical analysis of Melville's writings"
+  - (adjective) urgently needed; absolutely necessary
+      "a critical element of the plan"
+      "critical medical supplies"
+      "vital for a healthy society"
+      "of vital interest"
+  - (adjective) forming or having the nature of a turning point or crisis
+      "a critical point in the campaign"
+      "the critical test"
+  - (adjective) being in or verging on a state of crisis or emergency
+      "a critical shortage of food"
+      "a critical illness"
+      "an illness at the critical stage"
+  - (adjective) of or involving or characteristic of critics or criticism
+      "critical acclaim"
+[Synonyms]
+  - vital
+  - decisive
+[Antonyms]
+  - uncritical (direct)
+      -> noncritical
+  - noncritical (direct)
+      -> noncrucial
+      -> acritical
+  - indispensable (indirect)
+      -> dispensable
+  - crucial (indirect)
+      -> noncrucial
+[Derived forms]
+  - critic
+  - criticism
+  - unfavorable judgment
+  - criticality
+  - critique
+  - criticalness
+  - cruciality
+  - crisis
+  - literary criticism
+[Similar to]
+  - captious
+  - faultfinding
+  - censorious
+  - deprecative
+  - hypercritical
+  - overcritical
+  - searing
+  - scathing
+  - vituperative
+  - supercritical
+  - appraising
+  - evaluative
+  - discriminative
+  - judicial
+  - indispensable
+  - crucial
+  - important
+  - acute
+  - dangerous
+  - grave
+  - grievous
+  - serious
+  - severe
+  - life-threatening
+  - desperate
+  - dire
+[Attributes]
+  - criticality
+  - crisis
+[Pertains to]
+  - criticism, critique
+    - critical appraisal, critical analysis
+[Domains]
+  - chemistry
+  - chemical science
+  - physics
+  - natural philosophy

@@ -1,0 +1,22 @@
+term: philologue
+[Definitions]
+  - (noun) a humanist specializing in classical scholarship
+[Synonyms]
+  - philologist
+[Is a kind of]
+  - humanist
+    - scholar, scholarly person
+      - intellectual, intellect
+        - actor, doer, worker
+          - causal agent, cause, causal agency
+            - physical entity
+              - entity
+[Kinds]
+  - Furnivall, Frederick James Furnivall
+  - Humboldt, Baron Wilhelm von Humboldt, Baron Karl Wilhelm von Humboldt
+  - Muller, Max Muller, Friedrich Max Muller
+  - Murray, James Murray, James Augustus Murray, James Augustus Henry Murray, Sir James Murray, Sir James Augustus Murray, Sir James Augustus Henry Murray
+  - Rasmus Rask, Rask, Rasmus Christian Rask
+  - Skeat, Walter William Skeat
+  - Tolkien, J.R.R. Tolkien, John Ronald Reuel Tolkien
+  - Karl Verner, Verner, Karl Adolph Verner

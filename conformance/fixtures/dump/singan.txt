@@ -1,0 +1,28 @@
+term: Singan
+[Definitions]
+  - (noun) a city of central China; capital of ancient Chinese empire 221-206 BC
+[Synonyms]
+  - Xi'an
+  - Xian
+  - Sian
+  - Changan
+  - Hsian
+[Is a kind of]
+  - city, metropolis, urban center
+    - municipality
+      - urban area, populated area
+        - geographical area, geographic area, geographical region, geographic region
+          - region
+            - location
+              - object, physical object
+                - physical entity
+                  - entity
+      - administrative district, administrative division, territorial division
+        - district, territory, territorial dominion, dominion
+          - region
+            - location
+              - object, physical object
+                - physical entity
+                  - entity
+[Part of]
+  - China, People's Republic of China, mainland China, Communist China, Red China, PRC, Cathay

@@ -1,0 +1,15 @@
+term: genus Anthoceros
+[Definitions]
+  - (noun) the genus of hornworts (Anthoceros)
+[Synonyms]
+  - Anthoceros
+[Is a kind of]
+  - moss genus
+    - genus
+      - taxonomic group, taxonomic category, taxon
+        - biological group
+          - group, grouping
+            - abstraction, abstract entity
+              - entity
+[Part of]
+  - Anthocerotaceae, family Anthocerotaceae

@@ -1,0 +1,66 @@
+term: wharf
+[Definitions]
+  - (noun) a platform built out from the shore into the water and supported by piles; provides access to ships and boats
+  - (verb) provide with a wharf
+      "Wharf the mouth of the river"
+  - (verb) store on a wharf
+      "Wharf the merchandise"
+  - (verb) discharge at a wharf
+      "wharf the passengers"
+  - (verb) come into or dock at a wharf
+      "the big ship wharfed in the evening"
+  - (verb) moor at a wharf
+      "The ship was wharfed"
+[Synonyms]
+  - pier
+  - wharfage
+  - dock
+  - moor
+  - berth
+[Derived forms]
+  - moor
+  - berth
+  - pier
+  - wharfage
+  - dock
+[Is a kind of]
+  - platform
+    - horizontal surface, level
+      - surface
+        - artifact, artefact
+          - whole, unit
+            - object, physical object
+              - physical entity
+                - entity
+  - supply, provide, render, furnish, offer
+    - give
+      - transfer
+        - change, alter, modify
+          - induce, stimulate, cause, have, get, make
+            - act, move
+  - store
+    - keep, hold on
+      - have, have got, hold
+  - drop, drop off, set down, put down, unload, discharge
+    - deliver
+      - bring, get, convey, fetch
+        - transmit, transfer, transport, channel, channelize, channelise
+          - move, displace
+            - change, alter, modify
+              - induce, stimulate, cause, have, get, make
+                - act, move
+  - dock
+    - enter, come in, get into, get in, go into, go in, move into
+      - travel, go, move, locomote
+        - act, move
+  - moor, berth, tie up
+    - fasten, fix, secure
+      - attach
+        - connect, link, tie, link up
+          - act, move
+[Kinds]
+  - levee
+  - quay
+[Parts]
+  - bollard, bitt
+  - shipside

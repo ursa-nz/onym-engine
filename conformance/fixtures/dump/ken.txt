@@ -1,0 +1,25 @@
+term: ken
+[Definitions]
+  - (noun) range of what one can know or understand
+      "beyond my ken"
+  - (noun) the range of vision
+      "out of sight of land"
+[Synonyms]
+  - cognizance
+  - sight
+[Is a kind of]
+  - knowing
+    - higher cognitive process
+      - process, cognitive process, mental process, operation, cognitive operation
+        - cognition, knowledge, noesis
+          - psychological feature
+            - abstraction, abstract entity
+              - entity
+  - compass, range, reach, grasp
+    - capability, capableness, potentiality
+      - aptitude
+        - ability, power
+          - cognition, knowledge, noesis
+            - psychological feature
+              - abstraction, abstract entity
+                - entity

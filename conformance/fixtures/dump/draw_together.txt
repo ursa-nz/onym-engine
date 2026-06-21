@@ -1,0 +1,11 @@
+term: draw together
+[Definitions]
+  - (verb) bring together in a common cause or emotion
+      "The death of their child had drawn them together"
+[Synonyms]
+  - bond
+[Is a kind of]
+  - unite, unify
+    - change, alter, modify
+      - induce, stimulate, cause, have, get, make
+        - act, move

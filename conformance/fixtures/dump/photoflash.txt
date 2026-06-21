@@ -1,0 +1,46 @@
+term: photoflash
+[Definitions]
+  - (noun) a lamp for providing momentary light to take a photograph
+[Synonyms]
+  - flash
+  - flash lamp
+  - flashgun
+  - flashbulb
+  - flash bulb
+[Is a kind of]
+  - lamp
+    - source of illumination
+      - device
+        - instrumentality, instrumentation, means
+          - artifact, artefact
+            - whole, unit
+              - object, physical object
+                - physical entity
+                  - entity
+  - photographic equipment
+    - equipment
+      - instrumentality, instrumentation, means
+        - artifact, artefact
+          - whole, unit
+            - object, physical object
+              - physical entity
+                - entity
+[Part of]
+  - flash camera
+[Parts]
+  - lamp
+    - source of illumination
+      - device
+        - instrumentality, instrumentation, means
+          - artifact, artefact
+            - whole, unit
+              - part, portion
+              - section, segment
+  - photographic equipment
+    - flood, floodlight, flood lamp, photoflood
+    - equipment
+      - instrumentality, instrumentation, means
+        - artifact, artefact
+          - whole, unit
+            - part, portion
+            - section, segment

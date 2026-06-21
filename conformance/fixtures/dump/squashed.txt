@@ -1,0 +1,22 @@
+term: squashed
+[Definitions]
+  - (adjective) that has been violently compressed
+      "the squashed looking nakedness of the fledgling birds"
+  - (verb) to compress with violence, out of natural shape or condition
+      "crush an aluminum can"
+      "squeeze a lemon"
+[Synonyms]
+  - crush
+  - squelch
+  - mash
+  - squeeze
+[Is a kind of]
+  - press
+    - touch
+      - act, move
+[Kinds]
+  - wring
+  - stamp
+  - steamroller
+  - tread
+  - telescope

@@ -1,0 +1,6 @@
+term: homochromatic
+[Definitions]
+  - (adjective) (of light or other electromagnetic radiation) having only one wavelength
+      "monochromatic light"
+[Synonyms]
+  - monochromatic

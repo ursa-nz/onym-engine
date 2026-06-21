@@ -1,0 +1,16 @@
+term: provenience
+[Definitions]
+  - (noun) where something originated or was nurtured in its early existence
+      "the birthplace of civilization"
+[Synonyms]
+  - birthplace
+  - cradle
+  - place of origin
+  - provenance
+[Is a kind of]
+  - beginning, origin, root, rootage, source
+    - point
+      - location
+        - object, physical object
+          - physical entity
+            - entity

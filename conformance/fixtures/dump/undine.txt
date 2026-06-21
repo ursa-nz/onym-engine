@@ -1,0 +1,13 @@
+term: undine
+[Definitions]
+  - (noun) any of various female water spirits
+[Is a kind of]
+  - water sprite, water nymph, water spirit
+    - fairy, faery, faerie, fay, sprite
+      - spiritual being, supernatural being
+        - belief
+          - content, cognitive content, mental object
+            - cognition, knowledge, noesis
+              - psychological feature
+                - abstraction, abstract entity
+                  - entity

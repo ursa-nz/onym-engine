@@ -1,0 +1,148 @@
+term: pink
+[Definitions]
+  - (adjective) of a light shade of red
+  - (noun) a light shade of red
+  - (noun) any of various flowers of plants of the genus Dianthus cultivated for their fragrant flowers
+  - (noun) a person with mildly leftist political views
+  - (verb) make light, repeated taps on a surface
+      "he was tapping his fingers on the table impatiently"
+  - (verb) sound like a car engine that is firing too early
+      "the car pinged when I put in low-octane gasoline"
+      "The car pinked when the ignition was too far retarded"
+  - (verb) cut in a zigzag pattern with pinking shears, in sewing
+[Synonyms]
+  - garden pink
+  - pinko
+  - tap
+  - rap
+  - knock
+  - ping
+  - pinkish
+[Antonyms]
+  - chromatic (indirect)
+      -> achromatic
+      -> neutral
+[Derived forms]
+  - pinkish
+  - pinkify
+[Similar to]
+  - chromatic
+[Is a kind of]
+  - chromatic color, chromatic colour, spectral color, spectral colour
+    - color, colour, coloring, colouring
+      - visual property
+        - property
+          - attribute
+            - abstraction, abstract entity
+              - entity
+  - flower
+    - angiosperm, flowering plant
+      - spermatophyte, phanerogam, seed plant
+        - vascular plant, tracheophyte
+          - plant, flora, plant life
+            - organism, being
+              - living thing, animate thing
+                - whole, unit
+                  - object, physical object
+                    - physical entity
+                      - entity
+              - causal agent, cause, causal agency
+                - physical entity
+                  - entity
+  - collectivist, leftist, left-winger
+    - socialist
+      - politician, politico, pol, political leader
+        - leader
+          - actor, doer, worker
+            - causal agent, cause, causal agency
+              - physical entity
+                - entity
+  - sound, go
+    - cause to be perceived
+      - exist, be
+  - cut
+    - separate, disunite, divide, part
+      - move, displace
+        - change, alter, modify
+          - induce, stimulate, cause, have, get, make
+            - act, move
+[Kinds]
+  - pinkness
+  - carnation
+  - rose, rosiness
+    - old rose
+  - solferino, purplish pink
+  - yellowish pink, apricot, peach, salmon pink
+  - coral
+  - sweet William, Dianthus barbatus
+  - carnation, clove pink, gillyflower, Dianthus caryophyllus
+  - china pink, rainbow pink, Dianthus chinensis
+    - Japanese pink, Dianthus chinensis heddewigii
+  - maiden pink, Dianthus deltoides
+  - cheddar pink, Dianthus gratianopolitanus
+  - button pink, Dianthus latifolius
+  - cottage pink, grass pink, Dianthus plumarius
+  - fringed pink, Dianthus superbus
+[Part of]
+  - Dianthus, genus Dianthus
+[Parts]
+  - chromatic color, chromatic colour, spectral color, spectral colour
+    - saturation, chroma, intensity, vividness
+  - flower
+    - angiosperm, flowering plant
+      - flower, bloom, blossom
+        - stamen
+          - anther
+          - gynostegium
+        - pistil
+          - style
+            - stigma
+        - carpel
+        - ovary
+          - placenta
+        - floral leaf
+        - perianth, chlamys, floral envelope, perigone, perigonium
+          - corolla
+            - petal, flower petal
+            - corona
+          - calyx
+            - sepal
+      - spermatophyte, phanerogam, seed plant
+        - vascular plant, tracheophyte
+          - vascular system
+            - vessel, vas
+            - vascular tissue
+          - duct
+          - vascular tissue
+          - plant, flora, plant life
+            - hood, cap
+            - plant part, plant structure
+            - organism, being
+              - tissue
+              - cell
+                - cell membrane, cytomembrane, plasma membrane
+                - energid, protoplast
+                - cytoplasm, cytol
+                  - cytoskeleton
+                  - microsome
+                  - Golgi body, Golgi apparatus, Golgi complex, dictyosome
+                - nucleus, cell nucleus, karyon
+                  - nucleolus, nucleole
+                  - chromatin, chromatin granule
+                  - achromatin
+                  - linin
+                  - chromosome
+                    - nucleolus organizer, nucleolus organiser, nucleolar organizer, nucleolar organiser
+                    - chromatin, chromatin granule
+                    - gene, cistron, factor
+                    - chromatid
+                    - centromere, kinetochore
+                    - telomere
+                - organelle, cell organelle, cell organ
+                - vacuole
+              - body part
+                - corpus
+              - living thing, animate thing
+                - whole, unit
+                  - part, portion
+                  - section, segment

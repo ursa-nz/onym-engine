@@ -1,0 +1,13 @@
+term: interrogative pronoun
+[Definitions]
+  - (noun) a pronoun used in a question.
+      "In English and many other languages (e.g. French, Russian and Czech), the sets of relative and interrogative pronouns are nearly identical."
+[Is a kind of]
+  - pronoun
+    - function word, closed-class word
+      - word
+        - language unit, linguistic unit
+          - part, portion, component part, component, constituent
+            - relation
+              - abstraction, abstract entity
+                - entity

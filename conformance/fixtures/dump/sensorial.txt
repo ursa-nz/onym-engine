@@ -1,0 +1,13 @@
+term: sensorial
+[Definitions]
+  - (adjective) involving or derived from the senses
+      "sensory experience"
+      "sensory channels"
+[Synonyms]
+  - sensory
+[Derived forms]
+  - sense
+  - sensation
+  - sentience
+  - sentiency
+  - sensory faculty

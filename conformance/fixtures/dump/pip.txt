@@ -1,0 +1,103 @@
+term: pip
+[Definitions]
+  - (noun) a disease of poultry
+  - (noun) a minor nonspecific ailment
+  - (noun) a small hard seed found in some fruits
+  - (noun) a mark on a die or on a playing card (shape depending on the suit)
+  - (noun) a radar echo displayed so as to show the position of a reflecting surface
+  - (verb) kill by firing a missile
+  - (verb) hit with a missile from a weapon
+  - (verb) defeat thoroughly
+      "He mopped up the floor with his opponents"
+[Synonyms]
+  - spot
+  - blip
+  - radar target
+  - shoot
+  - hit
+  - worst
+  - mop up
+  - whip
+  - rack up
+[Is a kind of]
+  - animal disease
+    - disease
+      - illness, unwellness, malady, sickness
+        - ill health, unhealthiness, health problem
+          - pathological state
+            - physical condition, physiological state, physiological condition
+              - condition, status
+                - state
+                  - attribute
+                    - abstraction, abstract entity
+                      - entity
+  - ailment, complaint, ill
+    - disorder, upset
+      - physical condition, physiological state, physiological condition
+        - condition, status
+          - state
+            - attribute
+              - abstraction, abstract entity
+                - entity
+  - seed
+    - fruit
+      - reproductive structure
+        - plant organ
+          - plant part, plant structure
+            - natural object
+              - whole, unit
+                - object, physical object
+                  - physical entity
+                    - entity
+  - marker, marking, mark
+    - symbol
+      - signal, signaling, sign, signalling
+        - communication
+          - abstraction, abstract entity
+            - entity
+  - radar echo
+    - electronic signal
+      - signal, signaling, sign, signalling
+        - communication
+          - abstraction, abstract entity
+            - entity
+  - kill
+    - change, alter, modify
+      - induce, stimulate, cause, have, get, make
+        - act, move
+  - injure, wound
+    - hurt
+      - indispose
+        - change, alter, modify
+          - induce, stimulate, cause, have, get, make
+            - act, move
+  - beat, beat out, crush, shell, trounce, vanquish
+    - surpass, outstrip, outmatch, outgo, exceed, outdo, surmount, outperform
+      - get the better of, overcome, defeat
+        - win
+          - act, move
+[Kinds]
+  - flight
+  - pick off
+  - gun down
+  - grass
+  - kneecap
+  - down, shoot down, land
+[Part of]
+  - playing card
+[Parts]
+  - animal disease
+    - disease
+      - symptom
+      - sign
+      - syndrome
+  - seed
+    - kernel, meat
+    - fruit
+      - reproductive structure
+        - plant organ
+          - plant part, plant structure
+            - natural object
+              - whole, unit
+                - part, portion
+                - section, segment

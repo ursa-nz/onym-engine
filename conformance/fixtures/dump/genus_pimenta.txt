@@ -1,0 +1,18 @@
+term: genus Pimenta
+[Definitions]
+  - (noun) allspice tree
+[Synonyms]
+  - Pimenta
+[Is a kind of]
+  - dicot genus, magnoliopsid genus
+    - genus
+      - taxonomic group, taxonomic category, taxon
+        - biological group
+          - group, grouping
+            - abstraction, abstract entity
+              - entity
+[Part of]
+  - Myrtaceae, family Myrtaceae, myrtle family
+[Parts]
+  - bayberry, bay-rum tree, Jamaica bayberry, wild cinnamon, Pimenta acris
+  - allspice, allspice tree, pimento tree, Pimenta dioica

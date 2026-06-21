@@ -1,0 +1,14 @@
+term: launderette
+[Definitions]
+  - (noun) a self-service laundry (service mark Laundromat) where coin-operated washing machines are available to individual customers
+[Synonyms]
+  - Laundromat
+[Is a kind of]
+  - laundry
+    - workplace, work
+      - geographic point, geographical point
+        - point
+          - location
+            - object, physical object
+              - physical entity
+                - entity

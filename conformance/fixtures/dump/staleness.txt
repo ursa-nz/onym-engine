@@ -1,0 +1,32 @@
+term: staleness
+[Definitions]
+  - (noun) unoriginality as a result of being dull and hackneyed
+  - (noun) having lost purity and freshness as a consequence of aging
+[Synonyms]
+  - triteness
+[Antonyms]
+  - freshness (direct)
+[Derived forms]
+  - cold
+  - stale
+  - dusty
+  - moth-eaten
+[Attributes]
+  - stale
+[Is a kind of]
+  - unoriginality
+    - uncreativeness
+      - inability
+        - cognition, knowledge, noesis
+          - psychological feature
+            - abstraction, abstract entity
+              - entity
+  - oldness
+    - age
+      - property
+        - attribute
+          - abstraction, abstract entity
+            - entity
+[Kinds]
+  - camp
+  - mustiness, must, moldiness

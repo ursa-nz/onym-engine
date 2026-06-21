@@ -1,0 +1,56 @@
+term: unfrozen
+[Definitions]
+  - (adjective) not frozen
+      "unfrozen ground"
+  - (verb) become or cause to become soft or liquid
+      "The sun melted the ice"
+      "the ice thawed"
+      "the ice cream melted"
+      "The heat melted the wax"
+      "The giant iceberg dissolved over the years during the global warming phase"
+      "dethaw the meat"
+  - (verb) make (assets) available
+      "release the holdings in the dictator's bank account"
+[Synonyms]
+  - dissolve
+  - thaw
+  - unthaw
+  - dethaw
+  - melt
+  - unblock
+  - free
+  - release
+[Antonyms]
+  - freeze (direct)
+      -> block
+      -> immobilize
+      -> immobilise
+  - frozen (direct)
+      -> frostbitten
+      -> frost-bound
+      -> glaciated
+      -> icebound
+      -> ice-clogged
+      -> icy
+      -> sleety
+      -> unthawed
+[Similar to]
+  - ice-free
+  - liquescent
+  - melting
+  - slushy
+  - thawed
+[Is a kind of]
+  - liquefy, flux, liquify
+    - change integrity
+      - change
+        - act, move
+  - issue, supply
+    - distribute
+      - transfer
+        - change, alter, modify
+          - induce, stimulate, cause, have, get, make
+            - act, move
+[Kinds]
+  - deliquesce
+  - defrost, deice, de-ice

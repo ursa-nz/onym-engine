@@ -1,0 +1,20 @@
+term: crushed rock
+[Definitions]
+  - (noun) rock fragments and pebbles
+[Synonyms]
+  - gravel
+[Is a kind of]
+  - rock, stone
+    - material, stuff
+      - substance
+        - matter
+          - physical entity
+            - entity
+        - part, portion, component part, component, constituent
+          - relation
+            - abstraction, abstract entity
+              - entity
+[Kinds]
+  - ballast
+  - bank gravel, pit-run gravel, pit run
+  - shingle

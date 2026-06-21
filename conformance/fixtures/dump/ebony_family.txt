@@ -1,0 +1,18 @@
+term: ebony family
+[Definitions]
+  - (noun) fruit and timber trees of tropical and warm regions including ebony and persimmon
+[Synonyms]
+  - Ebenaceae
+  - family Ebenaceae
+[Is a kind of]
+  - dicot family, magnoliopsid family
+    - family
+      - taxonomic group, taxonomic category, taxon
+        - biological group
+          - group, grouping
+            - abstraction, abstract entity
+              - entity
+[Part of]
+  - Ebenales, order Ebenales
+[Parts]
+  - Diospyros, genus Diospyros

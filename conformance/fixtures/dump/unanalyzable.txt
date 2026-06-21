@@ -1,0 +1,12 @@
+term: unanalyzable
+[Definitions]
+  - (adjective) representing the furthest possible extent of analysis or division into parts
+      "a feeling is a simple and undecomposable mental state"
+      "this weight of evidence is something mystical and unanalyzable"
+[Synonyms]
+  - undecomposable
+[Antonyms]
+  - simple (indirect)
+      -> complex
+[Similar to]
+  - simple

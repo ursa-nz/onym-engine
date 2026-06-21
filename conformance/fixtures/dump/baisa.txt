@@ -1,0 +1,15 @@
+term: baisa
+[Definitions]
+  - (noun) 1,000 baiza equal 1 riyal-omani in Oman
+[Synonyms]
+  - baiza
+[Is a kind of]
+  - Omani monetary unit
+    - monetary unit
+      - unit of measurement, unit
+        - definite quantity
+          - measure, quantity, amount
+            - abstraction, abstract entity
+              - entity
+[Part of]
+  - riyal-omani, Omani rial, rial

@@ -17,7 +17,7 @@ term: hand
       "I didn't hold a good hand all evening"
       "he kept trying to see my hand"
   - (noun) one of two sides of an issue
-      "on the one hand..., but on the other hand..."
+      "on the one hand … , but on the other hand …"
   - (noun) a rotating pointer on the face of a timepiece
       "the big hand counts the minutes"
   - (noun) a unit of length equal to 4 inches; used in measuring horses
@@ -29,7 +29,7 @@ term: hand
   - (noun) a round of applause to signify approval
       "give the little lady a great big hand"
   - (noun) terminal part of the forelimb in certain vertebrates (e.g. apes or kangaroos)
-      "the kangaroo's forearms seem undeveloped but the powerful five-fingered hands are skilled at feinting and clouting- Springfield (Mass.) Union"
+      "the kangaroo's forearms seem undeveloped but the powerful five-fingered hands are skilled at feinting and clouting"
   - (noun) physical assistance
       "give me a hand with the chores"
   - (verb) place into the hands or custody of
@@ -43,7 +43,6 @@ term: hand
   - mitt
   - paw
   - hired hand
-  - hired man
   - handwriting
   - script
   - deal
@@ -73,16 +72,10 @@ term: hand
             - physical entity
               - entity
   - laborer, manual laborer, labourer, jack
-    - workman, workingman, working man, working person
+    - working person
       - employee
         - worker
-          - person, individual, someone, somebody, mortal, soul
-            - organism, being
-              - living thing, animate thing
-                - whole, unit
-                  - object, physical object
-                    - physical entity
-                      - entity
+          - actor, doer, worker
             - causal agent, cause, causal agency
               - physical entity
                 - entity
@@ -109,7 +102,7 @@ term: hand
   - pointer
     - indicator
       - device
-        - instrumentality, instrumentation
+        - instrumentality, instrumentation, means
           - artifact, artefact
             - whole, unit
               - object, physical object
@@ -122,29 +115,17 @@ term: hand
           - measure, quantity, amount
             - abstraction, abstract entity
               - entity
-  - sailor, crewman
-    - skilled worker, trained worker, skilled workman
+  - sailor
+    - skilled worker, trained worker
       - worker
-        - person, individual, someone, somebody, mortal, soul
-          - organism, being
-            - living thing, animate thing
-              - whole, unit
-                - object, physical object
-                  - physical entity
-                    - entity
+        - actor, doer, worker
           - causal agent, cause, causal agency
             - physical entity
               - entity
   - card player
     - player, participant
       - contestant
-        - person, individual, someone, somebody, mortal, soul
-          - organism, being
-            - living thing, animate thing
-              - whole, unit
-                - object, physical object
-                  - physical entity
-                    - entity
+        - actor, doer, worker
           - causal agent, cause, causal agency
             - physical entity
               - entity
@@ -169,40 +150,55 @@ term: hand
     - activity
       - act, deed, human action, human activity
         - event
-          - psychological feature
-            - abstraction, abstract entity
-              - entity
+          - abstraction, abstract entity
+            - entity
   - transfer
+    - change, alter, modify
+      - induce, stimulate, cause, have, get, make
+        - act, move
   - lead, take, direct, conduct, guide
+    - act, move
 [Kinds]
   - fist, clenched fist
   - hooks, meat hooks, maulers
   - right, right hand
   - left, left hand
   - farmhand, fieldhand, field hand, farm worker
-    - dairymaid, milkmaid
+    - dairymaid, milkmaid, dairywoman
     - dairyman
     - farmerette
     - gleaner
     - harvester, reaper
       - vintager
     - picker
-    - plowman, ploughman, plower
+    - plower
+      - ploughwoman, plowwoman
+      - ploughman, plowman
     - waterer
     - weeder
-  - herder, herdsman, drover
+  - herder, drover
     - goat herder, goatherd
-    - sheepherder, shepherd, sheepman
+    - sheepherder, shepherd
       - shepherdess
-    - swineherd, pigman
+      - sheepman
+      - sheepwoman
+    - swineherd
+      - pigman
+    - herdsman
+    - herdswoman
   - ranch hand
-    - cowboy, cowpuncher, puncher, cowman, cattleman, cowpoke, cowhand, cowherd
+    - cowpuncher, puncher, cowpoke, cowhand, cowherd
       - vaquero, buckaroo, buckeroo
       - cowgirl
       - gaucho
       - horse wrangler, wrangler
       - roper
-  - stableman, stableboy, groom, hostler, ostler
+      - cowboy, cowman, cattleman
+  - groom, hostler, ostler
+    - stablewoman, stablegirl
+    - stableman, stableboy
+  - hired woman
+  - hired man
   - shorthand, stenography, tachygraphy
   - longhand, running hand, cursive, cursive script
     - minuscule
@@ -241,23 +237,23 @@ term: hand
     - derequisition
     - sacrifice, give
   - entrust, intrust, trust, confide, commit
-    - commend
     - consign, charge
+      - pawn, soak, hock
+      - check
+      - check
       - pledge
         - collateralize
         - give
         - hypothecate
-      - pawn, soak, hock
-      - check
-      - check
     - recommit
     - obligate
+    - commend
   - entrust, leave
 [Part of]
-  - arm
-    - body, organic structure, physical structure
-    - homo, man, human being, human
   - homo, man, human being, human
+  - arm
+    - homo, man, human being, human
+    - body, organic structure
   - timepiece, timekeeper, horologe
 [Parts]
   - digital arteries, arteria digitalis

@@ -1,0 +1,14 @@
+term: color sergeant
+[Definitions]
+  - (noun) a sergeant in a color guard who carries one of the colors
+[Is a kind of]
+  - sergeant
+    - noncommissioned officer, noncom, enlisted officer
+      - military officer, officer
+        - military personnel
+          - skilled worker, trained worker
+            - worker
+              - actor, doer, worker
+                - causal agent, cause, causal agency
+                  - physical entity
+                    - entity

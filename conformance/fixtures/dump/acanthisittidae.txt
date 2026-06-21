@@ -1,0 +1,26 @@
+term: Acanthisittidae
+[Definitions]
+  - (noun) alternative names for the family comprising the New Zealand wrens
+[Synonyms]
+  - Xenicidae
+  - family Xenicidae
+  - family Acanthisittidae
+[Is a kind of]
+  - bird family
+    - family
+      - taxonomic group, taxonomic category, taxon
+        - biological group
+          - group, grouping
+            - abstraction, abstract entity
+              - entity
+[Part of]
+  - Oscines, suborder Oscines, Passeres, suborder Passeres
+    - Passeriformes, order Passeriformes
+      - Aves, class Aves
+        - Vertebrata, subphylum Vertebrata, Craniata, subphylum Craniata
+          - Chordata, phylum Chordata
+            - Animalia, kingdom Animalia, animal kingdom
+[Parts]
+  - New Zealand wren
+  - Xenicus, genus Xenicus
+  - Acanthisitta, genus Acanthisitta

@@ -1,0 +1,66 @@
+term: bedstraw
+[Definitions]
+  - (noun) any of several plants of the genus Galium
+[Is a kind of]
+  - herb, herbaceous plant
+    - vascular plant, tracheophyte
+      - plant, flora, plant life
+        - organism, being
+          - living thing, animate thing
+            - whole, unit
+              - object, physical object
+                - physical entity
+                  - entity
+          - causal agent, cause, causal agency
+            - physical entity
+              - entity
+[Kinds]
+  - sweet woodruff, waldmeister, woodruff, fragrant bedstraw, Galium odoratum, Asperula odorata
+  - Northern bedstraw, Northern snow bedstraw, Galium boreale
+  - yellow bedstraw, yellow cleavers, Our Lady's bedstraw, Galium verum
+  - wild licorice, Galium lanceolatum
+  - cleavers, clivers, goose grass, catchweed, spring cleavers, Galium aparine
+  - wild madder, white madder, white bedstraw, infant's-breath, false baby's breath, Galium mollugo
+[Part of]
+  - Galium, genus Galium
+[Parts]
+  - herb, herbaceous plant
+    - vegetable, veggie, veg
+    - vascular plant, tracheophyte
+      - vascular system
+        - vessel, vas
+        - vascular tissue
+      - duct
+      - vascular tissue
+      - plant, flora, plant life
+        - hood, cap
+        - plant part, plant structure
+        - organism, being
+          - tissue
+          - cell
+            - cell membrane, cytomembrane, plasma membrane
+            - energid, protoplast
+            - cytoplasm, cytol
+              - cytoskeleton
+              - microsome
+              - Golgi body, Golgi apparatus, Golgi complex, dictyosome
+            - nucleus, cell nucleus, karyon
+              - nucleolus, nucleole
+              - chromatin, chromatin granule
+              - achromatin
+              - linin
+              - chromosome
+                - nucleolus organizer, nucleolus organiser, nucleolar organizer, nucleolar organiser
+                - chromatin, chromatin granule
+                - gene, cistron, factor
+                - chromatid
+                - centromere, kinetochore
+                - telomere
+            - organelle, cell organelle, cell organ
+            - vacuole
+          - body part
+            - corpus
+          - living thing, animate thing
+            - whole, unit
+              - part, portion
+              - section, segment

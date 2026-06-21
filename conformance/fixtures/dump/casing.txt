@@ -6,7 +6,7 @@ term: casing
   - (noun) the enclosing frame around a door or window opening
       "the casings had rotted away and had to be replaced"
   - (verb) look over, usually with the intention to rob
-      "They men cased the housed"
+      "The men cased the house"
   - (verb) enclose in, or as if in, a case
       "my feet were encased in mud"
 [Synonyms]
@@ -39,7 +39,7 @@ term: casing
         - object, physical object
           - physical entity
             - entity
-  - framework
+  - framework, frame
     - supporting structure
       - structure, construction
         - artifact, artefact
@@ -49,9 +49,14 @@ term: casing
                 - entity
   - inspect
     - examine, see
+      - observe
+        - watch
+          - look
+            - act, move
   - enclose, close in, inclose, shut in
     - surround, environ, ring, skirt, border
       - touch, adjoin, meet, contact
+        - act, move
 [Kinds]
   - boot
   - gearbox, gear box, gear case
@@ -83,7 +88,7 @@ term: casing
       - whole, unit
         - part, portion
         - section, segment
-  - framework
+  - framework, frame
     - backing, mount
     - brace, bracing
     - supporting structure

@@ -1,0 +1,38 @@
+term: directive
+[Definitions]
+  - (noun) a pronouncement encouraging or banning some activity
+      "the boss loves to send us directives"
+  - (adjective) showing the way by conducting or leading; imposing direction on
+      "felt his mother's directing arm around him"
+      "the directional role of science on industrial progress"
+[Synonyms]
+  - directing
+  - directional
+  - guiding
+[Antonyms]
+  - leading (indirect)
+      -> following
+[Derived forms]
+  - directing
+  - directional
+  - guiding
+  - direct
+  - directivity
+  - directiveness
+  - mastermind
+  - engineer
+  - organize
+  - organise
+  - orchestrate
+[Similar to]
+  - leading
+[Is a kind of]
+  - pronouncement, dictum, say-so
+    - declaration
+      - statement
+        - message, content, subject matter, substance
+          - communication
+            - abstraction, abstract entity
+              - entity
+[Kinds]
+  - presidential directive, executive action

@@ -1,0 +1,17 @@
+term: falderol
+[Definitions]
+  - (noun) ornamental objects of no great value
+[Synonyms]
+  - folderal
+  - frill
+  - gimcrackery
+  - gimcrack
+  - nonsense
+  - trumpery
+[Is a kind of]
+  - decoration, ornament, ornamentation
+    - artifact, artefact
+      - whole, unit
+        - object, physical object
+          - physical entity
+            - entity

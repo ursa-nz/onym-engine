@@ -1,0 +1,19 @@
+term: capacitor mike
+[Definitions]
+  - (noun) microphone consisting of a capacitor with one plate fixed and the other forming the diaphragm moved by sound waves
+[Synonyms]
+  - condenser microphone
+  - capacitor microphone
+  - condenser mike
+[Is a kind of]
+  - microphone, mike, mic
+    - electro-acoustic transducer
+      - transducer
+        - electrical device
+          - device
+            - instrumentality, instrumentation, means
+              - artifact, artefact
+                - whole, unit
+                  - object, physical object
+                    - physical entity
+                      - entity

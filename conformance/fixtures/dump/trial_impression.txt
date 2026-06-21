@@ -1,0 +1,23 @@
+term: trial impression
+[Definitions]
+  - (noun) (printing) an impression made to check for errors
+[Synonyms]
+  - proof
+  - test copy
+[Is a kind of]
+  - impression, printing
+    - publication
+      - work, piece of work
+        - product, production
+          - creation
+            - artifact, artefact
+              - whole, unit
+                - object, physical object
+                  - physical entity
+                    - entity
+[Kinds]
+  - galley proof
+  - foundry proof
+[Domains]
+  - printing
+  - printing process

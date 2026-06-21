@@ -1,0 +1,17 @@
+term: trawl net
+[Definitions]
+  - (noun) a conical fishnet dragged through the water at great depths
+[Synonyms]
+  - trawl
+  - dragnet
+[Is a kind of]
+  - fishnet, fishing net
+    - net
+      - trap
+        - device
+          - instrumentality, instrumentation, means
+            - artifact, artefact
+              - whole, unit
+                - object, physical object
+                  - physical entity
+                    - entity

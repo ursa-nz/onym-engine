@@ -1,0 +1,8 @@
+term: fimbriate
+[Definitions]
+  - (adjective) having a fringe of slender processes
+[Antonyms]
+  - rough (indirect)
+      -> smooth
+[Similar to]
+  - rough

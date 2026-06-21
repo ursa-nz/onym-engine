@@ -1,0 +1,34 @@
+term: six-spot
+[Definitions]
+  - (noun) a playing card or domino or die whose upward face shows six pips
+[Synonyms]
+  - six
+[Is a kind of]
+  - spot
+    - playing card
+      - card
+        - paper
+          - material, stuff
+            - substance
+              - matter
+                - physical entity
+                  - entity
+              - part, portion, component part, component, constituent
+                - relation
+                  - abstraction, abstract entity
+                    - entity
+  - domino
+    - block
+      - artifact, artefact
+        - whole, unit
+          - object, physical object
+            - physical entity
+              - entity
+  - die, dice
+    - cube, square block
+      - block
+        - artifact, artefact
+          - whole, unit
+            - object, physical object
+              - physical entity
+                - entity

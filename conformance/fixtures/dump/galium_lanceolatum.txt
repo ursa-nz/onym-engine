@@ -1,0 +1,19 @@
+term: Galium lanceolatum
+[Definitions]
+  - (noun) bedstraw with sweetish roots
+[Synonyms]
+  - wild licorice
+[Is a kind of]
+  - bedstraw
+    - herb, herbaceous plant
+      - vascular plant, tracheophyte
+        - plant, flora, plant life
+          - organism, being
+            - living thing, animate thing
+              - whole, unit
+                - object, physical object
+                  - physical entity
+                    - entity
+            - causal agent, cause, causal agency
+              - physical entity
+                - entity

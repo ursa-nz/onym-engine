@@ -1,0 +1,21 @@
+term: small-leaved linden
+[Definitions]
+  - (noun) large spreading European linden with small dark green leaves; often cultivated as an ornamental
+[Synonyms]
+  - small-leaved lime
+  - Tilia cordata
+[Is a kind of]
+  - linden, linden tree, basswood, lime, lime tree
+    - tree
+      - woody plant, ligneous plant
+        - vascular plant, tracheophyte
+          - plant, flora, plant life
+            - organism, being
+              - living thing, animate thing
+                - whole, unit
+                  - object, physical object
+                    - physical entity
+                      - entity
+              - causal agent, cause, causal agency
+                - physical entity
+                  - entity

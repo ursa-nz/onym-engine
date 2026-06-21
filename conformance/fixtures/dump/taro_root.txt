@@ -1,0 +1,25 @@
+term: taro root
+[Definitions]
+  - (noun) tropical starchy tuberous root
+[Synonyms]
+  - taro
+  - cocoyam
+  - dasheen
+  - edda
+[Is a kind of]
+  - root vegetable
+    - vegetable, veggie, veg
+      - produce, green goods, green groceries, garden truck
+        - solid food
+          - solid
+            - matter
+              - physical entity
+                - entity
+          - food, nutrient
+            - substance
+              - matter
+                - physical entity
+                  - entity
+[Part of]
+  - poi
+  - taro, taro plant, dalo, dasheen, Colocasia esculenta

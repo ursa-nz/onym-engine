@@ -12,7 +12,7 @@ term: sang
       "the kettle was singing"
       "the bullet sang past his ear"
   - (verb) divulge confidential information or secrets
-      "Be careful--his secretary talks"
+      "Be careful — his secretary talks"
 [Synonyms]
   - American ginseng
   - Panax quinquefolius
@@ -51,16 +51,29 @@ term: sang
               - object, physical object
                 - physical entity
                   - entity
+          - causal agent, cause, causal agency
+            - physical entity
+              - entity
   - interpret, render
     - perform, execute, do
+      - act, move
   - talk, speak, utter, mouth, verbalize, verbalise
     - communicate, intercommunicate
       - interact
         - act, move
   - utter, emit, let out, let loose
+    - express, show, evince
+      - convey
+        - impart, leave, give, pass on
+          - tell
+            - inform
+              - communicate, intercommunicate
+                - interact
+                  - act, move
   - sound, go
     - cause to be perceived
-  - unwrap, disclose, let on, bring out, reveal, discover, expose, divulge, break, give away, let out
+      - exist, be
+  - unwrap, disclose, let on, bring out, reveal, discover, expose, divulge, break, give away, let out, uncover
     - tell
       - inform
         - communicate, intercommunicate
@@ -72,14 +85,6 @@ term: sang
   - hymn
   - carol
   - madrigal
-  - place
-  - croon
-  - chant, intone, intonate, cantillate
-    - singsong
-  - yodel, warble, descant
-  - warble, trill, quaver
-  - treble
-  - hum
   - belt out, belt
   - descant on
   - vocalize, vocalise
@@ -90,6 +95,14 @@ term: sang
   - minstrel
   - tweedle, chirp
   - choir, chorus
+  - place
+  - croon
+  - chant, intone, intonate, cantillate
+    - singsong
+  - yodel, warble, descant
+  - warble, trill, quaver
+  - treble
+  - hum
 [Part of]
   - Panax, genus Panax
 [Parts]

@@ -1,0 +1,39 @@
+term: Ara
+[Definitions]
+  - (noun) a constellation in the Southern Hemisphere near Telescopium and Norma
+  - (noun) macaws
+  - (noun) a river that rises in northeastern Turkey (near the source of the Euphrates) and flows generally eastward through Armenia to the Caspian Sea; ancient name was Araxes
+[Synonyms]
+  - Araxes
+  - genus Ara
+[Is a kind of]
+  - river
+    - stream, watercourse
+      - body of water, water
+        - thing
+          - physical entity
+            - entity
+  - constellation
+    - natural object
+      - whole, unit
+        - object, physical object
+          - physical entity
+            - entity
+  - bird genus
+    - genus
+      - taxonomic group, taxonomic category, taxon
+        - biological group
+          - group, grouping
+            - abstraction, abstract entity
+              - entity
+[Part of]
+  - Armenia, Republic of Armenia, Hayastan
+  - Turkey, Republic of Turkey
+  - Psittacidae, family Psittacidae
+    - Psittaciformes, order Psittaciformes
+      - Aves, class Aves
+        - Vertebrata, subphylum Vertebrata, Craniata, subphylum Craniata
+          - Chordata, phylum Chordata
+            - Animalia, kingdom Animalia, animal kingdom
+[Parts]
+  - macaw

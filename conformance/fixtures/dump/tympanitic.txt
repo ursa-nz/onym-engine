@@ -1,6 +1,0 @@
-term: tympanitic
-[Definitions]
-  - (adjective) of or relating to tympanites
-[Pertains to]
-  - tympanites
-    - dilatation, distension, distention

@@ -1,0 +1,20 @@
+term: topographic anatomy
+[Definitions]
+  - (noun) the study of anatomy based on regions or divisions of the body and emphasizing the relations between various structures (muscles and nerves and arteries etc.) in that region
+[Synonyms]
+  - regional anatomy
+  - topology
+[Is a kind of]
+  - anatomy, general anatomy
+    - morphology
+      - biology, biological science
+        - life science, bioscience
+          - natural science
+            - science, scientific discipline
+              - discipline, subject, subject area, subject field, field, field of study, study, bailiwick
+                - knowledge domain, knowledge base, domain
+                  - content, cognitive content, mental object
+                    - cognition, knowledge, noesis
+                      - psychological feature
+                        - abstraction, abstract entity
+                          - entity

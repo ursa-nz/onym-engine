@@ -1,0 +1,17 @@
+term: nonliteral
+[Definitions]
+  - (adjective) (used of the meanings of words or text) not literal; using figures of speech
+      "figurative language"
+[Synonyms]
+  - figurative
+[Similar to]
+  - analogical
+  - extended
+  - metaphorical
+  - metaphoric
+  - metonymic
+  - metonymical
+  - poetic
+  - synecdochic
+  - synecdochical
+  - tropical

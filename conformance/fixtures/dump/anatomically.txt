@@ -1,6 +1,0 @@
-term: anatomically
-[Definitions]
-  - (adverb) with respect to anatomy
-      "anatomically correct"
-[Pertains to]
-  - anatomic, anatomical

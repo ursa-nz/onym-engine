@@ -1,0 +1,22 @@
+term: better-known
+[Definitions]
+  - (adjective) more familiar or renowned than the other of two
+      "the better-known book of the two"
+  - (adjective) widely or fully known
+      "a well-known politician"
+      "well-known facts"
+      "a politician who is well known"
+      "these facts are well known"
+  - (adjective) frequently experienced; known closely or intimately
+      "a long-familiar face"
+      "a well-known voice reached her ears"
+[Synonyms]
+  - long-familiar
+[Antonyms]
+  - known (indirect)
+      -> unknown
+  - familiar (indirect)
+      -> unfamiliar
+[Similar to]
+  - known
+  - familiar

@@ -1,0 +1,12 @@
+term: tighten up
+[Definitions]
+  - (verb) severely restrict in scope or extent
+      "tighten the rules"
+      "stiffen the regulations"
+[Synonyms]
+  - stiffen
+  - tighten
+  - constrain
+[Is a kind of]
+  - restrict, trammel, limit, bound, confine, throttle
+    - act, move

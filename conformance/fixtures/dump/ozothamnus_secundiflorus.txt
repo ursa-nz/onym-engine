@@ -1,0 +1,25 @@
+term: Ozothamnus secundiflorus
+[Definitions]
+  - (noun) shrub with white woolly branches and woolly leaves having fragrant flowers forming long sprays; flowers suitable for drying; sometimes placed in genus Helichrysum
+[Synonyms]
+  - cascade everlasting
+  - Helichrysum secundiflorum
+[Is a kind of]
+  - everlasting, everlasting flower
+    - composite, composite plant
+      - flower
+        - angiosperm, flowering plant
+          - spermatophyte, phanerogam, seed plant
+            - vascular plant, tracheophyte
+              - plant, flora, plant life
+                - organism, being
+                  - living thing, animate thing
+                    - whole, unit
+                      - object, physical object
+                        - physical entity
+                          - entity
+                  - causal agent, cause, causal agency
+                    - physical entity
+                      - entity
+[Part of]
+  - Ozothamnus, genus Ozothamnus

@@ -1,0 +1,33 @@
+term: LCD
+[Definitions]
+  - (noun) a digital display that uses liquid crystal cells that change reflectivity in an applied electric field; used for portable computer displays and watches etc.
+[Synonyms]
+  - liquid crystal display
+[Is a kind of]
+  - digital display, alphanumeric display
+    - display, video display
+      - electronic device
+        - device
+          - instrumentality, instrumentation, means
+            - artifact, artefact
+              - whole, unit
+                - object, physical object
+                  - physical entity
+                    - entity
+[Kinds]
+  - active matrix screen
+  - passive matrix display
+    - dual scan display
+[Parts]
+  - digital display, alphanumeric display
+    - light-emitting diode, LED
+    - display, video display
+      - raster
+        - pixel, pel, picture element
+      - electronic device
+        - device
+          - instrumentality, instrumentation, means
+            - artifact, artefact
+              - whole, unit
+                - part, portion
+                - section, segment

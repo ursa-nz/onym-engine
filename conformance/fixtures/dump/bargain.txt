@@ -1,0 +1,56 @@
+term: bargain
+[Definitions]
+  - (noun) an agreement between parties (usually arrived at after discussion) fixing obligations of each
+      "he made a bargain with the devil"
+      "he rose to prominence through a series of shady deals"
+  - (noun) an advantageous purchase
+      "she got a bargain at the auction"
+      "the stock was a real buy at that price"
+  - (verb) negotiate the terms of an exchange
+      "We bargained for a beautiful rug in the bazaar"
+  - (verb) come to terms; arrive at an agreement
+[Synonyms]
+  - deal
+  - buy
+  - steal
+  - dicker
+[Derived forms]
+  - dicker
+  - buy
+  - steal
+  - deal
+  - bargainer
+  - bargaining
+[Is a kind of]
+  - agreement, understanding
+    - statement
+      - message, content, subject matter, substance
+        - communication
+          - abstraction, abstract entity
+            - entity
+  - purchase
+    - acquisition
+      - transferred property, transferred possession
+        - possession
+          - relation
+            - abstraction, abstract entity
+              - entity
+  - negociate, negotiate, talk terms
+    - hash out, discuss, talk over
+      - talk of, talk about
+        - talk, speak, utter, mouth, verbalize, verbalise
+          - communicate, intercommunicate
+            - interact
+              - act, move
+  - agree
+    - accept, consent, go for
+      - react, respond
+        - act, move
+[Kinds]
+  - song
+  - travel bargain
+  - haggle, higgle, chaffer, huckster
+    - beat down, bargain down
+[Parts]
+  - agreement, understanding
+    - condition, strings, term

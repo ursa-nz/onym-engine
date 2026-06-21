@@ -1,0 +1,32 @@
+term: trombone
+[Definitions]
+  - (noun) a brass instrument consisting of a long tube whose length can be varied by a U-shaped slide
+[Derived forms]
+  - trombonist
+  - trombone player
+[Is a kind of]
+  - brass, brass instrument
+    - wind instrument, wind
+      - musical instrument, instrument
+        - device
+          - instrumentality, instrumentation, means
+            - artifact, artefact
+              - whole, unit
+                - object, physical object
+                  - physical entity
+                    - entity
+[Kinds]
+  - sackbut
+[Parts]
+  - brass, brass instrument
+    - valve
+    - wind instrument, wind
+      - bell
+      - mouthpiece, embouchure
+      - musical instrument, instrument
+        - device
+          - instrumentality, instrumentation, means
+            - artifact, artefact
+              - whole, unit
+                - part, portion
+                - section, segment

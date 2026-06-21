@@ -1,0 +1,23 @@
+term: underspend
+[Definitions]
+  - (verb) spend less than the whole of (a budget, for example)
+  - (verb) spend at less than the normal rate
+[Antonyms]
+  - overspend (direct)
+[Is a kind of]
+  - spend
+    - consume, eat up, use up, eat, deplete, exhaust, run through, wipe out, use, expend
+      - spend, expend, drop
+        - pay
+          - give
+            - transfer
+              - change, alter, modify
+                - induce, stimulate, cause, have, get, make
+                  - act, move
+  - spend, expend, drop
+    - pay
+      - give
+        - transfer
+          - change, alter, modify
+            - induce, stimulate, cause, have, get, make
+              - act, move

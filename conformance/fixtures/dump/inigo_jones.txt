@@ -1,0 +1,12 @@
+term: Inigo Jones
+[Definitions]
+  - (noun) one of the first great English architects and a theater designer (1573-1652)
+[Synonyms]
+  - Jones
+[Is a kind of]
+  - architect, designer
+    - creator
+      - actor, doer, worker
+        - causal agent, cause, causal agency
+          - physical entity
+            - entity

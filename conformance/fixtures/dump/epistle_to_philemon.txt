@@ -1,0 +1,29 @@
+term: Epistle to Philemon
+[Definitions]
+  - (noun) a New Testament book containing an epistle from Saint Paul to Philemon asking Philemon to forgive the slave for escaping
+[Synonyms]
+  - Epistle of Paul the Apostle to Philemon
+  - Philemon
+[Is a kind of]
+  - epistle
+    - book
+      - section, subdivision
+        - writing, written material, piece of writing
+          - written communication, written language, black and white
+            - communication
+              - abstraction, abstract entity
+                - entity
+        - music
+          - auditory communication
+            - communication
+              - abstraction, abstract entity
+                - entity
+  - New Testament
+    - will, testament
+      - legal document, legal instrument, official document, instrument
+        - document, written document, papers
+          - writing, written material, piece of writing
+            - written communication, written language, black and white
+              - communication
+                - abstraction, abstract entity
+                  - entity

@@ -1,0 +1,32 @@
+term: snaffle
+[Definitions]
+  - (verb) get hold of or seize quickly and easily
+      "I snapped up all the good buys during the garage sale"
+  - (verb) fit or restrain with a snaffle
+      "snaffle a horse"
+  - (noun) a simple jointed bit for a horse; without a curb
+[Synonyms]
+  - snaffle bit
+  - snap up
+  - grab
+[Derived forms]
+  - snaffle bit
+[Is a kind of]
+  - bit
+    - stable gear, saddlery, tack
+      - gear, paraphernalia, appurtenance
+        - equipment
+          - instrumentality, instrumentation, means
+            - artifact, artefact
+              - whole, unit
+                - object, physical object
+                  - physical entity
+                    - entity
+  - take
+    - act, move
+  - bridle
+    - restrain, encumber, cumber
+      - restrict, trammel, limit, bound, confine, throttle
+        - act, move
+[Kinds]
+  - hog

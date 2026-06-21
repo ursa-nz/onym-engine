@@ -1,0 +1,200 @@
+term: taxman
+[Definitions]
+  - (noun) a man who collects taxes for the government
+[Synonyms]
+  - exciseman
+[Is a kind of]
+  - tax collector, collector of internal revenue, internal revenue agent
+    - bureaucrat, administrative official
+      - official, functionary
+        - skilled worker, trained worker
+          - worker
+            - actor, doer, worker
+              - causal agent, cause, causal agency
+                - physical entity
+                  - entity
+  - man, adult male
+    - male, male person
+      - person, individual, someone, somebody, mortal, soul
+        - organism, being
+          - living thing, animate thing
+            - whole, unit
+              - object, physical object
+                - physical entity
+                  - entity
+          - causal agent, cause, causal agency
+            - physical entity
+              - entity
+    - adult, grownup
+      - person, individual, someone, somebody, mortal, soul
+        - organism, being
+          - living thing, animate thing
+            - whole, unit
+              - object, physical object
+                - physical entity
+                  - entity
+          - causal agent, cause, causal agency
+            - physical entity
+              - entity
+[Parts]
+  - man, adult male
+    - adult male body, man's body
+      - beard, face fungus, whiskers
+        - mustache, moustache
+    - male, male person
+      - male body
+        - male reproductive system
+          - prostate gland, prostate
+          - sperm, sperm cell, spermatozoon, spermatozoan
+            - flagellum
+            - acrosome
+          - male genitalia, male genitals, male genital organ, family jewels
+            - scrotum
+              - raphe, rhaphe
+              - seminal duct
+                - epididymis
+                  - vasa efferentia
+                - vas deferens, ductus deferens
+                - ejaculatory duct
+            - testis, testicle, orchis, ball, ballock, bollock, nut, egg
+              - testicular artery, internal spermatic artery, arteria testicularis
+              - testicular vein, vena testicularis
+              - seminiferous tubule
+              - epididymis
+                - vasa efferentia
+              - rete testis
+              - vas deferens, ductus deferens
+              - spermatic cord
+            - male reproductive gland
+            - penis, phallus, member
+              - glans penis
+              - vena bulbi penis
+              - urethra
+                - urethral orifice, external orifice
+                - urethral sphincter, musculus sphincter urethrae
+              - prepuce, foreskin
+          - Cowper's gland, bulbourethral gland
+          - testis, testicle, orchis, ball, ballock, bollock, nut, egg
+            - testicular artery, internal spermatic artery, arteria testicularis
+            - testicular vein, vena testicularis
+            - seminiferous tubule
+            - epididymis
+              - vasa efferentia
+            - rete testis
+            - vas deferens, ductus deferens
+            - spermatic cord
+          - vas deferens, ductus deferens
+          - penis, phallus, member
+            - glans penis
+            - vena bulbi penis
+            - urethra
+              - urethral orifice, external orifice
+              - urethral sphincter, musculus sphincter urethrae
+            - prepuce, foreskin
+          - seminal vesicle
+        - male genitalia, male genitals, male genital organ, family jewels
+          - scrotum
+            - raphe, rhaphe
+            - seminal duct
+              - epididymis
+                - vasa efferentia
+              - vas deferens, ductus deferens
+              - ejaculatory duct
+          - testis, testicle, orchis, ball, ballock, bollock, nut, egg
+            - testicular artery, internal spermatic artery, arteria testicularis
+            - testicular vein, vena testicularis
+            - seminiferous tubule
+            - epididymis
+              - vasa efferentia
+            - rete testis
+            - vas deferens, ductus deferens
+            - spermatic cord
+          - male reproductive gland
+          - penis, phallus, member
+            - glans penis
+            - vena bulbi penis
+            - urethra
+              - urethral orifice, external orifice
+              - urethral sphincter, musculus sphincter urethrae
+            - prepuce, foreskin
+        - male internal reproductive organ
+        - male chest
+      - person, individual, someone, somebody, mortal, soul
+        - personality
+          - trait
+          - character, fiber, fibre
+            - thoughtfulness
+            - responsibility, responsibleness
+            - integrity
+          - nature
+        - human body, physical body, material body, soma, build, figure, physique, anatomy, shape, bod, chassis, frame, form, flesh
+        - organism, being
+          - tissue
+          - cell
+            - cell membrane, cytomembrane, plasma membrane
+            - energid, protoplast
+            - cytoplasm, cytol
+              - cytoskeleton
+              - microsome
+              - Golgi body, Golgi apparatus, Golgi complex, dictyosome
+            - nucleus, cell nucleus, karyon
+              - nucleolus, nucleole
+              - chromatin, chromatin granule
+              - achromatin
+              - linin
+              - chromosome
+                - nucleolus organizer, nucleolus organiser, nucleolar organizer, nucleolar organiser
+                - chromatin, chromatin granule
+                - gene, cistron, factor
+                - chromatid
+                - centromere, kinetochore
+                - telomere
+            - organelle, cell organelle, cell organ
+            - vacuole
+          - body part
+            - corpus
+          - living thing, animate thing
+            - whole, unit
+              - part, portion
+              - section, segment
+    - adult, grownup
+      - adult body
+        - pubic hair, bush, crotch hair
+      - person, individual, someone, somebody, mortal, soul
+        - personality
+          - trait
+          - character, fiber, fibre
+            - thoughtfulness
+            - responsibility, responsibleness
+            - integrity
+          - nature
+        - human body, physical body, material body, soma, build, figure, physique, anatomy, shape, bod, chassis, frame, form, flesh
+        - organism, being
+          - tissue
+          - cell
+            - cell membrane, cytomembrane, plasma membrane
+            - energid, protoplast
+            - cytoplasm, cytol
+              - cytoskeleton
+              - microsome
+              - Golgi body, Golgi apparatus, Golgi complex, dictyosome
+            - nucleus, cell nucleus, karyon
+              - nucleolus, nucleole
+              - chromatin, chromatin granule
+              - achromatin
+              - linin
+              - chromosome
+                - nucleolus organizer, nucleolus organiser, nucleolar organizer, nucleolar organiser
+                - chromatin, chromatin granule
+                - gene, cistron, factor
+                - chromatid
+                - centromere, kinetochore
+                - telomere
+            - organelle, cell organelle, cell organ
+            - vacuole
+          - body part
+            - corpus
+          - living thing, animate thing
+            - whole, unit
+              - part, portion
+              - section, segment

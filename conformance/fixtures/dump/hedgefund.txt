@@ -1,0 +1,15 @@
+term: hedgefund
+[Definitions]
+  - (noun) a flexible investment company for a small number of large investors (usually the minimum investment is $1 million); can use high-risk techniques (not allowed for mutual funds) such as short-selling and heavy leveraging
+[Synonyms]
+  - hedge fund
+[Is a kind of]
+  - investment company, investment trust, investment firm, fund
+    - nondepository financial institution
+      - financial institution, financial organization, financial organisation
+        - institution, establishment
+          - organization, organisation
+            - social group
+              - group, grouping
+                - abstraction, abstract entity
+                  - entity

@@ -1,0 +1,14 @@
+term: corporatist
+[Definitions]
+  - (noun) a supporter of corporatism
+  - (adjective) of or relating to corporatism
+[Pertains to]
+  - corporatism
+    - control
+[Is a kind of]
+  - supporter, protagonist, champion, admirer, booster, friend
+    - advocate, advocator, proponent, exponent
+      - actor, doer, worker
+        - causal agent, cause, causal agency
+          - physical entity
+            - entity

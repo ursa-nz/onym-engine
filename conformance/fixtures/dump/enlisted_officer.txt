@@ -1,0 +1,44 @@
+term: enlisted officer
+[Definitions]
+  - (noun) a military officer appointed from enlisted personnel
+[Synonyms]
+  - noncommissioned officer
+  - noncom
+[Is a kind of]
+  - military officer, officer
+    - military personnel
+      - skilled worker, trained worker
+        - worker
+          - actor, doer, worker
+            - causal agent, cause, causal agency
+              - physical entity
+                - entity
+[Kinds]
+  - aircraft officer
+    - aircraftman, aircraftsman
+    - aircraftwoman, aircraftswoman
+  - bombardier
+  - chief petty officer
+  - corporal
+  - drill master, drill instructor
+  - lance corporal
+  - petty officer, PO, P.O.
+    - master-at-arms
+    - senior chief petty officer, SCPO
+  - sergeant
+    - color sergeant
+    - first sergeant, sergeant first class
+      - orderly sergeant
+    - gunnery sergeant
+    - master sergeant
+    - recruiting-sergeant
+    - senior master sergeant, SMSgt
+    - sergeant major, command sergeant major
+    - staff sergeant
+    - technical sergeant
+[Domains]
+  - military
+  - armed forces
+  - armed services
+  - military machine
+  - war machine

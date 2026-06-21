@@ -1,0 +1,23 @@
+term: muslin
+[Definitions]
+  - (noun) plain-woven cotton fabric
+[Is a kind of]
+  - fabric, cloth, material, textile
+    - artifact, artefact
+      - whole, unit
+        - object, physical object
+          - physical entity
+            - entity
+[Kinds]
+  - nainsook
+  - organdy, organdie
+[Parts]
+  - fabric, cloth, material, textile
+    - warp
+    - woof, weft, filling, pick
+    - edging
+    - hem
+    - artifact, artefact
+      - whole, unit
+        - part, portion
+        - section, segment

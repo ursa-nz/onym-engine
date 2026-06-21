@@ -1,0 +1,25 @@
+term: wooly blue curls
+[Definitions]
+  - (noun) an aromatic plant with wooly leaves found in southern California and Mexico
+[Synonyms]
+  - black sage
+  - California romero
+  - Trichostema lanatum
+[Is a kind of]
+  - blue curls
+    - subshrub, suffrutex
+      - shrub, bush
+        - woody plant, ligneous plant
+          - vascular plant, tracheophyte
+            - plant, flora, plant life
+              - organism, being
+                - living thing, animate thing
+                  - whole, unit
+                    - object, physical object
+                      - physical entity
+                        - entity
+                - causal agent, cause, causal agency
+                  - physical entity
+                    - entity
+[Part of]
+  - Trichostema, genus Trichostema

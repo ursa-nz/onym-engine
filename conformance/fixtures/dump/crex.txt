@@ -1,0 +1,22 @@
+term: Crex
+[Definitions]
+  - (noun) corncrakes
+[Synonyms]
+  - genus Crex
+[Is a kind of]
+  - bird genus
+    - genus
+      - taxonomic group, taxonomic category, taxon
+        - biological group
+          - group, grouping
+            - abstraction, abstract entity
+              - entity
+[Part of]
+  - Rallidae, family Rallidae
+    - Gruiformes, order Gruiformes
+      - Aves, class Aves
+        - Vertebrata, subphylum Vertebrata, Craniata, subphylum Craniata
+          - Chordata, phylum Chordata
+            - Animalia, kingdom Animalia, animal kingdom
+[Parts]
+  - corncrake, land rail, Crex crex

@@ -1,0 +1,20 @@
+term: fichu
+[Definitions]
+  - (noun) a lightweight triangular scarf worn by a woman
+[Is a kind of]
+  - scarf
+    - garment
+      - clothing, article of clothing, vesture, wear, wearable, habiliment
+        - covering
+          - artifact, artefact
+            - whole, unit
+              - object, physical object
+                - physical entity
+                  - entity
+        - consumer goods
+          - commodity, trade good, good
+            - artifact, artefact
+              - whole, unit
+                - object, physical object
+                  - physical entity
+                    - entity

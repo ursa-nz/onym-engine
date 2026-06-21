@@ -1,0 +1,22 @@
+term: steam heat
+[Definitions]
+  - (noun) a heating system in which steam is generated in boilers and piped to radiators
+  - (verb) heat by means of steam
+[Synonyms]
+  - steam heating
+[Is a kind of]
+  - heating system, heating plant, heating, heat
+    - utility
+      - facility, installation
+        - artifact, artefact
+          - whole, unit
+            - object, physical object
+              - physical entity
+                - entity
+  - heat
+    - supply, provide, render, furnish, offer
+      - give
+        - transfer
+          - change, alter, modify
+            - induce, stimulate, cause, have, get, make
+              - act, move

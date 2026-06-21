@@ -1,0 +1,19 @@
+term: di-iodotyrosine
+[Definitions]
+  - (noun) tyrosine with two iodine atoms added
+[Is a kind of]
+  - iodotyrosine
+    - iodoamino acid
+      - amino acid, aminoalkanoic acid
+        - organic compound
+          - compound, chemical compound
+            - chemical, chemical substance
+              - material, stuff
+                - substance
+                  - matter
+                    - physical entity
+                      - entity
+                  - part, portion, component part, component, constituent
+                    - relation
+                      - abstraction, abstract entity
+                        - entity

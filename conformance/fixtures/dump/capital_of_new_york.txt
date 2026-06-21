@@ -1,0 +1,34 @@
+term: capital of New York
+[Definitions]
+  - (noun) state capital of New York; located in eastern New York State on the west bank of the Hudson river
+[Synonyms]
+  - Albany
+[Is a kind of]
+  - state capital
+    - capital
+      - seat
+        - center, centre, middle, heart, eye
+          - area, country
+            - region
+              - location
+                - object, physical object
+                  - physical entity
+                    - entity
+    - city, metropolis, urban center
+      - municipality
+        - urban area, populated area
+          - geographical area, geographic area, geographical region, geographic region
+            - region
+              - location
+                - object, physical object
+                  - physical entity
+                    - entity
+        - administrative district, administrative division, territorial division
+          - district, territory, territorial dominion, dominion
+            - region
+              - location
+                - object, physical object
+                  - physical entity
+                    - entity
+[Part of]
+  - New York, New York State, Empire State, NY, N.Y.

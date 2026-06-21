@@ -1,0 +1,13 @@
+term: Sangay
+[Definitions]
+  - (noun) an inactive volcano in the Andes in central Ecuador; last erupted in 1946
+[Is a kind of]
+  - volcano
+    - mountain, mount
+      - natural elevation, elevation
+        - geological formation, formation
+          - object, physical object
+            - physical entity
+              - entity
+[Part of]
+  - Ecuador, Republic of Ecuador

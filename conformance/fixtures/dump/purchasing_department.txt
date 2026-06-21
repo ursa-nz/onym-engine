@@ -1,0 +1,14 @@
+term: purchasing department
+[Definitions]
+  - (noun) the division of a business that is responsible for purchases
+[Is a kind of]
+  - business department
+    - department, section
+      - division
+        - administrative unit, administrative body
+          - unit, social unit
+            - organization, organisation
+              - social group
+                - group, grouping
+                  - abstraction, abstract entity
+                    - entity

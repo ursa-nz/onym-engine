@@ -1,0 +1,19 @@
+term: family Polygalaceae
+[Definitions]
+  - (noun) trees, shrubs, and herbs widely distributed throughout both hemispheres
+[Synonyms]
+  - Polygalaceae
+  - milkwort family
+[Is a kind of]
+  - rosid dicot family
+    - dicot family, magnoliopsid family
+      - family
+        - taxonomic group, taxonomic category, taxon
+          - biological group
+            - group, grouping
+              - abstraction, abstract entity
+                - entity
+[Part of]
+  - Geraniales, order Geraniales
+[Parts]
+  - Polygala, genus Polygala

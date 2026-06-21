@@ -1,0 +1,20 @@
+term: genus Tremella
+[Definitions]
+  - (noun) fungi with yellowish gelatinous sporophores having convolutions resembling those of the brain
+[Synonyms]
+  - Tremella
+[Is a kind of]
+  - fungus genus
+    - genus
+      - taxonomic group, taxonomic category, taxon
+        - biological group
+          - group, grouping
+            - abstraction, abstract entity
+              - entity
+[Part of]
+  - Tremellaceae, family Tremellaceae
+[Parts]
+  - snow mushroom, Tremella fuciformis
+  - witches' butter, Tremella lutescens
+  - Tremella foliacea
+  - Tremella reticulata

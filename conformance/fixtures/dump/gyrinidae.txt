@@ -1,0 +1,20 @@
+term: Gyrinidae
+[Definitions]
+  - (noun) whirligig beetles
+[Synonyms]
+  - family Gyrinidae
+[Is a kind of]
+  - arthropod family
+    - family
+      - taxonomic group, taxonomic category, taxon
+        - biological group
+          - group, grouping
+            - abstraction, abstract entity
+              - entity
+[Part of]
+  - Coleoptera, order Coleoptera
+    - Insecta, class Insecta, Hexapoda, class Hexapoda
+      - Arthropoda, phylum Arthropoda
+        - Animalia, kingdom Animalia, animal kingdom
+[Parts]
+  - whirligig beetle

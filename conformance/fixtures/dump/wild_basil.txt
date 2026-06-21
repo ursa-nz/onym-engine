@@ -1,0 +1,22 @@
+term: wild basil
+[Definitions]
+  - (noun) aromatic herb having heads of small pink or whitish flowers; widely distributed in United States, Europe and Asia
+[Synonyms]
+  - cushion calamint
+  - Clinopodium vulgare
+  - Satureja vulgaris
+[Is a kind of]
+  - herb, herbaceous plant
+    - vascular plant, tracheophyte
+      - plant, flora, plant life
+        - organism, being
+          - living thing, animate thing
+            - whole, unit
+              - object, physical object
+                - physical entity
+                  - entity
+          - causal agent, cause, causal agency
+            - physical entity
+              - entity
+[Part of]
+  - Clinopodium, genus Clinopodium

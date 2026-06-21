@@ -1,0 +1,17 @@
+term: Kachinic
+[Definitions]
+  - (noun) Tibeto-Burman languages spoken in northernmost Burma and adjacent China and India
+[Synonyms]
+  - Kachin
+  - Kachin language
+  - Kachinic language
+[Is a kind of]
+  - Tibeto-Burman, Tibeto-Burman language
+    - Sino-Tibetan, Sino-Tibetan language
+      - natural language, tongue
+        - language, linguistic communication
+          - communication
+            - abstraction, abstract entity
+              - entity
+[Kinds]
+  - Jinghpo, Jinghpaw, Chingpo, Chingpo language, Jinghpaw language, Jinghpo language

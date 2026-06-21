@@ -1,0 +1,22 @@
+term: unsatisfied
+[Definitions]
+  - (adjective) not having been satisfied
+  - (adjective) worried and uneasy
+[Synonyms]
+  - unsated
+  - unsatiated
+  - restless
+  - ungratified
+[Antonyms]
+  - insatiate (indirect)
+      -> satiate
+      -> satiated
+  - discontented (indirect)
+      -> contented
+      -> content
+[Similar to]
+  - insatiate
+  - insatiable
+  - unsatiable
+  - discontented
+  - discontent

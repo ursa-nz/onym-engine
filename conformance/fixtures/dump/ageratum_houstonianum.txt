@@ -1,0 +1,21 @@
+term: Ageratum houstonianum
+[Definitions]
+  - (noun) small tender herb grown for its fluffy brushlike blue to lavender blooms
+[Synonyms]
+  - common ageratum
+[Is a kind of]
+  - ageratum
+    - flower
+      - angiosperm, flowering plant
+        - spermatophyte, phanerogam, seed plant
+          - vascular plant, tracheophyte
+            - plant, flora, plant life
+              - organism, being
+                - living thing, animate thing
+                  - whole, unit
+                    - object, physical object
+                      - physical entity
+                        - entity
+                - causal agent, cause, causal agency
+                  - physical entity
+                    - entity

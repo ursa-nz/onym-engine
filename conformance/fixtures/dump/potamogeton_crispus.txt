@@ -1,0 +1,22 @@
+term: Potamogeton crispus
+[Definitions]
+  - (noun) European herb naturalized in the eastern United States and California
+[Synonyms]
+  - curled leaf pondweed
+  - curly pondweed
+[Is a kind of]
+  - pondweed
+    - aquatic plant, water plant, hydrophyte, hydrophytic plant
+      - vascular plant, tracheophyte
+        - plant, flora, plant life
+          - organism, being
+            - living thing, animate thing
+              - whole, unit
+                - object, physical object
+                  - physical entity
+                    - entity
+            - causal agent, cause, causal agency
+              - physical entity
+                - entity
+[Part of]
+  - Potamogeton, genus Potamogeton

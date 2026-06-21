@@ -1,0 +1,57 @@
+term: buttery
+[Definitions]
+  - (noun) a small storeroom for storing foods or wines
+  - (noun) a teashop where students in British universities can purchase light meals
+  - (adjective) unpleasantly and excessively suave or ingratiating in manner or speech
+      "buttery praise"
+      "gave him a fulsome introduction"
+      "an oily sycophantic press agent"
+      "oleaginous hypocrisy"
+      "smarmy self-importance"
+      "the unctuous Uriah Heep"
+      "soapy compliments"
+  - (adjective) resembling or containing or spread with butter
+      "a rich buttery cake"
+[Synonyms]
+  - pantry
+  - larder
+  - fulsome
+  - oily
+  - oleaginous
+  - smarmy
+  - soapy
+  - unctuous
+[Antonyms]
+  - insincere (indirect)
+      -> sincere
+  - fatty (indirect)
+      -> nonfat
+      -> fat-free
+      -> fatless
+[Derived forms]
+  - butter
+[Similar to]
+  - insincere
+  - fatty
+  - fat
+[Is a kind of]
+  - storeroom, storage room, stowage
+    - room
+      - area
+        - structure, construction
+          - artifact, artefact
+            - whole, unit
+              - object, physical object
+                - physical entity
+                  - entity
+  - teashop, teahouse, tearoom, tea parlor, tea parlour
+    - restaurant, eating house, eating place, eatery
+      - building, edifice
+        - structure, construction
+          - artifact, artefact
+            - whole, unit
+              - object, physical object
+                - physical entity
+                  - entity
+[Kinds]
+  - stillroom, still room

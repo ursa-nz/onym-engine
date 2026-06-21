@@ -1,0 +1,18 @@
+term: genus Bemisia
+[Definitions]
+  - (noun) sweet-potato whitefly
+[Synonyms]
+  - Bemisia
+[Is a kind of]
+  - arthropod genus
+    - genus
+      - taxonomic group, taxonomic category, taxon
+        - biological group
+          - group, grouping
+            - abstraction, abstract entity
+              - entity
+[Part of]
+  - Aleyrodidae, family Aleyrodidae
+[Parts]
+  - sweet-potato whitefly
+  - superbug, Bemisia tabaci, poinsettia strain

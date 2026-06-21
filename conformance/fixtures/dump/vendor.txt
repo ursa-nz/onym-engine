@@ -1,0 +1,43 @@
+term: vendor
+[Definitions]
+  - (noun) someone who promotes or exchanges goods or services for money
+[Synonyms]
+  - seller
+  - marketer
+  - vender
+  - trafficker
+[Derived forms]
+  - peddle
+  - monger
+  - huckster
+  - hawk
+  - vend
+  - pitch
+[Is a kind of]
+  - merchant, merchandiser
+    - businessperson, bourgeois
+      - capitalist
+        - actor, doer, worker
+          - causal agent, cause, causal agency
+            - physical entity
+              - entity
+[Kinds]
+  - ticket agent, booking clerk
+  - cosmetician
+  - flower girl
+  - fruiterer
+  - huckster, cheap-jack
+  - peddler, pedlar, hawker, pitchman
+    - chapman
+    - cheapjack
+    - crier
+    - muffin man
+    - sandboy
+    - transmigrante
+    - packwoman
+    - packman
+    - chapwoman
+  - selling agent
+  - dealer
+    - pusher, drug peddler, peddler, drug dealer, drug trafficker
+  - underseller

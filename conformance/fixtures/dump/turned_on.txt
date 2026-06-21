@@ -1,0 +1,99 @@
+term: turn on
+[Definitions]
+  - (verb) cause to operate by flipping a switch
+      "switch on the light"
+      "turn on the stereo"
+  - (verb) be contingent on
+      "The outcomes rides on the results of the election"
+      "Your grade will depend on your homework"
+  - (verb) produce suddenly or automatically
+      "Turn on the charm"
+      "turn on the waterworks"
+  - (verb) become hostile towards
+      "The dog suddenly turned on the mailman"
+  - (verb) cause to be agitated, excited, or roused
+      "The speaker charged up the crowd with his inflammatory remarks"
+  - (verb) to evoke sexual feelings
+      "This movie usually arouses the male audience"
+  - (verb) get high, stoned, or drugged
+      "He trips every weekend"
+  - (adjective) feeling great sexual desire
+      "feeling horny"
+[Synonyms]
+  - switch on
+  - depend on
+  - devolve on
+  - depend upon
+  - ride
+  - hinge on
+  - hinge upon
+  - agitate
+  - rouse
+  - charge
+  - commove
+  - excite
+  - charge up
+  - arouse
+  - sex
+  - wind up
+  - trip
+  - trip out
+  - get off
+  - aroused
+  - horny
+  - randy
+  - ruttish
+  - steamy
+[Antonyms]
+  - sexy (indirect)
+      -> unsexy
+[Derived forms]
+  - turn-on
+[Similar to]
+  - sexy
+[Is a kind of]
+  - throw, flip, switch
+    - engage, mesh, lock, operate
+      - move, displace
+        - change, alter, modify
+          - induce, stimulate, cause, have, get, make
+            - act, move
+  - necessitate, ask, postulate, need, require, take, involve, call for, demand
+    - refer, pertain, relate, concern, come to, bear on, touch, touch on, have to do with
+  - produce, bring forth
+    - expose, exhibit, display
+      - show
+        - change, alter, modify
+          - induce, stimulate, cause, have, get, make
+            - act, move
+  - change
+    - act, move
+  - disturb, upset, trouble
+    - affect, impress, move, strike
+      - affect, impact, bear upon, bear on, touch on, touch
+        - change, alter, modify
+          - induce, stimulate, cause, have, get, make
+            - act, move
+  - stimulate, shake, shake up, excite, stir
+    - arouse, elicit, enkindle, kindle, evoke, fire, raise, provoke
+      - make, create
+        - induce, stimulate, cause, have, get, make
+          - act, move
+  - feel, experience
+    - perceive, comprehend
+      - learn, hear, get word, get wind, pick up, find out, get a line, discover, see
+        - act, move
+[Kinds]
+  - repose on, rest on, build on, build upon
+    - owe
+  - hype up, psych up
+  - bother
+  - pother
+  - electrify
+  - tempt
+  - tweak
+[Domains]
+  - sexual activity
+  - sexual practice
+  - sex
+  - sex activity

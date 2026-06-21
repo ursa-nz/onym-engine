@@ -1,0 +1,44 @@
+term: spiel
+[Definitions]
+  - (verb) replay (as a melody)
+      "Play it again, Sam"
+      "She played the third movement very beautifully"
+  - (verb) speak at great length (about something)
+  - (noun) plausible glib talk (especially useful to a salesperson)
+[Synonyms]
+  - patter
+  - line of gab
+  - play
+[Derived forms]
+  - patter
+  - line of gab
+[Is a kind of]
+  - channel, communication channel, line
+    - communication, communicating
+      - act, deed, human action, human activity
+        - event
+          - abstraction, abstract entity
+            - entity
+  - re-create, recreate
+    - make, create
+      - induce, stimulate, cause, have, get, make
+        - act, move
+  - talk, speak
+    - communicate, intercommunicate
+      - interact
+        - act, move
+[Kinds]
+  - riff
+  - misplay
+  - fiddle
+  - replay
+  - prelude
+  - jazz
+  - rag
+  - bugle
+  - reprise, reprize, repeat, recapitulate
+  - slur
+  - bang out
+  - modulate
+  - tongue
+    - double tongue, triple-tongue

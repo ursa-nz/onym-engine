@@ -1,0 +1,20 @@
+term: club steak
+[Definitions]
+  - (noun) small steak from the front of the short loin of beef
+[Synonyms]
+  - Delmonico steak
+[Is a kind of]
+  - beefsteak
+    - steak
+      - cut, cut of meat
+        - meat
+          - solid food
+            - solid
+              - matter
+                - physical entity
+                  - entity
+            - food, nutrient
+              - substance
+                - matter
+                  - physical entity
+                    - entity

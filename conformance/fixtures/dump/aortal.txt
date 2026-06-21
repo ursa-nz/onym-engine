@@ -1,0 +1,10 @@
+term: aortal
+[Definitions]
+  - (adjective) of or relating to the aorta
+[Synonyms]
+  - aortic
+[Derived forms]
+  - aorta
+[Pertains to]
+  - aorta
+    - artery, arteria, arterial blood vessel

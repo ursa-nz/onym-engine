@@ -1,0 +1,67 @@
+term: drapery
+[Definitions]
+  - (noun) hanging cloth used as a blind (especially for a window)
+  - (noun) cloth gracefully draped and arranged in loose folds
+[Synonyms]
+  - curtain
+  - drape
+  - mantle
+  - pall
+[Derived forms]
+  - drape
+[Is a kind of]
+  - blind, screen
+    - protective covering, protective cover, protection
+      - covering
+        - artifact, artefact
+          - whole, unit
+            - object, physical object
+              - physical entity
+                - entity
+  - furnishing
+    - instrumentality, instrumentation, means
+      - artifact, artefact
+        - whole, unit
+          - object, physical object
+            - physical entity
+              - entity
+  - fabric, cloth, material, textile
+    - artifact, artefact
+      - whole, unit
+        - object, physical object
+          - physical entity
+            - entity
+[Kinds]
+  - drop curtain, drop cloth, drop
+  - festoon
+  - frontal
+  - portiere
+  - shower curtain
+  - theater curtain, theatre curtain
+    - safety curtain
+  - net curtain, lace curtain
+    - cafe curtain
+[Parts]
+  - eyelet, eyehole
+  - blind, screen
+    - protective covering, protective cover, protection
+      - covering
+        - artifact, artefact
+          - whole, unit
+            - part, portion
+            - section, segment
+  - furnishing
+    - instrumentality, instrumentation, means
+      - artifact, artefact
+        - whole, unit
+          - part, portion
+          - section, segment
+  - fabric, cloth, material, textile
+    - warp
+    - woof, weft, filling, pick
+    - edging
+    - hem
+    - artifact, artefact
+      - whole, unit
+        - part, portion
+        - section, segment

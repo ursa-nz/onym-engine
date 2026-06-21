@@ -1,0 +1,14 @@
+term: farce comedy
+[Definitions]
+  - (noun) a comedy characterized by broad satire and improbable situations
+[Synonyms]
+  - farce
+  - travesty
+[Is a kind of]
+  - comedy
+    - drama
+      - writing style, literary genre, genre
+        - expressive style, style
+          - communication
+            - abstraction, abstract entity
+              - entity

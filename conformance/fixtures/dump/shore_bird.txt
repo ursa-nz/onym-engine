@@ -16,6 +16,9 @@ term: shore bird
                     - object, physical object
                       - physical entity
                         - entity
+                - causal agent, cause, causal agency
+                  - physical entity
+                    - entity
 [Kinds]
   - plover
     - piping plover, Charadrius melodus
@@ -25,7 +28,7 @@ term: shore bird
     - lapwing, green plover, peewit, pewit
     - turnstone
       - ruddy turnstone, Arenaria interpres
-      - black turnstone, Arenaria-Melanocephala
+      - black turnstone, Arenaria melanocephala
   - sandpiper
     - European sandpiper, Actitis hypoleucos
     - spotted sandpiper, Actitis macularia
@@ -38,7 +41,7 @@ term: shore bird
       - lesser yellowlegs, Tringa flavipes
     - pectoral sandpiper, jacksnipe, Calidris melanotos
     - knot, greyback, grayback, Calidris canutus
-    - curlew sandpiper, Calidris Ferruginea
+    - curlew sandpiper, Calidris ferruginea
     - sanderling, Crocethia alba
     - upland sandpiper, upland plover, Bartramian sandpiper, Bartramia longicauda
     - ruff, Philomachus pugnax
@@ -75,7 +78,7 @@ term: shore bird
   - phalarope
     - red phalarope, Phalaropus fulicarius
     - northern phalarope, Lobipes lobatus
-    - Wilson's phalarope, Steganopus tricolor
+    - Wilson's phalarope, Steganopus tricolor, Phalaropus tricolor
   - pratincole, glareole
   - courser
     - cream-colored courser, Cursorius cursor

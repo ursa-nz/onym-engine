@@ -1,0 +1,19 @@
+term: impulse relay
+[Definitions]
+  - (noun) a relay that maintains either contact position indefinitely without power applied to the coil.
+      "A latching relay allows remote control of building lighting without the hum that may be produced from a continuously (AC) energized coil."
+[Synonyms]
+  - stay relay
+  - latching relay
+  - bistable relay
+  - keep relay
+[Is a kind of]
+  - relay, electrical relay
+    - electrical device
+      - device
+        - instrumentality, instrumentation, means
+          - artifact, artefact
+            - whole, unit
+              - object, physical object
+                - physical entity
+                  - entity

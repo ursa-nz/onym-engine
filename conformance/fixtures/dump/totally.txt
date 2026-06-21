@@ -1,0 +1,24 @@
+term: totally
+[Definitions]
+  - (adverb) to a complete degree or to the full or entire extent; Completely or entirely
+      "he was wholly convinced"
+      "entirely satisfied with the meal"
+      "it was completely different from what we expected"
+      "was completely at fault"
+      "a totally new situation"
+      "the directions were all wrong"
+      "it was not altogether her fault"
+      "an altogether new approach"
+      "a whole new idea"
+      "she felt right at home"
+      "he fell right into the trap"
+[Synonyms]
+  - wholly
+  - entirely
+  - completely
+  - all
+  - altogether
+  - whole
+  - right
+[Pertains to]
+  - entire, full, total

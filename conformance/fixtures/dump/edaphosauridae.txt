@@ -1,0 +1,22 @@
+term: Edaphosauridae
+[Definitions]
+  - (noun) a family of reptiles of the order Pelycosauria
+[Synonyms]
+  - family Edaphosauridae
+[Is a kind of]
+  - reptile family
+    - family
+      - taxonomic group, taxonomic category, taxon
+        - biological group
+          - group, grouping
+            - abstraction, abstract entity
+              - entity
+[Part of]
+  - Pelycosauria, order Pelycosauria
+    - Synapsida, subclass Synapsida
+      - Reptilia, class Reptilia
+        - Vertebrata, subphylum Vertebrata, Craniata, subphylum Craniata
+          - Chordata, phylum Chordata
+            - Animalia, kingdom Animalia, animal kingdom
+[Parts]
+  - genus Edaphosaurus

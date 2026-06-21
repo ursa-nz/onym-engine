@@ -1,0 +1,19 @@
+term: quasi contract
+[Definitions]
+  - (noun) a contract created by law for reasons of justice without any expression of assent
+[Is a kind of]
+  - contract
+    - written agreement
+      - agreement, understanding
+        - statement
+          - message, content, subject matter, substance
+            - communication
+              - abstraction, abstract entity
+                - entity
+      - legal document, legal instrument, official document, instrument
+        - document, written document, papers
+          - writing, written material, piece of writing
+            - written communication, written language, black and white
+              - communication
+                - abstraction, abstract entity
+                  - entity

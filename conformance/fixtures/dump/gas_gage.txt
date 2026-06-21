@@ -1,0 +1,22 @@
+term: gas gage
+[Definitions]
+  - (noun) gauge that indicates the amount of gasoline left in the gasoline tank of a vehicle
+[Synonyms]
+  - gasoline gauge
+  - gasoline gage
+  - gas gauge
+  - petrol gauge
+  - petrol gage
+[Is a kind of]
+  - gauge, gage
+    - measuring instrument, measuring system, measuring device
+      - instrument
+        - device
+          - instrumentality, instrumentation, means
+            - artifact, artefact
+              - whole, unit
+                - object, physical object
+                  - physical entity
+                    - entity
+[Part of]
+  - fuel system

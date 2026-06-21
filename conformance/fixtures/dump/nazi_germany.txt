@@ -1,0 +1,15 @@
+term: Nazi Germany
+[Definitions]
+  - (noun) the Nazi dictatorship under Hitler (1933-1945)
+[Synonyms]
+  - Third Reich
+[Is a kind of]
+  - Reich
+    - state, nation, country, land, commonwealth, res publica, body politic
+      - political unit, political entity
+        - unit, social unit
+          - organization, organisation
+            - social group
+              - group, grouping
+                - abstraction, abstract entity
+                  - entity

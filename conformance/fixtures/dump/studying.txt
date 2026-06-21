@@ -1,0 +1,151 @@
+term: studying
+[Definitions]
+  - (noun) reading carefully with intent to remember
+  - (verb) consider in detail and subject to an analysis in order to discover essential features or meaning
+      "analyze a sonnet by Shakespeare"
+      "analyze the evidence in a criminal trial"
+      "analyze your real motives"
+  - (verb) be a student; follow a course of study; be enrolled at an institute of learning
+  - (verb) give careful consideration to
+      "consider the possibility of moving"
+  - (verb) be a student of a certain subject
+      "She is reading for the bar exam"
+  - (verb) learn by reading books
+      "He is studying geology in his room"
+      "I have an exam next week: I must hit the books now"
+  - (verb) think intently and at length, as for spiritual purposes
+      "He is meditating in his study"
+[Synonyms]
+  - perusal
+  - perusing
+  - poring over
+  - analyze
+  - analyse
+  - examine
+  - canvass
+  - consider
+  - learn
+  - read
+  - take
+  - hit the books
+  - meditate
+  - contemplate
+[Derived forms]
+  - study
+  - hit the books
+  - learn
+  - read
+  - take
+  - survey
+  - discipline
+  - subject
+  - subject area
+  - subject field
+  - field
+  - field of study
+  - bailiwick
+  - work
+  - student
+  - pupil
+  - educatee
+  - cogitation
+  - perusal
+  - perusing
+  - poring over
+  - studying
+[Entails]
+  - read
+[Is a kind of]
+  - reading
+    - linguistic process, language
+      - higher cognitive process
+        - process, cognitive process, mental process, operation, cognitive operation
+          - cognition, knowledge, noesis
+            - psychological feature
+              - abstraction, abstract entity
+                - entity
+  - see, consider, reckon, view, regard
+    - think, believe, consider, conceive
+      - evaluate, pass judgment, judge
+        - think, cogitate, cerebrate
+          - act, move
+  - exert
+    - act, move
+  - chew over, think over, meditate, ponder, excogitate, contemplate, muse, reflect, mull, mull over, ruminate, speculate
+    - think, cogitate, cerebrate
+      - act, move
+  - act, move
+  - learn, larn, acquire
+    - acquire, win, gain
+      - get, acquire
+        - act, move
+  - think, cogitate, cerebrate
+    - act, move
+[Kinds]
+  - anatomize
+  - diagnose, name
+    - explore
+      - plumb
+  - diagnose
+    - explore
+      - put out feelers
+  - survey, appraise
+  - survey
+    - poll, canvass
+      - circularize, circularise
+  - compare
+    - analogize, analogise
+    - collate
+  - check, check up on, look into, check out, suss out, check over, go over, check into
+    - watch, observe, follow, watch over, keep an eye on
+      - watch
+      - keep tabs on
+      - guard
+        - patrol, police
+        - stand guard, stand watch, keep guard, stand sentinel
+        - baby-sit, sit, babysit
+        - baby-sit, babysit
+      - invigilate, proctor
+  - assay
+    - bioassay
+  - review, reexamine, re-examine
+  - audit, scrutinize, scrutinise, inspect
+  - screen
+  - trace, follow
+  - view, consider, look at
+    - contemplate
+    - groak
+  - sieve, sift
+  - investigate, look into
+    - research, search, explore
+      - prospect
+      - google
+      - mapquest
+      - re-explore
+      - cast about, beat about, cast around
+    - explore
+      - pioneer
+      - cave, spelunk
+      - map
+    - experiment
+    - probe, examine
+      - hear, try
+        - rehear, retry
+      - investigate, inquire, enquire
+        - spy
+      - re-examine
+    - research
+      - consult, refer, look up
+  - major
+  - minor
+  - factor, factor in, factor out
+  - compare, liken, equate
+  - audit
+  - train, prepare
+    - apprentice
+    - retrain
+    - drill
+  - drill, exercise, practice, practise
+  - memorize, memorise, con, learn
+    - understudy, alternate
+  - cram, grind away, drum, bone up, swot, get up, mug up, swot up, bone

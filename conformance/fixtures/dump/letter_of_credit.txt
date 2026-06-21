@@ -1,0 +1,18 @@
+term: letter of credit
+[Definitions]
+  - (noun) a document issued by a bank that guarantees the payment of a customer's draft; substitutes the bank's credit for the customer's credit
+[Is a kind of]
+  - document
+    - communication
+      - abstraction, abstract entity
+        - entity
+  - credit
+    - assets
+      - possession
+        - relation
+          - abstraction, abstract entity
+            - entity
+[Kinds]
+  - commercial letter of credit
+  - traveler's letter of credit, traveller's letter of credit
+    - traveler's check, traveller's check, banker's check

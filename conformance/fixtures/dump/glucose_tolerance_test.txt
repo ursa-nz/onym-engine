@@ -1,0 +1,13 @@
+term: glucose tolerance test
+[Definitions]
+  - (noun) test of the body's ability to metabolize carbohydrates; used in the diagnosis of hypoglycemia and diabetes mellitus
+[Is a kind of]
+  - diagnostic test, diagnostic assay
+    - assay
+      - test, trial, run
+        - attempt, effort, endeavor, endeavour, try
+          - activity
+            - act, deed, human action, human activity
+              - event
+                - abstraction, abstract entity
+                  - entity

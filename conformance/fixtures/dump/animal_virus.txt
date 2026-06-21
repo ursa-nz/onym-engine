@@ -1,0 +1,73 @@
+term: animal virus
+[Definitions]
+  - (noun) an animal pathogen that is a virus
+[Is a kind of]
+  - virus
+    - microorganism, micro-organism
+      - organism, being
+        - living thing, animate thing
+          - whole, unit
+            - object, physical object
+              - physical entity
+                - entity
+        - causal agent, cause, causal agency
+          - physical entity
+            - entity
+    - infectious agent, infective agent
+      - agent
+        - causal agent, cause, causal agency
+          - physical entity
+            - entity
+[Kinds]
+  - adenovirus
+    - parainfluenza virus
+  - arenavirus
+    - Junin virus
+    - Lassa virus
+    - lymphocytic choriomeningitis virus
+    - Machupo virus
+  - bunyavirus
+  - filovirus
+    - Ebola virus
+    - Marburg virus
+  - alphavirus
+  - flavivirus
+    - West Nile virus, West Nile encephalitis virus
+  - vesiculovirus
+  - poxvirus
+    - myxoma virus
+    - variola virus, smallpox virus
+      - variola major, variola major virus
+      - variola minor, variola minor virus
+  - hepadnavirus
+  - retrovirus
+    - human T-cell leukemia virus-1, HTLV-1
+    - human immunodeficiency virus, HIV
+  - myxovirus
+    - orthomyxovirus
+    - paramyxovirus
+      - respiratory syncytial virus
+  - picornavirus
+    - enterovirus
+      - poliovirus
+      - hepatitis A virus
+      - coxsackievirus, Coxsackie virus
+      - echovirus
+    - rhinovirus
+  - herpes, herpes virus
+    - herpes simplex, herpes simplex virus
+      - herpes simplex 1, HS1, HSV-1, HSV-I
+      - herpes simplex 2, HS2, HSV-2, HSV-II
+    - herpes zoster, herpes zoster virus
+      - herpes varicella zoster, herpes varicella zoster virus
+    - Epstein-Barr virus, EBV
+    - cytomegalovirus, CMV
+    - varicella zoster virus
+  - papovavirus
+    - human papilloma virus
+    - polyoma, polyoma virus
+  - rhabdovirus
+  - lyssavirus
+  - reovirus
+    - rotavirus
+  - parvovirus, parvo

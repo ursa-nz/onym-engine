@@ -1,0 +1,26 @@
+term: family Clusiaceae
+[Definitions]
+  - (noun) widely distributed family of chiefly tropical trees and shrubs and vines that produce oils and resins and some usable timber
+[Synonyms]
+  - Guttiferae
+  - family Guttiferae
+  - Clusiaceae
+  - St John's wort family
+[Is a kind of]
+  - dilleniid dicot family
+    - dicot family, magnoliopsid family
+      - family
+        - taxonomic group, taxonomic category, taxon
+          - biological group
+            - group, grouping
+              - abstraction, abstract entity
+                - entity
+[Part of]
+  - Parietales, order Parietales, Hypericales, order Hypericales
+[Parts]
+  - Calophyllum, genus Calophyllum
+  - genus Clusia
+  - Garcinia, genus Garcinia
+  - Hypericum, genus Hypericum
+  - Mammea, genus Mammea
+  - Mesua, genus Mesua

@@ -1,0 +1,13 @@
+term: mesomorphy
+[Definitions]
+  - (noun) muscular and big-boned
+[Synonyms]
+  - athletic type
+[Is a kind of]
+  - body type, somatotype
+    - physique, build, body-build, habitus
+      - bodily property
+        - property
+          - attribute
+            - abstraction, abstract entity
+              - entity

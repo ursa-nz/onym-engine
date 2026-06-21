@@ -1,0 +1,28 @@
+term: Epacridaceae
+[Definitions]
+  - (noun) Australasian shrubs or small trees
+[Synonyms]
+  - family Epacridaceae
+  - epacris family
+[Is a kind of]
+  - dilleniid dicot family
+    - dicot family, magnoliopsid family
+      - family
+        - taxonomic group, taxonomic category, taxon
+          - biological group
+            - group, grouping
+              - abstraction, abstract entity
+                - entity
+[Part of]
+  - Ericales, order Ericales
+    - Dilleniidae, subclass Dilleniidae
+      - Dicotyledones, class Dicotyledones, Dicotyledonae, class Dicotyledonae, Magnoliopsida, class Magnoliopsida
+        - Angiospermae, class Angiospermae, Magnoliophyta, division Magnoliophyta, Anthophyta, division Anthophyta
+          - Spermatophyta, division Spermatophyta
+            - Plantae, kingdom Plantae, plant kingdom
+[Parts]
+  - Australian heath
+  - genus Epacris
+  - Astroloma, genus Astroloma
+  - Richea, genus Richea
+  - Styphelia, genus Styphelia

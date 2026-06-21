@@ -1,0 +1,24 @@
+term: Scotch pine
+[Definitions]
+  - (noun) medium large two-needled pine of northern Europe and Asia having flaking red-brown bark
+[Synonyms]
+  - Scots pine
+  - Scotch fir
+  - Pinus sylvestris
+[Is a kind of]
+  - pine, pine tree, true pine
+    - conifer, coniferous tree
+      - gymnospermous tree
+        - tree
+          - woody plant, ligneous plant
+            - vascular plant, tracheophyte
+              - plant, flora, plant life
+                - organism, being
+                  - living thing, animate thing
+                    - whole, unit
+                      - object, physical object
+                        - physical entity
+                          - entity
+                  - causal agent, cause, causal agency
+                    - physical entity
+                      - entity

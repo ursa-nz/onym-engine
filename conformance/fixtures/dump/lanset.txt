@@ -1,0 +1,42 @@
+term: lanset
+[Definitions]
+  - (noun) East Indian tart yellow berrylike fruit
+[Synonyms]
+  - lanseh
+  - lansa
+  - lansat
+[Is a kind of]
+  - edible fruit
+    - produce, green goods, green groceries, garden truck
+      - solid food
+        - solid
+          - matter
+            - physical entity
+              - entity
+        - food, nutrient
+          - substance
+            - matter
+              - physical entity
+                - entity
+    - fruit
+      - reproductive structure
+        - plant organ
+          - plant part, plant structure
+            - natural object
+              - whole, unit
+                - object, physical object
+                  - physical entity
+                    - entity
+[Part of]
+  - lanseh tree, langsat, langset, Lansium domesticum
+[Parts]
+  - edible fruit
+    - peel, skin
+    - fruit
+      - reproductive structure
+        - plant organ
+          - plant part, plant structure
+            - natural object
+              - whole, unit
+                - part, portion
+                - section, segment

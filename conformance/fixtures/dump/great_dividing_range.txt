@@ -1,0 +1,16 @@
+term: Great Dividing Range
+[Definitions]
+  - (noun) a mountain range running along the eastern coast of Australia
+[Synonyms]
+  - Eastern Highlands
+[Is a kind of]
+  - range, mountain range, range of mountains, chain, mountain chain, chain of mountains
+    - geological formation, formation
+      - object, physical object
+        - physical entity
+          - entity
+[Part of]
+  - Australia, Commonwealth of Australia
+  - Australia
+[Parts]
+  - Australian Alps

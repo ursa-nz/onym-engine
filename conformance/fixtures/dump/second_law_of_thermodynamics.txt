@@ -1,0 +1,13 @@
+term: second law of thermodynamics
+[Definitions]
+  - (noun) a law stating that mechanical work can be derived from a body only when that body interacts with another at a lower temperature; any spontaneous process results in an increase of entropy
+[Is a kind of]
+  - law of thermodynamics
+    - law, law of nature
+      - concept, conception, construct
+        - idea, thought
+          - content, cognitive content, mental object
+            - cognition, knowledge, noesis
+              - psychological feature
+                - abstraction, abstract entity
+                  - entity

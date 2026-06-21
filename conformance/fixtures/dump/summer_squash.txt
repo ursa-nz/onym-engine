@@ -1,0 +1,48 @@
+term: summer squash
+[Definitions]
+  - (noun) any of various usually bushy plants producing fruit that is eaten while immature and before the rind or seeds harden
+  - (noun) any of various fruits of the gourd family that mature during the summer; eaten while immature and before seeds and rind harden
+[Synonyms]
+  - summer squash vine
+  - Cucurbita pepo melopepo
+[Is a kind of]
+  - squash, squash vine
+    - vine
+      - vascular plant, tracheophyte
+        - plant, flora, plant life
+          - organism, being
+            - living thing, animate thing
+              - whole, unit
+                - object, physical object
+                  - physical entity
+                    - entity
+            - causal agent, cause, causal agency
+              - physical entity
+                - entity
+  - squash
+    - vegetable, veggie, veg
+      - produce, green goods, green groceries, garden truck
+        - solid food
+          - solid
+            - matter
+              - physical entity
+                - entity
+          - food, nutrient
+            - substance
+              - matter
+                - physical entity
+                  - entity
+[Kinds]
+  - yellow squash
+  - marrow, marrow squash, vegetable marrow
+    - zucchini, courgette
+    - cocozelle, Italian vegetable marrow
+  - cymling, pattypan squash
+  - spaghetti squash
+  - zucchini, courgette
+  - marrow, vegetable marrow
+  - cocozelle
+  - pattypan squash
+[Part of]
+  - Cucurbita, genus Cucurbita
+  - summer squash vine, Cucurbita pepo melopepo

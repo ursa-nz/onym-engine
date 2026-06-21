@@ -1,0 +1,15 @@
+term: kindheartedness
+[Definitions]
+  - (noun) sympathy arising from a kind heart
+[Synonyms]
+  - kind-heartedness
+[Derived forms]
+  - kindhearted
+  - kind-hearted
+[Is a kind of]
+  - sympathy, fellow feeling
+    - feeling
+      - state
+        - attribute
+          - abstraction, abstract entity
+            - entity

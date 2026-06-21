@@ -1,0 +1,17 @@
+term: strange attractor
+[Definitions]
+  - (noun) an attractor for which the approach to its final point in phase space is chaotic
+[Synonyms]
+  - chaotic attractor
+[Is a kind of]
+  - attractor, attracter
+    - point
+      - component, constituent, element, factor, ingredient
+        - part, section, division
+          - concept, conception, construct
+            - idea, thought
+              - content, cognitive content, mental object
+                - cognition, knowledge, noesis
+                  - psychological feature
+                    - abstraction, abstract entity
+                      - entity

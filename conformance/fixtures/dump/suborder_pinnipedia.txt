@@ -1,0 +1,20 @@
+term: suborder Pinnipedia
+[Definitions]
+  - (noun) seals; sea lions; walruses
+[Synonyms]
+  - Pinnipedia
+[Is a kind of]
+  - animal order
+    - order
+      - taxonomic group, taxonomic category, taxon
+        - biological group
+          - group, grouping
+            - abstraction, abstract entity
+              - entity
+[Part of]
+  - Carnivora, order Carnivora
+[Parts]
+  - pinniped mammal, pinniped, pinnatiped
+  - Otariidae, family Otariidae
+  - Phocidae, family Phocidae
+  - Odobenidae, family Odobenidae

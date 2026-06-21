@@ -1,0 +1,10 @@
+term: person agreement
+[Definitions]
+  - (noun) agreement in person between pronouns and verbs
+[Is a kind of]
+  - agreement, concord
+    - grammatical relation
+      - linguistic relation
+        - relation
+          - abstraction, abstract entity
+            - entity

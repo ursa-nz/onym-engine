@@ -1,0 +1,18 @@
+term: National Security Agency
+[Definitions]
+  - (noun) the United States cryptologic organization that coordinates and directs highly specialized activities to protect United States information systems and to produce foreign intelligence information
+[Synonyms]
+  - NSA
+[Is a kind of]
+  - United States intelligence agency
+    - intelligence, intelligence service, intelligence agency
+      - administrative unit, administrative body
+        - unit, social unit
+          - organization, organisation
+            - social group
+              - group, grouping
+                - abstraction, abstract entity
+                  - entity
+[Part of]
+  - Intelligence Community, National Intelligence Community, United States Intelligence Community, IC
+  - Department of Defense, Defense Department, United States Department of Defense, Defense, DoD

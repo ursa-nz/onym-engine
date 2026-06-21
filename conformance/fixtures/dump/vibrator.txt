@@ -1,0 +1,23 @@
+term: vibrator
+[Definitions]
+  - (noun) a mechanical device that vibrates
+      "a reed is the vibrator that produces the sound"
+  - (noun) mechanical device that produces vibratory motion; used for massage
+[Derived forms]
+  - oscillate
+  - vibrate
+[Is a kind of]
+  - mechanical device
+    - mechanism
+      - device
+        - instrumentality, instrumentation, means
+          - artifact, artefact
+            - whole, unit
+              - object, physical object
+                - physical entity
+                  - entity
+[Kinds]
+  - reed, vibrating reed
+    - double reed
+  - concrete vibrator
+  - dildo

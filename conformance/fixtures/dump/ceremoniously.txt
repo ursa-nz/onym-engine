@@ -1,0 +1,10 @@
+term: ceremoniously
+[Definitions]
+  - (adverb) in a ceremonious manner
+      "my mother advised her children ceremoniously"
+[Synonyms]
+  - ceremonially
+[Antonyms]
+  - unceremoniously (direct)
+[Pertains to]
+  - ceremonious, conventional

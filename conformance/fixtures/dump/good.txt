@@ -45,7 +45,7 @@ term: good
   - (adjective) with or in a close or intimate relationship
       "a good friend"
       "my sisters and brothers are near and dear"
-  - (adjective) financially sound
+  - (adjective) financially safe
       "a good investment"
       "a secure investment"
   - (adjective) most suitable or right for a particular purpose
@@ -88,8 +88,8 @@ term: good
   - (noun) that which is pleasing or valuable or useful
       "weigh the good against the bad"
       "among the highest goods of all are happiness and self-realization"
-  - (noun) articles of commerce
-  - (adverb) (often used as a combining form) in a good or proper or satisfactory manner or to a high standard (`good' is a nonstandard dialectal variant for `well')
+  - (noun) a raw material that is sold in large quantities, usually to other businesses for manufacturing or production purposes
+  - (adverb) (often used as a combining form) in a good or proper or satisfactory manner or to a high standard (‘good’ is a nonstandard dialectal variant for ‘well’)
       "the children behaved well"
       "a task well done"
       "the party went well"
@@ -98,7 +98,7 @@ term: good
       "a well-seasoned dish"
       "a well-planned party"
       "the baby can walk pretty good"
-  - (adverb) completely and absolutely (`good' is sometimes used informally for `thoroughly')
+  - (adverb) completely and absolutely (‘good’ is sometimes used informally for ‘thoroughly’)
       "he was soundly defeated"
       "we beat him good"
 [Synonyms]
@@ -109,6 +109,7 @@ term: good
   - estimable
   - honorable
   - respectable
+  - admirable
   - beneficial
   - just
   - upright
@@ -133,7 +134,6 @@ term: good
   - sound
   - salutary
   - honest
-  - undecomposed
   - unspoiled
   - unspoilt
   - thoroughly
@@ -207,15 +207,12 @@ term: good
       -> mediocre
       -> naughty
       -> negative
-      -> poor
       -> pretty
       -> rubber
       -> no-good
       -> severe
       -> swingeing
       -> uncool
-      -> unfavorable
-      -> unfavourable
       -> unsuitable
   - ample (indirect)
       -> meager
@@ -227,6 +224,8 @@ term: good
       -> disreputable
   - advantageous (indirect)
       -> disadvantageous
+      -> unfavorable
+      -> unfavourable
   - nice (indirect)
       -> nasty
       -> awful
@@ -282,16 +281,21 @@ term: good
   - slap-up
   - swell
   - smashing
+  - old
   - good enough
   - goodish
   - hot
   - redeeming
   - satisfactory
   - acceptable
+  - decent
   - solid
   - superb
   - well-behaved
   - well behaved
+  - instagood
+  - ecofriendly
+  - green
   - ample
   - angelic
   - angelical
@@ -305,6 +309,8 @@ term: good
   - white
   - reputable
   - advantageous
+  - favorable
+  - favourable
   - nice
   - righteous
   - skilled
@@ -365,6 +371,7 @@ term: good
       - tact, tactfulness
         - delicacy, diplomacy, discreetness, finesse
         - savoir-faire, address
+        - tactfulness
   - beneficence
     - grace, grace of God, free grace
   - benignity, benignancy, graciousness
@@ -402,6 +409,7 @@ term: good
             - Rastafarianism
             - voodoo, vodoun, voodooism, hoodooism
               - hoodoo
+            - sabianism
           - cult
           - ecclesiasticism
           - mysticism, religious mysticism
@@ -423,9 +431,13 @@ term: good
                 - Shiism
                   - Ismailism
                 - Wahhabism, Wahabism
+                - Alawism
+                - Ash'arism
             - polytheism
               - tritheism
             - pantheism
+            - panentheism
+            - pandeism
             - pantheism
           - paganism, pagan religion, heathenism
             - druidism
@@ -445,7 +457,6 @@ term: good
               - Calvinism
               - Christian Science
               - Lutheranism
-              - Unitarianism
               - Trinitarianism
               - Congregationalism
               - Mennonitism
@@ -461,6 +472,9 @@ term: good
               - Presbyterianism
               - Puritanism
             - Tractarianism, Puseyism
+            - Hussitism
+              - Utraquism
+          - Unitarianism
           - Hinduism, Hindooism
             - Darsana
             - Mimamsa
@@ -469,7 +483,6 @@ term: good
             - Shivaism, Sivaism
             - Shaktism, Saktism
             - Vaishnavism, Vaisnavism, Vishnuism
-            - yoga
             - Vedism
           - Brahmanism, Brahminism
           - Jainism
@@ -493,10 +506,12 @@ term: good
           - shamanism, Asian shamanism
           - shamanism
           - Wicca
+          - Saivism
   - saintliness
   - summum bonum
   - worthiness
     - deservingness, merit, meritoriousness
+      - desert
     - praiseworthiness, laudability, laudableness
     - quotability
     - roadworthiness
@@ -524,11 +539,14 @@ term: good
           - safety belt, life belt, safety harness
             - seat belt, seatbelt
           - Sam Browne belt
+          - climbing belt
         - furnishing, trappings
+        - key fob, keyfob
       - apparel, wearing apparel, dress, clothes
         - workwear
-          - jean, blue jean, denim
+          - jeans, blue jeans, denim
             - Levi's, levis
+            - distressed jeans
           - work-shirt
       - array, raiment, regalia
         - war paint
@@ -536,6 +554,7 @@ term: good
         - ao dai
         - costume
           - fancy dress, masquerade, masquerade costume
+          - fursuit
         - costume
           - academic costume
           - rigout
@@ -547,6 +566,7 @@ term: good
             - domino, half mask, eye mask
             - false face
         - ecclesiastical attire, ecclesiastical robe
+          - purple, the purple
         - finery
           - Sunday best, Sunday clothes
         - formalwear, eveningwear, evening dress, evening clothes
@@ -567,6 +587,8 @@ term: good
             - grizzle
             - horsehair wig
             - periwig, peruke
+            - onkos
+            - bagwig
         - morning dress
         - outfit, getup, rig, turnout
           - bib-and-tucker
@@ -599,6 +621,7 @@ term: good
             - knee-high, knee-hi
             - nylons, nylon stocking, rayons, rayon stocking, silk stocking
             - support hose, support stocking
+            - fishnet stockings
           - tights, leotards
             - maillot
             - pantyhose
@@ -644,6 +667,7 @@ term: good
             - old school tie
             - string tie
             - Windsor tie
+            - skinny tie
         - overgarment, outer garment
           - aba
           - cloak
@@ -654,6 +678,7 @@ term: good
               - mantelet, mantilla
               - pelisse
               - tippet
+              - capelet
             - capote, hooded cloak
             - capuchin
             - cope
@@ -730,6 +755,9 @@ term: good
             - sheepskin coat, afghan
             - surcoat
             - topper
+            - chamarre, simarre, chimer
+            - feryaz
+          - frock
           - izar
           - snowsuit
         - peplos, peplus, peplum
@@ -769,6 +797,7 @@ term: good
           - hair shirt
           - jersey, T-shirt, tee shirt
             - turtleneck, turtle, polo-neck
+              - mock polo neck, mock turtleneck
           - kurta
           - polo shirt, sport shirt
           - tank top
@@ -808,30 +837,32 @@ term: good
           - pullover, slipover
             - sweatshirt
           - turtleneck, turtle, polo-neck
+            - mock polo neck, mock turtleneck
         - sweat suit, sweatsuit, sweats, workout suit
         - swimsuit, swimwear, bathing suit, swimming costume, bathing costume
           - bikini, two-piece
           - maillot, tank suit
           - swimming trunks, bathing trunks
         - trouser
-        - trouser, pant
+        - trousers, pair of trousers, pant
           - bellbottom trousers, bell-bottoms, bellbottom pants
           - breeches, knee breeches, knee pants, knickerbockers, knickers
             - britches
             - buckskins
             - plus fours
             - trunk hose
-          - chino
+          - chinos
           - churidars
           - cords, corduroys
           - flannel, gabardine, tweed, white
-          - jean, blue jean, denim
+          - jeans, blue jeans, denim
             - Levi's, levis
+            - distressed jeans
           - jodhpurs, jodhpur breeches, riding breeches
           - long trousers, long pants
           - pajama, pyjama
           - pantaloon
-          - pedal pusher, toreador pants
+          - pedal pushers, toreador pants
           - salwar, shalwar
           - short pants, shorts, trunks
             - Bermuda shorts, Jamaica shorts
@@ -841,6 +872,7 @@ term: good
           - stretch pants
           - sweat pants, sweatpants
           - trews
+          - ski pants, salopettes
         - undergarment, unmentionable
           - body stocking
           - brassiere, bra, bandeau
@@ -869,7 +901,8 @@ term: good
               - nightgown, gown, nightie, night-robe, nightdress
               - undies
             - long johns
-            - Skivvies
+            - skivvies
+            - tighty whitey
         - vest, waistcoat
           - bulletproof vest
         - weeds, widow's weeds
@@ -952,6 +985,7 @@ term: good
           - titfer
           - toque
           - tyrolean, tirolean
+          - bolero hat
         - helmet
           - batting helmet
           - crash helmet
@@ -960,6 +994,7 @@ term: good
           - hard hat, tin hat, safety hat
           - headpiece
           - space helmet
+          - climbing helmet
         - hood
           - calash, caleche
           - camail, aventail, ventail
@@ -967,19 +1002,21 @@ term: good
         - jewelled headdress, jeweled headdress
           - crown, diadem
             - coronet
+            - crown of thorns
           - tiara
         - kaffiyeh
         - miter, mitre
         - topknot
         - turban
         - wimple
+        - kamilavka
       - knitwear
       - leisure wear
       - loungewear
         - lounger
         - lounging jacket, smoking jacket
         - lounging pajama, lounging pyjama
-      - man's clothing
+      - men's clothing
         - athletic supporter, supporter, suspensor, jockstrap, jock
         - brace, suspender, gallus
         - dress hat, high hat, opera hat, silk hat, stovepipe, top hat, topper, beaver
@@ -999,6 +1036,8 @@ term: good
             - alb
             - cassock
               - soutane
+              - outer cassock, outer rason
+              - inner rason, inner cassock
             - chasuble
             - humeral veil, veil
             - pallium
@@ -1047,7 +1086,7 @@ term: good
           - olive drab, olive-drab uniform
           - regimentals
       - vestiture
-      - woman's clothing
+      - women's clothing
         - A-line
         - brassiere, bra, bandeau
           - uplift
@@ -1072,6 +1111,8 @@ term: good
           - shirtdress
           - strapless
           - sundress
+          - mini dress
+          - peasant dress
         - G-string, thong
         - negligee, neglige, peignoir, wrapper, housecoat
           - brunch coat
@@ -1085,7 +1126,7 @@ term: good
           - bodice
           - bustier
           - halter
-      - work-clothing, work-clothes
+      - work-clothing, work-clothes, work clothes, work clothing
         - overall
     - durables, durable goods, consumer durables
       - appliance
@@ -1093,9 +1134,10 @@ term: good
           - clothes dryer, clothes drier
             - mangle
             - spin dryer, spin drier
-            - tumble-dryer, tumble drier
+            - tumble-dryer, tumble drier, tumble dryer
             - wringer
           - hand blower, blow dryer, blow drier, hair dryer, hair drier
+          - refrigerant dryer, refrigeration dryer
         - home appliance, household appliance
           - curling iron
           - iron, smoothing iron
@@ -1103,9 +1145,11 @@ term: good
             - goffer, gauffer, goffering iron, gauffering iron
             - steam iron
             - travel iron
+            - electric iron
           - kitchen appliance
             - coffee maker
               - espresso maker
+                - super-automatic espresso machine
               - Silex
             - disposal, electric pig, garbage disposal
             - food processor
@@ -1118,6 +1162,7 @@ term: good
               - gas oven
               - rotisserie
               - tandoor
+              - electric oven
             - stove, kitchen stove, range, kitchen range, cooking stove
               - charcoal burner
               - cookstove
@@ -1127,18 +1172,28 @@ term: good
               - Primus stove, Primus
               - spirit stove
             - toaster
+              - pop-up toaster, automatic toaster
             - toaster oven
             - waffle iron
+            - rice cooker, rice steamer
+            - fryer, frier, deep fryer, deep fat fryer, fryolator
+              - donut machine, donut fryer, doughnut fryer, doughnut machine
           - sewing machine
             - serger
+            - buttonhole machine, eyelet buttonhole machine
+            - blindstitch machine, blind stitch machine, blindstitch sewing machine
+            - lockstitch machine
           - trouser press, pants presser
           - vacuum, vacuum cleaner
             - Hoover
+            - cyclonic vacuum, cyclonic cleaner, cyclonic vacuum cleaner
+            - handheld vacuum, handheld vacuum cleaner, hand-held vacuum cleaner, hand-held vacuum
+            - backpack vacuum cleaner, backpack vacuum
           - white goods
             - clothes dryer, clothes drier
               - mangle
               - spin dryer, spin drier
-              - tumble-dryer, tumble drier
+              - tumble-dryer, tumble drier, tumble dryer
               - wringer
             - dishwasher, dish washer, dishwashing machine
             - electric range
@@ -1148,6 +1203,12 @@ term: good
                 - deep-freeze, Deepfreeze, deep freezer, freezer
                 - ice machine
             - washer, automatic washer, washing machine
+          - crimping iron, hair crimper
+          - spray extraction cleaner, spray extraction machine
+          - ironing press, steam press
+        - air conditioner, A/C, air-conditioner
+        - humidifier
+        - dehumidifier
     - fashion
     - grocery, foodstuff
       - greengrocery
@@ -1189,6 +1250,7 @@ term: good
     - soybean future
     - wheat future
   - import, importation
+    - imported input
   - merchandise, ware, product
     - cargo, lading, freight, load, loading, payload, shipment, consignment
     - contraband
@@ -1200,6 +1262,7 @@ term: good
     - irregular, second
     - line, product line, line of products, line of merchandise, business line, line of business
       - sideline
+      - fashion collection
     - number
     - refill
     - release
@@ -1208,10 +1271,12 @@ term: good
     - stock, inventory
     - top of the line
     - yard goods, piece goods
+    - merchandise, merchandising
   - middling
   - shopping
   - sporting goods
   - worldly possession, worldly good
+  - tangible goods, physical goods
   - salvage
 [Domains]
   - combining form

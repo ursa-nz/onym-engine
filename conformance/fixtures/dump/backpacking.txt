@@ -23,12 +23,12 @@ term: backpacking
           - action
             - act, deed, human action, human activity
               - event
-                - psychological feature
-                  - abstraction, abstract entity
-                    - entity
+                - abstraction, abstract entity
+                  - entity
   - hike
     - walk
       - travel, go, move, locomote
+        - act, move
 [Domains]
   - sport
   - athletics

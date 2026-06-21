@@ -1,0 +1,17 @@
+term: cataract surgery
+[Definitions]
+  - (noun) eye surgery that involves removing all or part of the lens and replacing it with an intraocular lens implant
+[Is a kind of]
+  - eye operation, eye surgery
+    - operation, surgery, surgical operation, surgical procedure, surgical process
+      - medical procedure
+        - procedure, process
+          - activity
+            - act, deed, human action, human activity
+              - event
+                - abstraction, abstract entity
+                  - entity
+[Kinds]
+  - intracapsular surgery
+  - extracapsular surgery
+    - phacoemulsification

@@ -1,0 +1,17 @@
+term: sound law
+[Definitions]
+  - (noun) a law describing sound changes in the history of a language
+[Is a kind of]
+  - law, natural law
+    - concept, conception, construct
+      - idea, thought
+        - content, cognitive content, mental object
+          - cognition, knowledge, noesis
+            - psychological feature
+              - abstraction, abstract entity
+                - entity
+[Kinds]
+  - Grimm's law
+  - Verner's law
+[Part of]
+  - historical linguistics, diachronic linguistics, diachrony

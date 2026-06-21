@@ -1,0 +1,13 @@
+term: peneplane
+[Definitions]
+  - (noun) a more or less level land surface representing an advanced stage of erosion undisturbed by crustal movements
+[Synonyms]
+  - peneplain
+[Is a kind of]
+  - plain, field, champaign
+    - land, dry land, earth, ground, solid ground, terra firma
+      - object, physical object
+        - physical entity
+          - entity
+[Domains]
+  - geology

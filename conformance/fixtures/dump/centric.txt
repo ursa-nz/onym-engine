@@ -1,0 +1,17 @@
+term: centric
+[Definitions]
+  - (adjective) having or situated at or near a center
+[Synonyms]
+  - centrical
+[Antonyms]
+  - central (indirect)
+      -> peripheral
+[Derived forms]
+  - center
+  - centre
+  - middle
+  - heart
+  - eye
+  - midpoint
+[Similar to]
+  - central

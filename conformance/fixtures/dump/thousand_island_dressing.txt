@@ -1,0 +1,15 @@
+term: Thousand Island dressing
+[Definitions]
+  - (noun) mayonnaise with chili sauce or catsup and minced olives and peppers and hard-cooked egg
+[Is a kind of]
+  - dressing, salad dressing
+    - sauce
+      - condiment
+        - flavorer, flavourer, flavoring, flavouring, seasoner, seasoning
+          - ingredient, fixings
+            - foodstuff, food product
+              - food, nutrient
+                - substance
+                  - matter
+                    - physical entity
+                      - entity

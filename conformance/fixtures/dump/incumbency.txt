@@ -1,0 +1,39 @@
+term: incumbency
+[Definitions]
+  - (noun) the term during which some position is held
+  - (noun) a duty that is incumbent upon you
+  - (noun) the office of an incumbent
+[Synonyms]
+  - tenure
+  - term of office
+[Derived forms]
+  - incumbent
+[Is a kind of]
+  - term
+    - time period, period of time, period
+      - fundamental quantity, fundamental measure
+        - measure, quantity, amount
+          - abstraction, abstract entity
+            - entity
+  - duty, responsibility, obligation
+    - social control
+      - group action
+        - action
+          - act, deed, human action, human activity
+            - event
+              - abstraction, abstract entity
+                - entity
+  - position, post, berth, office, place, situation
+    - occupation, business, job, line of work, line
+      - activity
+        - act, deed, human action, human activity
+          - event
+            - abstraction, abstract entity
+              - entity
+[Kinds]
+  - presidency, presidential term, administration
+  - vice-presidency, vice-presidential term
+  - episcopate
+[Parts]
+  - term
+    - midterm

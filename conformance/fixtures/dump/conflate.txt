@@ -1,0 +1,30 @@
+term: conflate
+[Definitions]
+  - (verb) mix together different elements
+      "The colors blend well"
+[Synonyms]
+  - blend
+  - flux
+  - mix
+  - commingle
+  - immix
+  - fuse
+  - coalesce
+  - meld
+  - combine
+  - merge
+[Is a kind of]
+  - change integrity
+    - change
+      - act, move
+[Kinds]
+  - gauge
+  - absorb
+  - melt, meld
+  - blend in, mix in
+    - cut in
+  - accrete, grow together
+  - conjugate
+  - admix
+  - alloy
+  - syncretize, syncretise

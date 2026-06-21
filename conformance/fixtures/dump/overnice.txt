@@ -1,0 +1,15 @@
+term: overnice
+[Definitions]
+  - (adjective) excessively fastidious and easily disgusted
+      "too nice about his food to take to camp cooking"
+      "so squeamish he would only touch the toilet handle with his elbow"
+[Synonyms]
+  - dainty
+  - nice
+  - prissy
+  - squeamish
+[Antonyms]
+  - fastidious (indirect)
+      -> unfastidious
+[Similar to]
+  - fastidious

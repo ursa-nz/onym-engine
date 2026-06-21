@@ -1,0 +1,29 @@
+term: massiveness
+[Definitions]
+  - (noun) an unwieldy largeness
+  - (noun) the property of being large in mass
+[Synonyms]
+  - bulkiness
+  - heft
+  - heftiness
+  - ponderousness
+  - ponderosity
+[Derived forms]
+  - massive
+  - monolithic
+  - monumental
+[Is a kind of]
+  - largeness, bigness
+    - size
+      - magnitude
+        - property
+          - attribute
+            - abstraction, abstract entity
+              - entity
+  - heaviness, weightiness
+    - weight
+      - physical property
+        - property
+          - attribute
+            - abstraction, abstract entity
+              - entity

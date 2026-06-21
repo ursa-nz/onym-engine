@@ -1,0 +1,16 @@
+term: nuclear explosion
+[Definitions]
+  - (noun) the explosion of an atomic bomb
+[Synonyms]
+  - atomic explosion
+[Is a kind of]
+  - bomb blast
+    - blast
+      - explosion, detonation, blowup
+        - discharge
+          - happening, occurrence, occurrent, natural event
+            - event
+              - abstraction, abstract entity
+                - entity
+[Parts]
+  - fireball

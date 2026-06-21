@@ -1,0 +1,19 @@
+term: group therapy
+[Definitions]
+  - (noun) psychotherapy in which a small group of individuals meet with a therapist; interactions among the members are considered to be therapeutic
+[Synonyms]
+  - group psychotherapy
+[Is a kind of]
+  - psychotherapy
+    - therapy, treatment
+      - medical care, medical aid
+        - treatment, intervention
+          - care, attention, aid, tending
+            - work
+              - activity
+                - act, deed, human action, human activity
+                  - event
+                    - abstraction, abstract entity
+                      - entity
+[Kinds]
+  - family therapy

@@ -1,0 +1,26 @@
+term: Passeriformes
+[Definitions]
+  - (noun) largest order of birds comprising about half the known species: rooks, finches, sparrows, tits, warblers, robins, wrens, swallows, etc.; the four suborders are Eurylaimi, Tyranni, Menurae and Oscines or Passeres
+[Synonyms]
+  - order Passeriformes
+[Is a kind of]
+  - animal order
+    - order
+      - taxonomic group, taxonomic category, taxon
+        - biological group
+          - group, grouping
+            - abstraction, abstract entity
+              - entity
+[Part of]
+  - Aves, class Aves
+    - Vertebrata, subphylum Vertebrata, Craniata, subphylum Craniata
+      - Chordata, phylum Chordata
+        - Animalia, kingdom Animalia, animal kingdom
+[Parts]
+  - passerine, passeriform bird
+  - Oscines, suborder Oscines, Passeres, suborder Passeres
+  - Menurae, suborder Menurae
+  - Eurylaimi, suborder Eurylaimi
+  - Tyranni, suborder Tyranni
+  - Clamatores, suborder Clamatores
+  - Troglodytidae, family Troglodytidae

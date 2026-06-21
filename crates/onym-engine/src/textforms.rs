@@ -19,8 +19,8 @@ pub fn to_display_form(raw: &str) -> String {
 }
 
 /// The Levenshtein edit distance between `a` and `b`, with unit insert, delete, and substitute
-/// costs. A two-row dynamic program, matching Onym's `onym_edit_distance`. Distances count
-/// characters, not bytes, so a Latin-1 gloss character is one edit.
+/// costs. A two-row dynamic program, matching Onym's `onym_edit_distance`. Distances count Unicode
+/// scalar values, not bytes, so an accented gloss character is one edit.
 pub fn edit_distance(a: &str, b: &str) -> usize {
     let a: Vec<char> = a.chars().collect();
     let b: Vec<char> = b.chars().collect();
@@ -79,10 +79,14 @@ pub(crate) fn index_variants(form: &str) -> Vec<String> {
     variants
 }
 
-/// Decode ISO-8859-1 bytes, the dictionary encoding, into a string. Every byte is the code point
-/// of the same value, so the conversion is total and never alters a gloss byte.
-pub(crate) fn latin1_to_string(bytes: &[u8]) -> String {
-    bytes.iter().map(|&b| b as char).collect()
+/// Decode WordNet database bytes into a string. The OEWN database is UTF-8 throughout, where the
+/// Princeton 3.0 files it replaced were ISO-8859-1. Invalid sequences are replaced rather than
+/// rejected, matching the etymology overlay reader, so a single malformed byte never fails a whole
+/// file; the data-validation suite gates the bytes as valid UTF-8 upstream. Fields are only ever
+/// decoded after splitting on ASCII delimiters, and a UTF-8 multi-byte sequence never contains an
+/// ASCII byte, so a split never falls inside a character.
+pub(crate) fn decode(bytes: &[u8]) -> String {
+    String::from_utf8_lossy(bytes).into_owned()
 }
 
 #[cfg(test)]

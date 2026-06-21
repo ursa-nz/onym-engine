@@ -1,0 +1,11 @@
+term: spymaster
+[Definitions]
+  - (noun) someone who directs clandestine intelligence activities
+[Is a kind of]
+  - master
+    - employer
+      - leader
+        - actor, doer, worker
+          - causal agent, cause, causal agency
+            - physical entity
+              - entity

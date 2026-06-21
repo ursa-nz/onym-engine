@@ -1,0 +1,22 @@
+term: hearsay
+[Definitions]
+  - (noun) gossip (usually a mixture of truth and untruth) passed around by word of mouth
+  - (adjective) heard through another rather than directly
+      "hearsay information"
+[Synonyms]
+  - rumor
+  - rumour
+[Antonyms]
+  - indirect (indirect)
+      -> direct
+[Similar to]
+  - indirect
+[Is a kind of]
+  - gossip, comment, scuttlebutt
+    - report, account
+      - informing, making known
+        - speech act
+          - act, deed, human action, human activity
+            - event
+              - abstraction, abstract entity
+                - entity

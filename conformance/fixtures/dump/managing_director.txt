@@ -1,0 +1,18 @@
+term: managing director
+[Definitions]
+  - (noun) someone who controls resources and expenditures
+[Synonyms]
+  - director
+  - manager
+[Is a kind of]
+  - administrator, decision maker
+    - head, chief, top dog
+      - leader
+        - actor, doer, worker
+          - causal agent, cause, causal agency
+            - physical entity
+              - entity
+[Kinds]
+  - bank manager
+  - district manager
+  - manageress

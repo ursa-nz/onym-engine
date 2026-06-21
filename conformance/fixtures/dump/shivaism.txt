@@ -1,0 +1,45 @@
+term: Shivaism
+[Definitions]
+  - (noun) a Hindu sect worshiping Shiva
+  - (noun) worship of Shiva one of the 3 chief gods of the Hindu pantheon
+[Synonyms]
+  - Sivaism
+[Derived forms]
+  - Shivaist
+[Is a kind of]
+  - sect, religious sect, religious order
+    - religion, faith, organized religion
+      - institution, establishment
+        - organization, organisation
+          - social group
+            - group, grouping
+              - abstraction, abstract entity
+                - entity
+  - Hinduism, Hindooism
+    - religion, faith, religious belief
+      - belief
+        - content, cognitive content, mental object
+          - cognition, knowledge, noesis
+            - psychological feature
+              - abstraction, abstract entity
+                - entity
+      - theological virtue, supernatural virtue
+        - cardinal virtue
+          - virtue
+            - good, goodness
+              - morality
+                - quality
+                  - attribute
+                    - abstraction, abstract entity
+                      - entity
+[Part of]
+  - Hinduism, Hindooism
+[Parts]
+  - Shivaist
+  - sect, religious sect, religious order
+    - convent
+    - religion, faith, organized religion
+      - institution, establishment
+        - organization, organisation
+          - quorum
+          - membership, rank

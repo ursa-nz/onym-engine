@@ -1,0 +1,13 @@
+term: ergotropism
+[Definitions]
+  - (noun) an affinity for work
+[Derived forms]
+  - ergotropic
+[Is a kind of]
+  - tropism
+    - reaction, response
+      - bodily process, body process, bodily function, activity
+        - organic process, biological process
+          - process, physical process
+            - physical entity
+              - entity

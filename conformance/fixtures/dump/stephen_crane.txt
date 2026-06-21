@@ -1,0 +1,12 @@
+term: Stephen Crane
+[Definitions]
+  - (noun) United States writer (1871-1900)
+[Synonyms]
+  - Crane
+[Is a kind of]
+  - writer, author
+    - communicator
+      - actor, doer, worker
+        - causal agent, cause, causal agency
+          - physical entity
+            - entity

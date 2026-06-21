@@ -1,0 +1,16 @@
+term: metallic-colored
+[Definitions]
+  - (adjective) having a metallic color
+[Synonyms]
+  - metal-colored
+  - metal-coloured
+  - metallic-coloured
+[Antonyms]
+  - colored (indirect)
+      -> uncolored
+      -> uncoloured
+[Similar to]
+  - colored
+  - coloured
+  - colorful
+  - colourful

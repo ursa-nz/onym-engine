@@ -1,0 +1,20 @@
+term: Polybotrya
+[Definitions]
+  - (noun) tropical American ferns; usually terrestrial when young but scandent later
+[Synonyms]
+  - genus Polybotrya
+  - Polybotria
+  - genus Polybotria
+[Is a kind of]
+  - fern genus
+    - genus
+      - taxonomic group, taxonomic category, taxon
+        - biological group
+          - group, grouping
+            - abstraction, abstract entity
+              - entity
+[Part of]
+  - Dryopteridaceae, family Dryopteridaceae, Athyriaceae, family Athyriaceae
+    - Filicopsida, class Filicopsida, Filicinae, class Filicinae
+      - Pteridophyta, division Pteridophyta
+        - Plantae, kingdom Plantae, plant kingdom

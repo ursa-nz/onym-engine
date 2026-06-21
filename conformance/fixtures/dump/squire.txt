@@ -10,32 +10,21 @@ term: squire
   - attendant, attender, tender
     - assistant, helper, help, supporter
       - worker
-        - person, individual, someone, somebody, mortal, soul
-          - organism, being
-            - living thing, animate thing
-              - whole, unit
-                - object, physical object
-                  - physical entity
-                    - entity
+        - actor, doer, worker
           - causal agent, cause, causal agency
             - physical entity
               - entity
   - landowner, landholder, property owner
     - holder
       - owner, possessor
-        - person, individual, someone, somebody, mortal, soul
-          - organism, being
-            - living thing, animate thing
-              - whole, unit
-                - object, physical object
-                  - physical entity
-                    - entity
+        - actor, doer, worker
           - causal agent, cause, causal agency
             - physical entity
               - entity
   - escort
     - accompany
       - travel, go, move, locomote
+        - act, move
 [Kinds]
   - armiger, armor-bearer
 [Domains]
@@ -45,3 +34,5 @@ term: squire
   - Britain
   - United Kingdom of Great Britain and Northern Ireland
   - Great Britain
+  - Blighty
+  - Albion

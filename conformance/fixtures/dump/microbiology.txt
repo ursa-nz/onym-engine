@@ -1,0 +1,26 @@
+term: microbiology
+[Definitions]
+  - (noun) the branch of biology that studies microorganisms and their effects on humans
+[Derived forms]
+  - microbiologist
+[Is a kind of]
+  - biology, biological science
+    - life science, bioscience
+      - natural science
+        - science, scientific discipline
+          - discipline, subject, subject area, subject field, field, field of study, study, bailiwick
+            - knowledge domain, knowledge base, domain
+              - content, cognitive content, mental object
+                - cognition, knowledge, noesis
+                  - psychological feature
+                    - abstraction, abstract entity
+                      - entity
+[Domains]
+  - colony
+  - prion
+  - virino
+  - bacteria
+  - bacterium
+  - fastidious
+  - exacting
+  - unfastidious

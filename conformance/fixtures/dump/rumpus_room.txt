@@ -1,0 +1,16 @@
+term: rumpus room
+[Definitions]
+  - (noun) a recreation room for noisy activities (parties or children's play etc.)
+[Synonyms]
+  - playroom
+  - game room
+[Is a kind of]
+  - recreation room, rec room
+    - room
+      - area
+        - structure, construction
+          - artifact, artefact
+            - whole, unit
+              - object, physical object
+                - physical entity
+                  - entity

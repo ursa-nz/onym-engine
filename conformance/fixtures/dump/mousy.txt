@@ -1,0 +1,26 @@
+term: mousy
+[Definitions]
+  - (adjective) quiet and timid and ineffectual
+  - (adjective) infested with mice
+  - (adjective) of something having a drab pale brown color resembling a mouse
+      "a mousy brownish-grey color"
+      "mousy hair"
+      "mouse-colored hair"
+[Synonyms]
+  - mousey
+  - mouse-colored
+  - mouselike
+[Antonyms]
+  - timid (indirect)
+      -> bold
+  - chromatic (indirect)
+      -> achromatic
+      -> neutral
+[Derived forms]
+  - mouse
+[Similar to]
+  - timid
+  - chromatic
+[Pertains to]
+  - mouse
+    - rodent, gnawer

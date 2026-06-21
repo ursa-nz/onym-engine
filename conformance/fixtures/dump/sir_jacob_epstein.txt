@@ -1,0 +1,14 @@
+term: Sir Jacob Epstein
+[Definitions]
+  - (noun) British sculptor (born in the United States) noted for busts and large controversial works (1880-1959)
+[Synonyms]
+  - Epstein
+  - Jacob Epstein
+[Is a kind of]
+  - sculptor, sculpturer, carver, statue maker
+    - artist, creative person
+      - creator
+        - actor, doer, worker
+          - causal agent, cause, causal agency
+            - physical entity
+              - entity

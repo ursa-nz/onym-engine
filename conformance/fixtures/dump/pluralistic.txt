@@ -1,0 +1,9 @@
+term: pluralistic
+[Definitions]
+  - (adjective) of or relating to the philosophical doctrine of pluralism
+      "a pluralistic culture"
+[Derived forms]
+  - pluralism
+[Pertains to]
+  - pluralism
+    - doctrine, philosophy, philosophical system, school of thought, ism

@@ -1,0 +1,20 @@
+term: Capture of Fort Ticonderoga
+[Definitions]
+  - (noun) a pitched battle in which American revolutionary troops captured Fort Ticonderoga from the British in 1775
+[Synonyms]
+  - Fort Ticonderoga
+  - Ticonderoga
+[Is a kind of]
+  - pitched battle
+    - battle, conflict, fight, engagement
+      - military action, action
+        - group action
+          - action
+            - act, deed, human action, human activity
+              - event
+                - abstraction, abstract entity
+                  - entity
+[Part of]
+  - American Revolution, American Revolutionary War, War of American Independence, American War of Independence
+[Domains]
+  - New York

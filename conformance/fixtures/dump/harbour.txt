@@ -1,0 +1,93 @@
+term: harbour
+[Definitions]
+  - (verb) secretly shelter (as of fugitives or criminals)
+  - (verb) keep in one's possession; of animals
+  - (verb) hold back a thought or feeling about
+      "She is harboring a grudge against him"
+  - (verb) maintain (a theory, thoughts, or feelings)
+      "bear a grudge"
+      "entertain interesting notions"
+      "harbor a resentment"
+  - (noun) a sheltered port where ships can take on or discharge cargo
+  - (noun) a place of refuge and comfort and security
+[Synonyms]
+  - seaport
+  - haven
+  - harbor
+  - shield
+  - hold
+  - entertain
+  - nurse
+  - bear
+[Derived forms]
+  - harbor
+  - harborage
+  - harbourage
+[Is a kind of]
+  - port
+    - geographic point, geographical point
+      - point
+        - location
+          - object, physical object
+            - physical entity
+              - entity
+  - refuge, sanctuary, asylum
+    - shelter
+      - structure, construction
+        - artifact, artefact
+          - whole, unit
+            - object, physical object
+              - physical entity
+                - entity
+  - shelter
+    - supply, provide, render, furnish, offer
+      - give
+        - transfer
+          - change, alter, modify
+            - induce, stimulate, cause, have, get, make
+              - act, move
+  - keep, hold on
+    - have, have got, hold
+  - hide, conceal
+    - act, move
+  - feel, experience
+    - perceive, comprehend
+      - learn, hear, get word, get wind, pick up, find out, get a line, discover, see
+        - act, move
+[Kinds]
+  - coaling station
+  - port of call
+  - Caesarea
+  - Pearl Harbor
+  - Boston Harbor
+[Part of]
+  - seafront
+[Parts]
+  - dock, dockage, docking facility
+  - landing, landing place
+  - anchorage, anchorage ground
+[Domains]
+  - American spelling
+  - American English spelling
+  - American English orthography
+  - US spelling
+  - US English spelling
+  - US English orthography
+  - British spelling
+  - British English spelling
+  - British English orthography
+  - Irish spelling
+  - Irish English spelling
+  - Irish English orthography
+  - New Zealand spelling
+  - New Zealand English spelling
+  - New Zealand English orthography
+  - Commonwealth spelling
+  - Commonwealth English spelling
+  - Commonwealth English orthography
+  - Canadian spelling
+  - Canadian English spelling
+  - Canadian English orthography
+  - Australian spelling
+  - Australian English spelling
+  - Australian English orthography

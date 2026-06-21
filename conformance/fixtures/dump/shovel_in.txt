@@ -1,0 +1,18 @@
+term: shovel in
+[Definitions]
+  - (verb) earn large sums of money
+      "Since she accepted the new position, she has been raking it in"
+  - (verb) eat a large amount of food quickly
+      "The children gobbled down most of the birthday cake"
+[Synonyms]
+  - rake in
+  - garbage down
+  - gobble up
+  - bolt down
+[Is a kind of]
+  - gain, take in, clear, make, earn, realize, realise, pull in, bring in
+    - get, acquire
+      - act, move
+  - eat
+    - consume, ingest, take in, take, have
+      - act, move

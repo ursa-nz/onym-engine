@@ -1,0 +1,37 @@
+term: sledgehammer
+[Definitions]
+  - (noun) a heavy long-handled hammer used to drive stakes or wedges
+  - (verb) beat with a sledgehammer
+[Synonyms]
+  - maul
+  - sledge
+[Derived forms]
+  - sledge
+  - maul
+[Is a kind of]
+  - hammer
+    - hand tool
+      - tool
+        - implement
+          - instrumentality, instrumentation, means
+            - artifact, artefact
+              - whole, unit
+                - object, physical object
+                  - physical entity
+                    - entity
+[Parts]
+  - hammer
+    - hammerhead
+      - peen
+    - head
+      - face
+    - hand tool
+      - handle, grip, handgrip, hold
+        - shank, stem
+      - tool
+        - implement
+          - instrumentality, instrumentation, means
+            - artifact, artefact
+              - whole, unit
+                - part, portion
+                - section, segment

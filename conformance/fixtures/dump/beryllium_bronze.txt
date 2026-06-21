@@ -1,0 +1,16 @@
+term: beryllium bronze
+[Definitions]
+  - (noun) a copper-base alloy containing beryllium
+[Is a kind of]
+  - bronze
+    - copper-base alloy
+      - alloy, metal
+        - mixture
+          - substance
+            - matter
+              - physical entity
+                - entity
+            - part, portion, component part, component, constituent
+              - relation
+                - abstraction, abstract entity
+                  - entity

@@ -1,0 +1,42 @@
+term: notional
+[Definitions]
+  - (adjective) not based on fact; existing only in the imagination
+      "the falsehood about some fanciful secret treaties"
+      "a small child's imaginary friends"
+      "to create a notional world for oneself"
+  - (adjective) not based on fact or investigation
+      "a notional figure of cost helps in determining production costs"
+      "speculative knowledge"
+  - (adjective) indulging in or influenced by fancy
+      "a fanciful mind"
+      "all the notional vagaries of childhood"
+  - (adjective) being of the nature of a notion or concept
+      "a plan abstract and conceptional"
+      "to improve notional comprehension"
+      "a notional response to the question"
+[Synonyms]
+  - fanciful
+  - imaginary
+  - speculative
+  - conceptional
+  - ideational
+[Antonyms]
+  - unreal (indirect)
+      -> real
+      -> existent
+  - theoretical (indirect)
+      -> empirical
+      -> empiric
+  - creative (indirect)
+      -> uncreative
+  - abstract (indirect)
+      -> concrete
+[Derived forms]
+  - notion
+[Similar to]
+  - unreal
+  - theoretical
+  - theoretic
+  - creative
+  - originative
+  - abstract

@@ -1,0 +1,23 @@
+term: Allen wrench
+[Definitions]
+  - (noun) a wrench for Allen screws
+[Synonyms]
+  - zeta key
+  - Unbrako key
+  - Inbus key
+  - zeta wrench
+  - Allen key
+  - hex key
+  - Unbrako wrench
+  - Inbus wrench
+[Is a kind of]
+  - wrench, spanner
+    - hand tool
+      - tool
+        - implement
+          - instrumentality, instrumentation, means
+            - artifact, artefact
+              - whole, unit
+                - object, physical object
+                  - physical entity
+                    - entity

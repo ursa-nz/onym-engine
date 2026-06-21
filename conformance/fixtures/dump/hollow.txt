@@ -1,0 +1,140 @@
+term: hollow
+[Definitions]
+  - (noun) a cavity or space in something
+      "hunger had caused the hollows in their cheeks"
+  - (noun) a small valley between mountains
+      "he built himself a cabin in a hollow high up in the Appalachians"
+  - (noun) a depression hollowed out of solid matter
+  - (adjective) not solid; having a space or gap or cavity
+      "a hollow wall"
+      "a hollow tree"
+      "hollow cheeks"
+      "his face became gaunter and more hollow with each year"
+  - (adjective) as if echoing in a hollow space
+      "the hollow sound of footsteps in the empty ballroom"
+  - (adjective) devoid of significance or force
+      "empty promises"
+      "a hollow victory"
+      "vacuous comments"
+  - (adjective) lacking in substance or character
+      "a hollow person"
+  - (verb) remove the inner part or the core of
+      "the mining company wants to excavate the hillside"
+  - (verb) remove the interior of
+      "hollow out a tree trunk"
+[Synonyms]
+  - holler
+  - hole
+  - excavate
+  - dig
+  - hollow out
+  - core out
+  - empty
+  - vacuous
+[Antonyms]
+  - solid (direct)
+      -> massive
+  - reverberant (indirect)
+      -> unreverberant
+      -> nonresonant
+  - meaningless (indirect)
+      -> meaningful
+  - insubstantial (indirect)
+      -> substantial
+      -> real
+      -> material
+[Derived forms]
+  - excavate
+  - dig
+  - hollow out
+  - core out
+  - hole
+  - holler
+  - hollowness
+  - insincerity
+  - falseness
+[Similar to]
+  - cavernous
+  - deep-set
+  - sunken
+  - recessed
+  - fistular
+  - fistulate
+  - fistulous
+  - tubular
+  - cannular
+  - tubelike
+  - tube-shaped
+  - vasiform
+  - reverberant
+  - meaningless
+  - nonmeaningful
+  - insubstantial
+  - unsubstantial
+  - unreal
+[Attributes]
+  - solidity
+[Is a kind of]
+  - cavity, enclosed space
+    - space
+      - amorphous shape
+        - shape, form
+          - attribute
+            - abstraction, abstract entity
+              - entity
+      - location
+        - object, physical object
+          - physical entity
+            - entity
+  - valley, vale
+    - natural depression, depression
+      - geological formation, formation
+        - object, physical object
+          - physical entity
+            - entity
+  - natural depression, depression
+    - geological formation, formation
+      - object, physical object
+        - physical entity
+          - entity
+  - remove, take, take away, withdraw, take off, pull
+    - act, move
+  - empty
+    - change, alter, modify
+      - induce, stimulate, cause, have, get, make
+        - act, move
+[Kinds]
+  - dell, dingle
+  - burrow, tunnel
+    - warren, rabbit warren
+  - gopher hole
+  - kettle hole, kettle
+  - pit, cavity
+    - trou-de-loup
+    - barbecue pit
+    - borrow pit
+    - divot
+    - fire pit
+    - quicksand
+    - sandpit
+    - sawpit
+    - tar pit
+  - pothole, chuckhole
+  - rabbit burrow, rabbit hole
+  - wormhole
+  - drive
+  - trench, ditch
+  - rout, gouge
+  - scallop, scollop
+  - hole
+  - suck in, draw in
+  - scoop out
+  - cavern, cavern out
+  - cave, undermine
+    - sap
+  - dig, dig out
+    - lift
+    - trench
+    - dibble
+  - excavate
+  - core

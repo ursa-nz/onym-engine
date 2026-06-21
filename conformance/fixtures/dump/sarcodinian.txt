@@ -1,0 +1,61 @@
+term: sarcodinian
+[Definitions]
+  - (noun) protozoa that move and capture food by forming pseudopods
+[Synonyms]
+  - sarcodine
+[Is a kind of]
+  - protozoan, protozoon
+    - protoctist
+      - microorganism, micro-organism
+        - organism, being
+          - living thing, animate thing
+            - whole, unit
+              - object, physical object
+                - physical entity
+                  - entity
+          - causal agent, cause, causal agency
+            - physical entity
+              - entity
+[Kinds]
+  - actinopod
+    - heliozoan
+    - radiolarian
+[Part of]
+  - Sarcodina, class Sarcodina
+    - Protozoa, phylum Protozoa
+      - Protoctista, kingdom Protoctista
+[Parts]
+  - protozoan, protozoon
+    - cytostome
+    - protoctist
+      - microorganism, micro-organism
+        - pilus
+        - organism, being
+          - tissue
+          - cell
+            - cell membrane, cytomembrane, plasma membrane
+            - energid, protoplast
+            - cytoplasm, cytol
+              - cytoskeleton
+              - microsome
+              - Golgi body, Golgi apparatus, Golgi complex, dictyosome
+            - nucleus, cell nucleus, karyon
+              - nucleolus, nucleole
+              - chromatin, chromatin granule
+              - achromatin
+              - linin
+              - chromosome
+                - nucleolus organizer, nucleolus organiser, nucleolar organizer, nucleolar organiser
+                - chromatin, chromatin granule
+                - gene, cistron, factor
+                - chromatid
+                - centromere, kinetochore
+                - telomere
+            - organelle, cell organelle, cell organ
+            - vacuole
+          - body part
+            - corpus
+          - living thing, animate thing
+            - whole, unit
+              - part, portion
+              - section, segment

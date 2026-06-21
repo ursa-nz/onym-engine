@@ -1,0 +1,55 @@
+term: moral
+[Definitions]
+  - (adjective) concerned with principles of right and wrong or conforming to standards of behavior and character based on those principles
+      "moral sense"
+      "a moral scrutiny"
+      "a moral lesson"
+      "a moral quandary"
+      "moral convictions"
+      "a moral life"
+  - (adjective) psychological rather than physical or tangible in effect
+      "a moral victory"
+      "moral support"
+  - (noun) the significance of a story or event
+      "the moral of the story is to love thy neighbor"
+[Synonyms]
+  - lesson
+[Antonyms]
+  - immoral (direct)
+      -> debauched
+      -> degenerate
+      -> degraded
+      -> dissipated
+      -> dissolute
+      -> libertine
+      -> profligate
+      -> riotous
+      -> fast
+      -> decadent
+      -> fin-de-siecle
+      -> disgraceful
+      -> scandalous
+      -> shameful
+      -> shocking
+      -> scrofulous
+  - mental (indirect)
+      -> physical
+[Derived forms]
+  - morality
+[Similar to]
+  - chaste
+  - clean
+  - clean-living
+  - moralistic
+  - righteous
+  - mental
+[Attributes]
+  - morality
+[Is a kind of]
+  - meaning, significance, signification, import
+    - message, content, subject matter, substance
+      - communication
+        - abstraction, abstract entity
+          - entity
+[Kinds]
+  - epimythium

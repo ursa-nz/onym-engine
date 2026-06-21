@@ -1,0 +1,29 @@
+term: trade rat
+[Definitions]
+  - (noun) any of several bushy-tailed rodents of the genus Neotoma of western North America; hoards food and other objects
+[Synonyms]
+  - packrat
+  - pack rat
+  - bushytail woodrat
+  - Neotoma cinerea
+[Is a kind of]
+  - wood rat, wood-rat, woodrat
+    - rodent, gnawer
+      - placental, placental mammal, eutherian, eutherian mammal
+        - mammal, mammalian
+          - vertebrate, craniate
+            - chordate
+              - animal, animate being, beast, brute, creature, fauna
+                - organism, being
+                  - living thing, animate thing
+                    - whole, unit
+                      - object, physical object
+                        - physical entity
+                          - entity
+                  - causal agent, cause, causal agency
+                    - physical entity
+                      - entity
+[Kinds]
+  - dusky-footed woodrat, Neotoma fuscipes
+[Part of]
+  - Neotoma, genus Neotoma

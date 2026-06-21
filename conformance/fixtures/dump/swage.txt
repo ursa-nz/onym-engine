@@ -1,0 +1,20 @@
+term: swage
+[Definitions]
+  - (noun) a tool used to thicken or spread metal (the end of a bar or a rivet etc.) by forging or hammering or swaging
+  - (verb) form metals with a swage
+[Synonyms]
+  - upset
+[Is a kind of]
+  - tool
+    - implement
+      - instrumentality, instrumentation, means
+        - artifact, artefact
+          - whole, unit
+            - object, physical object
+              - physical entity
+                - entity
+  - shape, form, work, mold, mould, forge
+    - create from raw material, create from raw stuff
+      - make, create
+        - induce, stimulate, cause, have, get, make
+          - act, move

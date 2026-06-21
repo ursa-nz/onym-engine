@@ -1,0 +1,22 @@
+term: Eindhoven
+[Definitions]
+  - (noun) city in southeastern Netherlands noted for electrical industry
+[Is a kind of]
+  - city, metropolis, urban center
+    - municipality
+      - urban area, populated area
+        - geographical area, geographic area, geographical region, geographic region
+          - region
+            - location
+              - object, physical object
+                - physical entity
+                  - entity
+      - administrative district, administrative division, territorial division
+        - district, territory, territorial dominion, dominion
+          - region
+            - location
+              - object, physical object
+                - physical entity
+                  - entity
+[Part of]
+  - Netherlands, The Netherlands, Nederland, Holland

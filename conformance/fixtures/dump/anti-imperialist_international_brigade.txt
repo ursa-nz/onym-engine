@@ -1,0 +1,22 @@
+term: Anti-Imperialist International Brigade
+[Definitions]
+  - (noun) a terrorist group organized in 1970 to overthrow the Japanese government and monarchy and to foment world revolution; is said to have close ties with Palestinian terrorists
+      "in 1972 the Japanese Red Army was responsible for a massacre at an airport in Israel"
+[Synonyms]
+  - Japanese Red Army
+  - JRA
+[Is a kind of]
+  - terrorist organization, terrorist group, foreign terrorist organization, FTO
+    - political movement
+      - movement, social movement, front
+        - social group
+          - group, grouping
+            - abstraction, abstract entity
+              - entity
+[Domains]
+  - terrorism
+  - act of terrorism
+  - terrorist act
+  - Japan
+  - Nippon
+  - Nihon

@@ -1,0 +1,14 @@
+term: earning per share
+[Definitions]
+  - (noun) the portion of a company's profit allocated to each outstanding share of common stock
+[Is a kind of]
+  - net income, net, net profit, lucre, profit, profits, earnings
+    - income
+      - financial gain
+        - gain
+          - sum, sum of money, amount, amount of money
+            - assets
+              - possession
+                - relation
+                  - abstraction, abstract entity
+                    - entity

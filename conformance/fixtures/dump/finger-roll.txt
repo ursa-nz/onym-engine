@@ -1,0 +1,12 @@
+term: finger-roll
+[Definitions]
+  - (noun) a basketball shot that rolls off the tips of the fingers into the basket
+[Is a kind of]
+  - basketball shot, shot
+    - shot
+      - attempt, effort, endeavor, endeavour, try
+        - activity
+          - act, deed, human action, human activity
+            - event
+              - abstraction, abstract entity
+                - entity

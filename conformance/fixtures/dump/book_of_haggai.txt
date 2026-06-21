@@ -1,0 +1,22 @@
+term: Book of Haggai
+[Definitions]
+  - (noun) an Old Testament book telling the prophecies of Haggai which are concerned mainly with rebuilding the temples after the Babylonian Captivity
+[Synonyms]
+  - Haggai
+  - Aggeus
+[Is a kind of]
+  - book
+    - section, subdivision
+      - writing, written material, piece of writing
+        - written communication, written language, black and white
+          - communication
+            - abstraction, abstract entity
+              - entity
+      - music
+        - auditory communication
+          - communication
+            - abstraction, abstract entity
+              - entity
+[Part of]
+  - Old Testament
+  - Nevi'im, Prophets, Nebiim

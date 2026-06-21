@@ -1,0 +1,20 @@
+term: untempered
+[Definitions]
+  - (adjective) not brought to a proper consistency or hardness
+      "untempered mortar"
+      "untempered steel"
+  - (adjective) not moderated or controlled
+      "his untempered individualism"
+[Synonyms]
+  - unhardened
+[Antonyms]
+  - tempered (direct)
+      -> treated
+      -> hardened
+      -> toughened
+      -> curable
+      -> sunbaked
+[Similar to]
+  - brittle
+  - unannealed
+  - unmoderated

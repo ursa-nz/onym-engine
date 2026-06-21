@@ -1,0 +1,128 @@
+term: outlet
+[Definitions]
+  - (noun) a place of business for retailing goods
+  - (noun) receptacle providing a place in a wiring system where current can be taken to run electrical devices
+  - (noun) an opening that permits escape or release
+      "he blocked the way out"
+      "the canyon had only one issue"
+  - (noun) activity that frees or expresses creative energy or emotion
+      "she had no other outlet for her feelings"
+      "he gave vent to his anger"
+[Synonyms]
+  - mercantile establishment
+  - retail store
+  - sales outlet
+  - wall socket
+  - wall plug
+  - electric outlet
+  - electrical outlet
+  - electric receptacle
+  - exit
+  - issue
+  - way out
+  - release
+  - vent
+[Is a kind of]
+  - place of business, business establishment
+    - establishment
+      - structure, construction
+        - artifact, artefact
+          - whole, unit
+            - object, physical object
+              - physical entity
+                - entity
+  - receptacle
+    - fitting
+      - accessory, appurtenance, supplement, add-on
+        - component, constituent, element
+          - part, portion
+            - object, physical object
+              - physical entity
+                - entity
+  - escape
+    - means, agency, way
+      - implementation, effectuation
+        - act, deed, human action, human activity
+          - event
+            - abstraction, abstract entity
+              - entity
+  - activity
+    - act, deed, human action, human activity
+      - event
+        - abstraction, abstract entity
+          - entity
+[Kinds]
+  - country store, general store, trading post
+  - department store, emporium
+  - discount house, discount store, discounter, wholesale house
+  - marketplace, market place, mart, market
+    - agora, public square
+    - bazaar, bazar
+    - grocery store, grocery, food market, market
+      - greengrocery
+      - supermarket
+        - hypermarket
+    - open-air market, open-air marketplace, market square
+      - farmer's market, green market, greenmarket
+      - souk
+      - flea market
+    - slave market
+    - agora
+  - plaza, mall, center, shopping mall, shopping center, shopping centre, centre
+  - shop, store
+    - bakery, bakeshop, bakehouse
+      - patisserie
+    - barbershop
+    - bazaar, bazar
+    - betting shop
+    - bodega
+    - bookshop, bookstore, bookstall
+    - booth
+      - stall, stand, sales booth
+        - coffee stall
+        - newsstand
+    - boutique, dress shop
+    - building supply store, building supply house
+    - butcher shop, meat market
+    - canteen
+    - chain store
+    - cleaners, dry cleaners
+    - clothing store, haberdashery, haberdashery store, mens store
+      - slopshop, slopseller's shop
+    - commissary
+      - post exchange, PX
+      - slop chest
+      - small stores
+    - computer store
+    - confectionery, confectionary, candy store
+      - tuck shop
+    - convenience store
+    - delicatessen, deli, food shop
+      - charcuterie
+    - drugstore, apothecary's shop, chemist's, chemist's shop, pharmacy
+    - florist, florist shop, flower store
+    - gift shop, novelty shop
+    - hardware store, ironmonger, ironmonger's shop
+    - head shop
+    - junk shop
+    - millinery, hat shop
+    - outfitter
+    - package store, liquor store, off-licence
+    - pawnbroker's shop, pawnshop, loan office
+    - perfumery
+    - pet shop
+    - pizzeria, pizza shop, pizza parlor
+    - repair shop, fix-it shop
+      - garage, service department
+    - salon, beauty salon, beauty parlor, beauty parlour, beauty shop
+    - shoe shop, shoe-shop, shoe store
+    - specialty store
+    - thriftshop, second-hand store
+    - tobacco shop, tobacconist shop, tobacconist
+    - toyshop
+    - pop-up
+  - strip mall
+  - point, power point
+  - outfall
+[Parts]
+  - merchandise, ware, product

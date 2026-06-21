@@ -1,0 +1,13 @@
+term: acute gastritis
+[Definitions]
+  - (noun) gastritis caused by ingesting an irritant (as too much aspirin)
+[Is a kind of]
+  - gastritis
+    - inflammation, redness, rubor
+      - symptom
+        - evidence, grounds
+          - information
+            - cognition, knowledge, noesis
+              - psychological feature
+                - abstraction, abstract entity
+                  - entity

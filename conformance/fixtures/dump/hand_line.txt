@@ -1,0 +1,44 @@
+term: hand line
+[Definitions]
+  - (noun) a fishing line managed principally by hand
+  - (noun) (climbing) a line that can be hung onto with hands while climbing up or down a steep or slick section for limited protection.
+[Is a kind of]
+  - fishing line
+    - cord
+      - line
+        - artifact, artefact
+          - whole, unit
+            - object, physical object
+              - physical entity
+                - entity
+  - line
+    - artifact, artefact
+      - whole, unit
+        - object, physical object
+          - physical entity
+            - entity
+  - rock-climbing equipment, climbing equipment
+    - sports equipment
+      - equipment
+        - instrumentality, instrumentation, means
+          - artifact, artefact
+            - whole, unit
+              - object, physical object
+                - physical entity
+                  - entity
+[Parts]
+  - line
+    - bitter end
+    - drip loop
+    - artifact, artefact
+      - whole, unit
+        - part, portion
+        - section, segment
+  - rock-climbing equipment, climbing equipment
+    - sports equipment
+      - equipment
+        - instrumentality, instrumentation, means
+          - artifact, artefact
+            - whole, unit
+              - part, portion
+              - section, segment

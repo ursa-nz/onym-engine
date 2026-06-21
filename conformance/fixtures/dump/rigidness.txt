@@ -1,0 +1,31 @@
+term: rigidness
+[Definitions]
+  - (noun) the physical property of being stiff and resisting bending
+  - (noun) the quality of being rigid and rigorously severe
+[Synonyms]
+  - rigidity
+  - inflexibility
+[Derived forms]
+  - fixed
+  - set
+  - rigid
+  - stiff
+  - inflexible
+  - unbending
+  - strict
+[Is a kind of]
+  - inelasticity
+    - physical property
+      - property
+        - attribute
+          - abstraction, abstract entity
+            - entity
+  - unadaptability
+    - inability, unfitness
+      - quality
+        - attribute
+          - abstraction, abstract entity
+            - entity
+[Kinds]
+  - inflexibility, inflexibleness
+  - sticklerism

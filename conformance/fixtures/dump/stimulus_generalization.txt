@@ -1,0 +1,42 @@
+term: stimulus generalization
+[Definitions]
+  - (noun) (psychology) transfer of a response learned to one stimulus to a similar stimulus
+[Synonyms]
+  - generalization
+  - generalisation
+  - stimulus generalisation
+[Is a kind of]
+  - transfer, transfer of training, carry-over
+    - learning, acquisition
+      - basic cognitive process
+        - process, cognitive process, mental process, operation, cognitive operation
+          - cognition, knowledge, noesis
+            - psychological feature
+              - abstraction, abstract entity
+                - entity
+[Kinds]
+  - irradiation
+[Domains]
+  - psychology
+  - psychological science
+  - American spelling
+  - American English spelling
+  - American English orthography
+  - US spelling
+  - US English spelling
+  - US English orthography
+  - British spelling
+  - British English spelling
+  - British English orthography
+  - Irish spelling
+  - Irish English spelling
+  - Irish English orthography
+  - New Zealand spelling
+  - New Zealand English spelling
+  - New Zealand English orthography
+  - Commonwealth spelling
+  - Commonwealth English spelling
+  - Commonwealth English orthography
+  - Australian spelling
+  - Australian English spelling
+  - Australian English orthography

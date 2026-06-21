@@ -1,0 +1,11 @@
+term: hand-to-hand
+[Definitions]
+  - (adjective) being at close quarters
+      "hand-to-hand fighting"
+  - (adverb) at close quarters
+      "fought hand to hand"
+[Antonyms]
+  - close (indirect)
+      -> distant
+[Similar to]
+  - close

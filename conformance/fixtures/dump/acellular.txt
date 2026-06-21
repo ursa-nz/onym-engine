@@ -1,0 +1,9 @@
+term: acellular
+[Definitions]
+  - (adjective) not made up of or divided into cells
+[Synonyms]
+  - noncellular
+[Similar to]
+  - cell-free
+  - single-celled
+  - one-celled

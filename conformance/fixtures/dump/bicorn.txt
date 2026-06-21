@@ -1,0 +1,40 @@
+term: bicorn
+[Definitions]
+  - (noun) a cocked hat with the brim turned up to form two points
+  - (adjective) having two horns or horn-shaped parts
+      "a bicornuate uterus"
+[Synonyms]
+  - bicorne
+  - bicorned
+  - bicornate
+  - bicornuate
+  - bicornuous
+[Antonyms]
+  - horned (indirect)
+      -> hornless
+[Derived forms]
+  - bicorned
+  - bicornate
+  - bicornuate
+  - bicornuous
+  - bicorne
+[Similar to]
+  - horned
+[Is a kind of]
+  - cocked hat
+    - hat, chapeau, lid
+      - headdress, headgear
+        - clothing, article of clothing, vesture, wear, wearable, habiliment
+          - covering
+            - artifact, artefact
+              - whole, unit
+                - object, physical object
+                  - physical entity
+                    - entity
+          - consumer goods
+            - commodity, trade good, good
+              - artifact, artefact
+                - whole, unit
+                  - object, physical object
+                    - physical entity
+                      - entity

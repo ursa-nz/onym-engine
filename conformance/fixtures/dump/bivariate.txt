@@ -1,0 +1,11 @@
+term: bivariate
+[Definitions]
+  - (adjective) having two variables
+      "bivariate binomial distribution"
+[Pertains to]
+  - variable, variable quantity
+    - quantity
+[Domains]
+  - mathematics
+  - math
+  - maths

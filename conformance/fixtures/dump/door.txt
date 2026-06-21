@@ -61,7 +61,7 @@ term: door
                 - entity
 [Kinds]
   - car door
-    - hatchback, hatchback door
+    - hatchback, hatchback door, liftgate, hatch
   - cargo door
   - double door
   - fire door
@@ -71,7 +71,7 @@ term: door
     - bi-fold door
     - folding door, accordion door
   - revolving door, revolver
-  - screen door, screen
+  - screen door
   - sliding door
     - barn door
   - storm door
@@ -88,14 +88,14 @@ term: door
   - doorway, room access, threshold
     - wall
       - building, edifice
+      - hallway, hall
       - room
         - building, edifice
-      - hallway, hall
   - wall
     - building, edifice
+    - hallway, hall
     - room
       - building, edifice
-    - hallway, hall
 [Parts]
   - lock
     - bolt, deadbolt

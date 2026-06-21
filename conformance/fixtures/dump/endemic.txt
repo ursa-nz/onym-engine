@@ -1,0 +1,99 @@
+term: endemic
+[Definitions]
+  - (adjective) of or relating to a disease (or anything resembling a disease) constantly present to greater or lesser extent in a particular locality
+      "diseases endemic to the tropics"
+      "endemic malaria"
+      "food shortages and starvation are endemic in certain parts of the world"
+  - (adjective) native to or confined to a certain region
+      "the islands have a number of interesting endemic species"
+  - (adjective) originating where it is found
+      "the autochthonal fauna of Australia includes the kangaroo"
+      "autochthonous rocks and people and folktales"
+      "endemic folkways"
+      "the Ainu are indigenous to the northernmost islands of Japan"
+  - (noun) a disease that is constantly present to a greater or lesser degree in people of a certain class or in people living in a particular location
+  - (noun) a plant or animal that is native to a certain limited area
+      "it is an endemic found only this island"
+[Synonyms]
+  - endemic disease
+  - endemical
+  - autochthonal
+  - autochthonic
+  - autochthonous
+  - indigenous
+[Antonyms]
+  - epidemic (direct)
+      -> epiphytotic
+      -> epizootic
+      -> pandemic
+      -> pestilent
+      -> pestilential
+      -> pestiferous
+      -> plaguey
+  - ecdemic (direct)
+  - cosmopolitan (direct)
+      -> widely distributed
+  - native (indirect)
+      -> foreign
+      -> strange
+[Similar to]
+  - enzootic
+  - native
+[Is a kind of]
+  - disease
+    - illness, unwellness, malady, sickness
+      - ill health, unhealthiness, health problem
+        - pathological state
+          - physical condition, physiological state, physiological condition
+            - condition, status
+              - state
+                - attribute
+                  - abstraction, abstract entity
+                    - entity
+  - organism, being
+    - living thing, animate thing
+      - whole, unit
+        - object, physical object
+          - physical entity
+            - entity
+    - causal agent, cause, causal agency
+      - physical entity
+        - entity
+[Parts]
+  - disease
+    - symptom
+    - sign
+    - syndrome
+  - organism, being
+    - tissue
+    - cell
+      - cell membrane, cytomembrane, plasma membrane
+      - energid, protoplast
+      - cytoplasm, cytol
+        - cytoskeleton
+        - microsome
+        - Golgi body, Golgi apparatus, Golgi complex, dictyosome
+      - nucleus, cell nucleus, karyon
+        - nucleolus, nucleole
+        - chromatin, chromatin granule
+        - achromatin
+        - linin
+        - chromosome
+          - nucleolus organizer, nucleolus organiser, nucleolar organizer, nucleolar organiser
+          - chromatin, chromatin granule
+          - gene, cistron, factor
+          - chromatid
+          - centromere, kinetochore
+          - telomere
+      - organelle, cell organelle, cell organ
+      - vacuole
+    - body part
+      - corpus
+    - living thing, animate thing
+      - whole, unit
+        - part, portion
+        - section, segment
+[Domains]
+  - ecology
+  - bionomics
+  - environmental science

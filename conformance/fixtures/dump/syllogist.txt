@@ -1,0 +1,15 @@
+term: syllogist
+[Definitions]
+  - (noun) logician skilled in syllogistic reasoning
+[Synonyms]
+  - syllogizer
+  - syllogiser
+[Derived forms]
+  - syllogism
+[Is a kind of]
+  - logician
+    - expert
+      - actor, doer, worker
+        - causal agent, cause, causal agency
+          - physical entity
+            - entity

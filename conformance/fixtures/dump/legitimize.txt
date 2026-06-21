@@ -1,0 +1,42 @@
+term: legitimize
+[Definitions]
+  - (verb) make legal
+      "Marijuana should be legalized"
+[Synonyms]
+  - legalize
+  - legalise
+  - decriminalize
+  - decriminalise
+  - legitimise
+  - legitimate
+  - legitimatize
+  - legitimatise
+[Is a kind of]
+  - permit, allow, let, countenance
+    - accept, consent, go for
+      - react, respond
+        - act, move
+[Kinds]
+  - monetize, monetise
+[Domains]
+  - American spelling
+  - American English spelling
+  - American English orthography
+  - US spelling
+  - US English spelling
+  - US English orthography
+  - British spelling
+  - British English spelling
+  - British English orthography
+  - Irish spelling
+  - Irish English spelling
+  - Irish English orthography
+  - New Zealand spelling
+  - New Zealand English spelling
+  - New Zealand English orthography
+  - Commonwealth spelling
+  - Commonwealth English spelling
+  - Commonwealth English orthography
+  - Australian spelling
+  - Australian English spelling
+  - Australian English orthography

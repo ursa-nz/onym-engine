@@ -1,0 +1,16 @@
+term: anchor light
+[Definitions]
+  - (noun) a light in the rigging of a ship that is riding at anchor
+[Synonyms]
+  - riding light
+  - riding lamp
+[Is a kind of]
+  - light, light source
+    - source of illumination
+      - device
+        - instrumentality, instrumentation, means
+          - artifact, artefact
+            - whole, unit
+              - object, physical object
+                - physical entity
+                  - entity

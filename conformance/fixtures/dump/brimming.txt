@@ -1,0 +1,29 @@
+term: brimming
+[Definitions]
+  - (adjective) filled up
+      "a brimful cup"
+      "I am brimful of chowder"
+      "a child brimming over with curiosity"
+      "eyes brimming with tears"
+  - (verb) be completely full
+      "His eyes brimmed with tears"
+  - (verb) fill as much as possible
+      "brim a cup to good fellowship"
+[Synonyms]
+  - brimful
+  - brimfull
+[Antonyms]
+  - full (indirect)
+      -> empty
+[Derived forms]
+  - rim
+  - lip
+[Similar to]
+  - full
+[Is a kind of]
+  - have, feature
+    - have, have got, hold
+  - fill, fill up, make full
+    - change, alter, modify
+      - induce, stimulate, cause, have, get, make
+        - act, move

@@ -1,0 +1,56 @@
+term: deserted
+[Definitions]
+  - (adjective) forsaken by owner or inhabitants
+      "weed-grown yard of an abandoned farmhouse"
+  - (verb) leave someone who needs or counts on you; leave in the lurch
+      "The mother deserted her children"
+  - (verb) desert (a cause, a country or an army), often in order to join the opposing cause, country, or army
+      "If soldiers deserted Hitler's army, they were shot"
+  - (verb) leave behind
+      "the students deserted the campus after the end of exam period"
+[Synonyms]
+  - abandon
+  - forsake
+  - desolate
+  - defect
+  - abandoned
+  - derelict
+[Antonyms]
+  - uninhabited (indirect)
+      -> inhabited
+[Derived forms]
+  - desertion
+  - abandonment
+  - defection
+  - deserter
+  - apostate
+  - renegade
+  - turncoat
+  - recreant
+  - ratter
+  - defector
+  - forsaking
+[Similar to]
+  - uninhabited
+[Entails]
+  - protest
+  - resist
+  - dissent
+[Is a kind of]
+  - leave
+    - travel, go, move, locomote
+      - act, move
+  - flee, fly, take flight
+    - scat, run, scarper, turn tail, lam, run away, hightail it, bunk, head for the hills, take to the woods, escape, fly the coop, break away
+      - leave, go forth, go away
+        - travel, go, move, locomote
+          - act, move
+  - leave, go forth, go away
+    - travel, go, move, locomote
+      - act, move
+[Kinds]
+  - ditch
+  - maroon, strand
+  - expose
+  - walk out
+  - rat

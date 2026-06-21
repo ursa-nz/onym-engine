@@ -1,0 +1,23 @@
+term: dungaree
+[Definitions]
+  - (noun) a coarse durable twill-weave cotton fabric
+[Synonyms]
+  - denim
+  - jean
+[Is a kind of]
+  - fabric, cloth, material, textile
+    - artifact, artefact
+      - whole, unit
+        - object, physical object
+          - physical entity
+            - entity
+[Parts]
+  - fabric, cloth, material, textile
+    - warp
+    - woof, weft, filling, pick
+    - edging
+    - hem
+    - artifact, artefact
+      - whole, unit
+        - part, portion
+        - section, segment

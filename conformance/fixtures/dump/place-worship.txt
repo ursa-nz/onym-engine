@@ -1,0 +1,12 @@
+term: place-worship
+[Definitions]
+  - (noun) the worship of places
+[Synonyms]
+  - topolatry
+[Is a kind of]
+  - worship
+    - activity
+      - act, deed, human action, human activity
+        - event
+          - abstraction, abstract entity
+            - entity

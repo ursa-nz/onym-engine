@@ -1,0 +1,30 @@
+term: spaced
+[Definitions]
+  - (adjective) spaced apart
+  - (adjective) arranged with spaces between; often used as a combining form
+      "widely spaced eyes"
+  - (verb) place at intervals
+      "Space the interviews so that you have some time between the different candidates"
+[Synonyms]
+  - separated
+[Antonyms]
+  - distributed (indirect)
+      -> concentrated
+  - unspaced (direct)
+      -> unleaded
+[Derived forms]
+  - distance
+  - blank
+  - spacing
+  - spatial arrangement
+[Similar to]
+  - distributed
+  - double-spaced
+  - leaded
+  - single-spaced
+[Is a kind of]
+  - put, set, place, pose, position, lay
+    - move, displace
+      - change, alter, modify
+        - induce, stimulate, cause, have, get, make
+          - act, move

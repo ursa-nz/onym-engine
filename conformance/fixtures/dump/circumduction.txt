@@ -1,0 +1,11 @@
+term: circumduction
+[Definitions]
+  - (noun) a circular movement of a limb or eye
+[Is a kind of]
+  - motion, movement, move, motility
+    - change
+      - action
+        - act, deed, human action, human activity
+          - event
+            - abstraction, abstract entity
+              - entity

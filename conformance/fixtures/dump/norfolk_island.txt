@@ -1,0 +1,11 @@
+term: Norfolk Island
+[Definitions]
+  - (noun) an island territory of Australia in the Pacific Ocean off the eastern coast of Australia; formerly a British penal colony
+[Is a kind of]
+  - island
+    - land, dry land, earth, ground, solid ground, terra firma
+      - object, physical object
+        - physical entity
+          - entity
+[Part of]
+  - Australia, Commonwealth of Australia

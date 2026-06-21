@@ -1,0 +1,40 @@
+term: fermentation
+[Definitions]
+  - (noun) a state of agitation or turbulent change or development
+      "the political ferment produced new leadership"
+      "social unrest"
+  - (noun) a process in which an agent causes an organic substance to break down into simpler substances; especially, the anaerobic breakdown of sugar into alcohol
+[Synonyms]
+  - agitation
+  - ferment
+  - tempestuousness
+  - unrest
+  - zymosis
+  - zymolysis
+  - fermenting
+[Derived forms]
+  - ferment
+  - work
+  - sour
+  - turn
+[Is a kind of]
+  - turbulence, upheaval, Sturm und Drang
+    - disorder
+      - state
+        - attribute
+          - abstraction, abstract entity
+            - entity
+  - chemical process, chemical change, chemical action
+    - natural process, natural action, action, activity
+      - process, physical process
+        - physical entity
+          - entity
+[Kinds]
+  - bottom fermentation
+  - top fermentation
+  - vinification
+[Domains]
+  - sexual activity
+  - sexual practice
+  - sex
+  - sex activity

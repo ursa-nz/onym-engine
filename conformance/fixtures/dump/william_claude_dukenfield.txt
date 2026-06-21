@@ -1,0 +1,14 @@
+term: William Claude Dukenfield
+[Definitions]
+  - (noun) United States comedian and film actor (1880-1946)
+[Synonyms]
+  - Fields
+  - W. C. Fields
+[Is a kind of]
+  - comedian, comic
+    - performer, performing artist
+      - entertainer
+        - actor, doer, worker
+          - causal agent, cause, causal agency
+            - physical entity
+              - entity

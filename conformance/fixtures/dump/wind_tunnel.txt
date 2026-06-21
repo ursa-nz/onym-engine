@@ -1,0 +1,10 @@
+term: wind tunnel
+[Definitions]
+  - (noun) a structure resembling a tunnel where air is blown at known velocities for testing parts of aircraft
+[Is a kind of]
+  - structure, construction
+    - artifact, artefact
+      - whole, unit
+        - object, physical object
+          - physical entity
+            - entity

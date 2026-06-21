@@ -1,0 +1,15 @@
+term: thanatology
+[Definitions]
+  - (noun) the branch of science that studies death (especially its social and psychological aspects)
+[Is a kind of]
+  - science, scientific discipline
+    - discipline, subject, subject area, subject field, field, field of study, study, bailiwick
+      - knowledge domain, knowledge base, domain
+        - content, cognitive content, mental object
+          - cognition, knowledge, noesis
+            - psychological feature
+              - abstraction, abstract entity
+                - entity
+[Parts]
+  - science, scientific discipline
+    - scientific theory

@@ -1,0 +1,51 @@
+term: Belgium
+[Definitions]
+  - (noun) a monarchy in northwestern Europe; headquarters for the European Union and for the North Atlantic Treaty Organization
+[Synonyms]
+  - Kingdom of Belgium
+  - Belgique
+[Derived forms]
+  - Belgian
+[Is a kind of]
+  - European country, European nation
+    - country, state, land
+      - administrative district, administrative division, territorial division
+        - district, territory, territorial dominion, dominion
+          - region
+            - location
+              - object, physical object
+                - physical entity
+                  - entity
+[Part of]
+  - European Union, EU, European Community, EC, European Economic Community, EEC, Common Market, Europe
+  - North Atlantic Treaty Organization, NATO
+  - Benelux
+  - Europe
+[Parts]
+  - Belgian
+  - Fleming
+  - Walloon
+  - Bruxelles, Brussels, Belgian capital, capital of Belgium
+  - Antwerpen, Antwerp, Anvers
+  - Bruges, City of Bridges
+  - Charleroi
+  - Gent, Gand, Ghent
+  - Liege, Luik
+  - Namur
+  - Waterloo
+  - Meuse, Meuse River
+  - Sambre, Sambre River
+  - Scheldt, Scheldt River
+[Domains]
+  - commune
+  - Bouvines
+  - Fontenoy
+  - Battle of Fontenoy
+  - Waterloo
+  - Battle of Waterloo
+  - Ypres
+  - battle of Ypres
+  - first battle of Ypres
+  - second battle of Ypres
+  - battle of Passchendaele
+  - third battle of Ypres

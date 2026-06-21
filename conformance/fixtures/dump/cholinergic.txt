@@ -1,0 +1,5 @@
+term: cholinergic
+[Definitions]
+  - (adjective) releasing or activated by acetylcholine or a related compound
+[Antonyms]
+  - anticholinergic (direct)

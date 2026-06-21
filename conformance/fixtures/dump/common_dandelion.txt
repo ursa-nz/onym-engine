@@ -1,0 +1,22 @@
+term: common dandelion
+[Definitions]
+  - (noun) Eurasian plant widely naturalized as a weed in North America; used as salad greens and to make wine
+[Synonyms]
+  - Taraxacum ruderalia
+  - Taraxacum officinale
+[Is a kind of]
+  - dandelion, blowball
+    - herb, herbaceous plant
+      - vascular plant, tracheophyte
+        - plant, flora, plant life
+          - organism, being
+            - living thing, animate thing
+              - whole, unit
+                - object, physical object
+                  - physical entity
+                    - entity
+            - causal agent, cause, causal agency
+              - physical entity
+                - entity
+[Parts]
+  - dandelion green

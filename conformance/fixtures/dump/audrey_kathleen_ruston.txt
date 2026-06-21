@@ -1,0 +1,40 @@
+term: Audrey Kathleen Ruston
+[Definitions]
+  - (noun) British actress born in Brussels (1929-1993)
+[Synonyms]
+  - Audrey Hepburn
+  - Audrey Kathleen Hepburn
+  - Audrey Ruston
+  - Hepburn
+[Is a kind of]
+  - actress
+    - actor, histrion, player, thespian, role player
+      - performer, performing artist
+        - entertainer
+          - actor, doer, worker
+            - causal agent, cause, causal agency
+              - physical entity
+                - entity
+    - woman, adult female
+      - female, female person
+        - person, individual, someone, somebody, mortal, soul
+          - organism, being
+            - living thing, animate thing
+              - whole, unit
+                - object, physical object
+                  - physical entity
+                    - entity
+            - causal agent, cause, causal agency
+              - physical entity
+                - entity
+      - adult, grownup
+        - person, individual, someone, somebody, mortal, soul
+          - organism, being
+            - living thing, animate thing
+              - whole, unit
+                - object, physical object
+                  - physical entity
+                    - entity
+            - causal agent, cause, causal agency
+              - physical entity
+                - entity

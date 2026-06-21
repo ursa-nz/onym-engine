@@ -1,0 +1,21 @@
+term: high quality
+[Definitions]
+  - (noun) the quality of being superior
+[Synonyms]
+  - superiority
+[Antonyms]
+  - low quality (direct)
+      -> inferiority
+[Is a kind of]
+  - quality, caliber, calibre
+    - degree, grade, level
+      - property
+        - attribute
+          - abstraction, abstract entity
+            - entity
+[Kinds]
+  - fineness, choiceness
+  - first class
+  - first water
+  - ingenuity, ingeniousness, cleverness
+    - funkiness

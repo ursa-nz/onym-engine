@@ -1,0 +1,86 @@
+term: third
+[Definitions]
+  - (adjective) coming next after the second and just before the fourth in position
+  - (noun) one of three equal parts of a divisible whole
+      "it contains approximately a third of the minimum daily requirement"
+  - (noun) the fielding position of the player on a baseball team who is stationed near the third of the bases in the infield (counting counterclockwise from home plate)
+      "he is playing third"
+  - (noun) following the second position in an ordering or series
+      "a distant third"
+      "he answered the first question willingly, the second reluctantly, and the third with resentment"
+  - (noun) the musical interval between one note and another three notes away from it
+      "a simple harmony written in major thirds"
+  - (noun) the third from the lowest forward ratio gear in the gear box of a motor vehicle
+      "you shouldn't try to start in third gear"
+  - (noun) the base that must be touched third by a base runner in baseball
+      "he was cut down on a close play at third"
+  - (adverb) in the third place
+      "third we must consider unemployment"
+[Synonyms]
+  - one-third
+  - tierce
+  - third base
+  - third gear
+  - 3rd
+  - tertiary
+  - thirdly
+[Antonyms]
+  - ordinal (indirect)
+      -> cardinal
+[Similar to]
+  - ordinal
+[Is a kind of]
+  - common fraction, simple fraction
+    - fraction
+      - rational number, rational
+        - real number, real
+          - complex number, complex quantity, imaginary number, imaginary
+            - number
+              - definite quantity
+                - measure, quantity, amount
+                  - abstraction, abstract entity
+                    - entity
+  - position
+    - role
+      - activity
+        - act, deed, human action, human activity
+          - event
+            - abstraction, abstract entity
+              - entity
+  - rank
+    - status, position
+      - state
+        - attribute
+          - abstraction, abstract entity
+            - entity
+  - interval, musical interval
+    - musical notation
+      - notation, notational system
+        - writing
+          - written communication, written language, black and white
+            - communication
+              - abstraction, abstract entity
+                - entity
+  - gear, gear mechanism
+    - mechanism
+      - device
+        - instrumentality, instrumentation, means
+          - artifact, artefact
+            - whole, unit
+              - object, physical object
+                - physical entity
+                  - entity
+  - base, bag
+    - baseball equipment
+      - sports equipment
+        - equipment
+          - instrumentality, instrumentation, means
+            - artifact, artefact
+              - whole, unit
+                - object, physical object
+                  - physical entity
+                    - entity
+[Part of]
+  - baseball team
+  - car, auto, automobile, machine, motorcar
+    - dashcam

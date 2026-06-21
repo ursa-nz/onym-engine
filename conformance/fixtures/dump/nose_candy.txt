@@ -1,0 +1,31 @@
+term: nose candy
+[Definitions]
+  - (noun) street names for cocaine
+[Synonyms]
+  - coke
+  - blow
+  - snow
+  - C
+[Is a kind of]
+  - cocaine, cocain
+    - hard drug
+      - narcotic
+        - drug
+          - agent
+            - causal agent, cause, causal agency
+              - physical entity
+                - entity
+            - substance
+              - matter
+                - physical entity
+                  - entity
+      - controlled substance
+        - drug
+          - agent
+            - causal agent, cause, causal agency
+              - physical entity
+                - entity
+            - substance
+              - matter
+                - physical entity
+                  - entity

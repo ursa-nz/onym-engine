@@ -1,0 +1,25 @@
+term: Arctocebus calabarensis
+[Definitions]
+  - (noun) a kind of yellow or golden lemur (Arctocebus calabarensis)
+[Synonyms]
+  - angwantibo
+  - golden potto
+[Is a kind of]
+  - lemur
+    - primate
+      - placental, placental mammal, eutherian, eutherian mammal
+        - mammal, mammalian
+          - vertebrate, craniate
+            - chordate
+              - animal, animate being, beast, brute, creature, fauna
+                - organism, being
+                  - living thing, animate thing
+                    - whole, unit
+                      - object, physical object
+                        - physical entity
+                          - entity
+                  - causal agent, cause, causal agency
+                    - physical entity
+                      - entity
+[Part of]
+  - Arctocebus, genus Arctocebus

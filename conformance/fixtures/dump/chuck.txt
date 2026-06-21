@@ -47,38 +47,51 @@ term: chuck
   - cut of beef
     - cut, cut of meat
       - meat
-        - food, solid food
+        - solid food
           - solid
             - matter
               - physical entity
                 - entity
+          - food, nutrient
+            - substance
+              - matter
+                - physical entity
+                  - entity
   - holding device
     - device
-      - instrumentality, instrumentation
+      - instrumentality, instrumentation, means
         - artifact, artefact
           - whole, unit
             - object, physical object
               - physical entity
                 - entity
-  - throw
+  - throw, loft
     - propel, impel
       - move, displace
+        - change, alter, modify
+          - induce, stimulate, cause, have, get, make
+            - act, move
   - abandon
     - discard, fling, toss, toss out, toss away, chuck out, cast aside, dispose, throw out, cast out, throw away, cast away, put away
-      - get rid of, remove
+      - get rid of, remove, waste
+        - act, move
   - caress, fondle
     - stroke
       - touch
+        - act, move
   - excrete, egest, eliminate, pass
     - exhaust, discharge, expel, eject, release
+      - obviate, rid of, eliminate
+        - get rid of, remove, waste
+          - act, move
 [Kinds]
   - collet, collet chuck
 [Part of]
   - side of beef
-  - lathe
   - drill
   - electric drill
     - drill press
+  - lathe
 [Parts]
   - blade
   - shoulder

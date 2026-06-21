@@ -1,0 +1,13 @@
+term: Peabody
+[Definitions]
+  - (noun) educator who founded the first kindergarten in the United States (1804-1894)
+[Synonyms]
+  - Elizabeth Peabody
+  - Elizabeth Palmer Peabody
+[Is a kind of]
+  - educator, pedagogue, pedagog
+    - professional, professional person
+      - actor, doer, worker
+        - causal agent, cause, causal agency
+          - physical entity
+            - entity

@@ -1,0 +1,27 @@
+term: Oregon pine
+[Definitions]
+  - (noun) lofty douglas fir of northwestern North America having short needles and egg-shaped cones
+[Synonyms]
+  - green douglas fir
+  - douglas spruce
+  - douglas pine
+  - douglas hemlock
+  - Oregon fir
+  - Pseudotsuga menziesii
+[Is a kind of]
+  - douglas fir
+    - conifer, coniferous tree
+      - gymnospermous tree
+        - tree
+          - woody plant, ligneous plant
+            - vascular plant, tracheophyte
+              - plant, flora, plant life
+                - organism, being
+                  - living thing, animate thing
+                    - whole, unit
+                      - object, physical object
+                        - physical entity
+                          - entity
+                  - causal agent, cause, causal agency
+                    - physical entity
+                      - entity

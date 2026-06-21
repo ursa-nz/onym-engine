@@ -1,0 +1,18 @@
+term: Pahlavi language
+[Definitions]
+  - (noun) the Iranian language of the Zoroastrian literature of the 3rd to 10th centuries
+[Synonyms]
+  - Pahlavi
+  - Pehlevi
+  - Pehlevi language
+[Is a kind of]
+  - Iranian, Iranian language
+    - Indo-Iranian, Indo-Iranian language
+      - Indo-European, Indo-European language, Indo-Hittite
+        - natural language, tongue
+          - language, linguistic communication
+            - communication
+              - abstraction, abstract entity
+                - entity
+[Kinds]
+  - Parthian, Parthian language

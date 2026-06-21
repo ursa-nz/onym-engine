@@ -1,0 +1,13 @@
+term: seawards
+[Definitions]
+  - (adverb) in the direction of the sea
+      "the sailor looked seaward"
+  - (noun) the direction toward the sea
+[Synonyms]
+  - asea
+[Is a kind of]
+  - direction
+    - position, spatial relation
+      - relation
+        - abstraction, abstract entity
+          - entity

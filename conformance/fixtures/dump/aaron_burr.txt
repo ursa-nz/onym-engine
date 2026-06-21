@@ -1,0 +1,12 @@
+term: Aaron Burr
+[Definitions]
+  - (noun) United States politician who served as vice president under Jefferson; he mortally wounded his political rival Alexander Hamilton in a duel and fled south (1756-1836)
+[Synonyms]
+  - Burr
+[Is a kind of]
+  - politician, politico, pol, political leader
+    - leader
+      - actor, doer, worker
+        - causal agent, cause, causal agency
+          - physical entity
+            - entity

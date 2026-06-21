@@ -1,0 +1,13 @@
+term: Hippocrates
+[Definitions]
+  - (noun) medical practitioner who is regarded as the father of medicine; author of the Hippocratic oath (circa 460-377 BC)
+[Derived forms]
+  - Hippocratic
+[Is a kind of]
+  - medical practitioner
+    - health professional, primary care provider, PCP, health care provider, caregiver
+      - professional, professional person
+        - actor, doer, worker
+          - causal agent, cause, causal agency
+            - physical entity
+              - entity

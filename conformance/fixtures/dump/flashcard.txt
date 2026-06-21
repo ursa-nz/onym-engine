@@ -1,0 +1,11 @@
+term: flashcard
+[Definitions]
+  - (noun) a card with words or numbers or pictures that is flashed to a class by the teacher
+[Synonyms]
+  - flash card
+[Is a kind of]
+  - poster, posting, placard, notice, bill, card
+    - sign
+      - communication
+        - abstraction, abstract entity
+          - entity

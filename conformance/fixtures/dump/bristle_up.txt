@@ -1,0 +1,15 @@
+term: bristle up
+[Definitions]
+  - (verb) show anger or indignation
+      "She bristled at his insolent remarks"
+[Synonyms]
+  - bristle at
+  - bridle at
+  - bridle up
+[Is a kind of]
+  - mind
+    - object
+      - disapprove, reject
+        - evaluate, pass judgment, judge
+          - think, cogitate, cerebrate
+            - act, move

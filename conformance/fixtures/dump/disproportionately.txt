@@ -1,0 +1,12 @@
+term: disproportionately
+[Definitions]
+  - (adverb) in a manner which is out of proportion
+      "this wall is disproportionately long"
+  - (adverb) to a disproportionate degree
+      "his benefits were disproportionately generous"
+[Antonyms]
+  - proportionately (direct)
+      -> proportionally
+[Pertains to]
+  - disproportionate, disproportional
+  - disproportionate

@@ -1,0 +1,23 @@
+term: barrelled
+[Definitions]
+  - (adjective) put in or stored in a barrel
+      "barreled beer"
+  - (adjective) (of an arrow) tapered toward both ends
+  - (verb) put in barrels
+[Synonyms]
+  - barreled
+[Antonyms]
+  - pointed (indirect)
+      -> pointless
+      -> unpointed
+[Derived forms]
+  - barrelful
+  - cask
+[Similar to]
+  - pointed
+[Is a kind of]
+  - put, set, place, pose, position, lay
+    - move, displace
+      - change, alter, modify
+        - induce, stimulate, cause, have, get, make
+          - act, move

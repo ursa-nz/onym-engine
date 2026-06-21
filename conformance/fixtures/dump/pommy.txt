@@ -1,0 +1,18 @@
+term: pommy
+[Definitions]
+  - (noun) a disparaging term for a British person
+[Synonyms]
+  - pom
+[Is a kind of]
+  - English person
+    - Britisher, Briton, Brit
+      - European
+        - inhabitant, habitant, dweller, denizen, indweller
+          - actor, doer, worker
+            - causal agent, cause, causal agency
+              - physical entity
+                - entity
+[Domains]
+  - Australia
+  - Commonwealth of Australia
+  - New Zealand

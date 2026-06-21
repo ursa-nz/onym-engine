@@ -1,0 +1,30 @@
+term: tediousness
+[Definitions]
+  - (noun) dullness owing to length or slowness
+[Synonyms]
+  - tedium
+  - tiresomeness
+[Derived forms]
+  - boring
+  - deadening
+  - dull
+  - ho-hum
+  - irksome
+  - slow
+  - tedious
+  - tiresome
+  - wearisome
+  - long-winded
+  - verbose
+  - windy
+  - wordy
+[Is a kind of]
+  - dullness
+    - uninterestingness
+      - powerlessness, impotence, impotency
+        - quality
+          - attribute
+            - abstraction, abstract entity
+              - entity
+[Kinds]
+  - drag

@@ -1,0 +1,28 @@
+term: Al-Hasan ibn al-Haytham
+[Definitions]
+  - (noun) an Egyptian polymath (born in Iraq) whose research in geometry and optics was influential into the 17th century; established experiments as the norm of proof in physics (died in 1040)
+[Synonyms]
+  - Alhazen
+  - Alhacen
+  - al-Haytham
+  - Ibn al-Haytham
+[Is a kind of]
+  - mathematician
+    - scientist
+      - actor, doer, worker
+        - causal agent, cause, causal agency
+          - physical entity
+            - entity
+  - physicist
+    - scientist
+      - actor, doer, worker
+        - causal agent, cause, causal agency
+          - physical entity
+            - entity
+  - astronomer, uranologist, stargazer
+    - physicist
+      - scientist
+        - actor, doer, worker
+          - causal agent, cause, causal agency
+            - physical entity
+              - entity

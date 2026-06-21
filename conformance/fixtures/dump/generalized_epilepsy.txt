@@ -1,0 +1,18 @@
+term: generalized epilepsy
+[Definitions]
+  - (noun) epilepsy in which the attacks involve loss of consciousness and tonic spasms of the musculature followed by generalized jerking
+[Synonyms]
+  - grand mal epilepsy
+  - grand mal
+  - epilepsia major
+[Is a kind of]
+  - epilepsy
+    - brain disorder, encephalopathy, brain disease
+      - nervous disorder, neurological disorder, neurological disease
+        - disorder, upset
+          - physical condition, physiological state, physiological condition
+            - condition, status
+              - state
+                - attribute
+                  - abstraction, abstract entity
+                    - entity

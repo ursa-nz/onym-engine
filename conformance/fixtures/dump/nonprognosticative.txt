@@ -1,9 +1,0 @@
-term: nonprognosticative
-[Definitions]
-  - (adjective) not offering prognostications
-[Antonyms]
-  - unprophetic (indirect)
-      -> prophetic
-      -> prophetical
-[Similar to]
-  - unprophetic

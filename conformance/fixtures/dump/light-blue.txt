@@ -1,0 +1,11 @@
+term: light-blue
+[Definitions]
+  - (adjective) of a light shade of blue
+[Synonyms]
+  - pale blue
+[Antonyms]
+  - chromatic (indirect)
+      -> achromatic
+      -> neutral
+[Similar to]
+  - chromatic

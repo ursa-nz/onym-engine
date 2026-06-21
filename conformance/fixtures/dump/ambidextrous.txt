@@ -1,0 +1,36 @@
+term: ambidextrous
+[Definitions]
+  - (adjective) equally skillful with each hand
+      "an ambidextrous surgeon"
+  - (adjective) marked by deliberate deceptiveness especially by pretending one set of feelings and acting under the influence of another
+      "she was a deceitful scheming little thing"
+      "a double-dealing double agent"
+      "a double-faced infernal traitor and schemer"
+[Synonyms]
+  - two-handed
+  - deceitful
+  - double-dealing
+  - duplicitous
+  - Janus-faced
+  - two-faced
+  - double-faced
+  - double-tongued
+[Antonyms]
+  - right-handed (direct)
+      -> dextral
+      -> right
+      -> right-hand
+  - left-handed (direct)
+      -> left
+      -> left-hand
+      -> sinistral
+  - dishonest (indirect)
+      -> honest
+      -> honorable
+[Derived forms]
+  - ambidexterity
+  - ambidextrousness
+[Similar to]
+  - equipoised
+  - dishonest
+  - dishonorable

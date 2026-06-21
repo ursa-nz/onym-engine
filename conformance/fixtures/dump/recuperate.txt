@@ -1,0 +1,48 @@
+term: recuperate
+[Definitions]
+  - (verb) regain or make up for
+      "recuperate one's losses"
+  - (verb) regain a former condition after a financial loss
+      "We expect the stocks to recover to $2.90"
+      "The company managed to recuperate"
+  - (verb) restore to good health or strength
+  - (verb) get over an illness or shock
+      "The patient is recuperating"
+[Synonyms]
+  - recover
+  - recoup
+  - go back
+  - convalesce
+[Antonyms]
+  - deteriorate (direct)
+      -> devolve
+      -> drop
+      -> degenerate
+[Derived forms]
+  - recuperative
+  - restorative
+  - convalescence
+  - recuperation
+  - recovery
+[Is a kind of]
+  - get, acquire
+    - act, move
+  - revert, return, retrovert, regress, turn back
+    - change by reversal, turn, reverse
+      - change
+        - act, move
+  - bring around, cure, heal
+    - help, aid
+      - better, improve, amend, ameliorate, meliorate
+        - change, alter, modify
+          - induce, stimulate, cause, have, get, make
+            - act, move
+  - better, improve, ameliorate, meliorate
+    - change state, turn
+      - change
+        - act, move
+[Kinds]
+  - make up, catch up with
+  - rally, rebound
+  - perk up, perk, percolate, pick up, gain vigor
+  - snap back

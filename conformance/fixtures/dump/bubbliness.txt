@@ -1,0 +1,21 @@
+term: bubbliness
+[Definitions]
+  - (noun) the property of giving off bubbles
+[Synonyms]
+  - effervescence
+  - frothiness
+[Derived forms]
+  - bubbling
+  - bubbly
+  - foaming
+  - foamy
+  - frothy
+  - effervescing
+  - spumy
+[Is a kind of]
+  - gaseousness
+    - consistency, consistence, substance, body
+      - property
+        - attribute
+          - abstraction, abstract entity
+            - entity

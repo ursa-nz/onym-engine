@@ -1,0 +1,22 @@
+term: akin
+[Definitions]
+  - (adjective) similar in quality or character
+      "a feeling akin to terror"
+      "kindred souls"
+  - (adjective) related by blood
+[Synonyms]
+  - kindred
+  - blood-related
+  - cognate
+  - consanguine
+  - consanguineous
+  - consanguineal
+  - kin
+[Antonyms]
+  - similar (indirect)
+      -> dissimilar
+  - related (indirect)
+      -> unrelated
+[Similar to]
+  - similar
+  - related

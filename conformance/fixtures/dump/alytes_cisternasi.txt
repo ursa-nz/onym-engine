@@ -1,0 +1,22 @@
+term: Alytes cisternasi
+[Definitions]
+  - (noun) similar in habit to Alytes obstetricians
+[Synonyms]
+  - midwife toad
+[Is a kind of]
+  - frog, toad, toad frog, anuran, batrachian, salientian
+    - amphibian
+      - vertebrate, craniate
+        - chordate
+          - animal, animate being, beast, brute, creature, fauna
+            - organism, being
+              - living thing, animate thing
+                - whole, unit
+                  - object, physical object
+                    - physical entity
+                      - entity
+              - causal agent, cause, causal agency
+                - physical entity
+                  - entity
+[Part of]
+  - Alytes, genus Alytes

@@ -1,0 +1,22 @@
+term: supergrass
+[Definitions]
+  - (noun) a police informer who implicates many people
+[Synonyms]
+  - grass
+[Is a kind of]
+  - informer, betrayer, rat, squealer, blabber
+    - informant, source
+      - communicator
+        - actor, doer, worker
+          - causal agent, cause, causal agency
+            - physical entity
+              - entity
+[Domains]
+  - United Kingdom
+  - UK
+  - U.K.
+  - Britain
+  - United Kingdom of Great Britain and Northern Ireland
+  - Great Britain
+  - Blighty
+  - Albion

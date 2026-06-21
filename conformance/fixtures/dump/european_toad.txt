@@ -1,0 +1,21 @@
+term: European toad
+[Definitions]
+  - (noun) common toad of Europe
+[Synonyms]
+  - Bufo bufo
+[Is a kind of]
+  - true toad
+    - frog, toad, toad frog, anuran, batrachian, salientian
+      - amphibian
+        - vertebrate, craniate
+          - chordate
+            - animal, animate being, beast, brute, creature, fauna
+              - organism, being
+                - living thing, animate thing
+                  - whole, unit
+                    - object, physical object
+                      - physical entity
+                        - entity
+                - causal agent, cause, causal agency
+                  - physical entity
+                    - entity

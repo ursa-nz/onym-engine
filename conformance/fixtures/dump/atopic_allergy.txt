@@ -1,0 +1,18 @@
+term: atopic allergy
+[Definitions]
+  - (noun) an allergic reaction that becomes apparent in a sensitized person only minutes after contact
+[Synonyms]
+  - immediate allergy
+  - atopy
+  - type I allergic reaction
+[Is a kind of]
+  - allergy, allergic reaction
+    - hypersensitivity reaction
+      - hypersensitivity
+        - sensitivity, predisposition
+          - susceptibility, susceptibleness
+            - condition, status
+              - state
+                - attribute
+                  - abstraction, abstract entity
+                    - entity

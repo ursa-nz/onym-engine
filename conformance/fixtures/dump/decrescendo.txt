@@ -1,0 +1,29 @@
+term: decrescendo
+[Definitions]
+  - (noun) (music) a gradual decrease in loudness
+  - (verb) grow quieter
+      "The music decrescendoes here"
+  - (adjective) (music) gradually decreasing in volume
+[Synonyms]
+  - diminuendo
+[Antonyms]
+  - crescendo (direct)
+  - decreasing (indirect)
+      -> increasing
+[Derived forms]
+  - diminuendo
+[Similar to]
+  - decreasing
+[Is a kind of]
+  - softness
+    - sound property
+      - property
+        - attribute
+          - abstraction, abstract entity
+            - entity
+  - decrease, diminish, lessen, fall
+    - change magnitude
+      - change
+        - act, move
+[Domains]
+  - music

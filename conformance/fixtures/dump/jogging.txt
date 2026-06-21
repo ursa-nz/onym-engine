@@ -1,0 +1,76 @@
+term: jogging
+[Definitions]
+  - (noun) running at a jog trot as a form of cardiopulmonary exercise
+  - (verb) continue talking or writing in a desultory manner
+      "This novel rambles on and jogs"
+  - (verb) even up the edges of a stack of paper, in printing
+  - (verb) run for exercise
+      "jog along the canal"
+  - (verb) run at a moderately swift pace
+  - (verb) give a slight push to
+  - (verb) stimulate to remember
+      "jog my memory"
+[Synonyms]
+  - ramble on
+  - ramble
+  - square up
+  - even up
+  - trot
+  - clip
+[Derived forms]
+  - trot
+  - jog
+  - clip
+  - lope
+  - jogger
+  - jogging
+  - nudge
+[Is a kind of]
+  - cardiopulmonary exercise
+    - exercise, exercising, physical exercise, physical exertion, workout
+      - effort, elbow grease, exertion, travail, sweat
+        - labor, labour, toil
+          - work
+            - activity
+              - act, deed, human action, human activity
+                - event
+                  - abstraction, abstract entity
+                    - entity
+  - continue, go on, carry on, proceed
+    - talk, speak
+      - communicate, intercommunicate
+        - interact
+          - act, move
+  - square
+    - position
+      - put, set, place, pose, position, lay
+        - move, displace
+          - change, alter, modify
+            - induce, stimulate, cause, have, get, make
+              - act, move
+  - run
+    - travel rapidly, speed, hurry, zip
+      - travel, go, move, locomote
+        - act, move
+  - nudge, poke at, prod
+    - push, force
+      - move, displace
+        - change, alter, modify
+          - induce, stimulate, cause, have, get, make
+            - act, move
+  - provoke, stimulate
+    - challenge
+      - invite, bid
+        - request
+          - ask
+            - request, ask for, bespeak, call for, quest
+              - communicate, pass on, pass, pass along, put across
+                - convey, transmit, communicate
+                  - transfer
+                    - move, displace
+                      - change, alter, modify
+                        - induce, stimulate, cause, have, get, make
+                          - act, move
+[Domains]
+  - sport
+  - athletics

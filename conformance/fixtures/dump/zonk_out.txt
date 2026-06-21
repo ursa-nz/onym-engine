@@ -1,0 +1,17 @@
+term: zonk out
+[Definitions]
+  - (verb) lose consciousness due to a sudden trauma, for example
+  - (verb) fall asleep fast, as when one is extremely tired
+      "after the long drive, we zonked out and slept for 10 hours"
+[Synonyms]
+  - pass out
+  - black out
+[Is a kind of]
+  - change state, turn
+    - change
+      - act, move
+  - fall asleep, dope off, flake out, drift off, nod off, drop off, doze off, drowse off
+    - change, alter, vary
+      - act, move
+[Kinds]
+  - faint, conk, swoon, pass out

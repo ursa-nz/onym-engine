@@ -1,0 +1,19 @@
+term: Marchantiales
+[Definitions]
+  - (noun) liverworts with gametophyte differentiated internally
+[Synonyms]
+  - order Marchantiales
+[Is a kind of]
+  - plant order
+    - order
+      - taxonomic group, taxonomic category, taxon
+        - biological group
+          - group, grouping
+            - abstraction, abstract entity
+              - entity
+[Part of]
+  - Hepaticopsida, class Hepaticopsida, Hepaticae, class Hepaticae
+    - Bryophyta, division Bryophyta
+      - Plantae, kingdom Plantae, plant kingdom
+[Parts]
+  - Marchantiaceae, family Marchantiaceae

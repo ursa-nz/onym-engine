@@ -1,0 +1,12 @@
+term: hostile takeover
+[Definitions]
+  - (noun) a takeover that is resisted by the management of the target company
+[Is a kind of]
+  - takeover
+    - buyout
+      - acquisition
+        - acquiring, getting
+          - act, deed, human action, human activity
+            - event
+              - abstraction, abstract entity
+                - entity

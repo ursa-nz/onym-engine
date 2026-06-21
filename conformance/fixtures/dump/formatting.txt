@@ -1,0 +1,48 @@
+term: formatting
+[Definitions]
+  - (noun) the organization of information according to preset specifications (usually for computer processing)
+  - (verb) set (printed matter) into a specific format
+      "Format this letter so it can be printed out"
+  - (verb) determine the arrangement of (data) for storage and display (in computer science)
+  - (verb) divide (a disk) into marked sectors so that it may store data
+      "Please format this disk before entering data!"
+[Synonyms]
+  - data format
+  - data formatting
+  - arrange
+  - initialize
+  - initialise
+[Derived forms]
+  - format
+  - arrange
+  - initialize
+  - initialise
+  - formatting
+  - data format
+  - data formatting
+[Is a kind of]
+  - information, info
+    - message, content, subject matter, substance
+      - communication
+        - abstraction, abstract entity
+          - entity
+  - change
+    - act, move
+  - determine, set
+    - act, move
+  - divide, split, split up, separate, dissever, carve up
+    - change integrity
+      - change
+        - act, move
+[Kinds]
+  - high-level formatting
+  - low-level formatting, initialization, initialisation
+  - indent
+  - rubricate
+[Domains]
+  - computer
+  - computing machine
+  - computing device
+  - data processor
+  - electronic computer
+  - information processing system

@@ -1,0 +1,25 @@
+term: eruptive
+[Definitions]
+  - (adjective) producing or characterized by eruptions
+      "an eruptive disease"
+  - (adjective) produced by the action of fire or intense heat
+      "rocks formed by igneous agents"
+  - (adjective) actively spewing out lava
+      "a geyser is an intermittently eruptive hot spring"
+[Synonyms]
+  - igneous
+[Antonyms]
+  - active (indirect)
+      -> dormant
+      -> inactive
+[Derived forms]
+  - erupt
+  - recrudesce
+  - break out
+[Similar to]
+  - active
+[Pertains to]
+  - eruption
+    - symptom
+[Domains]
+  - geology

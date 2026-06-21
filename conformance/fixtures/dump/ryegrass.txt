@@ -1,0 +1,26 @@
+term: ryegrass
+[Definitions]
+  - (noun) any of several annual or perennial Eurasian grasses
+[Synonyms]
+  - rye grass
+[Is a kind of]
+  - grass
+    - gramineous plant, graminaceous plant
+      - herb, herbaceous plant
+        - vascular plant, tracheophyte
+          - plant, flora, plant life
+            - organism, being
+              - living thing, animate thing
+                - whole, unit
+                  - object, physical object
+                    - physical entity
+                      - entity
+              - causal agent, cause, causal agency
+                - physical entity
+                  - entity
+[Kinds]
+  - perennial ryegrass, English ryegrass, Lolium perenne
+  - Italian ryegrass, Italian rye, Lolium multiflorum
+  - darnel, tare, bearded darnel, cheat, Lolium temulentum
+[Part of]
+  - Lolium, genus Lolium

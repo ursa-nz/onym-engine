@@ -1,0 +1,31 @@
+term: quinacrine hydrochloride
+[Definitions]
+  - (noun) a drug (trade name Atabrine) used to treat certain worm infestations and once used to treat malaria
+[Synonyms]
+  - quinacrine
+  - mepacrine
+  - Atabrine
+[Is a kind of]
+  - antimalarial, antimalarial drug
+    - antiprotozoal, antiprotozoal drug
+      - medicine, medication, medicament, medicinal drug
+        - drug
+          - agent
+            - causal agent, cause, causal agency
+              - physical entity
+                - entity
+            - substance
+              - matter
+                - physical entity
+                  - entity
+  - vermifuge, anthelmintic, anthelminthic, helminthic
+    - medicine, medication, medicament, medicinal drug
+      - drug
+        - agent
+          - causal agent, cause, causal agency
+            - physical entity
+              - entity
+          - substance
+            - matter
+              - physical entity
+                - entity

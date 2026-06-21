@@ -1,0 +1,17 @@
+term: genus Cynocephalus
+[Definitions]
+  - (noun) type genus of the family Cynocephalidae
+[Synonyms]
+  - Cynocephalus
+[Is a kind of]
+  - mammal genus
+    - genus
+      - taxonomic group, taxonomic category, taxon
+        - biological group
+          - group, grouping
+            - abstraction, abstract entity
+              - entity
+[Part of]
+  - Cynocephalidae, family Cynocephalidae
+[Parts]
+  - flying lemur, flying cat, colugo

@@ -1,0 +1,19 @@
+term: compound pendulum
+[Definitions]
+  - (noun) pendulum consisting of an actual object allowed to rotate freely around a horizontal axis
+[Synonyms]
+  - physical pendulum
+[Is a kind of]
+  - pendulum
+    - apparatus, setup
+      - equipment
+        - instrumentality, instrumentation, means
+          - artifact, artefact
+            - whole, unit
+              - object, physical object
+                - physical entity
+                  - entity
+[Kinds]
+  - ballistic pendulum
+    - gun pendulum
+  - clock pendulum

@@ -1,18 +1,20 @@
 term: cat
 [Definitions]
-  - (noun) feline mammal usually having thick soft fur and no ability to roar: domestic cats; wildcats
+  - (noun) feline mammal usually having thick soft fur and no ability to roar
   - (noun) an informal term for a youth or man
       "a nice guy"
       "the guy's only doing it for some doll"
+      "the poor sod couldn't even buy a drink"
   - (noun) a spiteful woman gossip
       "what a cat she is!"
   - (noun) the leaves of the shrub Catha edulis which are chewed like tobacco or used to make tea; has the effect of a euphoric stimulant
-      "in Yemen kat is used daily by 85% of adults"
+      "in Yemen, kat is used daily by 85% of adults"
   - (noun) a whip with nine knotted cords
       "British sailors feared the cat"
   - (noun) a large tracked vehicle that is propelled by two endless metal belts; frequently used for moving earth in construction and farm work
   - (noun) any of several large cats typically able to roar and living in the wild
   - (noun) a method of examining body organs by scanning them with X rays and using a computer to construct a series of cross-sectional scans along a single axis
+  - (noun) any of various lithe-bodied roundheaded fissiped mammals, many with retractile claws
   - (verb) beat with a cat-o'-nine-tails
       "They want to cat the prisoners"
   - (verb) eject the contents of the stomach through the mouth
@@ -24,6 +26,7 @@ term: cat
   - guy
   - hombre
   - bozo
+  - sod
   - kat
   - khat
   - qat
@@ -38,6 +41,8 @@ term: cat
   - CT
   - computerized axial tomography
   - computed axial tomography
+  - feline
+  - felid
   - vomit
   - vomit up
   - purge
@@ -75,6 +80,9 @@ term: cat
                       - object, physical object
                         - physical entity
                           - entity
+                  - causal agent, cause, causal agency
+                    - physical entity
+                      - entity
   - man, adult male
     - male, male person
       - person, individual, someone, somebody, mortal, soul
@@ -84,9 +92,9 @@ term: cat
               - object, physical object
                 - physical entity
                   - entity
-        - causal agent, cause, causal agency
-          - physical entity
-            - entity
+          - causal agent, cause, causal agency
+            - physical entity
+              - entity
     - adult, grownup
       - person, individual, someone, somebody, mortal, soul
         - organism, being
@@ -95,18 +103,12 @@ term: cat
               - object, physical object
                 - physical entity
                   - entity
-        - causal agent, cause, causal agency
-          - physical entity
-            - entity
+          - causal agent, cause, causal agency
+            - physical entity
+              - entity
   - gossip, gossiper, gossipmonger, rumormonger, rumourmonger, newsmonger
     - communicator
-      - person, individual, someone, somebody, mortal, soul
-        - organism, being
-          - living thing, animate thing
-            - whole, unit
-              - object, physical object
-                - physical entity
-                  - entity
+      - actor, doer, worker
         - causal agent, cause, causal agency
           - physical entity
             - entity
@@ -119,9 +121,9 @@ term: cat
               - object, physical object
                 - physical entity
                   - entity
-        - causal agent, cause, causal agency
-          - physical entity
-            - entity
+          - causal agent, cause, causal agency
+            - physical entity
+              - entity
     - adult, grownup
       - person, individual, someone, somebody, mortal, soul
         - organism, being
@@ -130,9 +132,9 @@ term: cat
               - object, physical object
                 - physical entity
                   - entity
-        - causal agent, cause, causal agency
-          - physical entity
-            - entity
+          - causal agent, cause, causal agency
+            - physical entity
+              - entity
   - stimulant, stimulant drug, excitant
     - drug
       - agent
@@ -146,7 +148,7 @@ term: cat
   - whip
     - instrument
       - device
-        - instrumentality, instrumentation
+        - instrumentality, instrumentation, means
           - artifact, artefact
             - whole, unit
               - object, physical object
@@ -157,19 +159,12 @@ term: cat
       - wheeled vehicle
         - vehicle
           - conveyance, transport
-            - instrumentality, instrumentation
+            - instrumentality, instrumentation, means
               - artifact, artefact
                 - whole, unit
                   - object, physical object
                     - physical entity
                       - entity
-        - container
-          - instrumentality, instrumentation
-            - artifact, artefact
-              - whole, unit
-                - object, physical object
-                  - physical entity
-                    - entity
   - X-raying, X-radiation
     - imaging, tomography
       - pictorial representation, picturing
@@ -177,13 +172,31 @@ term: cat
           - activity
             - act, deed, human action, human activity
               - event
-                - psychological feature
-                  - abstraction, abstract entity
+                - abstraction, abstract entity
+                  - entity
+  - carnivore
+    - placental, placental mammal, eutherian, eutherian mammal
+      - mammal, mammalian
+        - vertebrate, craniate
+          - chordate
+            - animal, animate being, beast, brute, creature, fauna
+              - organism, being
+                - living thing, animate thing
+                  - whole, unit
+                    - object, physical object
+                      - physical entity
+                        - entity
+                - causal agent, cause, causal agency
+                  - physical entity
                     - entity
   - flog, welt, whip, lather, lash, slash, strap, trounce
     - beat, beat up, work over
+      - act, move
   - excrete, egest, eliminate, pass
     - exhaust, discharge, expel, eject, release
+      - obviate, rid of, eliminate
+        - get rid of, remove, waste
+          - act, move
 [Kinds]
   - domestic cat, house cat, Felis domesticus, Felis catus
     - kitty, kitty-cat, puss, pussy, pussycat
@@ -204,26 +217,6 @@ term: cat
     - Maltese, Maltese cat
     - Abyssinian, Abyssinian cat
     - Manx, Manx cat
-  - wildcat
-    - sand cat
-    - European wildcat, catamountain, Felis silvestris
-    - cougar, puma, catamount, mountain lion, painter, panther, Felis concolor
-    - ocelot, panther cat, Felis pardalis
-    - jaguarundi, jaguarundi cat, jaguarondi, eyra, Felis yagouaroundi
-    - kaffir cat, caffer cat, Felis ocreata
-    - jungle cat, Felis chaus
-    - serval, Felis serval
-    - leopard cat, Felis bengalensis
-    - tiger cat, Felis tigrina
-    - margay, margay cat, Felis wiedi
-    - manul, Pallas's cat, Felis manul
-    - lynx, catamount
-      - common lynx, Lynx lynx
-      - Canada lynx, Lynx canadensis
-      - bobcat, bay lynx, Lynx rufus
-      - spotted lynx, Lynx pardina
-      - caracal, desert lynx, Lynx caracal
-  - sod
   - leopard, Panthera pardus
     - leopardess
     - panther
@@ -243,6 +236,65 @@ term: cat
   - saber-toothed tiger, sabertooth
     - Smiledon californicus
     - false saber-toothed tiger
+  - true cat
+    - domestic cat, house cat, Felis domesticus, Felis catus
+      - kitty, kitty-cat, puss, pussy, pussycat
+      - mouser
+      - alley cat
+      - tom, tomcat
+        - gib
+      - tabby, queen
+      - tabby, tabby cat
+      - tiger cat
+      - tortoiseshell, tortoiseshell-cat, calico cat
+      - Persian cat
+      - Angora, Angora cat
+      - Siamese cat, Siamese
+        - blue point Siamese
+      - Burmese cat
+      - Egyptian cat
+      - Maltese, Maltese cat
+      - Abyssinian, Abyssinian cat
+      - Manx, Manx cat
+  - wildcat
+    - sand cat
+    - European wildcat, catamountain, Felis silvestris
+    - cougar, puma, catamount, mountain lion, painter, panther, Felis concolor
+    - ocelot, panther cat, Felis pardalis, Leopardus pardalis
+    - jaguarundi, jaguarundi cat, jaguarondi, eyra, Felis yagouaroundi
+    - kaffir cat, caffer cat, Felis ocreata
+    - jungle cat, Felis chaus
+    - serval, Felis serval
+    - leopard cat, Felis bengalensis, Prionailurus bengalensis
+    - tiger cat, Felis tigrina
+    - margay, margay cat, Felis wiedi
+    - manul, Pallas's cat, Felis manul, Otocolobus manul
+    - lynx, catamount
+      - common lynx, Lynx lynx
+      - Canada lynx, Lynx canadensis
+      - bobcat, bay lynx, Lynx rufus
+      - spotted lynx, Lynx pardina
+      - caracal, desert lynx, Lynx caracal
+  - big cat
+    - leopard, Panthera pardus
+      - leopardess
+      - panther
+    - snow leopard, ounce, Panthera uncia
+    - jaguar, panther, Panthera onca, Felis onca
+    - lion, king of beasts, Panthera leo
+      - lion cub
+      - lioness
+      - lionet
+    - tiger, Panthera tigris
+      - tiger cub
+      - Bengal tiger
+      - tigress
+    - liger
+    - tiglon, tigon
+    - cheetah, chetah, Acinonyx jubatus
+    - saber-toothed tiger, sabertooth
+      - Smiledon californicus
+      - false saber-toothed tiger
 [Part of]
   - Felidae, family Felidae
     - Carnivora, order Carnivora
@@ -290,6 +342,8 @@ term: cat
             - digit, dactyl
               - phalanx
               - nail
+                - root
+                  - cementum, cement
                 - half-moon, lunula, lunule
                 - matrix
             - chordate
@@ -333,11 +387,11 @@ term: cat
                               - calcarine sulcus, calcarine fissure
                               - occipital gyrus
                               - striate cortex, striate area, first visual area, area 17 of Brodmann, Brodmann's area 17
-                            - temporal lobe, temporal ccortex
+                            - temporal lobe, temporal cortex
                               - temporal gyrus
                               - amygdala, amygdaloid nucleus, corpus amygdaloideum
                           - gyrus, convolution
-                      - diencephalon, interbrain, betweenbrain, thalmencephalon
+                      - diencephalon, interbrain, betweenbrain
                         - mamillary body, mammillary body, corpus mamillare
                         - infundibulum
                         - third eye, pineal eye
@@ -349,7 +403,7 @@ term: cat
                           - posterior pituitary, posterior pituitary gland, neurohypophysis, pars nervosa
                             - pars intermedia
                         - basal ganglion
-                        - thalamus
+                        - thalamus, thalamencephalon
                           - geniculate body
                           - subthalamus
                             - subthalamic nucleus
@@ -708,46 +762,6 @@ term: cat
             - whole, unit
               - part, portion
               - section, segment
-  - gossip, gossiper, gossipmonger, rumormonger, rumourmonger, newsmonger
-    - communicator
-      - person, individual, someone, somebody, mortal, soul
-        - personality
-          - trait
-          - character, fiber, fibre
-            - thoughtfulness
-            - responsibility, responsibleness
-            - integrity
-          - nature
-        - human body, physical body, material body, soma, build, figure, physique, anatomy, shape, bod, chassis, frame, form, flesh
-        - organism, being
-          - tissue
-          - cell
-            - cell membrane, cytomembrane, plasma membrane
-            - energid, protoplast
-            - cytoplasm, cytol
-              - cytoskeleton
-              - microsome
-              - Golgi body, Golgi apparatus, Golgi complex, dictyosome
-            - nucleus, cell nucleus, karyon
-              - nucleolus, nucleole
-              - chromatin, chromatin granule
-              - achromatin
-              - linin
-              - chromosome
-                - nucleolus organizer, nucleolus organiser, nucleolar organizer, nucleolar organiser
-                - chromatin, chromatin granule
-                - gene, cistron, factor
-                - chromatid
-                - centromere, kinetochore
-                - telomere
-            - organelle, cell organelle, cell organ
-            - vacuole
-          - body part
-            - corpus
-          - living thing, animate thing
-            - whole, unit
-              - part, portion
-              - section, segment
   - woman, adult female
     - adult female body, woman's body
       - menorrhea, menstrual blood, menstrual flow
@@ -888,7 +902,7 @@ term: cat
     - stock
     - instrument
       - device
-        - instrumentality, instrumentation
+        - instrumentality, instrumentation, means
           - artifact, artefact
             - whole, unit
               - part, portion
@@ -906,18 +920,311 @@ term: cat
         - vehicle
           - splashboard, splasher, dashboard
           - conveyance, transport
-            - instrumentality, instrumentation
+            - instrumentality, instrumentation, means
               - artifact, artefact
                 - whole, unit
                   - part, portion
                   - section, segment
-        - container
-          - instrumentality, instrumentation
-            - artifact, artefact
-              - whole, unit
-                - part, portion
-                - section, segment
+  - paw
+    - pad
+  - carnivore
+    - placental, placental mammal, eutherian, eutherian mammal
+      - mammal, mammalian
+        - coat, pelage
+        - hair, pilus
+        - vertebrate, craniate
+          - belly
+          - tail
+            - dock
+          - caudal appendage
+          - rib, costa
+            - costal cartilage
+          - thorax, chest, pectus
+            - sternum, breastbone
+              - gladiolus, corpus sternum
+              - manubrium
+              - xiphoid process
+            - thoracic aorta
+            - thoracic vein, vena thoracica
+            - gallbladder, gall bladder
+            - area of cardiac dullness
+            - pectoral, pectoral muscle, pectoralis, musculus pectoralis, pecs
+            - chest cavity, thoracic cavity
+              - mediastinum
+            - breast, chest
+            - rib cage
+          - vertebrate foot, pedal extremity
+            - metatarsus
+              - metatarsal
+            - tarsus
+              - cuboid bone
+              - tarsal, tarsal bone
+          - digit, dactyl
+            - phalanx
+            - nail
+              - root
+                - cementum, cement
+              - half-moon, lunula, lunule
+              - matrix
+          - chordate
+            - animal, animate being, beast, brute, creature, fauna
+              - animal tissue
+              - head, caput
+                - muzzle
+                  - snout, neb
+                - ear
+                  - vestibule of the ear
+                  - eardrum, tympanum, tympanic membrane, myringa
+                    - umbo
+                  - organ of hearing
+                  - fenestra
+                  - auricular artery, arteria auricularis
+                - basilar artery, arteria basilaris
+                - brain, encephalon
+                  - circle of Willis
+                  - communicating artery, arteria communicans
+                  - brain cell
+                  - neencephalon, neoencephalon
+                  - forebrain, prosencephalon
+                    - peduncle, cerebral peduncle
+                    - corpus callosum
+                    - telencephalon
+                      - cerebrum
+                        - fissure of Rolando, Rolando's fissure, central sulcus, sulcus centralis
+                        - fissure of Sylvius, Sylvian fissure, lateral cerebral sulcus, sulcus lateralis cerebri
+                        - hemisphere, cerebral hemisphere
+                        - cerebral cortex, cerebral mantle, pallium, cortex
+                          - Golgi's cell, Golgi cell
+                          - cortical area, cortical region
+                          - frontal lobe, frontal cortex
+                            - frontal gyrus
+                            - precentral gyrus
+                          - prefrontal lobe, prefrontal cortex
+                          - parietal lobe, parietal cortex
+                            - parietal gyrus
+                            - postcentral gyrus
+                          - occipital lobe, occipital cortex
+                            - calcarine sulcus, calcarine fissure
+                            - occipital gyrus
+                            - striate cortex, striate area, first visual area, area 17 of Brodmann, Brodmann's area 17
+                          - temporal lobe, temporal cortex
+                            - temporal gyrus
+                            - amygdala, amygdaloid nucleus, corpus amygdaloideum
+                        - gyrus, convolution
+                    - diencephalon, interbrain, betweenbrain
+                      - mamillary body, mammillary body, corpus mamillare
+                      - infundibulum
+                      - third eye, pineal eye
+                      - optic nerve, nervus opticus, second cranial nerve, optic tract
+                      - pituitary, pituitary gland, pituitary body, hypophysis
+                        - hypophyseal stalk
+                        - anterior pituitary, anterior pituitary gland, adenohypophysis
+                          - pars distilis, pars anterior
+                        - posterior pituitary, posterior pituitary gland, neurohypophysis, pars nervosa
+                          - pars intermedia
+                      - basal ganglion
+                      - thalamus, thalamencephalon
+                        - geniculate body
+                        - subthalamus
+                          - subthalamic nucleus
+                      - hypothalamus
+                  - midbrain, mesencephalon
+                    - substantia nigra, nucleus niger, locus niger
+                    - superior colliculus
+                    - inferior colliculus
+                  - hindbrain, rhombencephalon
+                    - cerebellum
+                      - cerebellar artery, arteria cerebelli
+                      - cerebellar hemisphere
+                      - dentate nucleus
+                      - vermis, vermis cerebelli
+                      - paleocerebellum
+                    - myelencephalon
+                  - brainstem, brain-stem, brain stem
+                    - medulla oblongata, medulla, bulb
+                      - respiratory center
+                    - pons, pons Varolii
+                      - respiratory center
+                    - reticular formation, RF
+                      - reticular activating system, RAS
+                  - ventricle
+                    - spinal fluid, cerebrospinal fluid
+                - skull
+                  - craniometric point
+                  - cheekbone, zygomatic bone, zygomatic, malar, malar bone, jugal bone, os zygomaticum
+                    - jugale, jugal point
+                    - zygoma, zygomatic arch, arcus zygomaticus
+                    - zygomatic process
+                  - sphenoid bone, sphenoid, os sphenoidale
+                    - crotaphion
+                    - pterygoid process
+                  - eye socket, orbit, cranial orbit, orbital cavity
+                    - lacrimal bone
+                  - endocranium
+                  - cranium, braincase, brainpan
+                    - asterion
+                    - stephanion
+                    - ethmoid, ethmoid bone
+                    - temporal bone, os temporale
+                      - glenoid fossa, mandibular fossa
+                      - tympanic bone
+                      - mastoid, mastoid process, mastoid bone, mastoidal
+                        - mastoidale
+                      - styloid process
+                    - calvaria, skullcap
+                    - frontal bone, os frontale, forehead
+                      - glabella, mesophyron
+                      - metopion
+                      - ophryon
+                      - frontal eminence
+                    - parietal bone
+                      - entomion
+                      - sphenion
+                    - occipital bone
+                      - inion
+                      - occipital protuberance
+                    - coronal suture, sutura coronalis
+                    - frontal suture, sutura frontalis
+                    - lamboid suture, sutura lamboidea
+                    - occipitomastoid suture
+                    - parietomastoid suture
+                    - sagittal suture, interparietal suture, sutura sagittalis
+                    - fontanelle, fontanel, soft spot
+                    - foramen magnum
+                  - jaw
+                    - alveolar arch
+                    - alveolar ridge, gum ridge, alveolar process
+                      - tooth socket, alveolus
+                      - alveolar artery, arteria alveolaris
+                  - vomer
+                - face, human face
+                  - beard, face fungus, whiskers
+                    - mustache, moustache
+                  - mouth
+                    - mouth, oral cavity, oral fissure, rima oris
+                      - dentition, teeth
+                      - tongue, lingua, glossa, clapper
+                        - tastebud, taste bud, gustatory organ
+                          - neuroepithelium
+                          - taste cell, gustatory cell
+                      - buccal cavity
+                      - gingiva, gum
+                      - palate, roof of the mouth
+                        - tastebud, taste bud, gustatory organ
+                          - neuroepithelium
+                          - taste cell, gustatory cell
+                        - soft palate, velum
+                          - uvula
+                        - hard palate
+                      - salivary gland
+                        - saliva, spit, spittle
+                    - lip
+                      - labial artery, arteria labialis
+                      - labial vein, vena labialis
+                    - lingual artery, arteria lingualis
+                    - lingual vein, vena lingualis
+                  - eye, oculus, optic
+                    - choroid, choroid coat
+                    - ciliary body
+                    - eyelid, lid, palpebra
+                      - eyelash, lash, cilium
+                      - conjunctiva
+                    - canthus
+                    - epicanthus, epicanthic fold
+                    - nictitating membrane, third eyelid
+                    - conjunctiva
+                    - eyeball, orb
+                    - ocular muscle, eye muscle
+                    - cornea
+                    - uvea
+                    - uveoscleral pathway
+                    - iris
+                      - pupil
+                    - lens, crystalline lens, lens of the eye
+                      - lens cortex, cortex
+                      - lens capsule
+                    - central artery of the retina, arteria centralis retinae
+                    - ciliary artery, arteria ciliaris
+                    - lacrimal artery, arteria lacrimalis
+                    - lacrimal vein, vena lacrimalis
+                    - lacrimal apparatus
+                      - lacrimal gland, lachrymal gland, tear gland
+                      - lacrimal duct, lachrymal duct, tear duct
+                      - lacrimal sac, tear sac, dacryocyst
+                    - retina
+                      - neuroepithelium
+                      - fovea, fovea centralis
+                      - parafovea
+                      - macula, macula lutea, macular area, yellow spot
+                      - visual cell
+                      - blind spot, optic disc, optic disk
+                      - cone, cone cell, retinal cone
+                        - iodopsin
+                      - rod, rod cell, retinal rod
+                        - visual purple, rhodopsin, retinal purple
+                    - sclera, sclerotic coat
+                    - pupillary sphincter, musculus sphincter pupillae
+                    - aperture
+                  - eyebrow, brow, supercilium
+                    - venae palpebrales
+                  - facial vein, vena facialis
+                  - facial, facial nerve, nervus facialis, seventh cranial nerve
+                  - nose, olfactory organ
+                    - turbinate bone, turbinate, turbinal
+                    - ethmoidal artery, arteria ethmoidalis
+                    - nasal cavity
+                      - neuroepithelium
+                    - internasal suture, sutura internasalis
+                    - bridge
+                      - nasal, nasal bone, os nasale
+                        - rhinion
+                    - nostril, anterior naris
+                  - chin, mentum
+                    - goatee
+                  - feature, lineament
+                  - facial muscle
+                  - brow, forehead
+                    - trichion, crinion
+                  - cheek
+                    - cheek muscle, buccinator muscle, musculus buccinator
+                    - buccal artery, arteria buccalis
+                  - jowl
+                  - jaw
+                - temple
+              - face
+              - organism, being
+                - tissue
+                - cell
+                  - cell membrane, cytomembrane, plasma membrane
+                  - energid, protoplast
+                  - cytoplasm, cytol
+                    - cytoskeleton
+                    - microsome
+                    - Golgi body, Golgi apparatus, Golgi complex, dictyosome
+                  - nucleus, cell nucleus, karyon
+                    - nucleolus, nucleole
+                    - chromatin, chromatin granule
+                    - achromatin
+                    - linin
+                    - chromosome
+                      - nucleolus organizer, nucleolus organiser, nucleolar organizer, nucleolar organiser
+                      - chromatin, chromatin granule
+                      - gene, cistron, factor
+                      - chromatid
+                      - centromere, kinetochore
+                      - telomere
+                  - organelle, cell organelle, cell organ
+                  - vacuole
+                - body part
+                  - corpus
+                - living thing, animate thing
+                  - whole, unit
+                    - part, portion
+                    - section, segment
 [Domains]
+  - British English
+  - UK English
+  - trademark
   - slang
   - cant
   - jargon
@@ -925,4 +1232,3 @@ term: cat
   - argot
   - patois
   - vernacular
-  - trademark

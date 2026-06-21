@@ -1,0 +1,16 @@
+term: repulsorlift engine
+[Definitions]
+  - (noun) a fictional anti-gravity device in the Star Wars Universe.
+[Synonyms]
+  - repulsorlift
+  - repulsor
+[Is a kind of]
+  - device
+    - instrumentality, instrumentation, means
+      - artifact, artefact
+        - whole, unit
+          - object, physical object
+            - physical entity
+              - entity
+[Domains]
+  - science fiction

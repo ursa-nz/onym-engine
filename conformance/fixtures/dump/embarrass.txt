@@ -1,0 +1,36 @@
+term: embarrass
+[Definitions]
+  - (verb) cause to be embarrassed; cause to feel self-conscious
+      "Sam cannot embarrass Sue"
+      "The performance is likely to embarrass Sue"
+  - (verb) hinder or prevent the progress or accomplishment of
+      "His brother blocked him at every turn"
+[Synonyms]
+  - abash
+  - obstruct
+  - blockade
+  - block
+  - hinder
+  - stymie
+  - stymy
+[Derived forms]
+  - embarrassment
+[Is a kind of]
+  - upset, discompose, untune, disconcert, discomfit
+    - arouse, elicit, enkindle, kindle, evoke, fire, raise, provoke
+      - make, create
+        - induce, stimulate, cause, have, get, make
+          - act, move
+  - prevent, forestall, foreclose, preclude, forbid
+    - act, move
+[Kinds]
+  - confuse, flurry, disconcert, put off
+    - fluster
+      - ruffle
+    - bother
+    - distract, deflect
+  - filibuster
+  - check
+  - hang
+  - bottleneck
+  - stonewall

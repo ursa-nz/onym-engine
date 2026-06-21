@@ -1,0 +1,12 @@
+term: hygroscopic
+[Definitions]
+  - (adjective) absorbing moisture (as from the air)
+[Antonyms]
+  - absorbent (indirect)
+      -> nonabsorbent
+      -> nonabsorptive
+[Derived forms]
+  - hygroscope
+[Similar to]
+  - absorbent
+  - absorptive

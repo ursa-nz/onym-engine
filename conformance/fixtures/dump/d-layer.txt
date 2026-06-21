@@ -1,0 +1,13 @@
+term: D-layer
+[Definitions]
+  - (noun) the lowest region of the ionosphere (35 to 50 miles up) that reflects low-frequency radio waves
+[Synonyms]
+  - D region
+[Is a kind of]
+  - region, part
+    - location
+      - object, physical object
+        - physical entity
+          - entity
+[Part of]
+  - ionosphere

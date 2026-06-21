@@ -1,0 +1,44 @@
+term: toady
+[Definitions]
+  - (noun) a person who tries to please someone in order to gain a personal advantage
+  - (verb) try to gain favor by cringing or flattering
+      "He is always kowtowing to his boss"
+[Synonyms]
+  - sycophant
+  - crawler
+  - lackey
+  - ass-kisser
+  - fawn
+  - truckle
+  - bootlick
+  - kowtow
+  - kotow
+  - suck up
+[Derived forms]
+  - fawn
+  - truckle
+  - bootlick
+  - kowtow
+  - kotow
+  - suck up
+  - sycophant
+  - crawler
+  - lackey
+  - ass-kisser
+[Is a kind of]
+  - flatterer, adulator
+    - follower
+      - actor, doer, worker
+        - causal agent, cause, causal agency
+          - physical entity
+            - entity
+  - flatter, blandish
+    - praise
+      - measure, evaluate, valuate, assess, appraise, value
+        - evaluate, pass judgment, judge
+          - think, cogitate, cerebrate
+            - act, move
+[Kinds]
+  - apple polisher, bootlicker, fawner, groveller, groveler, truckler
+  - goody-goody
+  - curry favor, curry favour, court favor, court favour

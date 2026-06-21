@@ -1,0 +1,31 @@
+term: blastogenesis
+[Definitions]
+  - (noun) asexual reproduction by budding
+  - (noun) theory that inherited characteristics are transmitted by germ plasm
+[Derived forms]
+  - blastogenetic
+[Is a kind of]
+  - asexual reproduction, agamogenesis
+    - reproduction
+      - organic process, biological process
+        - process, physical process
+          - physical entity
+            - entity
+  - theory
+    - explanation
+      - thinking, thought, thought process, cerebration, intellection, mentation
+        - higher cognitive process
+          - process, cognitive process, mental process, operation, cognitive operation
+            - cognition, knowledge, noesis
+              - psychological feature
+                - abstraction, abstract entity
+                  - entity
+[Parts]
+  - asexual reproduction, agamogenesis
+    - reproduction
+      - parturition, birth, giving birth, birthing
+  - theory
+    - law, law of nature
+    - hypothesis, possibility, theory
+    - explanation
+      - basis, base, foundation, fundament, groundwork, cornerstone

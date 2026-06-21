@@ -1,0 +1,19 @@
+term: cleft palate
+[Definitions]
+  - (noun) a congenital fissure of the hard palate
+[Is a kind of]
+  - birth defect, congenital anomaly, congenital defect, congenital disorder, congenital abnormality
+    - defect
+      - imperfection, imperfectness
+        - state
+          - attribute
+            - abstraction, abstract entity
+              - entity
+    - anomaly, anomalousness
+      - abnormality, abnormalcy
+        - physical condition, physiological state, physiological condition
+          - condition, status
+            - state
+              - attribute
+                - abstraction, abstract entity
+                  - entity

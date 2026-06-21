@@ -1,0 +1,20 @@
+term: Transfiguration Day
+[Definitions]
+  - (noun) (Christianity) a church festival held in commemoration of the Transfiguration of Jesus
+[Synonyms]
+  - Transfiguration
+  - August 6
+[Is a kind of]
+  - Christian holy day
+    - religious holiday, holy day
+      - holiday
+        - day
+          - calendar day, civil day
+            - time period, period of time, period
+              - fundamental quantity, fundamental measure
+                - measure, quantity, amount
+                  - abstraction, abstract entity
+                    - entity
+[Domains]
+  - Christianity
+  - Christian religion

@@ -1,0 +1,9 @@
+term: talk into
+[Definitions]
+  - (verb) persuade somebody to do something
+[Antonyms]
+  - talk out of (direct)
+[Is a kind of]
+  - persuade
+    - induce, stimulate, cause, have, get, make
+      - act, move

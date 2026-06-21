@@ -1,0 +1,23 @@
+term: ragged robin
+[Definitions]
+  - (noun) common perennial native to Europe and western Asia having usually pink flowers with ragged petals
+[Synonyms]
+  - cuckoo flower
+  - Lychnis flos-cuculi
+  - Lychnis floscuculi
+[Is a kind of]
+  - lychnis, catchfly
+    - flower
+      - angiosperm, flowering plant
+        - spermatophyte, phanerogam, seed plant
+          - vascular plant, tracheophyte
+            - plant, flora, plant life
+              - organism, being
+                - living thing, animate thing
+                  - whole, unit
+                    - object, physical object
+                      - physical entity
+                        - entity
+                - causal agent, cause, causal agency
+                  - physical entity
+                    - entity

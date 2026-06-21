@@ -1,0 +1,44 @@
+term: victual
+[Definitions]
+  - (verb) supply with food
+      "The population was victualed during the war"
+  - (verb) lay in provisions
+      "The vessel victualled before the long voyage"
+  - (verb) take in nourishment
+  - (noun) any substance that can be used as food
+[Synonyms]
+  - comestible
+  - edible
+  - eatable
+  - pabulum
+  - victuals
+[Derived forms]
+  - comestible
+  - edible
+  - eatable
+  - pabulum
+  - victuals
+  - victualer
+  - victualler
+  - sutler
+  - provisioner
+[Is a kind of]
+  - food, nutrient
+    - substance
+      - matter
+        - physical entity
+          - entity
+  - supply, provide, render, furnish, offer
+    - give
+      - transfer
+        - change, alter, modify
+          - induce, stimulate, cause, have, get, make
+            - act, move
+  - store, hive away, lay in, put in, salt away, stack away, stash away
+    - keep, hold on
+      - have, have got, hold
+  - eat
+    - consume, ingest, take in, take, have
+      - act, move
+[Kinds]
+  - tuck

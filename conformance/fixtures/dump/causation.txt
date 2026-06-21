@@ -1,0 +1,49 @@
+term: causation
+[Definitions]
+  - (noun) the act of causing something to happen
+[Synonyms]
+  - causing
+[Derived forms]
+  - cause
+  - do
+  - make
+  - induce
+  - stimulate
+  - have
+  - get
+[Is a kind of]
+  - act, deed, human action, human activity
+    - event
+      - abstraction, abstract entity
+        - entity
+[Kinds]
+  - sending
+    - transmission, transmittal, transmitting
+      - forwarding
+        - referral
+          - remission, remitment, remit
+      - mailing, posting
+      - telephotography
+        - radiophotography
+  - trigger, induction, initiation
+    - fomentation, instigation
+  - compulsion, coercion
+    - eviction, constructive eviction
+  - influence
+    - cross-pollination
+    - exposure
+      - overexposure
+      - underexposure
+    - impingement, encroachment, impact
+    - manipulation, use
+      - mind game
+    - hypnotism, mesmerism, suggestion
+    - enticement, temptation
+      - blandishment, wheedling
+        - ingratiation, insinuation
+      - leading astray, leading off
+      - seduction
+      - solicitation, allurement
+    - mindfuck
+  - inducement, inducing
+    - corruption

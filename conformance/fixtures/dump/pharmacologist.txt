@@ -1,0 +1,19 @@
+term: pharmacologist
+[Definitions]
+  - (noun) someone trained in the science of drugs (their composition and uses and effects)
+[Synonyms]
+  - pharmaceutical chemist
+[Derived forms]
+  - pharmacology
+  - pharmacological medicine
+  - materia medica
+[Is a kind of]
+  - pharmacist, druggist, chemist, apothecary, pill pusher, pill roller
+    - health professional, primary care provider, PCP, health care provider, caregiver
+      - professional, professional person
+        - actor, doer, worker
+          - causal agent, cause, causal agency
+            - physical entity
+              - entity
+[Kinds]
+  - Loewi, Otto Loewi

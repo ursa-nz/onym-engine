@@ -1,0 +1,18 @@
+term: barium hydroxide
+[Definitions]
+  - (noun) white poisonous crystals; made by dissolving barium oxide in water
+[Is a kind of]
+  - baryta
+    - barium, Ba, atomic number 56
+      - metallic element, metal
+        - chemical element, element
+          - substance
+            - matter
+              - physical entity
+                - entity
+            - part, portion, component part, component, constituent
+              - relation
+                - abstraction, abstract entity
+                  - entity
+[Part of]
+  - baryta-water, baryta water

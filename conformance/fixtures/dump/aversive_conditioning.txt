@@ -1,0 +1,12 @@
+term: aversive conditioning
+[Definitions]
+  - (noun) conditioning to avoid an aversive stimulus
+[Is a kind of]
+  - conditioning
+    - learning, acquisition
+      - basic cognitive process
+        - process, cognitive process, mental process, operation, cognitive operation
+          - cognition, knowledge, noesis
+            - psychological feature
+              - abstraction, abstract entity
+                - entity

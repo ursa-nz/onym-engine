@@ -1,0 +1,14 @@
+term: surface chemistry
+[Definitions]
+  - (noun) the branch of chemistry that studies processes occurring at interfaces between phases (especially those between liquid and gas)
+[Is a kind of]
+  - chemistry, chemical science
+    - natural science
+      - science, scientific discipline
+        - discipline, subject, subject area, subject field, field, field of study, study, bailiwick
+          - knowledge domain, knowledge base, domain
+            - content, cognitive content, mental object
+              - cognition, knowledge, noesis
+                - psychological feature
+                  - abstraction, abstract entity
+                    - entity

@@ -1,0 +1,18 @@
+term: skittishness
+[Definitions]
+  - (noun) characterized by nervousness and quickness to take fright
+[Synonyms]
+  - restiveness
+[Derived forms]
+  - skittish
+  - flighty
+  - spooky
+  - nervous
+[Is a kind of]
+  - nervousness
+    - disposition, temperament
+      - nature
+        - trait
+          - attribute
+            - abstraction, abstract entity
+              - entity

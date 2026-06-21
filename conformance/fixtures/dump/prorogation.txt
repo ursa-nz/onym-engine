@@ -1,0 +1,24 @@
+term: prorogation
+[Definitions]
+  - (noun) discontinuation of the meeting (of a legislative body) without dissolving it
+[Derived forms]
+  - postpone
+  - prorogue
+  - hold over
+  - put over
+  - table
+  - shelve
+  - set back
+  - defer
+  - remit
+  - put off
+[Is a kind of]
+  - discontinuance, discontinuation
+    - termination, ending, conclusion
+      - change of state
+        - change
+          - action
+            - act, deed, human action, human activity
+              - event
+                - abstraction, abstract entity
+                  - entity

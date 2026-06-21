@@ -1,0 +1,33 @@
+term: inspector
+[Definitions]
+  - (noun) a high ranking police officer
+  - (noun) an investigator who observes carefully
+      "the examiner searched for clues"
+[Synonyms]
+  - examiner
+[Derived forms]
+  - inspectorship
+  - audit
+  - scrutinize
+  - scrutinise
+  - inspect
+[Is a kind of]
+  - police officer, officer
+    - law officer, peace officer
+      - defender, guardian, protector, shielder
+        - preserver
+          - actor, doer, worker
+            - causal agent, cause, causal agency
+              - physical entity
+                - entity
+  - investigator
+    - expert
+      - actor, doer, worker
+        - causal agent, cause, causal agency
+          - physical entity
+            - entity
+[Kinds]
+  - bank examiner
+  - checker
+  - scrutinizer, scrutiniser
+  - scrutineer, canvasser

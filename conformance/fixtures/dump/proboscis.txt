@@ -1,0 +1,67 @@
+term: proboscis
+[Definitions]
+  - (noun) the human nose (especially when it is large)
+  - (noun) a long flexible snout as of an elephant
+[Synonyms]
+  - trunk
+[Is a kind of]
+  - nose, olfactory organ
+    - chemoreceptor
+      - sense organ, sensory receptor, receptor
+        - organ
+          - body part
+            - part, piece
+              - thing
+                - physical entity
+                  - entity
+  - snout, neb
+    - nose, olfactory organ
+      - chemoreceptor
+        - sense organ, sensory receptor, receptor
+          - organ
+            - body part
+              - part, piece
+                - thing
+                  - physical entity
+                    - entity
+[Part of]
+  - elephant
+  - mammoth
+[Parts]
+  - nose, olfactory organ
+    - turbinate bone, turbinate, turbinal
+    - ethmoidal artery, arteria ethmoidalis
+    - nasal cavity
+      - neuroepithelium
+    - internasal suture, sutura internasalis
+    - bridge
+      - nasal, nasal bone, os nasale
+        - rhinion
+    - nostril, anterior naris
+    - chemoreceptor
+      - sense organ, sensory receptor, receptor
+        - papilla
+        - organ
+          - lobe
+          - body part
+            - corpus
+  - snout, neb
+    - nose, olfactory organ
+      - turbinate bone, turbinate, turbinal
+      - ethmoidal artery, arteria ethmoidalis
+      - nasal cavity
+        - neuroepithelium
+      - internasal suture, sutura internasalis
+      - bridge
+        - nasal, nasal bone, os nasale
+          - rhinion
+      - nostril, anterior naris
+      - chemoreceptor
+        - sense organ, sensory receptor, receptor
+          - papilla
+          - organ
+            - lobe
+            - body part
+              - corpus
+[Domains]
+  - colloquialism

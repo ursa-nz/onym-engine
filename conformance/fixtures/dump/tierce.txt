@@ -1,0 +1,55 @@
+term: tierce
+[Definitions]
+  - (noun) the third canonical hour; about 9 a.m.
+  - (noun) the cardinal number that is the sum of one and one and one
+  - (noun) one of three equal parts of a divisible whole
+      "it contains approximately a third of the minimum daily requirement"
+[Synonyms]
+  - terce
+  - three
+  - 3
+  - III
+  - trio
+  - threesome
+  - leash
+  - troika
+  - triad
+  - trine
+  - trinity
+  - ternary
+  - ternion
+  - triplet
+  - tercet
+  - terzetto
+  - trey
+  - deuce-ace
+  - one-third
+  - third
+[Is a kind of]
+  - canonical hour
+    - hour, time of day
+      - clock time, time
+        - reading, meter reading, indication
+          - datum, data point
+            - information
+              - cognition, knowledge, noesis
+                - psychological feature
+                  - abstraction, abstract entity
+                    - entity
+  - digit, figure
+    - integer, whole number
+      - number
+        - definite quantity
+          - measure, quantity, amount
+            - abstraction, abstract entity
+              - entity
+  - common fraction, simple fraction
+    - fraction
+      - rational number, rational
+        - real number, real
+          - complex number, complex quantity, imaginary number, imaginary
+            - number
+              - definite quantity
+                - measure, quantity, amount
+                  - abstraction, abstract entity
+                    - entity

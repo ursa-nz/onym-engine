@@ -1,0 +1,21 @@
+term: unplanted
+[Definitions]
+  - (adjective) not planted
+[Antonyms]
+  - planted (direct)
+      -> cropped
+      -> naturalized
+      -> naturalised
+      -> potbound
+      -> rootbound
+      -> quickset
+      -> seeded
+      -> sown
+      -> self-seeded
+      -> self-sown
+      -> self-sowed
+      -> soil-building
+[Similar to]
+  - uncropped
+  - unseeded
+  - unsown

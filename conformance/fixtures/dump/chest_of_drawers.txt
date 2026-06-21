@@ -1,0 +1,23 @@
+term: chest of drawers
+[Definitions]
+  - (noun) furniture with drawers for keeping clothes
+[Synonyms]
+  - chest
+  - bureau
+  - dresser
+[Is a kind of]
+  - furniture, piece of furniture, article of furniture
+    - furnishing
+      - instrumentality, instrumentation, means
+        - artifact, artefact
+          - whole, unit
+            - object, physical object
+              - physical entity
+                - entity
+[Kinds]
+  - chiffonier, commode
+  - highboy, tallboy
+  - lowboy
+[Parts]
+  - drawer
+  - shelf

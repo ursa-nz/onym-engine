@@ -1,0 +1,15 @@
+term: Karen language
+[Definitions]
+  - (noun) the Tibeto-Burman language spoken in the Thailand and Burmese borderlands
+[Synonyms]
+  - Karen
+  - Karenic
+  - Karenic language
+[Is a kind of]
+  - Tibeto-Burman, Tibeto-Burman language
+    - Sino-Tibetan, Sino-Tibetan language
+      - natural language, tongue
+        - language, linguistic communication
+          - communication
+            - abstraction, abstract entity
+              - entity

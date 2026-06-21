@@ -1,0 +1,26 @@
+term: chantarelle
+[Definitions]
+  - (noun) widely distributed edible mushroom rich yellow in color with a smooth cap and a pleasant apricot aroma
+[Synonyms]
+  - chanterelle
+  - Cantharellus cibarius
+[Is a kind of]
+  - agaric
+    - basidiomycete, basidiomycetous fungi
+      - fungus
+        - organism, being
+          - living thing, animate thing
+            - whole, unit
+              - object, physical object
+                - physical entity
+                  - entity
+          - causal agent, cause, causal agency
+            - physical entity
+              - entity
+[Part of]
+  - Cantharellus, genus Cantharellus
+    - Agaricaceae, family Agaricaceae
+      - Agaricales, order Agaricales
+        - Basidiomycota, subdivision Basidiomycota, Basidiomycotina, subdivision Basidiomycotina
+          - Eumycota, division Eumycota
+            - Fungi, kingdom Fungi, fungus kingdom

@@ -1,0 +1,20 @@
+term: nerd
+[Definitions]
+  - (noun) an insignificant student who is ridiculed as being affected or boringly studious
+  - (noun) an intelligent but single-minded expert in a particular technical field or profession
+[Synonyms]
+  - swot
+  - grind
+  - wonk
+  - dweeb
+[Is a kind of]
+  - learner, scholar, assimilator, student
+    - actor, doer, worker
+      - causal agent, cause, causal agency
+        - physical entity
+          - entity
+  - expert
+    - actor, doer, worker
+      - causal agent, cause, causal agency
+        - physical entity
+          - entity

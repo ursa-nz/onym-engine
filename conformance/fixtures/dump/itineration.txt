@@ -1,0 +1,14 @@
+term: itineration
+[Definitions]
+  - (noun) journeying from place to place preaching or lecturing; a preaching tour or lecturing tour
+[Is a kind of]
+  - tour, circuit
+    - journey, journeying
+      - travel, traveling, travelling
+        - motion, movement, move
+          - change
+            - action
+              - act, deed, human action, human activity
+                - event
+                  - abstraction, abstract entity
+                    - entity

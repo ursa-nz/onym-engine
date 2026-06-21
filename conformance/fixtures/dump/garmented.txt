@@ -1,0 +1,55 @@
+term: garmented
+[Definitions]
+  - (adjective) dressed or clothed especially in fine attire; often used in combination
+      "the elegantly attired gentleman"
+      "neatly dressed workers"
+      "monks garbed in hooded robes"
+      "went about oddly garmented"
+      "professors robed in crimson"
+      "tuxedo-attired gentlemen"
+      "crimson-robed Harvard professors"
+  - (verb) provide with clothes or put clothes on
+      "Parents must feed and dress their child"
+[Synonyms]
+  - dress
+  - clothe
+  - enclothe
+  - garb
+  - raiment
+  - tog
+  - habilitate
+  - fit out
+  - apparel
+  - appareled
+  - attired
+  - dressed
+  - garbed
+  - habilimented
+  - robed
+[Antonyms]
+  - clothed (indirect)
+      -> unclothed
+[Similar to]
+  - clothed
+  - clad
+[Is a kind of]
+  - change state, turn
+    - change
+      - act, move
+[Kinds]
+  - prim, prim up, prim out
+  - cover, wrap up
+  - jacket
+  - frock
+  - shirt
+  - habit
+  - vesture
+  - overdress, overclothe
+  - underdress
+  - corset
+  - shoe
+  - coat
+  - costume, dress up
+    - cosplay
+  - vest, robe
+  - gown

@@ -1,0 +1,44 @@
+term: Lisbon
+[Definitions]
+  - (noun) capital and largest city and economic and cultural center of Portugal; a major port in western Portugal on Tagus River where it broadens and empties into the Atlantic
+[Synonyms]
+  - Lisboa
+  - capital of Portugal
+[Is a kind of]
+  - national capital
+    - capital
+      - seat
+        - center, centre, middle, heart, eye
+          - area, country
+            - region
+              - location
+                - object, physical object
+                  - physical entity
+                    - entity
+    - city, metropolis, urban center
+      - municipality
+        - urban area, populated area
+          - geographical area, geographic area, geographical region, geographic region
+            - region
+              - location
+                - object, physical object
+                  - physical entity
+                    - entity
+        - administrative district, administrative division, territorial division
+          - district, territory, territorial dominion, dominion
+            - region
+              - location
+                - object, physical object
+                  - physical entity
+                    - entity
+  - port
+    - geographic point, geographical point
+      - point
+        - location
+          - object, physical object
+            - physical entity
+              - entity
+[Part of]
+  - Portugal, Portuguese Republic
+[Parts]
+  - 25 de Abril Bridge, Ponte 25 de Abril

@@ -1,0 +1,15 @@
+term: Jessye Norman
+[Definitions]
+  - (noun) United States operatic soprano (born in 1945)
+[Synonyms]
+  - Norman
+[Is a kind of]
+  - soprano
+    - singer, vocalist, vocalizer, vocaliser
+      - musician, instrumentalist, player
+        - performer, performing artist
+          - entertainer
+            - actor, doer, worker
+              - causal agent, cause, causal agency
+                - physical entity
+                  - entity

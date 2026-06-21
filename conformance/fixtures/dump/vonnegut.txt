@@ -1,0 +1,12 @@
+term: Vonnegut
+[Definitions]
+  - (noun) United States writer whose novels and short stories are a mixture of realism and satire and science fiction (born in 1922)
+[Synonyms]
+  - Kurt Vonnegut
+[Is a kind of]
+  - writer, author
+    - communicator
+      - actor, doer, worker
+        - causal agent, cause, causal agency
+          - physical entity
+            - entity

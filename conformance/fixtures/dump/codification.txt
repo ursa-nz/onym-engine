@@ -1,0 +1,37 @@
+term: codification
+[Definitions]
+  - (noun) the act of codifying; arranging in a systematic order
+  - (noun) a set of rules or principles or laws (especially written ones)
+[Synonyms]
+  - code
+[Derived forms]
+  - codify
+[Is a kind of]
+  - systematization, systematisation, rationalization, rationalisation
+    - organization, organisation
+      - activity
+        - act, deed, human action, human activity
+          - event
+            - abstraction, abstract entity
+              - entity
+  - written communication, written language, black and white
+    - communication
+      - abstraction, abstract entity
+        - entity
+[Kinds]
+  - Bushido
+  - legal code
+    - Roman law, Justinian code, civil law, jus civile
+    - Salic law
+    - criminal law
+    - penal code
+    - United States Code, U. S. Code
+  - building code
+  - dress code
+  - fire code
+  - omerta
+  - sanitary code, health code
+  - Highway Code
+[Parts]
+  - written communication, written language, black and white
+    - leaf, folio

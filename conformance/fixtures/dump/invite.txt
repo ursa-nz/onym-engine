@@ -1,0 +1,139 @@
+term: invite
+[Definitions]
+  - (verb) increase the likelihood of
+      "ask for trouble"
+      "invite criticism"
+  - (verb) invite someone to one's house
+      "Can I invite you for dinner on Sunday night?"
+  - (verb) give rise to a desire by being attractive or inviting
+      "the window displays tempted the shoppers"
+  - (verb) ask someone in a friendly way to do something
+      "They invite him to write the letter"
+  - (verb) have as a guest
+      "I invited them to a restaurant"
+  - (verb) ask to enter
+      "We invited the neighbors in for a cup of coffee"
+  - (verb) request the participation or presence of
+      "The organizers invite submissions of papers for the conference"
+  - (verb) express willingness to have in one's home or environs
+      "The community warmly received the refugees"
+  - (noun) a colloquial expression for invitation
+      "he didn't get no invite to the party"
+[Synonyms]
+  - ask for
+  - ask over
+  - ask round
+  - tempt
+  - bid
+  - pay for
+  - ask in
+  - call for
+  - receive
+  - take in
+[Derived forms]
+  - pay for
+  - ask over
+  - ask round
+  - invitation
+  - invitatory
+  - guest
+  - invitee
+[Is a kind of]
+  - invitation
+    - request, asking
+      - speech act
+        - act, deed, human action, human activity
+          - event
+            - abstraction, abstract entity
+              - entity
+    - letter, missive
+      - text, textual matter
+        - matter
+          - writing, written material, piece of writing
+            - written communication, written language, black and white
+              - communication
+                - abstraction, abstract entity
+                  - entity
+      - document
+        - representation
+          - creation
+            - artifact, artefact
+              - whole, unit
+                - object, physical object
+                  - physical entity
+                    - entity
+  - arouse, elicit, enkindle, kindle, evoke, fire, raise, provoke
+    - make, create
+      - induce, stimulate, cause, have, get, make
+        - act, move
+  - request, ask for, bespeak, call for, quest
+    - communicate, pass on, pass, pass along, put across
+      - convey, transmit, communicate
+        - transfer
+          - move, displace
+            - change, alter, modify
+              - induce, stimulate, cause, have, get, make
+                - act, move
+  - stimulate, shake, shake up, excite, stir
+    - arouse, elicit, enkindle, kindle, evoke, fire, raise, provoke
+      - make, create
+        - induce, stimulate, cause, have, get, make
+          - act, move
+  - request
+    - ask
+      - request, ask for, bespeak, call for, quest
+        - communicate, pass on, pass, pass along, put across
+          - convey, transmit, communicate
+            - transfer
+              - move, displace
+                - change, alter, modify
+                  - induce, stimulate, cause, have, get, make
+                    - act, move
+  - interact
+    - act, move
+  - accept, take, have
+    - get, acquire
+      - act, move
+[Kinds]
+  - tempt, allure
+  - challenge
+    - appeal
+    - action, sue, litigate, process
+      - expedite
+    - litigate
+    - provoke, stimulate
+      - agitate, foment, stir up
+        - rumpus
+      - entice, lure, tempt
+        - decoy
+        - bait
+        - hook, snare
+        - seduce
+        - call
+        - stool
+        - lead on
+        - tweedle
+      - rejuvenate
+      - jog
+      - incite, instigate, set off, stir up
+        - raise
+    - counterchallenge
+    - question, oppugn, call into question
+    - impeach
+    - impugn
+    - defy, dare
+      - brazen
+    - call one's bluff
+    - call out
+    - remit, remand, send back
+  - call in
+  - induct
+  - welcome
+  - absorb
+  - see
+  - assume
+[Domains]
+  - sexual activity
+  - sexual practice
+  - sex
+  - sex activity

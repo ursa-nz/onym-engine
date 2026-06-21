@@ -1,0 +1,47 @@
+term: receptive
+[Definitions]
+  - (adjective) open to arguments, ideas, or change
+      "receptive to reason and the logic of facts"
+  - (adjective) ready or willing to receive favorably
+      "receptive to the proposals"
+  - (adjective) of a nerve fiber or impulse originating outside and passing toward the central nervous system
+      "sensory neurons"
+  - (adjective) able to absorb liquid (not repellent)
+      "the paper is ink-receptive"
+[Synonyms]
+  - open
+  - centripetal
+  - sensory
+[Antonyms]
+  - pervious (indirect)
+      -> impervious
+      -> imperviable
+  - unreceptive (direct)
+      -> closed
+      -> unsympathetic
+  - afferent (indirect)
+      -> efferent
+      -> motorial
+  - absorbent (indirect)
+      -> nonabsorbent
+      -> nonabsorptive
+[Derived forms]
+  - receptiveness
+  - receptivity
+  - openness
+  - meet
+  - encounter
+  - receive
+  - take in
+  - invite
+  - pick up
+[Similar to]
+  - pervious
+  - acceptive
+  - acceptant
+  - admissive
+  - assimilative
+  - hospitable
+  - afferent
+  - absorbent
+  - absorptive

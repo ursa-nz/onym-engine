@@ -1,0 +1,15 @@
+term: disarrangement
+[Definitions]
+  - (noun) a condition in which an orderly system has been disrupted
+[Synonyms]
+  - disorganization
+  - disorganisation
+[Derived forms]
+  - disarrange
+[Is a kind of]
+  - disorderliness, disorder
+    - condition, status
+      - state
+        - attribute
+          - abstraction, abstract entity
+            - entity

@@ -1,0 +1,33 @@
+term: brad
+[Definitions]
+  - (noun) a small nail
+  - (verb) fasten with brads
+[Is a kind of]
+  - nail
+    - fastener, fastening, holdfast, fixing
+      - restraint, constraint
+        - device
+          - instrumentality, instrumentation, means
+            - artifact, artefact
+              - whole, unit
+                - object, physical object
+                  - physical entity
+                    - entity
+  - fasten, fix, secure
+    - attach
+      - connect, link, tie, link up
+        - act, move
+[Parts]
+  - nail
+    - clinch
+    - head
+    - nailhead
+    - shank, stem
+    - fastener, fastening, holdfast, fixing
+      - restraint, constraint
+        - device
+          - instrumentality, instrumentation, means
+            - artifact, artefact
+              - whole, unit
+                - part, portion
+                - section, segment

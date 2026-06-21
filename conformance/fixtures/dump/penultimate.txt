@@ -1,0 +1,23 @@
+term: penultimate
+[Definitions]
+  - (noun) the next to last syllable in a word
+  - (adjective) second last
+      "the author inadvertently reveals the murderer in the penultimate chapter"
+      "the figures in the next-to-last column"
+[Synonyms]
+  - penult
+  - penultima
+  - next-to-last
+[Antonyms]
+  - intermediate (indirect)
+      -> terminal
+      -> endmost
+[Similar to]
+  - intermediate
+[Is a kind of]
+  - syllable
+    - language unit, linguistic unit
+      - part, portion, component part, component, constituent
+        - relation
+          - abstraction, abstract entity
+            - entity

@@ -1,0 +1,20 @@
+term: Knud Rasmussen
+[Definitions]
+  - (noun) Danish ethnologist and Arctic explorer; led expeditions into the Arctic to find support for his theory that Eskimos and North American Indians originally migrated from Asia (1879-1933)
+[Synonyms]
+  - Rasmussen
+  - Kund Johan Victor Rasmussen
+[Is a kind of]
+  - explorer, adventurer
+    - actor, doer, worker
+      - causal agent, cause, causal agency
+        - physical entity
+          - entity
+  - ethnologist
+    - anthropologist
+      - social scientist
+        - scientist
+          - actor, doer, worker
+            - causal agent, cause, causal agency
+              - physical entity
+                - entity

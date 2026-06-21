@@ -1,0 +1,14 @@
+term: dermatome
+[Definitions]
+  - (noun) a surgical instrument used to cut very thin slices of skin
+[Is a kind of]
+  - surgical instrument
+    - medical instrument
+      - instrument
+        - device
+          - instrumentality, instrumentation, means
+            - artifact, artefact
+              - whole, unit
+                - object, physical object
+                  - physical entity
+                    - entity

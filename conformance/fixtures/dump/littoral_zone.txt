@@ -1,0 +1,14 @@
+term: littoral zone
+[Definitions]
+  - (noun) the region of the shore of a lake or sea or ocean
+[Synonyms]
+  - littoral
+  - litoral
+  - sands
+[Is a kind of]
+  - seashore, coast, seacoast, sea-coast
+    - shore
+      - geological formation, formation
+        - object, physical object
+          - physical entity
+            - entity

@@ -1,0 +1,26 @@
+term: septum
+[Definitions]
+  - (noun) (anatomy) a dividing partition between two tissues or cavities
+  - (noun) a partition or wall especially in an ovary
+[Derived forms]
+  - septal
+  - septate
+[Is a kind of]
+  - partition
+    - body part
+      - part, piece
+        - thing
+          - physical entity
+            - entity
+  - plant organ
+    - plant part, plant structure
+      - natural object
+        - whole, unit
+          - object, physical object
+            - physical entity
+              - entity
+[Kinds]
+  - nasal septum
+[Domains]
+  - anatomy
+  - general anatomy

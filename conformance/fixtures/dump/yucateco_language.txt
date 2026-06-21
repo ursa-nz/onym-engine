@@ -1,0 +1,15 @@
+term: Yucateco language
+[Definitions]
+  - (noun) a Mayan language spoken by the Yucatec
+[Synonyms]
+  - Yucatec
+  - Yucateco
+  - Yucatec language
+[Is a kind of]
+  - Maya, Mayan, Mayan language
+    - Amerind, Amerindian language, American-Indian language, American Indian, Indian, American Indian language, Indian language, Amerind language
+      - natural language, tongue
+        - language, linguistic communication
+          - communication
+            - abstraction, abstract entity
+              - entity

@@ -1,0 +1,42 @@
+term: opsonin
+[Definitions]
+  - (noun) an antibody in blood serum that attaches to invading microorganisms and other antigens to make them more susceptible to the action of phagocytes
+[Is a kind of]
+  - antibody
+    - protein
+      - macromolecule, supermolecule
+        - molecule
+          - unit, building block
+            - thing
+              - physical entity
+                - entity
+        - organic compound
+          - compound, chemical compound
+            - chemical, chemical substance
+              - material, stuff
+                - substance
+                  - matter
+                    - physical entity
+                      - entity
+                  - part, portion, component part, component, constituent
+                    - relation
+                      - abstraction, abstract entity
+                        - entity
+[Part of]
+  - serum, blood serum
+[Parts]
+  - antibody
+    - active site
+    - protein
+      - amino acid, aminoalkanoic acid
+      - polypeptide
+      - macromolecule, supermolecule
+        - molecule
+          - chain, chemical chain
+          - atom
+            - elementary particle, fundamental particle
+            - nucleus
+              - nucleon
+          - group, radical, chemical group
+          - unit, building block
+            - part, piece

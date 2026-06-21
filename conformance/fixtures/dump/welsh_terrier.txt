@@ -1,0 +1,37 @@
+term: Welsh terrier
+[Definitions]
+  - (noun) wire-haired terrier resembling Airedales but smaller; developed in Wales for hunting
+[Is a kind of]
+  - wirehair, wirehaired terrier, wire-haired terrier
+    - terrier
+      - hunting dog
+        - dog, domestic dog, Canis familiaris
+          - canine, canid
+            - carnivore
+              - placental, placental mammal, eutherian, eutherian mammal
+                - mammal, mammalian
+                  - vertebrate, craniate
+                    - chordate
+                      - animal, animate being, beast, brute, creature, fauna
+                        - organism, being
+                          - living thing, animate thing
+                            - whole, unit
+                              - object, physical object
+                                - physical entity
+                                  - entity
+                          - causal agent, cause, causal agency
+                            - physical entity
+                              - entity
+          - domestic animal, domesticated animal
+            - animal, animate being, beast, brute, creature, fauna
+              - organism, being
+                - living thing, animate thing
+                  - whole, unit
+                    - object, physical object
+                      - physical entity
+                        - entity
+                - causal agent, cause, causal agency
+                  - physical entity
+                    - entity
+[Kinds]
+  - Sealyham terrier, Sealyham

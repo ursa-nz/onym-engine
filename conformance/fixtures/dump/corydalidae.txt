@@ -1,0 +1,22 @@
+term: Corydalidae
+[Definitions]
+  - (noun) dobsons
+[Synonyms]
+  - family Corydalidae
+[Is a kind of]
+  - arthropod family
+    - family
+      - taxonomic group, taxonomic category, taxon
+        - biological group
+          - group, grouping
+            - abstraction, abstract entity
+              - entity
+[Part of]
+  - Megaloptera, suborder Megaloptera
+    - Neuroptera, order Neuroptera
+      - Insecta, class Insecta, Hexapoda, class Hexapoda
+        - Arthropoda, phylum Arthropoda
+          - Animalia, kingdom Animalia, animal kingdom
+[Parts]
+  - Corydalus, genus Corydalus, Corydalis, genus Corydalis
+  - fish fly, fish-fly

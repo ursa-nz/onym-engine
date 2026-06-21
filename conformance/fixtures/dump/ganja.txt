@@ -1,0 +1,112 @@
+term: ganja
+[Definitions]
+  - (noun) a strong-smelling plant whose dried leaves can be smoked for a pleasant effect or pain reduction
+  - (noun) the most commonly used illicit drug; considered a soft drug, it consists of the dried leaves of the hemp plant; smoked or chewed for euphoric effect
+[Synonyms]
+  - marijuana
+  - marihuana
+  - Cannabis sativa
+  - cannabis
+[Is a kind of]
+  - cannabis, hemp
+    - shrub, bush
+      - woody plant, ligneous plant
+        - vascular plant, tracheophyte
+          - plant, flora, plant life
+            - organism, being
+              - living thing, animate thing
+                - whole, unit
+                  - object, physical object
+                    - physical entity
+                      - entity
+              - causal agent, cause, causal agency
+                - physical entity
+                  - entity
+  - soft drug
+    - drug of abuse, street drug
+      - drug
+        - agent
+          - causal agent, cause, causal agency
+            - physical entity
+              - entity
+          - substance
+            - matter
+              - physical entity
+                - entity
+    - narcotic
+      - drug
+        - agent
+          - causal agent, cause, causal agency
+            - physical entity
+              - entity
+          - substance
+            - matter
+              - physical entity
+                - entity
+  - controlled substance
+    - drug
+      - agent
+        - causal agent, cause, causal agency
+          - physical entity
+            - entity
+        - substance
+          - matter
+            - physical entity
+              - entity
+[Kinds]
+  - Acapulco gold, Mexican green
+  - pot, grass, green goddess, dope, weed, gage, sess, sens, smoke, skunk, locoweed, Mary Jane
+  - kief
+[Part of]
+  - joint, marijuana cigarette, reefer, stick, spliff
+  - cannabis, hemp
+[Parts]
+  - Acapulco gold, Mexican green
+  - cannabis, hemp
+    - cannabis, marijuana, marihuana
+    - shrub, bush
+      - woody plant, ligneous plant
+        - lignum
+        - xylem
+          - tracheid
+        - vascular plant, tracheophyte
+          - vascular system
+            - vessel, vas
+            - vascular tissue
+          - duct
+          - vascular tissue
+          - plant, flora, plant life
+            - hood, cap
+            - plant part, plant structure
+            - organism, being
+              - tissue
+              - cell
+                - cell membrane, cytomembrane, plasma membrane
+                - energid, protoplast
+                - cytoplasm, cytol
+                  - cytoskeleton
+                  - microsome
+                  - Golgi body, Golgi apparatus, Golgi complex, dictyosome
+                - nucleus, cell nucleus, karyon
+                  - nucleolus, nucleole
+                  - chromatin, chromatin granule
+                  - achromatin
+                  - linin
+                  - chromosome
+                    - nucleolus organizer, nucleolus organiser, nucleolar organizer, nucleolar organiser
+                    - chromatin, chromatin granule
+                    - gene, cistron, factor
+                    - chromatid
+                    - centromere, kinetochore
+                    - telomere
+                - organelle, cell organelle, cell organ
+                - vacuole
+              - body part
+                - corpus
+              - living thing, animate thing
+                - whole, unit
+                  - part, portion
+                  - section, segment
+[Domains]
+  - dabbing
+  - dab

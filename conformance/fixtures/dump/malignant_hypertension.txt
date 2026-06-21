@@ -1,0 +1,16 @@
+term: malignant hypertension
+[Definitions]
+  - (noun) severe hypertension that runs a rapid course and damages the inner linings of the blood vessels and the heart and spleen and kidneys and brain
+      "malignant hypertension is the most lethal form of hypertension"
+[Is a kind of]
+  - high blood pressure, hypertension
+    - cardiovascular disease
+      - disorder, upset
+        - physical condition, physiological state, physiological condition
+          - condition, status
+            - state
+              - attribute
+                - abstraction, abstract entity
+                  - entity
+[Kinds]
+  - portal hypertension

@@ -1,0 +1,15 @@
+term: shepherd's crook
+[Definitions]
+  - (noun) a long staff with one end being hook shaped
+[Synonyms]
+  - crook
+[Is a kind of]
+  - staff
+    - stick
+      - implement
+        - instrumentality, instrumentation, means
+          - artifact, artefact
+            - whole, unit
+              - object, physical object
+                - physical entity
+                  - entity

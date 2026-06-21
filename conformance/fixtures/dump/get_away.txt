@@ -1,0 +1,67 @@
+term: get away
+[Definitions]
+  - (verb) run away from confinement
+      "The convicted murderer escaped from a high security prison"
+  - (verb) escape potentially unpleasant consequences; get away with a forbidden action
+      "She gets away with murder!"
+      "I couldn't get out from under these responsibilities"
+  - (verb) remove oneself from a familiar environment, usually for pleasure or diversion
+      "We escaped to our summer house for a few days"
+      "The president of the company never manages to get away during the summer"
+  - (noun) the attribute of being capable of rapid acceleration
+      "his car has a lot of pickup"
+  - (noun) a rapid escape (as by criminals)
+      "the thieves made a clean getaway"
+      "after the expose he had to take it on the lam"
+[Synonyms]
+  - pickup
+  - lam
+  - escape
+  - break loose
+  - get off
+  - get by
+  - get out
+[Derived forms]
+  - escape
+  - get away
+  - break loose
+  - getaway
+  - lam
+[Is a kind of]
+  - acceleration
+    - change, alteration, modification
+      - happening, occurrence, occurrent, natural event
+        - event
+          - abstraction, abstract entity
+            - entity
+  - escape, flight
+    - running away
+      - act, deed, human action, human activity
+        - event
+          - abstraction, abstract entity
+            - entity
+  - flee, fly, take flight
+    - scat, run, scarper, turn tail, lam, run away, hightail it, bunk, head for the hills, take to the woods, escape, fly the coop, break away
+      - leave, go forth, go away
+        - travel, go, move, locomote
+          - act, move
+  - avoid
+    - reject, spurn, freeze off, scorn, pooh-pooh, disdain, turn down
+      - refuse, decline
+        - react, respond
+          - act, move
+  - escape, break loose
+    - flee, fly, take flight
+      - scat, run, scarper, turn tail, lam, run away, hightail it, bunk, head for the hills, take to the woods, escape, fly the coop, break away
+        - leave, go forth, go away
+          - travel, go, move, locomote
+            - act, move
+[Kinds]
+  - escape
+  - break, break out, break away
+  - shake, shake off, throw off, escape from
+  - elude, evade, bilk
+  - exfiltrate
+  - slip
+  - run away
+  - evade

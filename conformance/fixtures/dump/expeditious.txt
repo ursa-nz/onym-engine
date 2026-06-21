@@ -1,0 +1,13 @@
+term: expeditious
+[Definitions]
+  - (adjective) marked by speed and efficiency
+[Antonyms]
+  - efficient (indirect)
+      -> inefficient
+[Derived forms]
+  - dispatch
+  - despatch
+  - expedition
+  - expeditiousness
+[Similar to]
+  - efficient

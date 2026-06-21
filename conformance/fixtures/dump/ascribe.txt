@@ -17,6 +17,7 @@ term: ascribe
 [Is a kind of]
   - evaluate, pass judgment, judge
     - think, cogitate, cerebrate
+      - act, move
 [Kinds]
   - impute
   - sensualize, carnalize
@@ -26,5 +27,18 @@ term: ascribe
   - personify, personate
   - accredit, credit
   - blame, charge
+    - charge, accuse
+      - indict
+      - blame, fault
+      - accuse, impeach, incriminate, criminate
+        - reproach, upbraid
+        - arraign
+        - recriminate
+        - charge, lodge, file
+          - impeach
+      - defame, slander, smirch, asperse, denigrate, calumniate, smear, sully, besmirch
+        - assassinate
+        - libel
+        - badmouth, malign, traduce, drag through the mud
   - project, externalize, externalise
   - internalize, internalise, interiorize, interiorise

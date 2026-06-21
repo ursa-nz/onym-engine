@@ -1,0 +1,19 @@
+term: exaltolide
+[Definitions]
+  - (noun) the macrocyclic lactone having fifteen carbon atoms; it has a musky scent, similar to exaltone.
+      "Women tend to detect exaltolide better than men, and also find its odor more intense."
+[Is a kind of]
+  - lactone
+    - ester
+      - organic compound
+        - compound, chemical compound
+          - chemical, chemical substance
+            - material, stuff
+              - substance
+                - matter
+                  - physical entity
+                    - entity
+                - part, portion, component part, component, constituent
+                  - relation
+                    - abstraction, abstract entity
+                      - entity

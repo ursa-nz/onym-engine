@@ -1,0 +1,31 @@
+term: Octavian
+[Definitions]
+  - (noun) Roman statesman who established the Roman Empire and became emperor in 27 BC; defeated Mark Antony and Cleopatra in 31 BC at Actium (63 BC - AD 14)
+[Synonyms]
+  - Augustus
+  - Gaius Octavianus
+  - Gaius Julius Caesar Octavianus
+[Is a kind of]
+  - solon, national leader
+    - politician, politico, pol, political leader
+      - leader
+        - actor, doer, worker
+          - causal agent, cause, causal agency
+            - physical entity
+              - entity
+  - Roman emperor, emperor of Rome
+    - emperor
+      - sovereign, crowned head, monarch
+        - ruler, swayer
+          - actor, doer, worker
+            - causal agent, cause, causal agency
+              - physical entity
+                - entity
+        - head of state, chief of state
+          - representative
+            - negotiator, negotiant, treater
+              - communicator
+                - actor, doer, worker
+                  - causal agent, cause, causal agency
+                    - physical entity
+                      - entity

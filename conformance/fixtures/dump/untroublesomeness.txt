@@ -1,0 +1,10 @@
+term: untroublesomeness
+[Definitions]
+  - (noun) The property of not giving trouble or anxiety.
+[Is a kind of]
+  - agreeableness, amenity
+    - pleasantness, sweetness
+      - quality
+        - attribute
+          - abstraction, abstract entity
+            - entity

@@ -1,0 +1,15 @@
+term: Nissan
+[Definitions]
+  - (noun) the seventh month of the civil year; the first month of the ecclesiastic year (in March and April)
+[Synonyms]
+  - Nisan
+[Is a kind of]
+  - Jewish calendar month
+    - calendar month, month
+      - time period, period of time, period
+        - fundamental quantity, fundamental measure
+          - measure, quantity, amount
+            - abstraction, abstract entity
+              - entity
+[Part of]
+  - Jewish calendar, Hebrew calendar

@@ -1,0 +1,189 @@
+term: float
+[Definitions]
+  - (verb) be in motion due to some air or water current
+      "The leaves were blowing in the wind"
+      "the boat drifted on the lake"
+      "The sailboat was adrift on the open sea"
+      "the shipwrecked boat drifted away from the shore"
+  - (verb) be afloat either on or below a liquid surface and not sink to the bottom
+      "These cars won't float"
+  - (verb) set afloat
+      "He floated the logs down the river"
+      "The boy floated his toy boat on the pond"
+  - (verb) circulate or discuss tentatively; test the waters with
+      "The Republicans are floating the idea of a tax reform"
+  - (verb) move lightly, as if suspended
+      "The dancer floated across the stage"
+  - (verb) put into the water
+      "float a ship"
+  - (verb) make the surface of level or smooth
+      "float the plaster"
+  - (verb) allow (currencies) to fluctuate
+      "The government floated the ruble for a few months"
+  - (verb) convert from a fixed point notation to a floating point notation
+      "float data"
+  - (noun) the time interval between the deposit of a check in a bank and its payment
+  - (noun) the number of shares outstanding and available for trading by the public
+  - (noun) a drink with ice cream floating in it
+  - (noun) an elaborate display mounted on a platform carried by a truck (or pulled by a truck) in a procession or parade
+  - (noun) a hand tool with a flat face used for smoothing and finishing the surface of plaster or cement or stucco
+  - (noun) something that floats on the surface of water
+  - (noun) an air-filled sac near the spinal column in many fishes that helps maintain buoyancy
+[Synonyms]
+  - ice-cream soda
+  - ice-cream float
+  - plasterer's float
+  - air bladder
+  - swim bladder
+  - drift
+  - be adrift
+  - blow
+  - swim
+[Antonyms]
+  - sink (direct)
+      -> settle
+      -> go down
+      -> go under
+[Derived forms]
+  - buoyant
+  - floaty
+  - swim
+  - floating
+  - natation
+  - floater
+  - flotation
+  - floatation
+[Is a kind of]
+  - time interval, interval
+    - measure, quantity, amount
+      - abstraction, abstract entity
+        - entity
+  - stock
+    - capital, working capital
+      - assets
+        - possession
+          - relation
+            - abstraction, abstract entity
+              - entity
+  - drink
+    - helping, portion, serving
+      - small indefinite quantity, small indefinite amount
+        - indefinite quantity
+          - measure, quantity, amount
+            - abstraction, abstract entity
+              - entity
+  - display, presentation
+    - representation
+      - creation
+        - artifact, artefact
+          - whole, unit
+            - object, physical object
+              - physical entity
+                - entity
+  - hand tool
+    - tool
+      - implement
+        - instrumentality, instrumentation, means
+          - artifact, artefact
+            - whole, unit
+              - object, physical object
+                - physical entity
+                  - entity
+  - artifact, artefact
+    - whole, unit
+      - object, physical object
+        - physical entity
+          - entity
+  - sac
+    - cavity, bodily cavity, cavum
+      - structure, anatomical structure, complex body part, bodily structure, body structure
+        - body part
+          - part, piece
+            - thing
+              - physical entity
+                - entity
+  - travel, go, move, locomote
+    - act, move
+  - transport
+    - move, displace
+      - change, alter, modify
+        - induce, stimulate, cause, have, get, make
+          - act, move
+  - test, prove, try, try out, examine, essay
+    - evaluate, pass judgment, judge
+      - think, cogitate, cerebrate
+        - act, move
+  - launch
+    - propel, impel
+      - move, displace
+        - change, alter, modify
+          - induce, stimulate, cause, have, get, make
+            - act, move
+  - smooth, smoothen
+    - change surface
+      - change
+        - act, move
+  - value
+    - determine, set
+      - act, move
+  - convert, change over
+    - change, alter, modify
+      - induce, stimulate, cause, have, get, make
+        - act, move
+[Kinds]
+  - root beer float
+  - bob, bobber, cork, bobfloat
+  - chip
+  - life preserver, preserver, flotation device
+    - life buoy, lifesaver, life belt, life ring
+      - breeches buoy
+    - life jacket, life vest, cork jacket
+      - Mae West, air jacket
+    - water wings
+  - pontoon
+  - raft
+    - balsa raft, Kon Tiki
+    - life raft, Carling float
+  - waft
+  - tide
+  - stream
+  - buoy
+  - drift
+  - refloat
+  - ride
+[Parts]
+  - stock
+    - share
+    - capital, working capital
+      - liquid assets, current assets, quick assets
+  - drink
+    - helping, portion, serving
+      - taste, mouthful
+  - display, presentation
+    - representation
+      - creation
+        - artifact, artefact
+          - whole, unit
+            - part, portion
+            - section, segment
+  - hand tool
+    - handle, grip, handgrip, hold
+      - shank, stem
+    - tool
+      - implement
+        - instrumentality, instrumentation, means
+          - artifact, artefact
+            - whole, unit
+              - part, portion
+              - section, segment
+  - artifact, artefact
+    - whole, unit
+      - part, portion
+      - section, segment
+  - sac
+    - cavity, bodily cavity, cavum
+      - structure, anatomical structure, complex body part, bodily structure, body structure
+        - body part
+          - corpus
+[Domains]
+  - masonry

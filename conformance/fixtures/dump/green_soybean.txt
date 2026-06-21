@@ -1,0 +1,21 @@
+term: green soybean
+[Definitions]
+  - (noun) seeds shelled and cooked as lima beans
+[Is a kind of]
+  - shell bean
+    - fresh bean
+      - common bean
+        - bean, edible bean
+          - legume
+            - vegetable, veggie, veg
+              - produce, green goods, green groceries, garden truck
+                - solid food
+                  - solid
+                    - matter
+                      - physical entity
+                        - entity
+                  - food, nutrient
+                    - substance
+                      - matter
+                        - physical entity
+                          - entity

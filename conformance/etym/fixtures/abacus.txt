@@ -16,7 +16,7 @@ term: abacus
   - calculator, calculating machine
     - machine
       - device
-        - instrumentality, instrumentation
+        - instrumentality, instrumentation, means
           - artifact, artefact
             - whole, unit
               - object, physical object

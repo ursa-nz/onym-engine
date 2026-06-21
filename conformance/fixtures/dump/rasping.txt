@@ -1,0 +1,44 @@
+term: rasping
+[Definitions]
+  - (adjective) unpleasantly harsh or grating in sound
+      "a gravelly voice"
+  - (noun) uttering in an irritated tone
+  - (verb) scrape with a rasp
+  - (verb) utter in a grating voice
+      "Sam and Sue rasp"
+[Synonyms]
+  - grating
+  - gravelly
+  - raspy
+  - rough
+  - scratchy
+[Antonyms]
+  - cacophonous (indirect)
+      -> euphonious
+      -> euphonous
+[Derived forms]
+  - rasp
+  - wood file
+  - rasping
+[Similar to]
+  - cacophonous
+  - cacophonic
+[Entails]
+  - rub
+[Is a kind of]
+  - utterance, vocalization
+    - auditory communication
+      - communication
+        - abstraction, abstract entity
+          - entity
+  - abrade, corrade, abrase, rub down, rub off
+    - wear away, wear off
+      - remove, take, take away, withdraw, take off, pull
+        - act, move
+  - talk, speak, utter, mouth, verbalize, verbalise
+    - communicate, intercommunicate
+      - interact
+        - act, move
+[Parts]
+  - utterance, vocalization
+    - phone, speech sound, sound

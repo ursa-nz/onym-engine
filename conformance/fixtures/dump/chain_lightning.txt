@@ -1,0 +1,21 @@
+term: chain lightning
+[Definitions]
+  - (noun) a form of lightning that moves rapidly in a zigzag path with one end divided (fork-like)
+[Synonyms]
+  - forked lightning
+[Is a kind of]
+  - lightning
+    - atmospheric electricity
+      - electrical discharge
+        - discharge
+          - happening, occurrence, occurrent, natural event
+            - event
+              - abstraction, abstract entity
+                - entity
+      - atmospheric phenomenon
+        - physical phenomenon
+          - natural phenomenon
+            - phenomenon
+              - process, physical process
+                - physical entity
+                  - entity

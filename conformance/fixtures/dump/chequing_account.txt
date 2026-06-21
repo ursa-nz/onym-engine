@@ -13,18 +13,9 @@ term: chequing account
             - abstraction, abstract entity
               - entity
 [Domains]
-  - United Kingdom
-  - UK
-  - U.K.
-  - Britain
-  - United Kingdom of Great Britain and Northern Ireland
-  - Great Britain
-  - Canada
-  - United States
-  - United States of America
-  - America
-  - the States
-  - US
-  - U.S.
-  - USA
-  - U.S.A.
+  - American English
+  - American language
+  - American
+  - Canadian English
+  - British English
+  - UK English

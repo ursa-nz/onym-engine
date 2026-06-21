@@ -1,0 +1,88 @@
+term: surmounted
+[Definitions]
+  - (adjective) having something on top
+      "columns surmounted by statues"
+  - (verb) get on top of; deal with successfully
+      "He overcame his shyness"
+  - (verb) be on top of
+      "The scarf surmounted the gown"
+  - (verb) reach the highest point of
+      "We scaled the Mont Blanc"
+  - (verb) be or do something to a greater degree
+      "her performance surpasses that of any other student I know"
+      "She outdoes all other athletes"
+      "This exceeds all my expectations"
+      "This car outperforms all others in its class"
+[Synonyms]
+  - overcome
+  - get over
+  - subdue
+  - master
+  - scale
+  - surpass
+  - outstrip
+  - outmatch
+  - outgo
+  - exceed
+  - outdo
+  - outperform
+[Is a kind of]
+  - beat, beat out, crush, shell, trounce, vanquish
+    - surpass, outstrip, outmatch, outgo, exceed, outdo, outperform
+      - get the better of, overcome, defeat
+        - win
+          - act, move
+  - head
+    - lie
+      - be
+        - exist, be
+  - reach, make, attain, hit, arrive at, gain
+    - act, move
+  - get the better of, overcome, defeat
+    - win
+      - act, move
+[Kinds]
+  - bulldog
+  - pinnacle
+  - beat, beat out, crush, shell, trounce, vanquish
+    - outpoint, outscore
+    - walk over
+    - eliminate
+    - worst, pip, mop up, whip, rack up
+    - whomp
+    - get the best, have the best, overcome
+    - spread-eagle, spreadeagle, rout
+    - get the jump
+    - cheat, chouse, shaft, screw, chicane, jockey
+    - overcome, get over, subdue, master
+      - bulldog
+    - outdo, outflank, trump, best, scoop
+      - outmaneuver, outmanoeuvre, outsmart
+        - outgeneral
+    - outfight
+    - overpower, overmaster, overwhelm
+      - steamroller, steamroll
+    - checkmate, mate
+    - immobilize, immobilise
+    - outplay
+    - cream, bat, clobber, drub, thrash, lick
+  - outwit, overreach, outsmart, outfox, beat, circumvent
+  - outgrow
+  - outshout, outcry
+  - outroar
+  - outsail
+  - outdraw
+  - outsell
+  - outpace
+  - better, break
+  - outshine
+    - upstage
+  - outrange
+  - outweigh
+  - outbrave
+  - out-herod
+  - outfox
+  - shame
+  - outmarch
+  - outwear
+  - beat

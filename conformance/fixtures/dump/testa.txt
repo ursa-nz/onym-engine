@@ -1,0 +1,19 @@
+term: testa
+[Definitions]
+  - (noun) protective outer layer of seeds of flowering plants
+[Synonyms]
+  - episperm
+  - seed coat
+[Derived forms]
+  - testaceous
+[Is a kind of]
+  - reproductive structure
+    - plant organ
+      - plant part, plant structure
+        - natural object
+          - whole, unit
+            - object, physical object
+              - physical entity
+                - entity
+[Part of]
+  - seed

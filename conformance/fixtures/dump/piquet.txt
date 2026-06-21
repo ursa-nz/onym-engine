@@ -1,0 +1,34 @@
+term: piquet
+[Definitions]
+  - (noun) a card game for two players using a reduced pack of 32 cards
+  - (noun) a form of military punishment used by the British in the late 17th century in which a soldier was forced to stand on one foot on a pointed stake
+[Synonyms]
+  - picket
+[Is a kind of]
+  - card game, cards
+    - game
+      - activity
+        - act, deed, human action, human activity
+          - event
+            - abstraction, abstract entity
+              - entity
+  - torture, torturing
+    - persecution
+      - maltreatment, ill-treatment, ill-usage, abuse
+        - mistreatment
+          - practice, pattern
+            - activity
+              - act, deed, human action, human activity
+                - event
+                  - abstraction, abstract entity
+                    - entity
+[Parts]
+  - card game, cards
+    - discard
+    - shuffle, shuffling, make
+    - cut, cutting
+    - doubling, double
+    - deal
+    - lead
+    - revoke, renege
+    - call

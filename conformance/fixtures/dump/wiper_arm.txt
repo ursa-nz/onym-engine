@@ -1,0 +1,19 @@
+term: wiper arm
+[Definitions]
+  - (noun) contact consisting of a conducting arm that rotates over a series of fixed contacts and comes to rest on an outlet
+[Synonyms]
+  - wiper
+  - contact arm
+[Is a kind of]
+  - contact, tangency
+    - junction, conjunction
+      - connection, connexion, connector, connecter, connective
+        - instrumentality, instrumentation, means
+          - artifact, artefact
+            - whole, unit
+              - object, physical object
+                - physical entity
+                  - entity
+[Part of]
+  - rheostat, variable resistor
+  - selector, selector switch

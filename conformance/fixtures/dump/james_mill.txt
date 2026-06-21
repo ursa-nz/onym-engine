@@ -1,0 +1,13 @@
+term: James Mill
+[Definitions]
+  - (noun) Scottish philosopher who expounded Bentham's utilitarianism; father of John Stuart Mill (1773-1836)
+[Synonyms]
+  - Mill
+[Is a kind of]
+  - philosopher
+    - scholar, scholarly person
+      - intellectual, intellect
+        - actor, doer, worker
+          - causal agent, cause, causal agency
+            - physical entity
+              - entity

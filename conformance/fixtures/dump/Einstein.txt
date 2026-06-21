@@ -10,34 +10,22 @@ term: Einstein
   - mastermind
   - brain
   - brainiac
+  - wonder
 [Derived forms]
   - Einsteinian
 [Is a kind of]
   - physicist
     - scientist
-      - person, individual, someone, somebody, mortal, soul
-        - organism, being
-          - living thing, animate thing
-            - whole, unit
-              - object, physical object
-                - physical entity
-                  - entity
+      - actor, doer, worker
         - causal agent, cause, causal agency
           - physical entity
             - entity
   - intellectual, intellect
-    - person, individual, someone, somebody, mortal, soul
-      - organism, being
-        - living thing, animate thing
-          - whole, unit
-            - object, physical object
-              - physical entity
-                - entity
+    - actor, doer, worker
       - causal agent, cause, causal agency
         - physical entity
           - entity
 [Kinds]
   - prodigy
     - boy wonder
-    - child prodigy, infant prodigy, wonder child
     - girl wonder

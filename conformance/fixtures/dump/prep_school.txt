@@ -1,0 +1,17 @@
+term: prep school
+[Definitions]
+  - (noun) a private secondary school
+[Synonyms]
+  - preparatory school
+[Is a kind of]
+  - secondary school, lyceum, lycee, gymnasium, middle school
+    - school
+      - educational institution
+        - institution, establishment
+          - organization, organisation
+            - social group
+              - group, grouping
+                - abstraction, abstract entity
+                  - entity
+[Kinds]
+  - choir school, schola cantorum

@@ -1,0 +1,21 @@
+term: out of doors
+[Definitions]
+  - (adverb) outside a building
+      "in summer we play outside"
+  - (noun) where the air is unconfined
+      "he wanted to get outdoors a little"
+      "the concert was held in the open air"
+      "camping in the open"
+[Synonyms]
+  - outdoors
+  - open air
+  - open
+  - outside
+  - alfresco
+[Is a kind of]
+  - outside, exterior
+    - region, part
+      - location
+        - object, physical object
+          - physical entity
+            - entity

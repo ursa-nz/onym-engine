@@ -1,8 +1,9 @@
 // SPDX-FileCopyrightText: 2026 ursa.nz <code@ursa.nz>
 // SPDX-License-Identifier: GPL-3.0-or-later
 
-//! The etymology overlay's conformance, kept apart from the WordNet kit because the overlay is
-//! UTF-8 where the database is ISO-8859-1 (`engine.md` section 6.10). It opens an engine over a
+//! The etymology overlay's conformance, kept apart from the WordNet kit because the main fixtures
+//! are generated overlay-free, so the Etymology section never appears in them (`engine.md` section
+//! 6.10). It opens an engine over a
 //! temporary directory of WordNet symlinks plus the committed test overlay
 //! (`conformance/etym/etym.onym`), dumps every word of `conformance/etym/corpus.txt`, and compares
 //! each dump, as UTF-8 characters, against its fixture. The base comes from the `onym-data`

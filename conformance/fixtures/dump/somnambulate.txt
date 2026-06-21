@@ -1,0 +1,16 @@
+term: somnambulate
+[Definitions]
+  - (verb) walk in one's sleep
+      "Sam and Sue somnambulate"
+[Synonyms]
+  - sleepwalk
+[Derived forms]
+  - sleepwalking
+  - somnambulism
+  - somnambulation
+  - noctambulism
+  - noctambulation
+[Is a kind of]
+  - walk
+    - travel, go, move, locomote
+      - act, move

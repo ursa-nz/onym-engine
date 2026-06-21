@@ -1,0 +1,10 @@
+term: advertorial
+[Definitions]
+  - (noun) an advertisement that is written and presented in the style of an editorial or journalistic report
+[Is a kind of]
+  - ad, advertisement, advertizement, advertising, advertizing, advert
+    - promotion, promo, publicity, promotional material, packaging
+      - message, content, subject matter, substance
+        - communication
+          - abstraction, abstract entity
+            - entity

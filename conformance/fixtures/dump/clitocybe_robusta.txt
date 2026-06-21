@@ -1,0 +1,20 @@
+term: Clitocybe robusta
+[Definitions]
+  - (noun) a large white agaric; edible but not palatable
+[Synonyms]
+  - Clytocybe alba
+[Is a kind of]
+  - agaric
+    - basidiomycete, basidiomycetous fungi
+      - fungus
+        - organism, being
+          - living thing, animate thing
+            - whole, unit
+              - object, physical object
+                - physical entity
+                  - entity
+          - causal agent, cause, causal agency
+            - physical entity
+              - entity
+[Part of]
+  - Clitocybe, genus Clitocybe

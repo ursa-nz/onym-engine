@@ -1,0 +1,16 @@
+term: bocce ball
+[Definitions]
+  - (noun) wooden ball that is bowled in the Italian game of bocce
+[Synonyms]
+  - bocci ball
+  - boccie ball
+[Is a kind of]
+  - ball
+    - game equipment
+      - equipment
+        - instrumentality, instrumentation, means
+          - artifact, artefact
+            - whole, unit
+              - object, physical object
+                - physical entity
+                  - entity

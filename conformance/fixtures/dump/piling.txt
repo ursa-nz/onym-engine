@@ -1,0 +1,97 @@
+term: piling
+[Definitions]
+  - (noun) a column of wood or steel or concrete that is driven into the ground to provide support for a structure
+  - (verb) arrange in stacks
+      "heap firewood around the fireplace"
+      "stack your books up on the shelves"
+  - (verb) press tightly together or cram
+      "The crowd packed the auditorium"
+  - (verb) place or lay as if in a pile
+      "The teacher piled work on the students until the parents protested"
+[Synonyms]
+  - spile
+  - stilt
+  - stack
+  - heap
+  - throng
+  - mob
+  - pack
+  - jam
+[Derived forms]
+  - heap
+  - mound
+  - agglomerate
+  - cumulation
+  - cumulus
+  - batch
+  - deal
+  - flock
+  - good deal
+  - great deal
+  - hatful
+  - lot
+  - mass
+  - mess
+  - mickle
+  - mint
+  - mountain
+  - muckle
+  - passel
+  - peck
+  - plenty
+  - pot
+  - quite a little
+  - raft
+  - sight
+  - slew
+  - spate
+  - stack
+  - tidy sum
+  - wad
+[Is a kind of]
+  - column, pillar
+    - upright, vertical
+      - structural member
+        - support
+          - device
+            - instrumentality, instrumentation, means
+              - artifact, artefact
+                - whole, unit
+                  - object, physical object
+                    - physical entity
+                      - entity
+  - arrange, set up
+    - put, set, place, pose, position, lay
+      - move, displace
+        - change, alter, modify
+          - induce, stimulate, cause, have, get, make
+            - act, move
+  - crowd, crowd together
+    - meet, gather, assemble, forgather, foregather
+      - interact
+        - act, move
+  - put, set, place, pose, position, lay
+    - move, displace
+      - change, alter, modify
+        - induce, stimulate, cause, have, get, make
+          - act, move
+[Kinds]
+  - sheet pile, sheath pile, sheet piling
+  - rick
+  - cord
+[Parts]
+  - column, pillar
+    - capital, chapiter, cap
+    - pedestal, plinth, footstall
+      - dado
+    - shaft, scape
+    - entasis
+    - upright, vertical
+      - structural member
+        - support
+          - device
+            - instrumentality, instrumentation, means
+              - artifact, artefact
+                - whole, unit
+                  - part, portion
+                  - section, segment

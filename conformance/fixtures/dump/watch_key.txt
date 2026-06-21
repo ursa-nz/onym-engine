@@ -1,0 +1,14 @@
+term: watch key
+[Definitions]
+  - (noun) winder consisting of a key with a square hole; used for winding some watches
+[Is a kind of]
+  - winder, key
+    - mechanical device
+      - mechanism
+        - device
+          - instrumentality, instrumentation, means
+            - artifact, artefact
+              - whole, unit
+                - object, physical object
+                  - physical entity
+                    - entity

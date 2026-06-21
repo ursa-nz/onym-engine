@@ -1,0 +1,17 @@
+term: family Membracidae
+[Definitions]
+  - (noun) plant hoppers: treehoppers
+[Synonyms]
+  - Membracidae
+[Is a kind of]
+  - arthropod family
+    - family
+      - taxonomic group, taxonomic category, taxon
+        - biological group
+          - group, grouping
+            - abstraction, abstract entity
+              - entity
+[Part of]
+  - Homoptera, suborder Homoptera
+[Parts]
+  - treehopper

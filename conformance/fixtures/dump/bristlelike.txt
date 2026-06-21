@@ -1,8 +1,0 @@
-term: bristlelike
-[Definitions]
-  - (adjective) resembling a bristle
-[Antonyms]
-  - armed (indirect)
-      -> unarmed
-[Similar to]
-  - armed

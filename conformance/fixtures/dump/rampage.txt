@@ -1,0 +1,25 @@
+term: rampage
+[Definitions]
+  - (noun) violently angry and destructive behavior
+  - (verb) act violently, recklessly, or destructively
+[Synonyms]
+  - violent disorder
+[Derived forms]
+  - rampageous
+  - ramp
+  - rage
+  - storm
+  - violent disorder
+[Is a kind of]
+  - disturbance
+    - motion, movement, move, motility
+      - change
+        - action
+          - act, deed, human action, human activity
+            - event
+              - abstraction, abstract entity
+                - entity
+  - act, move
+[Kinds]
+  - wilding
+  - riot

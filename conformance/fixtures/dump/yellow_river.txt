@@ -1,0 +1,15 @@
+term: Yellow River
+[Definitions]
+  - (noun) a major river of Asia in northern China; flows generally eastward into the Yellow Sea; carries large quantities of yellow silt to its delta
+[Synonyms]
+  - Huang He
+  - Hwang Ho
+[Is a kind of]
+  - river
+    - stream, watercourse
+      - body of water, water
+        - thing
+          - physical entity
+            - entity
+[Part of]
+  - China, People's Republic of China, mainland China, Communist China, Red China, PRC, Cathay

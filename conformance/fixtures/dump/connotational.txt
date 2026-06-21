@@ -1,0 +1,14 @@
+term: connotational
+[Definitions]
+  - (adjective) of or relating to a connotation
+[Synonyms]
+  - connotative of
+[Antonyms]
+  - connotative (indirect)
+      -> denotative
+      -> denotive
+[Derived forms]
+  - intension
+  - connotation
+[Similar to]
+  - connotative

@@ -1,0 +1,16 @@
+term: declassification
+[Definitions]
+  - (noun) reduction or removal by the government of restrictions on a classified document or weapon
+[Antonyms]
+  - classification (direct)
+[Derived forms]
+  - declassify
+[Is a kind of]
+  - decrease, diminution, reduction, step-down
+    - change of magnitude
+      - change
+        - action
+          - act, deed, human action, human activity
+            - event
+              - abstraction, abstract entity
+                - entity

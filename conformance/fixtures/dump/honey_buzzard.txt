@@ -1,0 +1,23 @@
+term: honey buzzard
+[Definitions]
+  - (noun) Old World hawk that feeds on bee larvae and small rodents and reptiles
+[Synonyms]
+  - Pernis apivorus
+[Is a kind of]
+  - hawk
+    - bird of prey, raptor, raptorial bird
+      - bird
+        - vertebrate, craniate
+          - chordate
+            - animal, animate being, beast, brute, creature, fauna
+              - organism, being
+                - living thing, animate thing
+                  - whole, unit
+                    - object, physical object
+                      - physical entity
+                        - entity
+                - causal agent, cause, causal agency
+                  - physical entity
+                    - entity
+[Part of]
+  - Pernis, genus Pernis

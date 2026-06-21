@@ -1,0 +1,262 @@
+term: humanistic discipline
+[Definitions]
+  - (noun) studies intended to provide general knowledge and intellectual skills (rather than occupational or professional skills)
+      "the college of arts and sciences"
+[Synonyms]
+  - humanities
+  - liberal arts
+  - arts
+[Is a kind of]
+  - discipline, subject, subject area, subject field, field, field of study, study, bailiwick
+    - knowledge domain, knowledge base, domain
+      - content, cognitive content, mental object
+        - cognition, knowledge, noesis
+          - psychological feature
+            - abstraction, abstract entity
+              - entity
+[Kinds]
+  - neoclassicism
+  - classicism, classicalism
+  - Romanticism, Romantic Movement
+  - interior design
+  - English
+  - history
+  - art history
+    - iconology
+  - chronology
+    - glottochronology
+  - fine arts, beaux arts
+    - architecture
+      - urban planning
+    - landscape architecture
+    - painting
+      - distemper
+      - fresco
+      - impasto
+      - oil painting
+      - watercolor, water-color, watercolour, water-colour
+      - speedpaint
+      - stereochromy
+    - sculpture, carving
+      - modeling, modelling, molding, moulding
+  - performing arts
+    - musical performance
+      - playing
+        - bowing
+          - spiccato, spiccato bowing
+        - piping
+        - stopping
+          - double stopping
+        - transposition
+      - jam session
+      - singing, vocalizing
+        - a cappella singing, a capella singing
+        - bel canto
+        - coloratura
+        - caroling
+        - crooning
+        - crooning
+        - scat, scat singing
+        - harmonization, harmonisation
+        - humming
+        - intonation, chanting
+          - cantillation
+        - intonation
+        - karaoke
+        - part-singing
+        - psalmody, hymnody
+        - singalong, singsong
+        - solfege, solfeggio
+        - solmization, solfege, solfeggio
+        - yodeling
+    - dancing, dance, terpsichore, saltation
+      - adagio
+      - break dancing, break dance
+      - courante
+      - nautch, nauch, nautch dance
+      - pavane, pavan
+      - phrase
+      - saraband
+      - skank
+      - slam dancing, slam dance
+      - step dancing, hoofing
+        - tap dancing, tap dance
+          - soft-shoe, soft-shoe shuffle, soft-shoe dancing
+          - buck-and-wing
+          - clog dance, clog dancing, clog
+      - toe dancing, toe dance
+      - stage dancing, choreography
+        - ballet, concert dance
+          - classical ballet
+          - modern ballet
+          - comedy ballet
+        - modern dance
+          - interpretive dance, interpretive dancing, interpretative dance, interpretative dancing
+        - apache dance
+        - belly dance, belly dancing, danse du ventre
+        - bolero
+        - cakewalk
+        - cancan
+        - nude dancing
+          - fan dance
+          - strip, striptease, strip show
+          - bubble dance
+      - pas seul, variation
+      - pas de deux, duet
+      - pas de trois
+      - pas de quatre
+      - social dancing
+        - jitterbug
+        - lindy, lindy hop
+        - fandango
+        - flamenco, gypsy dancing
+        - gavotte
+        - habanera
+        - shag
+        - shimmy
+        - stomp
+        - tarantella, tarantelle
+        - twist
+        - ballroom dancing, ballroom dance
+          - beguine
+          - carioca
+          - cha-cha, cha-cha-cha
+          - one-step
+            - turkey trot
+          - fox-trot, foxtrot
+          - two-step
+          - bunny hug
+          - Charleston
+          - conga
+          - cotillion, cotilion
+          - minuet
+          - paso doble
+          - quickstep
+          - rumba, rhumba
+          - samba
+          - round dance, round dancing
+          - tango
+          - waltz, valse
+        - folk dancing, folk dance
+          - farandole
+          - mazurka
+          - polka
+          - morris dance, morris dancing
+          - sword dance, sword dancing
+          - hornpipe
+          - jig
+          - country-dance, country dancing, contredanse, contra danse, contradance
+            - longways, longways dance
+              - Virginia reel, reel
+            - square dance, square dancing
+              - reel, Scottish reel
+                - highland fling
+                - eightsome
+              - quadrille
+                - lancers
+            - do-si-do
+            - promenade
+            - sashay
+            - swing
+            - landler
+          - round dance, ring dance
+            - schottische
+          - rumba, rhumba
+      - mambo
+      - ritual dancing, ritual dance, ceremonial dance
+        - apache devil dance
+        - danse macabre, dance of death
+        - ghost dance
+        - pyrrhic
+        - rain dance
+          - corn dance
+          - hula, hula-hula, Hawaiian dancing
+        - snake dance
+        - sun dance
+        - war dance
+      - dab, dabbing
+      - kagura
+        - mikagura
+    - acting, playing, playacting, performing
+      - portrayal, characterization, enactment, personation
+        - character, role, theatrical role, part, persona
+          - bit part, minor role
+            - soubrette
+          - heavy
+          - hero
+          - ingenue
+          - title role, name part
+          - heroine
+          - villain, baddie
+            - supervillain
+        - impression
+      - impersonation, personation
+        - apery, mimicry
+          - parody, mockery, takeoff
+      - method acting, method
+      - mime, pantomime, dumb show
+        - panto
+      - business, stage business, byplay
+        - shtik, schtik, shtick, schtick
+      - skit
+      - hamming, overacting
+      - heroics
+      - reenactment
+      - roleplaying
+  - Occidentalism
+  - Orientalism, Oriental Studies
+  - philosophy
+    - ethics, moral philosophy
+      - bioethics
+        - neuroethics
+      - casuistry
+        - probabilism
+      - eudemonism, endaemonism
+      - hedonism
+      - moral nihilism, ethical nihilism
+    - etiology, aetiology
+    - aesthetics, esthetics
+    - axiology
+    - jurisprudence, law, legal philosophy
+      - contract law
+      - corporation law
+      - matrimonial law
+      - patent law
+    - metaphysics
+      - ontology
+      - cosmology
+    - dialectic
+    - logic
+      - modal logic
+      - syllogistic
+    - epistemology
+      - methodology, methodological analysis
+    - transcendentalism, transcendental philosophy
+  - literary study
+    - literature, lit
+    - comparative literature
+    - literary criticism, lit crit
+      - biographism
+    - poetics
+      - prosody, metrics
+    - classics
+    - rhetoric
+  - library science
+  - linguistics, philology
+    - dialectology
+    - lexicology
+      - onomastics
+      - toponymy, toponomy
+    - classical philology
+  - musicology
+  - Sinology
+  - stemmatology, stemmatics
+  - trivium
+  - quadrivium
+  - ludology, game studies
+  - Etruscology
+  - area studies
+  - film studies
+  - cultural studies
+  - theatre studies, theatrology
+  - textual scholarship

@@ -1,0 +1,35 @@
+term: Zurvanism
+[Definitions]
+  - (noun) a Zoroastrian sect that claims Zurvan was the ultimate source of the universe
+  - (noun) a heretical Zoroastrian doctrine holding that Zurvan was the ultimate source of the universe and that both Ahura Mazda and Ahriman were Zurvan's offspring
+[Is a kind of]
+  - sect, religious sect, religious order
+    - religion, faith, organized religion
+      - institution, establishment
+        - organization, organisation
+          - social group
+            - group, grouping
+              - abstraction, abstract entity
+                - entity
+  - theological doctrine
+    - doctrine, philosophy, philosophical system, school of thought, ism
+      - belief
+        - content, cognitive content, mental object
+          - cognition, knowledge, noesis
+            - psychological feature
+              - abstraction, abstract entity
+                - entity
+  - heresy, unorthodoxy
+    - content, cognitive content, mental object
+      - cognition, knowledge, noesis
+        - psychological feature
+          - abstraction, abstract entity
+            - entity
+[Parts]
+  - sect, religious sect, religious order
+    - convent
+    - religion, faith, organized religion
+      - institution, establishment
+        - organization, organisation
+          - quorum
+          - membership, rank

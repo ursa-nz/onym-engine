@@ -1,0 +1,58 @@
+term: remote
+[Definitions]
+  - (adjective) located far away spatially
+      "distant lands"
+      "remote stars"
+  - (adjective) unlikely to occur
+      "an outside chance"
+      "a remote possibility"
+      "a remote contingency"
+  - (adjective) separate or apart in time
+      "distant events"
+      "the remote past or future"
+  - (adjective) inaccessible and sparsely populated
+  - (adjective) far apart in relevance or relationship or kinship
+      "a distant cousin"
+      "a remote relative"
+      "a distant likeness"
+      "considerations entirely removed (or remote) from politics"
+  - (noun) a device that can be used to control a machine or apparatus from a distance
+      "he lost the remote for his TV"
+[Synonyms]
+  - remote control
+  - distant
+  - outside
+  - removed
+  - outback
+[Antonyms]
+  - far (indirect)
+      -> near
+      -> close
+      -> nigh
+  - unlikely (indirect)
+      -> likely
+  - inaccessible (indirect)
+      -> accessible
+[Derived forms]
+  - farness
+  - remoteness
+  - farawayness
+[Similar to]
+  - far
+  - unlikely
+  - inaccessible
+  - unaccessible
+  - faraway
+  - loosely knit
+  - removed
+  - ulterior
+[Is a kind of]
+  - device
+    - instrumentality, instrumentation, means
+      - artifact, artefact
+        - whole, unit
+          - object, physical object
+            - physical entity
+              - entity
+[Part of]
+  - remote-control bomb

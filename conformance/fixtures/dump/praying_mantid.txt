@@ -1,0 +1,23 @@
+term: praying mantid
+[Definitions]
+  - (noun) the common mantis
+[Synonyms]
+  - praying mantis
+  - Mantis religioso
+  - Mantis religiosa
+[Is a kind of]
+  - mantis, mantid
+    - dictyopterous insect
+      - insect
+        - arthropod
+          - invertebrate
+            - animal, animate being, beast, brute, creature, fauna
+              - organism, being
+                - living thing, animate thing
+                  - whole, unit
+                    - object, physical object
+                      - physical entity
+                        - entity
+                - causal agent, cause, causal agency
+                  - physical entity
+                    - entity

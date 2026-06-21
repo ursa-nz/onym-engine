@@ -8,7 +8,7 @@
 //! emits them (it prepends as it reads, so the file order is reversed). Transcribed from the
 //! Kotlin reference (`VerbExampleIndex.kt`), per `spec/engine.md` section 9.
 
-use crate::textforms::latin1_to_string;
+use crate::textforms::decode;
 use std::collections::HashMap;
 use std::fs;
 use std::path::Path;
@@ -67,12 +67,12 @@ impl VerbExampleIndex {
     }
 }
 
-// WordNet data files are ISO-8859-1; read them as such so any high-bit bytes round-trip.
+// WordNet data files are UTF-8; decode them as such.
 fn for_each_line(path: &Path, mut action: impl FnMut(&str)) -> std::io::Result<()> {
     if !path.is_file() {
         return Ok(());
     }
-    let text = latin1_to_string(&fs::read(path)?);
+    let text = decode(&fs::read(path)?);
     for line in text.lines() {
         if !line.trim().is_empty() {
             action(line);

@@ -1,0 +1,28 @@
+term: adjournment
+[Definitions]
+  - (noun) the termination of a meeting
+  - (noun) the act of postponing to another time or place
+[Synonyms]
+  - dissolution
+[Derived forms]
+  - adjourn
+  - recess
+  - break up
+  - withdraw
+  - retire
+[Is a kind of]
+  - termination, ending, conclusion
+    - change of state
+      - change
+        - action
+          - act, deed, human action, human activity
+            - event
+              - abstraction, abstract entity
+                - entity
+  - postponement, deferment, deferral
+    - delay, holdup
+      - inactivity
+        - act, deed, human action, human activity
+          - event
+            - abstraction, abstract entity
+              - entity

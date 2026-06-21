@@ -1,0 +1,875 @@
+term: domain
+[Definitions]
+  - (noun) a particular environment or walk of life
+      "his social sphere is limited"
+      "it was a closed area of employment"
+      "he's out of my orbit"
+  - (noun) territory over which rule or control is exercised
+      "his domain extended into Europe"
+      "he made it the law of the land"
+  - (noun) (mathematics) the set of values of the independent variable for which a function is defined
+  - (noun) people in general; especially a distinctive group of people with some shared interest
+      "the Western world"
+  - (noun) the content of a particular field of knowledge
+[Synonyms]
+  - sphere
+  - area
+  - orbit
+  - field
+  - arena
+  - demesne
+  - land
+  - domain of a function
+  - world
+  - knowledge domain
+  - knowledge base
+[Is a kind of]
+  - environment
+    - situation, state of affairs
+      - state
+        - attribute
+          - abstraction, abstract entity
+            - entity
+  - region
+    - location
+      - object, physical object
+        - physical entity
+          - entity
+  - set
+    - abstraction, abstract entity
+      - entity
+  - class, stratum, social class, socio-economic class
+    - people
+      - group, grouping
+        - abstraction, abstract entity
+          - entity
+  - content, cognitive content, mental object
+    - cognition, knowledge, noesis
+      - psychological feature
+        - abstraction, abstract entity
+          - entity
+[Kinds]
+  - distaff
+  - front
+  - kingdom, land, realm
+    - lotusland, lotus land
+  - lap
+    - lap of the gods
+  - political arena, political sphere
+  - preserve
+  - province, responsibility
+    - ecclesiastical province
+  - archduchy
+  - barony
+  - duchy, dukedom
+  - earldom
+  - emirate
+  - empire, imperium
+    - Roman Empire
+    - Egyptian Empire, Egypt
+    - Persia, Persian Empire
+    - Russia
+    - Ottoman Empire, Turkish Empire
+  - fiefdom
+  - grand duchy
+  - viscounty
+  - khanate
+  - kingdom, realm
+    - Numidia
+  - principality, princedom
+    - Wales, Cymru, Cambria
+    - Monaco, Principality of Monaco
+    - Grand Duchy of Moscow, Muscovy
+  - sheikdom, sheikhdom
+  - suzerainty
+  - academia, academe
+  - Grub Street
+  - discipline, subject, subject area, subject field, field, field of study, study, bailiwick
+    - occultism
+    - communications, communication theory
+    - major
+    - frontier
+    - genealogy
+    - allometry
+    - bibliotics
+    - ology
+      - symbology
+    - science, scientific discipline
+      - natural history
+      - natural science
+        - life science, bioscience
+          - biology, biological science
+            - biogeography
+            - botany, phytology
+              - mycology
+              - pomology
+              - paleobotany, palaeobotany
+                - paleodendrology, palaeodendrology
+              - phycology, algology
+              - pteridology
+            - cryobiology
+              - cryonics
+            - cytology
+              - cytogenetics
+            - ecology, bionomics, environmental science
+              - paleoecology, palaeoecology
+            - embryology
+              - teratology
+            - exobiology, space biology, astrobiology
+            - forestry
+              - undercut
+              - silviculture
+            - genetics, genetic science
+              - cytogenetics
+              - genomics
+                - functional genomics
+                - structural genomics
+              - proteomics
+              - molecular genetics
+              - pharmacogenetics
+            - microbiology
+            - molecular biology
+              - biotechnology, biotech
+                - bioremediation
+                - genetic engineering, gene-splicing, recombinant DNA technology
+            - morphology
+              - anatomy, general anatomy
+                - clinical anatomy, applied anatomy
+                - comparative anatomy
+                - developmental anatomy
+                - functional anatomy, physiological anatomy, morphophysiology
+                - gross anatomy, macroscopic anatomy
+                  - dental anatomy
+                - microscopic anatomy
+                  - cytology
+                    - cytogenetics
+                  - histology
+                - neuroanatomy
+                - osteology
+                - regional anatomy, topographic anatomy, topology
+            - neurobiology
+              - neuroscience
+                - neurophysiology
+                - brain science
+                - cognitive neuroscience
+            - paleobiology, palaeobiology
+              - paleobotany, palaeobotany
+                - paleodendrology, palaeodendrology
+              - paleozoology, palaeozoology
+                - paleomammalogy
+                - paleornithology, palaeornithology
+            - physiology
+              - neurophysiology
+              - hemodynamics
+              - kinesiology
+              - myology
+            - radiobiology
+            - sociobiology
+            - zoology, zoological science
+              - entomology, bugology
+                - lepidopterology, lepidoptery
+              - ethology
+              - herpetology
+              - ichthyology
+              - malacology
+                - conchology, shell collecting
+              - mammalogy
+                - primatology
+              - oology
+              - ornithology
+              - protozoology
+              - paleozoology, palaeozoology
+                - paleomammalogy
+                - paleornithology, palaeornithology
+            - biodynamics
+          - biomedical science
+          - biometrics, biometry, biostatistics
+          - craniology
+            - phrenology
+          - dermatoglyphics
+          - dietetics
+            - macrobiotics
+          - eugenics
+          - dysgenics, cacogenics
+          - euthenics
+          - medical science
+            - medicine, medical specialty
+              - allergology
+              - anesthesiology
+              - angiology
+              - bacteriology
+              - biomedicine
+                - aeromedicine, aerospace medicine, aviation medicine
+              - biomedicine
+              - cardiology
+              - dentistry, dental medicine, odontology
+                - cosmetic dentistry
+                - dental surgery
+                  - exodontics, exodontia
+                - endodontics, endodontia
+                - orthodontics, orthodontia, orthodonture, dental orthopedics, dental orthopaedics
+                - periodontics, periodontia
+                - prosthodontics, prosthodontia
+              - prosthetics
+              - dermatology
+              - emergency medicine
+              - endocrinology
+              - epidemiology
+              - forensic medicine, forensic pathology
+              - gastroenterology
+              - geriatrics, gerontology
+              - gynecology, gynaecology
+              - hematology, haematology
+              - hygiene, hygienics
+              - immunology
+                - immunochemistry, chemoimmunology
+                - immunopathology
+              - internal medicine, general medicine
+              - nephrology
+              - nuclear medicine
+              - neurology, clinical neurology
+              - neuropsychiatry
+              - nosology, diagnostics
+              - obstetrics, OB, tocology, midwifery
+                - fetology, foetology
+                - perinatology
+              - oncology
+              - ophthalmology
+              - otology
+                - audiology, audiometry
+              - pharmacology, pharmacological medicine, materia medica
+                - pharmacokinetics
+                - posology
+                - psychopharmacology
+                - toxicology
+                  - agada tantra
+              - pharmacy, pharmaceutics
+              - psychiatry, psychopathology, psychological medicine
+                - alienism
+                - psychotherapy, psychotherapeutics, mental hygiene
+                  - clinical psychology
+                  - Freudian psychology
+                  - Jungian psychology
+                  - Adlerian psychology
+              - pediatrics, paediatrics, pediatric medicine, pedology
+                - neonatology
+              - podiatry, chiropody
+              - proctology
+              - rheumatology
+              - rhinolaryngology, otorhinolaryngology, otolaryngology
+              - space medicine
+              - sports medicine
+              - therapeutics
+              - thoracic medicine
+              - traumatology, accident surgery
+              - tropical medicine
+              - urology, urogenital medicine
+              - veterinary medicine
+              - virology
+            - pathology
+              - paleopathology, palaeopathology
+            - radiology
+            - serology
+            - surgery
+            - orthopedics, orthopaedics
+            - neurology
+            - esthesiology
+        - chemistry, chemical science
+          - immunochemistry, chemoimmunology
+          - organic chemistry
+            - biochemistry
+              - enzymology
+              - zymology, zymurgy
+              - agricultural chemistry
+            - phytochemistry
+          - inorganic chemistry
+          - physical chemistry
+          - electrochemistry
+          - femtochemistry
+          - geochemistry
+          - photochemistry
+          - radiochemistry, nuclear chemistry
+          - surface chemistry
+          - thermochemistry
+        - physics, natural philosophy
+          - astronomy, uranology
+            - astrodynamics
+            - astrometry
+            - radio astronomy
+            - celestial mechanics
+            - astrophysics
+              - cosmology, cosmogony, cosmogeny
+            - selenology
+            - solar physics
+          - aeronautics, astronautics
+            - avionics
+          - biophysics
+          - cryogenics, cryogeny
+          - crystallography
+          - electromagnetism, electromagnetics
+          - electronics
+            - electron optics
+            - microelectronics
+            - thermionics
+          - electrostatics
+          - mechanics
+            - classical mechanics, Newtonian mechanics
+            - fluid mechanics, hydraulics
+              - hydrostatics
+              - hydrodynamics, hydrokinetics
+                - magnetohydrodynamics
+            - pneumatics
+            - statics
+            - dynamics, kinetics
+              - ballistics
+            - kinematics
+            - aeromechanics, aerodynamics
+          - nuclear physics, atomic physics, nucleonics
+          - optics
+            - catoptrics
+            - holography
+          - particle physics, high-energy physics, high energy physics
+          - plasma physics
+          - quantum physics
+            - quantum mechanics
+              - wave mechanics
+            - quantum field theory
+              - quantum electrodynamics, QED
+              - quantum chromodynamics, QCD
+              - electroweak interaction
+                - theory of weak interaction
+          - rheology
+          - solid-state physics
+          - statistical mechanics
+          - thermodynamics
+            - thermostatics, thermodynamics of equilibrium
+        - physics, physical science
+          - acoustics
+            - harmonics
+            - phonetics
+        - earth science
+          - paleontology, palaeontology, fossilology
+            - paleobiology, palaeobiology
+              - paleobotany, palaeobotany
+                - paleodendrology, palaeodendrology
+              - paleozoology, palaeozoology
+                - paleomammalogy
+                - paleornithology, palaeornithology
+            - micropaleontology
+            - vertebrate paleontology
+              - paleoanthropology, palaeoanthropology, human paleontology, human palaeontology
+          - geology
+            - hypsography
+            - paleogeology, palaeogeology
+            - geophysics, geophysical science
+              - morphology, geomorphology
+                - tectonics, plate tectonics, plate tectonic theory
+                - petrology, lithology
+              - hydrology
+              - seismology
+              - volcanology, vulcanology
+              - magnetism, magnetics
+              - geodesy
+            - orology, orography
+            - stratigraphy
+            - mineralogy
+            - speleology, spelaeology
+            - economic geology
+              - petroleum geology
+              - mining geology
+          - meteorology
+            - aerology
+            - climatology
+              - bioclimatology
+            - nephology
+          - oceanography, oceanology
+            - hydrography
+          - limnology
+          - geography, geographics
+            - physical geography, physiography
+            - topography
+              - topology
+            - economic geography
+        - cosmography
+      - mathematics, math, maths
+        - pure mathematics
+          - arithmetic
+            - algorism
+          - geometry
+            - affine geometry
+            - elementary geometry, parabolic geometry, Euclidean geometry
+            - fractal geometry
+            - non-Euclidean geometry
+              - hyperbolic geometry
+              - elliptic geometry, Riemannian geometry
+            - spherical geometry
+            - analytic geometry, analytical geometry, coordinate geometry
+            - plane geometry
+            - solid geometry
+            - projective geometry, descriptive geometry
+          - numerical analysis
+          - trigonometry, trig
+            - spherical trigonometry
+            - triangulation
+          - algebra
+            - quadratics
+            - linear algebra
+            - vector algebra
+              - decomposition, vector decomposition
+            - matrix algebra
+          - calculus, infinitesimal calculus
+            - analysis
+              - Fourier analysis, harmonic analysis
+            - differential calculus, method of fluxions
+            - integral calculus
+            - calculus of variations
+            - operational analysis, operational calculus
+          - set theory
+          - group theory
+            - Galois theory
+          - topology, analysis situs
+          - metamathematics
+        - applied mathematics, applied math
+          - linear programming
+          - statistics
+            - correlation, correlational statistics
+              - curvilinear correlation, nonlinear correlation, skew correlation
+              - partial correlation
+                - first-order correlation
+              - positive correlation, direct correlation
+              - negative correlation, indirect correlation
+              - spurious correlation
+            - nonparametric statistics
+            - biometrics, biometry, biostatistics
+            - estimation theory
+          - probability theory, theory of probability
+      - agronomy, scientific agriculture
+      - agrobiology
+      - agrology
+      - architectonics, tectonics
+      - metallurgy
+        - powder metallurgy
+      - metrology
+      - nutrition
+      - psychology, psychological science
+        - abnormal psychology, psychopathology
+        - applied psychology, industrial psychology
+        - cognitive psychology
+          - memory
+          - problem solving
+          - psycholinguistics
+        - comparative psychology, animal psychology
+        - developmental psychology, genetic psychology, child psychology
+        - differential psychology
+        - experimental psychology, psychonomics
+          - psychophysics
+          - behaviorism, behaviourism, behavioristic psychology, behaviouristic psychology
+            - reflexology
+            - neobehaviorism
+        - physiological psychology, neuropsychology, psychophysiology
+        - psychometry, psychometrics, psychometrika
+        - social psychology
+          - psychodynamics
+            - group dynamics
+        - introspectionism
+      - information science, informatics, information processing, IP
+        - natural language processing, NLP, human language technology
+        - cybernetics
+      - cognitive science
+      - social science
+        - civics
+        - anthropology
+          - archeology, archaeology
+            - Assyriology
+            - Egyptology
+            - Sumerology
+            - marine archeology, marine archaeology, underwater archeology, underwater archaeology
+            - paleoclimatology, palaeoclimatology
+            - paleogeography, palaeogeography
+            - paleography
+              - epigraphy
+            - paleopathology, palaeopathology
+            - paletiology, palaetiology
+            - paleology, palaeology
+            - protohistory, protoanthropology
+              - protoarcheology, protoarchaeology
+            - paleoethnography, palaeoethnography
+          - ethnography, descriptive anthropology
+          - ethnology
+          - physical anthropology
+            - craniometry
+          - social anthropology, cultural anthropology
+            - garbology
+            - mythology
+            - ritualism
+        - politics, political science, government
+          - geopolitics
+            - geostrategy
+          - realpolitik, practical politics
+        - home economics, home ec, domestic science, household arts
+        - economics, economic science, political economy
+          - econometrics
+          - finance
+          - macroeconomics
+          - microeconomics
+          - supply-side economics
+          - positive economics
+          - normative economics
+          - constitutional economics
+          - managerial economics
+        - proxemics
+        - sociology
+          - criminology
+            - penology, poenology
+          - demography, human ecology
+          - psephology
+          - sociometry
+          - psychographics
+      - strategics
+      - systematics
+        - biosystematics, biosystematy
+        - taxonomy
+          - cladistics, cladistic analysis
+        - dendrology
+      - thanatology
+      - cryptanalysis, cryptanalytics, cryptography, cryptology
+      - linguistics
+        - computational linguistics
+          - machine translation, MT
+        - dialect geography, linguistic geography
+        - etymology
+          - lexicostatistics
+        - historical linguistics, diachronic linguistics, diachrony
+        - neurolinguistics
+        - pragmatics
+        - semantics
+          - deixis
+          - formal semantics
+          - lexical semantics
+          - cognitive semantics, conceptual semantics, semasiology
+        - sociolinguistics
+        - structuralism, structural linguistics
+        - synchronic linguistics
+        - descriptive linguistics
+          - grammar
+            - descriptive grammar
+            - prescriptive grammar
+            - syntax
+              - generative grammar
+            - morphology
+              - inflectional morphology, accidence
+              - derivational morphology
+              - compound morphology
+          - phonology, phonemics
+            - orthoepy
+          - morphophonemics
+        - prescriptive linguistics
+      - metascience
+    - architecture
+      - urban planning
+    - landscape architecture
+    - engineering, engineering science, applied science, technology
+      - aeronautical engineering
+      - bionics
+      - biotechnology, bioengineering, ergonomics
+      - chemical engineering
+      - civil engineering
+        - hydraulic engineering
+      - electrical engineering, EE
+        - telecommunication
+      - computer science, computing
+        - object
+        - artificial intelligence, AI
+          - machine translation, MT
+          - robotics
+            - animatronics
+            - telerobotics
+        - machine learning
+      - architectural engineering
+      - industrial engineering, industrial management
+      - information technology, IT
+      - mechanical engineering
+        - tribology
+      - nanotechnology
+      - nuclear engineering
+      - naval engineering
+      - rocketry
+      - energy engineering
+        - power engineering
+      - military engineering
+    - futurology, futuristics
+    - humanistic discipline, humanities, liberal arts, arts
+      - neoclassicism
+      - classicism, classicalism
+      - Romanticism, Romantic Movement
+      - interior design
+      - English
+      - history
+      - art history
+        - iconology
+      - chronology
+        - glottochronology
+      - fine arts, beaux arts
+        - architecture
+          - urban planning
+        - landscape architecture
+        - painting
+          - distemper
+          - fresco
+          - impasto
+          - oil painting
+          - watercolor, water-color, watercolour, water-colour
+          - speedpaint
+          - stereochromy
+        - sculpture, carving
+          - modeling, modelling, molding, moulding
+      - performing arts
+        - musical performance
+          - playing
+            - bowing
+              - spiccato, spiccato bowing
+            - piping
+            - stopping
+              - double stopping
+            - transposition
+          - jam session
+          - singing, vocalizing
+            - a cappella singing, a capella singing
+            - bel canto
+            - coloratura
+            - caroling
+            - crooning
+            - crooning
+            - scat, scat singing
+            - harmonization, harmonisation
+            - humming
+            - intonation, chanting
+              - cantillation
+            - intonation
+            - karaoke
+            - part-singing
+            - psalmody, hymnody
+            - singalong, singsong
+            - solfege, solfeggio
+            - solmization, solfege, solfeggio
+            - yodeling
+        - dancing, dance, terpsichore, saltation
+          - adagio
+          - break dancing, break dance
+          - courante
+          - nautch, nauch, nautch dance
+          - pavane, pavan
+          - phrase
+          - saraband
+          - skank
+          - slam dancing, slam dance
+          - step dancing, hoofing
+            - tap dancing, tap dance
+              - soft-shoe, soft-shoe shuffle, soft-shoe dancing
+              - buck-and-wing
+              - clog dance, clog dancing, clog
+          - toe dancing, toe dance
+          - stage dancing, choreography
+            - ballet, concert dance
+              - classical ballet
+              - modern ballet
+              - comedy ballet
+            - modern dance
+              - interpretive dance, interpretive dancing, interpretative dance, interpretative dancing
+            - apache dance
+            - belly dance, belly dancing, danse du ventre
+            - bolero
+            - cakewalk
+            - cancan
+            - nude dancing
+              - fan dance
+              - strip, striptease, strip show
+              - bubble dance
+          - pas seul, variation
+          - pas de deux, duet
+          - pas de trois
+          - pas de quatre
+          - social dancing
+            - jitterbug
+            - lindy, lindy hop
+            - fandango
+            - flamenco, gypsy dancing
+            - gavotte
+            - habanera
+            - shag
+            - shimmy
+            - stomp
+            - tarantella, tarantelle
+            - twist
+            - ballroom dancing, ballroom dance
+              - beguine
+              - carioca
+              - cha-cha, cha-cha-cha
+              - one-step
+                - turkey trot
+              - fox-trot, foxtrot
+              - two-step
+              - bunny hug
+              - Charleston
+              - conga
+              - cotillion, cotilion
+              - minuet
+              - paso doble
+              - quickstep
+              - rumba, rhumba
+              - samba
+              - round dance, round dancing
+              - tango
+              - waltz, valse
+            - folk dancing, folk dance
+              - farandole
+              - mazurka
+              - polka
+              - morris dance, morris dancing
+              - sword dance, sword dancing
+              - hornpipe
+              - jig
+              - country-dance, country dancing, contredanse, contra danse, contradance
+                - longways, longways dance
+                  - Virginia reel, reel
+                - square dance, square dancing
+                  - reel, Scottish reel
+                    - highland fling
+                    - eightsome
+                  - quadrille
+                    - lancers
+                - do-si-do
+                - promenade
+                - sashay
+                - swing
+                - landler
+              - round dance, ring dance
+                - schottische
+              - rumba, rhumba
+          - mambo
+          - ritual dancing, ritual dance, ceremonial dance
+            - apache devil dance
+            - danse macabre, dance of death
+            - ghost dance
+            - pyrrhic
+            - rain dance
+              - corn dance
+              - hula, hula-hula, Hawaiian dancing
+            - snake dance
+            - sun dance
+            - war dance
+          - dab, dabbing
+          - kagura
+            - mikagura
+        - acting, playing, playacting, performing
+          - portrayal, characterization, enactment, personation
+            - character, role, theatrical role, part, persona
+              - bit part, minor role
+                - soubrette
+              - heavy
+              - hero
+              - ingenue
+              - title role, name part
+              - heroine
+              - villain, baddie
+                - supervillain
+            - impression
+          - impersonation, personation
+            - apery, mimicry
+              - parody, mockery, takeoff
+          - method acting, method
+          - mime, pantomime, dumb show
+            - panto
+          - business, stage business, byplay
+            - shtik, schtik, shtick, schtick
+          - skit
+          - hamming, overacting
+          - heroics
+          - reenactment
+          - roleplaying
+      - Occidentalism
+      - Orientalism, Oriental Studies
+      - philosophy
+        - ethics, moral philosophy
+          - bioethics
+            - neuroethics
+          - casuistry
+            - probabilism
+          - eudemonism, endaemonism
+          - hedonism
+          - moral nihilism, ethical nihilism
+        - etiology, aetiology
+        - aesthetics, esthetics
+        - axiology
+        - jurisprudence, law, legal philosophy
+          - contract law
+          - corporation law
+          - matrimonial law
+          - patent law
+        - metaphysics
+          - ontology
+          - cosmology
+        - dialectic
+        - logic
+          - modal logic
+          - syllogistic
+        - epistemology
+          - methodology, methodological analysis
+        - transcendentalism, transcendental philosophy
+      - literary study
+        - literature, lit
+        - comparative literature
+        - literary criticism, lit crit
+          - biographism
+        - poetics
+          - prosody, metrics
+        - classics
+        - rhetoric
+      - library science
+      - linguistics, philology
+        - dialectology
+        - lexicology
+          - onomastics
+          - toponymy, toponomy
+        - classical philology
+      - musicology
+      - Sinology
+      - stemmatology, stemmatics
+      - trivium
+      - quadrivium
+      - ludology, game studies
+      - Etruscology
+      - area studies
+      - film studies
+      - cultural studies
+      - theatre studies, theatrology
+      - textual scholarship
+    - theology, divinity
+      - angelology
+      - apologetics
+      - ecclesiology
+      - eschatology
+      - hermeneutics
+      - homiletics
+      - liturgics, liturgiology
+      - theodicy
+    - military science
+      - tactics
+      - strategy
+    - escapology
+    - graphology
+    - numerology
+    - protology
+    - theogony
+    - peace and conflict studies
+    - systems theory
+    - addiction studies
+    - olfactology
+  - region, realm
+  - scientific knowledge
+[Part of]
+  - country, state, land
+[Domains]
+  - mathematics
+  - math
+  - maths

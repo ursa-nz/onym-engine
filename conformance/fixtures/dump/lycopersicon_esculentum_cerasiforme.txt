@@ -1,0 +1,25 @@
+term: Lycopersicon esculentum cerasiforme
+[Definitions]
+  - (noun) plant bearing small red to yellow fruit
+[Synonyms]
+  - cherry tomato
+[Is a kind of]
+  - tomato, love apple, tomato plant, Lycopersicon esculentum
+    - herb, herbaceous plant
+      - vascular plant, tracheophyte
+        - plant, flora, plant life
+          - organism, being
+            - living thing, animate thing
+              - whole, unit
+                - object, physical object
+                  - physical entity
+                    - entity
+            - causal agent, cause, causal agency
+              - physical entity
+                - entity
+[Kinds]
+  - plum tomato
+[Part of]
+  - Lycopersicon, genus Lycopersicon, Lycopersicum, genus Lycopersicum
+[Parts]
+  - cherry tomato

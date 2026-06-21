@@ -1,0 +1,16 @@
+term: joss stick
+[Definitions]
+  - (noun) a slender stick of incense burned before a joss by the Chinese
+[Is a kind of]
+  - incense
+    - compound, chemical compound
+      - chemical, chemical substance
+        - material, stuff
+          - substance
+            - matter
+              - physical entity
+                - entity
+            - part, portion, component part, component, constituent
+              - relation
+                - abstraction, abstract entity
+                  - entity

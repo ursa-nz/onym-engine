@@ -4,7 +4,7 @@ term: tour
       "they took an extended tour of Europe"
       "we took a quick circuit of the park"
       "a ten-day coach circuit of the island"
-  - (noun) a time for working (after which you will be relieved by someone else)
+  - (noun) a time period for working (after which you will be relieved by someone else)
       "it's my go"
       "a spell of work"
   - (noun) a period of time spent in military service
@@ -50,9 +50,8 @@ term: tour
           - action
             - act, deed, human action, human activity
               - event
-                - psychological feature
-                  - abstraction, abstract entity
-                    - entity
+                - abstraction, abstract entity
+                  - entity
   - shift, work shift, duty period
     - hours
       - work time
@@ -68,6 +67,8 @@ term: tour
           - entity
   - travel, journey
     - travel, trip, jaunt
+      - travel, go, move, locomote
+        - act, move
 [Kinds]
   - walkabout
   - grand tour
@@ -75,9 +76,9 @@ term: tour
   - package tour, package holiday
   - pub crawl
   - whistle-stop tour
-  - take the road
   - visit, see
     - take in
+  - take the road
 [Part of]
   - France, French Republic
 [Parts]

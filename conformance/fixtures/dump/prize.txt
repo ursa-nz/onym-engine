@@ -1,0 +1,133 @@
+term: prize
+[Definitions]
+  - (noun) something given for victory or superiority in a contest or competition or for winning a lottery
+      "the prize was a free trip to Europe"
+  - (noun) goods or money obtained illegally
+  - (noun) something given as a token of victory
+  - (verb) hold dear
+      "I prize these old photographs"
+  - (verb) to move or force, especially in an effort to get something open
+      "The burglar jimmied the lock"
+      "Raccoons managed to pry the lid off the garbage pail"
+  - (verb) regard highly; think much of
+      "I respect his judgement"
+      "We prize his creativity"
+  - (adjective) of superior grade
+      "choice wines"
+      "prime beef"
+      "prize carnations"
+      "quality paper"
+      "select peaches"
+[Synonyms]
+  - award
+  - loot
+  - booty
+  - pillage
+  - plunder
+  - swag
+  - dirty money
+  - trophy
+  - value
+  - treasure
+  - appreciate
+  - pry
+  - prise
+  - lever
+  - jimmy
+  - respect
+  - esteem
+  - choice
+  - prime
+  - quality
+  - select
+[Antonyms]
+  - superior (indirect)
+      -> inferior
+[Similar to]
+  - superior
+[Entails]
+  - loosen
+  - loose
+[Is a kind of]
+  - gift
+    - acquisition
+      - transferred property, transferred possession
+        - possession
+          - relation
+            - abstraction, abstract entity
+              - entity
+  - stolen property
+    - transferred property, transferred possession
+      - possession
+        - relation
+          - abstraction, abstract entity
+            - entity
+  - award, accolade, honor, honour, laurels
+    - symbol
+      - signal, signaling, sign, signalling
+        - communication
+          - abstraction, abstract entity
+            - entity
+  - see, consider, reckon, view, regard
+    - think, believe, consider, conceive
+      - evaluate, pass judgment, judge
+        - think, cogitate, cerebrate
+          - act, move
+  - open, open up
+    - change, alter, modify
+      - induce, stimulate, cause, have, get, make
+        - act, move
+[Kinds]
+  - scholarship
+  - fellowship
+  - gratuity
+  - door prize
+  - jackpot
+  - prize money
+  - premium
+  - apple of discord
+  - booby prize
+    - wooden spoon
+  - bronze medal
+  - cup, loving cup
+    - Davis Cup
+  - gold medal
+  - silver medal, silver
+  - do justice
+  - recognize, recognise
+    - honor, honour, reward
+      - ennoble, dignify
+      - decorate
+      - toast, drink, pledge, salute, wassail
+        - give
+    - rubricate
+  - think the world of
+  - reverence, fear, revere, venerate
+    - enshrine, saint
+    - worship
+  - admire, look up to
+    - envy
+[Parts]
+  - cut
+[Domains]
+  - British spelling
+  - British English spelling
+  - British English orthography
+  - Irish spelling
+  - Irish English spelling
+  - Irish English orthography
+  - New Zealand spelling
+  - New Zealand English spelling
+  - New Zealand English orthography
+  - Commonwealth spelling
+  - Commonwealth English spelling
+  - Commonwealth English orthography
+  - Australian spelling
+  - Australian English spelling
+  - Australian English orthography
+  - American spelling
+  - American English spelling
+  - American English orthography
+  - US spelling
+  - US English spelling
+  - US English orthography
