@@ -87,3 +87,25 @@ term: rage
   - lividity
   - flip one's lid, blow up, throw a fit, hit the roof, hit the ceiling, have kittens, have a fit, combust, blow one's stack, fly off the handle, flip one's wig, lose one's temper, blow a fuse, go ballistic
   - foam at the mouth, froth at the mouth
+[Domains]
+  - American spelling
+  - American English spelling
+  - American English orthography
+  - US spelling
+  - US English spelling
+  - US English orthography
+  - British spelling
+  - British English spelling
+  - British English orthography
+  - Irish spelling
+  - Irish English spelling
+  - Irish English orthography
+  - New Zealand spelling
+  - New Zealand English spelling
+  - New Zealand English orthography
+  - Commonwealth spelling
+  - Commonwealth English spelling
+  - Commonwealth English orthography
+  - Australian spelling
+  - Australian English spelling
+  - Australian English orthography

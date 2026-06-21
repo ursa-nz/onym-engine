@@ -242,6 +242,9 @@ term: project
   - Commonwealth spelling
   - Commonwealth English spelling
   - Commonwealth English orthography
+  - Canadian spelling
+  - Canadian English spelling
+  - Canadian English orthography
   - Australian spelling
   - Australian English spelling
   - Australian English orthography

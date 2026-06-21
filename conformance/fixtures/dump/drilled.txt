@@ -61,3 +61,28 @@ term: drilled
   - hammer in, drill in, ram down, beat in
   - inculcate, instill, infuse
     - din
+[Domains]
+  - British spelling
+  - British English spelling
+  - British English orthography
+  - Irish spelling
+  - Irish English spelling
+  - Irish English orthography
+  - New Zealand spelling
+  - New Zealand English spelling
+  - New Zealand English orthography
+  - Commonwealth spelling
+  - Commonwealth English spelling
+  - Commonwealth English orthography
+  - Canadian spelling
+  - Canadian English spelling
+  - Canadian English orthography
+  - Australian spelling
+  - Australian English spelling
+  - Australian English orthography
+  - American spelling
+  - American English spelling
+  - American English orthography
+  - US spelling
+  - US English spelling
+  - US English orthography

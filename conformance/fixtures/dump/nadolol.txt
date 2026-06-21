@@ -16,3 +16,8 @@ term: nadolol
               - matter
                 - physical entity
                   - entity
+[Domains]
+  - trade name
+  - brand name
+  - brand
+  - marque

@@ -385,15 +385,17 @@ trace of section 6.6 (WordNetLookup.kt:639-684).
 
 ### 6.8 Domains
 
-The Domains section is gated per part of speech (WordNetLookup.kt:453-472, mirroring the `;` and
-`-` symbols an index line carries, `is_defined`'s CLASSIFICATION and CLASS bits): a part of speech
-participates only when at least one of its senses has a domain pointer (CATEGORY, USAGE, REGION, or
-their MEMBER inverses) that applies to the sense's own word. Once a part of speech is in, **every**
-domain pointer of all of its senses is followed regardless of source word. So `chequing account`,
-whose own word carries a region link, lists all of its synset's UK, Canadian, and US domains, while
-`nadolol`, whose only domain link springs from its synonym `Corgard`, shows no domains at all. Kept
-as intended behaviour. Gathered terms exclude the sense's own lemma and deduplicate
-case-insensitively, first spelling kept, like every flat section (WordNetLookup.kt:424-450).
+The Domains section is gated per part of speech: a part of speech participates when at least one of
+its senses carries a domain pointer (CATEGORY, USAGE, REGION, or their MEMBER inverses). Once a part
+of speech is in, **every** domain pointer of all of its senses is followed regardless of source word.
+So `chequing account` lists all of its synset's UK, Canadian, and US domains, and `nadolol` lists the
+trade-name domains its synset carries. This is
+[fix 4](#fix-4-domain-gate-searched-spelling-dependence): the C library gated on whether the
+*searched* word sourced a domain pointer (the `;` and `-` symbols its own index line would carry,
+`is_defined`'s CLASSIFICATION and CLASS bits), so the section's presence depended on which synonym was
+looked up, and `nadolol` showed nothing because its only domain link springs from `Corgard`. Gathered
+terms exclude the sense's own lemma and deduplicate case-insensitively, first spelling kept, like
+every flat section (WordNetLookup.kt:424-450).
 
 ### 6.9 The pertainym depth rule
 
@@ -470,9 +472,9 @@ files and the etymology overlay carry theirs.
 
 ## 7. Deliberate fixes
 
-This specification departs from Artha and the WordNet C library (libwordnet) in **exactly three**
-behaviours. Each repairs an iteration-state or pointer-order bug in that library which produces
-arbitrary, input-dependent output. Everything else in this document, including every quirk marked
+This specification departs from Artha and the WordNet C library (libwordnet) in **exactly four**
+behaviours. Each repairs an iteration-state, pointer-order, or searched-spelling dependence in that
+library which produces arbitrary, input-dependent output. Everything else in this document, including every quirk marked
 "kept as intended behaviour", is normative as written. Fixtures for the affected words are written
 from this specification, not captured from any reference build, and the affected words below must all
 be in the conformance corpus.
@@ -532,6 +534,22 @@ once per sense.
 
 **Affected examples.** `pharmaceutical` (now shows context under `pharmacy`, `pharmacist` and
 `pharmaceutic`). It must be in the conformance corpus.
+
+### Fix 4: domain gate searched-spelling dependence
+
+**Old behaviour.** The Domains section (section 6.8) is gated per part of speech, and the gate was
+whether the *searched* word itself sourced a domain pointer. A word whose only domain link springs
+from a synonym was therefore left with no Domains section, while searching that synonym showed it. The
+section's very presence depended on which spelling of a synset was looked up. `nadolol` shows no
+domains, because its only domain link springs from its synonym `Corgard`.
+
+**New behaviour.** The gate is the synset's, not the searched word's: a part of speech participates
+when any of its senses carries a domain pointer at all. The set of domains shown once the section
+appears is unchanged, since every domain pointer of the senses was already followed, so the fix only
+adds the section to words that hid it. `nadolol` now lists the same trade-name domains as `Corgard`.
+
+**Affected examples.** `nadolol` (now shows its trade-name domains) and `chequing account`
+(unchanged, the already-visible case). Both must be in the conformance corpus.
 
 ## 8. Completion and suggestion
 

@@ -695,22 +695,25 @@ impl Lookup<'_> {
     /// Domains: the in-domain pointers (category / usage / region) and the domain-member
     /// pointers.
     ///
-    /// These behave unusually, mirroring WordNet's index files and Onym's populate. The section
-    /// appears for a part of speech only if the searched word is itself the source of a domain
-    /// pointer there (the `;` / `-` symbols its index line would carry, is_defined's
-    /// CLASSIFICATION / CLASS bits). But once it appears, populate follows every domain pointer
-    /// of those senses regardless of which word it springs from. So "chequing account" (whose own
-    /// word has a region link) lists all of its synset's UK, Canadian and US domains, whereas
-    /// "nadolol" (whose only domain link springs from its synonym "Corgard") shows no domains at
-    /// all.
+    /// This is fix 4 of the spec's deliberate fixes (section 7). The section is gated per part of
+    /// speech: a part of speech participates when any of its gathered senses carries a domain
+    /// pointer at all. The C library gated instead on whether the *searched* word sourced the
+    /// pointer (the `;` / `-` symbols its own index line would carry, is_defined's CLASSIFICATION /
+    /// CLASS bits), so the section's presence depended on which synonym was looked up: "nadolol"
+    /// showed no domains because its only domain link springs from its synonym "Corgard", while
+    /// searching "Corgard" showed them. The gate is now the synset's, not the searched word's, so
+    /// "nadolol" lists the same domains as "Corgard". Once a part of speech is in, every domain
+    /// pointer of its senses is followed regardless of which word it springs from, as before, so
+    /// "chequing account" still lists all of its synset's UK, Canadian and US domains.
     fn build_domains(&self, senses: &[Sense]) -> Vec<String> {
         let gated_positions: HashSet<WnPos> = senses
             .iter()
             .filter(|sense| {
-                sense.synset.pointers.iter().any(|pointer| {
-                    DOMAIN_RELATIONS.contains(&pointer.relation)
-                        && source_applies(pointer, sense.which_word)
-                })
+                sense
+                    .synset
+                    .pointers
+                    .iter()
+                    .any(|pointer| DOMAIN_RELATIONS.contains(&pointer.relation))
             })
             .map(|sense| sense.pos)
             .collect();

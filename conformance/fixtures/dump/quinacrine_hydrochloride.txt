@@ -29,3 +29,8 @@ term: quinacrine hydrochloride
             - matter
               - physical entity
                 - entity
+[Domains]
+  - trade name
+  - brand name
+  - brand
+  - marque
