@@ -1,0 +1,12 @@
+term: serendipity
+[Definitions]
+  - (noun) good luck in making unexpected and fortunate discoveries
+[Derived forms]
+  - serendipitous
+[Is a kind of]
+  - good luck, fluke, good fortune
+    - luck, fortune
+      - phenomenon
+        - process, physical process
+          - physical entity
+            - entity

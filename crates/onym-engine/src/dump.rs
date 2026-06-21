@@ -5,7 +5,7 @@
 //! the engine can be diffed, byte for byte, against the conformance fixtures; applications render
 //! the model directly instead.
 
-use crate::model::{Antonym, Definition, Entry, SectionItems, TreeNode};
+use crate::model::{Antonym, Definition, Entry, SectionItems, SenseTranslations, TreeNode};
 
 pub(crate) fn render(entry: &Entry) -> String {
     let mut out = String::new();
@@ -46,6 +46,11 @@ pub(crate) fn render(entry: &Entry) -> String {
                     out.push('\n');
                 }
             }
+            SectionItems::Translations(blocks) => {
+                for block in blocks {
+                    render_sense_translations(block, &mut out);
+                }
+            }
         }
     }
     out
@@ -66,6 +71,26 @@ fn render_definition(definition: &Definition, out: &mut String) {
         out.push_str("      \"");
         out.push_str(example);
         out.push_str("\"\n");
+    }
+}
+
+fn render_sense_translations(block: &SenseTranslations, out: &mut String) {
+    match block.pos {
+        Some(pos) => {
+            out.push_str("  - (");
+            out.push_str(pos);
+            out.push_str(") ");
+        }
+        None => out.push_str("  - "),
+    }
+    out.push_str(&block.gloss);
+    out.push('\n');
+    for language in &block.languages {
+        out.push_str("      ");
+        out.push_str(&language.language);
+        out.push_str(": ");
+        out.push_str(&language.words.join(", "));
+        out.push('\n');
     }
 }
 

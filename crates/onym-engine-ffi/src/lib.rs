@@ -12,7 +12,9 @@
 //! whatever the application passes (GTK hands the engine UTF-8) and the engine normalises them
 //! itself.
 
-use onym_engine::{Antonym, Definition, Engine, Entry, SectionItems, TreeNode};
+use onym_engine::{
+    Antonym, Definition, Engine, Entry, LanguageWords, SectionItems, SenseTranslations, TreeNode,
+};
 use std::ffi::{CStr, CString, c_char, c_int};
 use std::path::PathBuf;
 
@@ -42,11 +44,28 @@ pub struct OnymCoreAntonym {
     implications: *mut *mut c_char,
 }
 
+/// One language's words for a sense, as the header lays it out.
+#[repr(C)]
+pub struct OnymCoreLanguageWords {
+    language: *mut c_char,
+    words: *mut *mut c_char,
+}
+
+/// One looked-up sense's translations, as the header lays it out.
+#[repr(C)]
+pub struct OnymCoreSenseTranslations {
+    pos: *const c_char,
+    gloss: *mut c_char,
+    languages: *mut OnymCoreLanguageWords,
+    n_languages: usize,
+}
+
 const ONYM_CORE_SECTION_DEFINITIONS: c_int = 0;
 const ONYM_CORE_SECTION_WORDS: c_int = 1;
 const ONYM_CORE_SECTION_ANTONYMS: c_int = 2;
 const ONYM_CORE_SECTION_TREE: c_int = 3;
 const ONYM_CORE_SECTION_ETYMOLOGY: c_int = 4;
+const ONYM_CORE_SECTION_TRANSLATIONS: c_int = 5;
 
 /// A titled group of items of one kind, as the header lays it out. Exactly the array named by
 /// `kind` is non-null.
@@ -59,6 +78,7 @@ pub struct OnymCoreSection {
     words: *mut *mut c_char,
     antonyms: *mut OnymCoreAntonym,
     tree: *mut *mut OnymCoreTreeNode,
+    translations: *mut OnymCoreSenseTranslations,
 }
 
 /// The whole entry for a looked-up word, as the header lays it out.
@@ -129,6 +149,7 @@ fn title_cstr(title: &'static str) -> *const c_char {
     match title {
         "Definitions" => c"Definitions".as_ptr(),
         "Etymology" => c"Etymology".as_ptr(),
+        "Translations" => c"Translations".as_ptr(),
         "Synonyms" => c"Synonyms".as_ptr(),
         "Antonyms" => c"Antonyms".as_ptr(),
         "Derived forms" => c"Derived forms".as_ptr(),
@@ -200,6 +221,24 @@ fn antonym(antonym: &Antonym) -> OnymCoreAntonym {
     }
 }
 
+fn language_words(language: &LanguageWords) -> OnymCoreLanguageWords {
+    OnymCoreLanguageWords {
+        language: c_string(&language.language),
+        words: c_strv(&language.words),
+    }
+}
+
+fn sense_translations(block: &SenseTranslations) -> OnymCoreSenseTranslations {
+    OnymCoreSenseTranslations {
+        pos: pos_cstr(block.pos),
+        gloss: c_string(&block.gloss),
+        languages: Box::into_raw(
+            block.languages.iter().map(language_words).collect::<Box<[_]>>(),
+        ) as *mut OnymCoreLanguageWords,
+        n_languages: block.languages.len(),
+    }
+}
+
 fn entry_to_c(entry: &Entry) -> *mut OnymCoreEntry {
     let sections: Vec<OnymCoreSection> = entry
         .sections
@@ -216,6 +255,7 @@ fn entry_to_c(entry: &Entry) -> *mut OnymCoreEntry {
                     words: std::ptr::null_mut(),
                     antonyms: std::ptr::null_mut(),
                     tree: std::ptr::null_mut(),
+                    translations: std::ptr::null_mut(),
                 },
                 SectionItems::Words(items) => OnymCoreSection {
                     kind: ONYM_CORE_SECTION_WORDS,
@@ -225,6 +265,7 @@ fn entry_to_c(entry: &Entry) -> *mut OnymCoreEntry {
                     words: c_strv(items),
                     antonyms: std::ptr::null_mut(),
                     tree: std::ptr::null_mut(),
+                    translations: std::ptr::null_mut(),
                 },
                 SectionItems::Antonyms(items) => OnymCoreSection {
                     kind: ONYM_CORE_SECTION_ANTONYMS,
@@ -235,6 +276,7 @@ fn entry_to_c(entry: &Entry) -> *mut OnymCoreEntry {
                     antonyms: Box::into_raw(items.iter().map(antonym).collect::<Box<[_]>>())
                         as *mut OnymCoreAntonym,
                     tree: std::ptr::null_mut(),
+                    translations: std::ptr::null_mut(),
                 },
                 SectionItems::Tree(items) => OnymCoreSection {
                     kind: ONYM_CORE_SECTION_TREE,
@@ -244,6 +286,7 @@ fn entry_to_c(entry: &Entry) -> *mut OnymCoreEntry {
                     words: std::ptr::null_mut(),
                     antonyms: std::ptr::null_mut(),
                     tree: tree_array(items),
+                    translations: std::ptr::null_mut(),
                 },
                 // Etymology prose crosses as a plain string array, reusing the `words` slot, so the
                 // section struct keeps its layout. The kind tells the consumer to render the strings
@@ -256,6 +299,21 @@ fn entry_to_c(entry: &Entry) -> *mut OnymCoreEntry {
                     words: c_strv(paragraphs),
                     antonyms: std::ptr::null_mut(),
                     tree: std::ptr::null_mut(),
+                    translations: std::ptr::null_mut(),
+                },
+                // Sense translations cross in their own array: one block per sense, each its pos,
+                // gloss, and per-language word lists. The kind tells the consumer to render it.
+                SectionItems::Translations(items) => OnymCoreSection {
+                    kind: ONYM_CORE_SECTION_TRANSLATIONS,
+                    title,
+                    n_items: items.len(),
+                    definitions: std::ptr::null_mut(),
+                    words: std::ptr::null_mut(),
+                    antonyms: std::ptr::null_mut(),
+                    tree: std::ptr::null_mut(),
+                    translations: Box::into_raw(
+                        items.iter().map(sense_translations).collect::<Box<[_]>>(),
+                    ) as *mut OnymCoreSenseTranslations,
                 },
             }
         })
@@ -394,6 +452,23 @@ pub unsafe extern "C" fn onym_core_entry_free(entry: *mut OnymCoreEntry) {
                     section.tree,
                     len + 1,
                 )));
+            }
+            if !section.translations.is_null() {
+                let blocks = Box::from_raw(std::ptr::slice_from_raw_parts_mut(
+                    section.translations,
+                    section.n_items,
+                ));
+                for block in &blocks {
+                    c_string_free(block.gloss);
+                    let languages = Box::from_raw(std::ptr::slice_from_raw_parts_mut(
+                        block.languages,
+                        block.n_languages,
+                    ));
+                    for language in &languages {
+                        c_string_free(language.language);
+                        c_strv_free(language.words);
+                    }
+                }
             }
         }
     }

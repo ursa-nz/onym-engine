@@ -1,0 +1,110 @@
+term: five
+[Definitions]
+  - (adjective) being one more than four
+  - (noun) the cardinal number that is the sum of four and one
+  - (noun) a team that plays basketball
+  - (noun) a playing card or a domino or a die whose upward face shows five pips
+[Synonyms]
+  - 5
+  - V
+  - cinque
+  - quint
+  - quintet
+  - fivesome
+  - quintuplet
+  - pentad
+  - fin
+  - Phoebe
+  - Little Phoebe
+  - basketball team
+  - five-spot
+[Translations]
+  - (noun) the cardinal number that is the sum of four and one
+      Indonesian: lima
+      Italian: 5, V, cinque
+  - (noun) a team that plays basketball
+      Italian: squadra di pallacanestro
+  - (adjective) being one more than four
+      Indonesian: lima
+      Italian: 5, cinque
+[Antonyms]
+  - cardinal (indirect)
+      -> ordinal
+[Similar to]
+  - cardinal
+[Is a kind of]
+  - digit, figure
+    - integer, whole number
+      - number
+        - definite quantity
+          - measure, quantity, amount
+            - abstraction, abstract entity
+              - entity
+  - team, squad
+    - unit, social unit
+      - organization, organisation
+        - social group
+          - group, grouping
+            - abstraction, abstract entity
+              - entity
+  - spot
+    - playing card
+      - card
+        - paper
+          - material, stuff
+            - substance
+              - matter
+                - physical entity
+                  - entity
+              - part, portion, component part, component, constituent
+                - relation
+                  - abstraction, abstract entity
+                    - entity
+  - domino
+    - block
+      - artifact, artefact
+        - whole, unit
+          - object, physical object
+            - physical entity
+              - entity
+  - die, dice
+    - cube, square block
+      - block
+        - artifact, artefact
+          - whole, unit
+            - object, physical object
+              - physical entity
+                - entity
+[Part of]
+  - basketball league
+[Parts]
+  - forward
+  - center, centre
+  - guard
+  - team, squad
+    - stringer
+    - bench
+    - unit, social unit
+      - organization, organisation
+        - quorum
+        - membership, rank
+  - spot
+    - playing card
+      - face
+      - spot, pip
+      - card
+        - paper
+          - cellulose
+  - domino
+    - block
+      - artifact, artefact
+        - whole, unit
+          - part, portion
+          - section, segment
+  - die, dice
+    - cube, square block
+      - block
+        - artifact, artefact
+          - whole, unit
+            - part, portion
+            - section, segment

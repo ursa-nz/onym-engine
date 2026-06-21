@@ -23,9 +23,10 @@ either an engine bug or an intentional `engine.md` change, never formatting drif
 - Strings pass through from the engine unchanged. The database is UTF-8, so the dump is UTF-8 and
   carries accented lemmas and glosses verbatim; the conformance dumper `onym-dump` reads and writes
   UTF-8 throughout. Fixtures are UTF-8 and compare as bytes, which for UTF-8 is the same as comparing
-  characters. The Etymology section (`engine.md` section 6.10) is no different in encoding, but the
-  main fixtures are generated overlay-free, so it never appears in them; it is proven by a separate
-  test over a committed test overlay (`crates/onym-engine/tests/etymology.rs`).
+  characters. The Etymology section (`engine.md` section 6.10) and the Translations section
+  (`engine.md` section 6.11) are no different in encoding, but the main fixtures are generated
+  overlay-free, so neither appears in them; each is proven by a separate test over a committed test
+  overlay (`crates/onym-engine/tests/etymology.rs` and `crates/onym-engine/tests/translations.rs`).
 - All terms and labels are in display form (spaces, never underscores).
 
 ## The entry dump (`WORD` and `--dump WORD`)
@@ -88,6 +89,30 @@ order, exactly like a word line:
 ```
 
 The paragraphs are single-line (the overlay whitespace-collapses them) and UTF-8.
+
+### Translation lines
+
+The Translations section (`engine.md` section 6.11), present only when the optional overlay carries a
+resolved sense, prints one block per sense. Each block opens with the sense line: a two-space indent
+and a dash, then the part of speech parenthesised before the gloss exactly as a definition line, with
+the `(<pos>) ` prefix omitted entirely when the pos is absent:
+
+```
+  - (<pos>) <gloss>
+  - <gloss>
+```
+
+Each language follows on its own line, six-space indent, the language's display name, then `: ` and
+that language's words joined with `", "`, in the overlay's order:
+
+```
+      <Language>: <word>, <word>
+```
+
+The languages are ordered by display name; the blocks print in the order the senses were gathered,
+one concept per block. The gloss is the definition text only, without its examples, the same string
+the Definitions section shows for that sense. All words are UTF-8 and carry their own scripts and
+accents.
 
 ### Antonym lines
 

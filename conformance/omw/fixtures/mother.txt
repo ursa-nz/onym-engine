@@ -1,0 +1,185 @@
+term: mother
+[Definitions]
+  - (noun) a woman who has given birth to a child (also used as a term of address to your mother)
+      "the mother of three children"
+  - (noun) a stringy slimy substance consisting of yeast cells and bacteria; forms during fermentation and is added to cider or wine to produce vinegar
+  - (noun) a term of address for an elderly woman
+  - (noun) a term of address for a mother superior
+  - (noun) a condition that is the inspiration for an activity or situation
+      "necessity is the mother of invention"
+  - (verb) care for like a mother
+      "She fusses over her husband"
+  - (verb) make (offspring) by reproduction
+      "Abraham begot Isaac"
+      "John fathered four daughters"
+[Synonyms]
+  - female parent
+  - fuss
+  - overprotect
+  - beget
+  - get
+  - engender
+  - father
+  - sire
+  - generate
+  - bring forth
+[Translations]
+  - (noun) a woman who has given birth to a child (also used as a term of address to your mother)
+      Indonesian: ibu, mama, emak, ibunda, mami
+      Italian: madre, mamma, genitrice
+      Portuguese: mãe, progenitora
+  - (noun) a stringy slimy substance consisting of yeast cells and bacteria; forms during fermentation and is added to cider or wine to produce vinegar
+      Italian: madre, madre dell'aceto
+  - (noun) a term of address for an elderly woman
+      Indonesian: ibu
+      Portuguese: mãe
+  - (noun) a term of address for a mother superior
+      Indonesian: ibu
+      Portuguese: mãe
+  - (noun) a condition that is the inspiration for an activity or situation
+      Indonesian: ibu
+      Italian: madre
+      Portuguese: mãe
+  - (verb) care for like a mother
+      Indonesian: melindungi, memelihara, menjaga, membela, mengasuh, memanjakan
+      Italian: fare da madre a
+  - (verb) make (offspring) by reproduction
+      Indonesian: mendapatkan, mengantongi, beroleh, melahirkan, membawa, memperoleh, mendapat, mendapati, mengambil, menjebrolkan
+      Italian: generare
+      Portuguese: conceber, gerar, procriar, ter filho
+[Antonyms]
+  - father (direct)
+      -> male parent
+      -> begetter
+[Derived forms]
+  - motherly
+  - motherhood
+  - maternity
+  - beget
+  - get
+  - engender
+  - father
+  - sire
+  - generate
+  - bring forth
+  - fuss
+  - overprotect
+  - female parent
+[Is a kind of]
+  - parent
+    - genitor
+      - progenitor, primogenitor
+        - ancestor, ascendant, ascendent, antecedent, root
+          - relative, relation
+            - person, individual, someone, somebody, mortal, soul
+              - organism, being
+                - living thing, animate thing
+                  - whole, unit
+                    - object, physical object
+                      - physical entity
+                        - entity
+                - causal agent, cause, causal agency
+                  - physical entity
+                    - entity
+  - yeast, barm
+    - leaven, leavening
+      - substance
+        - matter
+          - physical entity
+            - entity
+  - old woman
+    - oldster, old person, senior citizen, golden ager
+      - adult, grownup
+        - person, individual, someone, somebody, mortal, soul
+          - organism, being
+            - living thing, animate thing
+              - whole, unit
+                - object, physical object
+                  - physical entity
+                    - entity
+            - causal agent, cause, causal agency
+              - physical entity
+                - entity
+    - woman, adult female
+      - female, female person
+        - person, individual, someone, somebody, mortal, soul
+          - organism, being
+            - living thing, animate thing
+              - whole, unit
+                - object, physical object
+                  - physical entity
+                    - entity
+            - causal agent, cause, causal agency
+              - physical entity
+                - entity
+      - adult, grownup
+        - person, individual, someone, somebody, mortal, soul
+          - organism, being
+            - living thing, animate thing
+              - whole, unit
+                - object, physical object
+                  - physical entity
+                    - entity
+            - causal agent, cause, causal agency
+              - physical entity
+                - entity
+  - abbess, mother superior, prioress
+    - superior
+      - religious
+        - religious person
+          - actor, doer, worker
+            - causal agent, cause, causal agency
+              - physical entity
+                - entity
+    - woman, adult female
+      - female, female person
+        - person, individual, someone, somebody, mortal, soul
+          - organism, being
+            - living thing, animate thing
+              - whole, unit
+                - object, physical object
+                  - physical entity
+                    - entity
+            - causal agent, cause, causal agency
+              - physical entity
+                - entity
+      - adult, grownup
+        - person, individual, someone, somebody, mortal, soul
+          - organism, being
+            - living thing, animate thing
+              - whole, unit
+                - object, physical object
+                  - physical entity
+                    - entity
+            - causal agent, cause, causal agency
+              - physical entity
+                - entity
+  - inspiration
+    - idea, thought
+      - content, cognitive content, mental object
+        - cognition, knowledge, noesis
+          - psychological feature
+            - abstraction, abstract entity
+              - entity
+  - care, give care
+    - help, assist, aid
+      - support, back up
+        - act, move
+  - make, create
+    - induce, stimulate, cause, have, get, make
+      - act, move
+[Kinds]
+  - ma, mama, mamma, mom, momma, mommy, mammy, mum, mummy, mumma
+  - mater
+  - mother-in-law
+    - Naomi, Noemi
+  - primipara, para I
+  - puerpera
+  - quadripara
+  - quintipara
+  - supermom
+  - surrogate mother
+  - superdad
+  - mompreneur
+  - baby mama
+  - Mary, Virgin Mary, The Virgin, Blessed Virgin, Madonna

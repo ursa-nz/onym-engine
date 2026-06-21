@@ -23,7 +23,9 @@
 //! the direct/indirect antonym distinction, and which sections are dropped for being empty.
 
 use crate::data::{DictSource, WnPointer, WnPos, WnRelation, WnSynset};
-use crate::model::{Antonym, Definition, Entry, Section, SectionItems, TreeNode};
+use crate::model::{
+    Antonym, Definition, Entry, LanguageWords, Section, SectionItems, SenseTranslations, TreeNode,
+};
 use crate::textforms::{
     ascii_lower, display_lower, index_variants, to_display_form, to_query_form,
 };
@@ -148,6 +150,17 @@ impl Lookup<'_> {
             "Synonyms",
             self.build_synonyms(senses, &gathered.lemmas),
         );
+        // The optional translations overlay, keyed by each gathered sense's synset. Absent overlay
+        // or no entry means no section, so a lookup over a plain WordNet directory is unchanged. The
+        // section sits after Synonyms so the English and other-language words for the senses are
+        // together. Section 6.11.
+        let translations = self.build_translations(senses);
+        if !translations.is_empty() {
+            sections.push(Section {
+                title: "Translations",
+                items: SectionItems::Translations(translations),
+            });
+        }
         self.add_antonyms(&mut sections, senses);
         add_words(
             &mut sections,
@@ -394,6 +407,37 @@ impl Lookup<'_> {
             }
         }
         result
+    }
+
+    // --- Translations --------------------------------------------------------------------------
+
+    /// Build the Translations section from the optional overlay: one block per gathered sense, in
+    /// gather order and deduplicated by synset so a concept appears once. A sense the overlay does
+    /// not carry contributes nothing, so the section is empty (and dropped) over a plain WordNet
+    /// directory. Each block identifies its sense by the same part of speech and gloss the
+    /// Definitions section shows. Section 6.11.
+    fn build_translations(&self, senses: &[Sense]) -> Vec<SenseTranslations> {
+        let mut seen = HashSet::new();
+        let mut blocks = Vec::new();
+        for sense in senses {
+            if !seen.insert((sense.pos, sense.synset.offset)) {
+                continue;
+            }
+            let groups = self.source.translations(sense.pos, sense.synset.offset);
+            if groups.is_empty() {
+                continue;
+            }
+            let (gloss, _) = parse_definition(&sense.synset.gloss);
+            blocks.push(SenseTranslations {
+                pos: Some(pos_name(sense.pos)),
+                gloss,
+                languages: groups
+                    .into_iter()
+                    .map(|(language, words)| LanguageWords { language, words })
+                    .collect(),
+            });
+        }
+        blocks
     }
 
     // --- Antonyms ------------------------------------------------------------------------------

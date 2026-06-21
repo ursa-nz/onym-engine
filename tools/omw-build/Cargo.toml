@@ -1,0 +1,23 @@
+# SPDX-FileCopyrightText: 2026 ursa.nz <code@ursa.nz>
+# SPDX-License-Identifier: GPL-3.0-or-later
+
+# A build-time tool, deliberately outside the engine workspace so its dependencies never reach the
+# zero-dependency core. The empty [workspace] table makes this its own workspace root. It has no
+# dependencies at all: the LMF and the OMW components are regular one-element-per-line WN-LMF, read
+# with a small attribute scanner rather than a general XML parser.
+[workspace]
+
+[package]
+name = "omw-build"
+version = "0.0.1"
+edition = "2024"
+rust-version = "1.96"
+license = "GPL-3.0-or-later"
+description = "Builds the Onym translations overlay (omw.onym) from OMW components, keyed to WNDB offsets."
+
+[[bin]]
+name = "omw-build"
+path = "src/main.rs"
+
+[profile.release]
+opt-level = 3

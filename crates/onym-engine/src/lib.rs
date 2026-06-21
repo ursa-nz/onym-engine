@@ -18,9 +18,12 @@ mod lookup;
 mod model;
 mod morphology;
 mod textforms;
+mod translations;
 mod verb_examples;
 
-pub use model::{Antonym, Definition, Entry, Section, SectionItems, TreeNode};
+pub use model::{
+    Antonym, Definition, Entry, LanguageWords, Section, SectionItems, SenseTranslations, TreeNode,
+};
 pub use textforms::{edit_distance, to_display_form, to_query_form};
 
 use data::DictSource;

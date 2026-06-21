@@ -48,6 +48,10 @@
 //!   terms string list followed by its children as a node list, depth-first.
 //! - kind 4, etymology: a string list of prose paragraphs. It crosses only when the optional
 //!   etymology overlay is present, so a plain WordNet build never emits it.
+//! - kind 5, translations: u32 block count; each block is a presence byte (0 or 1) and the part of
+//!   speech string when present, a gloss string, then a u32 language count, each a language name
+//!   string and a words string list. It crosses only when the optional translations overlay is
+//!   present.
 //!
 //! # Strings crossing inward
 //!

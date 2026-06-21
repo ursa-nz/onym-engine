@@ -12,6 +12,7 @@ const KIND_WORDS: u8 = 1;
 const KIND_ANTONYMS: u8 = 2;
 const KIND_TREE: u8 = 3;
 const KIND_ETYMOLOGY: u8 = 4;
+const KIND_TRANSLATIONS: u8 = 5;
 
 /// A successful open: tag 1 and the engine handle.
 pub fn open_ok(handle: u64) -> Vec<u8> {
@@ -81,6 +82,27 @@ pub fn entry(entry: &Entry) -> Vec<u8> {
                 out.push(KIND_ETYMOLOGY);
                 put_string_list(&mut out, paragraphs);
             }
+            // Sense translations cross as one block per sense: a pos presence byte and string, a
+            // gloss, then the per-language word lists. Only present when the optional overlay is.
+            SectionItems::Translations(blocks) => {
+                out.push(KIND_TRANSLATIONS);
+                put_u32(&mut out, blocks.len());
+                for block in blocks {
+                    match block.pos {
+                        Some(pos) => {
+                            out.push(1);
+                            put_string(&mut out, pos);
+                        }
+                        None => out.push(0),
+                    }
+                    put_string(&mut out, &block.gloss);
+                    put_u32(&mut out, block.languages.len());
+                    for language in &block.languages {
+                        put_string(&mut out, &language.language);
+                        put_string_list(&mut out, &language.words);
+                    }
+                }
+            }
         }
     }
     out
@@ -117,7 +139,45 @@ fn put_u32(out: &mut Vec<u8>, value: usize) {
 #[cfg(test)]
 mod tests {
     use super::*;
-    use onym_engine::{Antonym, Definition, Section};
+    use onym_engine::{Antonym, Definition, LanguageWords, Section, SenseTranslations};
+
+    #[test]
+    fn translations_encode_blocks_languages_and_words() {
+        let sample = Entry {
+            term: "dog".to_string(),
+            sections: vec![Section {
+                title: "Translations",
+                items: SectionItems::Translations(vec![SenseTranslations {
+                    pos: Some("noun"),
+                    gloss: "g".to_string(),
+                    languages: vec![LanguageWords {
+                        language: "Italian".to_string(),
+                        words: vec!["cane".to_string()],
+                    }],
+                }]),
+            }],
+        };
+        let bytes = entry(&sample);
+        let mut expected: Vec<u8> = Vec::new();
+        let s = |out: &mut Vec<u8>, v: &str| {
+            out.extend_from_slice(&(v.len() as u32).to_le_bytes());
+            out.extend_from_slice(v.as_bytes());
+        };
+        let n = |out: &mut Vec<u8>, v: u32| out.extend_from_slice(&v.to_le_bytes());
+        s(&mut expected, "dog");
+        n(&mut expected, 1);
+        s(&mut expected, "Translations");
+        expected.push(KIND_TRANSLATIONS);
+        n(&mut expected, 1); // one block
+        expected.push(1); // pos present
+        s(&mut expected, "noun");
+        s(&mut expected, "g"); // gloss
+        n(&mut expected, 1); // one language
+        s(&mut expected, "Italian");
+        n(&mut expected, 1); // one word
+        s(&mut expected, "cane");
+        assert_eq!(bytes, expected);
+    }
 
     #[test]
     fn open_results_carry_tag_then_payload() {

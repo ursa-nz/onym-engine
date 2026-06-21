@@ -1,0 +1,9 @@
+# Translations overlay conformance corpus. Words with translations, plus one without
+# (serendipity) to prove the section is gated when the overlay carries none of its senses.
+dog
+cat
+water
+mother
+run
+five
+serendipity

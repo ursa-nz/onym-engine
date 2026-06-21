@@ -1,0 +1,716 @@
+term: water
+[Definitions]
+  - (noun) binary compound that occurs at room temperature as a clear colorless odorless tasteless liquid; freezes into ice below 0 degrees centigrade and boils above 100 degrees centigrade; widely used as a solvent
+  - (noun) the part of the earth's surface covered with water (such as a river or lake or ocean)
+      "they invaded our territorial waters"
+      "they were sitting by the water's edge"
+  - (noun) once thought to be one of four elements composing the universe (Empedocles), associated with the humour phlegm
+  - (noun) a facility that provides a source of water
+      "the town debated the purification of the water supply"
+      "first you have to cut off the water"
+  - (noun) liquid excretory product
+      "there was blood in his urine"
+      "the child had to make water"
+  - (noun) a liquid necessary for the life of most animals and plants
+      "he asked for a drink of water"
+  - (verb) supply with water, as with channels or ditches or streams
+      "Water the fields"
+  - (verb) provide with water
+      "We watered the buffalo"
+  - (verb) secrete or form water, as tears or saliva
+      "My mouth watered at the prospect of a good dinner"
+      "His eyes watered"
+  - (verb) fill with tears
+      "His eyes were watering"
+[Synonyms]
+  - H2O
+  - body of water
+  - water system
+  - water supply
+  - urine
+  - piss
+  - pee
+  - piddle
+  - weewee
+  - irrigate
+[Translations]
+  - (noun) binary compound that occurs at room temperature as a clear colorless odorless tasteless liquid; freezes into ice below 0 degrees centigrade and boils above 100 degrees centigrade; widely used as a solvent
+      Indonesian: air
+      Portuguese: água, Agua
+  - (noun) the part of the earth's surface covered with water (such as a river or lake or ocean)
+      Indonesian: air, perairan
+      Italian: acqua
+      Portuguese: água, Corpos de água, corpo de água, massa de água, oceano
+  - (noun) once thought to be one of four elements composing the universe (Empedocles), associated with the humour phlegm
+      Indonesian: air
+      Italian: acqua
+      Portuguese: água
+  - (noun) a facility that provides a source of water
+      Indonesian: air
+      Italian: acquedotto
+      Portuguese: Abastecimento de água, fornecimento de água, redes de distribuição de água
+  - (noun) liquid excretory product
+      Indonesian: kencing, air kencing, urine
+      Italian: orina, urina
+      Portuguese: urina, pipi, xixi, Urina
+  - (noun) a liquid necessary for the life of most animals and plants
+      Indonesian: air
+      Italian: acqua, H2O
+      Portuguese: água (substância), água
+  - (verb) supply with water, as with channels or ditches or streams
+      Indonesian: menyiram, mengairi, membuyur, menjirus, menyirami
+      Italian: adacquare, irrigare
+      Portuguese: molhar, irrigar, regar
+  - (verb) provide with water
+      Indonesian: menyirami
+      Italian: abbeverare, annaffiare, innaffiare
+      Portuguese: dar, jogar água benta
+  - (verb) secrete or form water, as tears or saliva
+      Indonesian: berair
+  - (verb) fill with tears
+      Indonesian: berair
+      Italian: bagnare, lacrimare, lagrimare, piangere
+[Derived forms]
+  - watery
+  - irrigate
+  - H2O
+  - waterer
+  - watering
+  - lacrimation
+  - lachrymation
+  - tearing
+[Is a kind of]
+  - binary compound
+    - compound, chemical compound
+      - chemical, chemical substance
+        - material, stuff
+          - substance
+            - matter
+              - physical entity
+                - entity
+            - part, portion, component part, component, constituent
+              - relation
+                - abstraction, abstract entity
+                  - entity
+  - liquid
+    - fluid
+      - matter
+        - physical entity
+          - entity
+  - thing
+    - physical entity
+      - entity
+  - element
+    - substance
+      - matter
+        - physical entity
+          - entity
+      - part, portion, component part, component, constituent
+        - relation
+          - abstraction, abstract entity
+            - entity
+  - facility, installation
+    - artifact, artefact
+      - whole, unit
+        - object, physical object
+          - physical entity
+            - entity
+  - body waste, excretion, excreta, excrement, excretory product
+    - waste, waste material, waste matter, waste product
+      - material, stuff
+        - substance
+          - matter
+            - physical entity
+              - entity
+          - part, portion, component part, component, constituent
+            - relation
+              - abstraction, abstract entity
+                - entity
+  - food, nutrient
+    - substance
+      - matter
+        - physical entity
+          - entity
+  - nutrient
+    - substance
+      - matter
+        - physical entity
+          - entity
+  - wet
+    - change, alter, modify
+      - induce, stimulate, cause, have, get, make
+        - act, move
+  - supply, provide, render, furnish, offer
+    - give
+      - transfer
+        - change, alter, modify
+          - induce, stimulate, cause, have, get, make
+            - act, move
+  - secrete, release
+    - exude, exudate, transude, ooze out, ooze
+      - excrete, egest, eliminate, pass
+        - exhaust, discharge, expel, eject, release
+          - obviate, rid of, eliminate
+            - get rid of, remove, waste
+              - act, move
+  - fill, fill up
+    - change state, turn
+      - change
+        - act, move
+[Kinds]
+  - bath water
+  - dishwater
+  - distilled water
+  - holy water
+  - ground water, spring water, well water
+  - hard water
+  - limewater
+  - meltwater
+  - seawater, saltwater, brine
+    - red tide
+  - fresh water, freshwater
+    - rain, rainwater
+    - condensate
+  - slush
+  - soft water
+  - bilge, bilge water
+  - water of crystallization, water of crystallisation, water of hydration
+  - capillary water
+  - zeolitic water
+  - glacial milk
+  - tap water
+  - backwater
+  - bay, embayment
+    - bight
+      - Bight of Benin
+      - Great Australian Bight
+    - Guantanamo Bay
+    - Abu Qir Bay, Abukir, Abukir Bay
+    - Andaman Sea
+    - Bay of Bengal
+    - Bay of Biscay
+    - Bay of Fundy
+    - Gulf of Naples, Bay of Naples
+    - Biscayne Bay
+    - Bohai Sea, Bo Hai, Po Hai
+    - Buzzards Bay
+    - Cape Cod Bay
+    - Chesapeake Bay
+    - Delaware Bay
+    - Galveston Bay
+    - Galway Bay
+    - Hangzhou Bay
+    - James Bay
+    - Korea Bay
+    - Massachusetts Bay
+    - Minamata Bay
+    - Mobile Bay
+    - Monterey Bay
+    - Moreton Bay
+    - Narragansett Bay
+    - New York Bay
+    - Osaka Bay
+    - Penobscot Bay
+    - Prudhoe Bay
+    - San Diego Bay
+    - San Francisco Bay
+    - Sea of Azov, Sea of Azof, Sea of Azoff
+    - Tampa Bay
+  - channel
+    - canal
+    - gut
+    - rill
+    - strait, sound
+      - narrow
+        - Verrazano Narrows
+      - Dardanelles, Canakkale Bogazi, Hellespont
+      - East River
+      - Bering Strait
+      - Bosphorus, Bosporus
+      - Cook Strait
+      - Golden Gate
+      - Kattegatt
+      - Korean Strait, Korea Strait
+      - Menai Strait
+      - North Channel
+      - Skagerrak, Skagerak
+      - Solent
+      - Strait of Georgia
+      - Strait of Gibraltar
+      - Strait of Hormuz, Strait of Ormuz
+      - Strait of Magellan
+      - Strait of Messina
+      - Strait of Dover, Strait of Calais, Pas de Calais
+      - Strait of Malacca
+      - Torres Strait
+    - tideway
+    - watercourse
+    - Harlem River
+    - English Channel
+    - Hampton Roads
+    - Mozambique Channel
+    - Windward Passage
+  - drink
+  - estuary
+    - firth
+      - Firth of Clyde
+      - Firth of Forth
+      - Moray Firth
+      - Solway Firth
+    - Humber
+    - Para, Para River
+    - Rio de la Plata, La Plata, Plata River
+  - flowage
+  - ford, crossing
+  - gulf
+    - Gulf of Aden
+    - Gulf of Alaska
+    - Gulf of Antalya
+    - Gulf of Aqaba, Gulf of Akaba
+    - Gulf of Bothnia
+    - Gulf of California, Sea of Cortes
+    - Gulf of Campeche, Golfo de Campeche, Bay of Campeche
+    - Gulf of Carpentaria, Carpentaria
+    - Gulf of Corinth, Gulf of Lepanto
+    - Gulf of Finland
+    - Gulf of Guinea
+    - Gulf of Martaban
+    - Gulf of Mexico, Golfo de Mexico
+    - Gulf of Ob, Bay of Ob
+    - Gulf of Oman
+    - Gulf of Riga
+    - Gulf of Saint Lawrence, Gulf of St. Lawrence
+    - Gulf of Sidra
+    - Gulf of Suez
+    - Gulf of Tehuantepec
+    - Gulf of Thailand, Gulf of Siam
+    - Gulf of Venice
+    - Persian Gulf, Arabian Gulf
+  - international waters, high seas
+  - inlet, recess
+    - cove
+      - lough
+    - fjord, fiord
+      - Trondheimsfjord, Trondheim Fjord, Trondheim Fiord
+    - loch
+      - Loch Linnhe
+    - Bristol Channel
+    - Saronic Gulf, Gulf of Aegina
+    - White Sea
+    - Zuiderzee, Zuider Zee
+  - lake
+    - reservoir, artificial lake, man-made lake
+      - Lake Mead
+      - Lake Powell
+      - Lake Volta
+    - bayou
+    - lagoon, laguna, lagune
+      - liman
+    - loch
+      - Loch Achray
+      - Loch Ness
+    - lough
+    - oxbow lake
+    - pond, pool
+      - fishpond
+      - horsepond
+      - mere
+      - millpond
+      - swimming hole
+      - water hole
+    - tarn
+    - Balaton, Lake Balaton, Plattensee
+    - Canandaigua Lake, Lake Canandaigua
+    - Caspian, Caspian Sea
+    - Cayuga Lake, Lake Cayuga
+    - Baikal, Lake Baikal, Baykal, Lake Baykal
+    - Lake Chelan
+    - Coeur d'Alene Lake
+    - Lake Tahoe
+    - Constance, Lake Constance, Bodensee
+    - Dead Sea
+    - Eyre, Lake Eyre
+    - Great Salt Lake
+    - Great Slave Lake
+    - IJsselmeer
+    - Keuka Lake, Lake Keuka
+    - Kivu, Lake Kivu
+    - Lake Albert, Lake Albert Nyanza, Mobuto Lake
+    - Lake Aral, Aral Sea
+    - Lake Chad, Chad
+    - Lake Champlain, Champlain
+    - Lake Edward
+    - Lake Erie, Erie
+    - Lake Geneva, Lake Leman
+    - Lake Huron, Huron
+    - Lake Ilmen, Ilmen
+    - Lake Ladoga, Ladoga
+    - Lake Michigan, Michigan
+    - Lake Nasser, Nasser
+    - Lake Nyasa, Lake Malawi
+    - Lake Onega, Onega
+    - Lake Ontario, Ontario
+    - Lake St. Clair, Lake Saint Clair
+    - Lake Superior, Superior
+    - Lake Tana, Lake Tsana
+    - Lake Tanganyika, Tanganyika
+    - Lake Urmia, Urmia, Daryacheh-ye Orumiyeh
+    - Lake Vanern, Vanern
+    - Lake Victoria, Victoria Nyanza
+    - Okeechobee, Lake Okeechobee
+    - Poyang Lake, Poyang
+    - Salton Sea
+    - Seneca Lake, Lake Seneca
+    - Winnipeg, Lake Winnipeg
+  - main, briny
+  - mid-water
+  - ocean
+    - deep
+    - Southern Ocean, Antarctic Ocean
+    - Arctic Ocean
+    - Atlantic, Atlantic Ocean
+    - Indian Ocean
+    - Pacific, Pacific Ocean
+  - offing
+  - polynya
+  - pool, puddle
+    - billabong
+    - mud puddle
+      - wallow
+  - sea
+    - South Sea
+    - Adriatic, Adriatic Sea
+    - Aegean, Aegean Sea
+    - Arabian Sea
+    - Arafura Sea
+    - Baffin Bay
+    - Baltic, Baltic Sea
+    - Barents Sea
+    - Beaufort Sea
+    - Bering Sea
+    - Bismarck Sea
+    - Black Sea, Euxine Sea
+    - Caribbean, Caribbean Sea
+    - Chukchi Sea
+    - Coral Sea
+    - East China Sea
+    - Greenland Sea
+    - Hudson Bay
+    - Seto Inland Sea, Inland Sea
+    - Ionian Sea
+    - Irish Sea
+    - Kara Sea
+    - Labrador Sea
+    - Laptev Sea
+    - Ligurian Sea
+    - Marmara, Sea of Marmara, Marmara Denizi, Marmora, Sea of Marmora
+    - Mediterranean, Mediterranean Sea, mare nostrum
+    - North Sea
+    - Norwegian Sea
+    - Red Sea
+    - Ross Sea
+    - Sargasso Sea
+    - Sea of Japan, East Sea
+    - Sea of Okhotsk
+    - South China Sea
+    - Tasman Sea
+    - Timor Sea
+    - Tyrrhenian Sea
+    - Weddell Sea
+    - Yellow Sea, Huang Hai
+  - seven seas
+  - shoal, shallow
+  - sound
+    - Long Island Sound
+    - Puget Sound
+    - Queen Charlotte Sound
+  - stream, watercourse
+    - branch
+      - billabong
+      - distributary
+      - feeder, tributary, confluent, affluent
+    - brook, creek
+      - brooklet
+      - Bull Run
+      - Aegospotami, Aegospotamos
+    - headstream
+      - Blue Nile
+      - White Nile
+    - river
+      - Aare, Aar, Aare River
+      - Acheron, River Acheron
+      - Adige, River Adige
+      - Aire, River Aire, Aire River
+      - Alabama, Alabama River
+      - Allegheny, Allegheny River
+      - Amazon, Amazon River
+      - Amur, Amur River, Heilong Jiang, Heilong
+      - Angara, Angara River, Tunguska, Upper Tunguska
+      - Apalachicola, Apalachicola River
+      - Araguaia, Araguaia River, Araguaya, Araguaya River
+      - Aras, Araxes
+      - Arauca River, Arauca
+      - Argun, Argun River, Ergun He
+      - Arkansas, Arkansas River
+      - Arno, Arno River, River Arno
+      - Avon, River Avon, Upper Avon, Upper Avon River
+      - Avon, River Avon
+      - Bighorn, Bighorn River
+      - Big Sioux River
+      - Brahmaputra, Brahmaputra River
+      - Brazos, Brazos River
+      - Caloosahatchee, Caloosahatchee River
+      - Cam, River Cam, Cam River
+      - Canadian, Canadian River
+      - Cape Fear River
+      - Chao Phraya River, Chao Phraya
+      - Charles, Charles River
+      - Chattahoochee, Chattahoochee River
+      - Cimarron, Cimarron River
+      - Clinch River
+      - River Clyde, Clyde
+      - Cocytus, River Cocytus
+      - Colorado, Colorado River
+      - Colorado, Colorado River
+      - Columbia, Columbia River
+      - Congo, Congo River, Zaire River
+      - Connecticut, Connecticut River
+      - Coosa, Coosa River
+      - Cumberland, Cumberland River
+      - Danube, Danube River, Danau
+      - Darling, Darling River
+      - Delaware, Delaware River
+      - Demerara River, Demerara
+      - Detroit River
+      - Dnieper, Dnieper River
+      - Don, Don River
+      - Ebro, Ebro River
+      - Elbe, Elbe River
+      - Elizabeth River
+      - Euphrates, Euphrates River
+      - Flint, Flint River
+      - Forth, Forth River
+      - Fox River
+      - Ganges, Ganges River
+      - Gan Jiang, Kan River
+      - Garonne, Garonne River
+      - Gila, Gila River
+      - Grand River
+      - Green, Green River
+      - Housatonic, Housatonic River
+      - Huang He, Hwang Ho, Yellow River
+      - Hudson, Hudson River
+      - IJssel, IJssel river
+      - Illinois River
+      - Indigirka, Indigirka River
+      - Indus, Indus River
+      - Irrawaddy, Irrawaddy River
+      - Irtish, Irtish River, Irtysh, Irtysh River
+      - Isere, Isere River
+      - James, James River
+      - James, James River
+      - Jordan, Jordan River
+      - Kanawha, Kanawha River
+      - Kansas, Kansas River, Kaw River
+      - Kasai, Kasai River, River Kasai
+      - Kissimmee, Kissimmee River
+      - Klamath, Klamath River
+      - Kura, Kura River
+      - Lehigh River
+      - Lena, Lena River
+      - Lethe, River Lethe
+      - Limpopo, Crocodile River
+      - Little Bighorn, Little Bighorn River, Little Horn
+      - Little Missouri, Little Missouri River
+      - Little Sioux River
+      - Little Wabash, Little Wabash River
+      - Loire, Loire River
+      - Mackenzie, Mackenzie River
+      - Madeira, Madeira River
+      - Magdalena, Magdalena River
+      - Mekong, Mekong River
+      - Merrimack, Merrimack River
+      - Meuse, Meuse River
+      - Milk, Milk River
+      - Mississippi, Mississippi River
+      - Missouri, Missouri River
+      - Mobile, Mobile River
+      - Mohawk River
+      - Monongahela, Monongahela River
+      - Moreau River
+      - Murray, Murray River
+      - Murrumbidgee, Murrumbidgee River
+      - Namoi, Namoi River
+      - Nan, Nan River
+      - Neckar, Neckar River
+      - Neosho, Neosho River
+      - Neva, Neva River
+      - New River
+      - Niagara, Niagara River
+      - Niger, Niger River
+      - Nile, Nile River
+      - Niobrara, Niobrara River
+      - North Platte, North Platte River
+      - Ob, Ob River
+      - Oder, Oder River
+      - Ohio, Ohio River
+      - Orange, Orange River
+      - Orinoco, Orinoco River
+      - Osage, Osage River
+      - Outaouais, Ottawa, Ottawa river
+      - Ouachita, Ouachita River
+      - River Ouse, Ouse, Ouse River
+      - Parana, Parana River
+      - Parnaiba, Parnahiba
+      - Pearl River
+      - Pecos, Pecos River
+      - Pee Dee, Pee Dee River
+      - Penobscot, Penobscot River
+      - Ping, Ping River
+      - Platte, Platte River
+      - Po, Po River
+      - Potomac, Potomac River
+      - Purus, Purus River
+      - Rappahannock, Rappahannock River
+      - Red River of the South, Red, Red River
+      - Republican, Republican River
+      - Rhine, Rhine River, Rhein
+      - Rhone, Rhone River
+      - Rio Grande, Rio Bravo
+      - Ruhr, Ruhr River
+      - Russian River
+      - Saale, Saale River
+      - Sabine, Sabine River
+      - Sacramento River
+      - Saint Francis, Saint Francis River, St. Francis, St. Francis River
+      - Saint John, Saint John River, St. John, St. John River
+      - Saint Johns, Saint Johns River, St. Johns, St. Johns River
+      - Saint Lawrence, Saint Lawrence River, St. Lawrence, St. Lawrence River
+      - Salmon, Salmon River
+      - Sambre, Sambre River
+      - San Joaquin River
+      - Sao Francisco
+      - Saone, Saone River
+      - Savannah, Savannah River
+      - Scheldt, Scheldt River
+      - Seine, Seine River
+      - Severn, River Severn, Severn River
+      - Severn, Severn River
+      - Seyhan, Seyhan River
+      - Shari, Shari River, Chari, Chari River
+      - Shenandoah River
+      - Snake, Snake River
+      - South Platte, South Platte River
+      - Styx, River Styx
+      - Sun River
+      - Suriname River, Surinam River
+      - Susquehanna, Susquehanna River
+      - Tagus, Tagus River
+      - Tallapoosa, Tallapoosa River
+      - Tennessee, Tennessee River
+      - Thames, River Thames, Thames River
+      - Tiber, Tevere
+      - Tigris, Tigris River
+      - Tocantins, Tocantins River
+      - Tombigbee, Tombigbee River
+      - Trent, River Trent, Trent River
+      - Trinity River
+      - Nizhnyaya Tunguska River, Tunguska, Lower Tunguska
+      - Podkamennaya Tunguska River, Tunguska, Stony Tunguska
+      - Tyne, River Tyne, Tyne River
+      - Uruguay River
+      - Vetluga, Vetluga River
+      - Vistula, Vistula River
+      - Volga, Volga River
+      - Volkhov, Volkhov River
+      - Volta River, Volta
+      - Wabash, Wabash River
+      - Weser, Weser River
+      - White, White River
+      - Willamette, Willamette River
+      - Wisconsin, Wisconsin River
+      - Yalu, Yalu River
+      - Chang Jiang, Changjiang, Chang, Yangtze, Yangtze River, Yangtze Kiang
+      - Yazoo, Yazoo River
+      - Yellowstone, Yellowstone River
+      - Yenisei, Yenisei River, Yenisey, Yenisey River
+      - Yukon, Yukon River
+      - Zambezi, Zambezi River
+      - Zhu Jiang, Canton River, Chu Kiang, Pearl River
+    - rivulet, rill, run, runnel, streamlet
+    - tidal river, tidewater river, tidal stream, tidewater stream
+  - territorial waters
+    - United States waters, U.S. waters
+  - waterfall, falls
+    - cascade
+    - cataract
+    - American Falls
+    - Angel, Angel Falls
+    - Canadian Falls, Horseshoe Falls
+    - Cuquenan, Cuquenan Falls, Kukenaam, Kukenaam Falls
+    - Iguazu, Iguazu Falls, Iguassu, Iguassu Falls, Victoria Falls
+    - Niagara, Niagara Falls
+    - Paulo Afonso, Paulo Afonso Falls
+    - Sete Quedas, Guaira, Guaira Falls, Guaíra, Guaíra Falls
+    - Takakkaw Falls, Takakkaw
+    - Tugela, Tugela Falls
+    - Twin, Twin Falls
+    - Urubupunga, Urubupunga Falls, Urubupungá, Urubupungá Falls
+    - Victoria, Victoria Falls
+    - Yosemite, Yosemite Falls
+  - waterway
+    - ditch
+    - mare clausum
+    - mare liberum
+    - rapid
+    - Cross-Florida Waterway, Okeechobee Waterway
+    - Inland Passage, Inside Passage
+  - branch water
+  - spring water
+  - drinking water
+    - bottled water
+    - sugar water
+    - ice water
+    - soda water, carbonated water, club soda, seltzer, sparkling water
+    - mineral water
+      - lithia water
+      - seltzer
+      - Vichy water
+    - boiling water
+  - hose, hose down
+  - flush
+    - suffuse, perfuse
+    - perfuse
+  - hush
+[Part of]
+  - ice, water ice
+  - snowflake, flake
+  - ice crystal, snow mist, diamond dust, poudrin, ice needle, frost snow, frost mist
+  - body of water
+  - tear, teardrop
+  - perspiration, sweat, sudor
+  - hydrosphere
+  - surface, Earth's surface
+  - infrastructure, base
+[Parts]
+  - hydrogen, H, atomic number 1
+  - oxygen, O, atomic number 8
+  - H2O
+  - reservoir, artificial lake, man-made lake
+  - water main
+[Domains]
+  - river
+  - lake
+  - ocean
+  - archaism
+  - archaicism
+  - body waste
+  - excretion
+  - excreta
+  - excrement
+  - excretory product
+  - obscenity
+  - smut
+  - vulgarism
+  - filth
+  - dirty word

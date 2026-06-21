@@ -36,6 +36,25 @@ pub enum SectionItems {
     /// Etymology prose: one or more whitespace-collapsed paragraphs in source order, from the
     /// optional overlay of `spec/engine.md` section 6.10. Plain display text, never navigable.
     Etymology(Vec<String>),
+    /// Sense translations: one block per looked-up sense, from the optional overlay of
+    /// `spec/engine.md` section 6.11. Plain display text, never navigable.
+    Translations(Vec<SenseTranslations>),
+}
+
+/// One looked-up sense's translations: the sense identified by its part of speech and gloss, as the
+/// Definitions section shows them, and its words in other languages grouped by language.
+#[derive(Clone, Debug, PartialEq, Eq)]
+pub struct SenseTranslations {
+    pub pos: Option<&'static str>,
+    pub gloss: String,
+    pub languages: Vec<LanguageWords>,
+}
+
+/// One language's words for a sense: the language's display name and the words in overlay order.
+#[derive(Clone, Debug, PartialEq, Eq)]
+pub struct LanguageWords {
+    pub language: String,
+    pub words: Vec<String>,
 }
 
 /// One sense of a word: its part of speech (which may be absent), gloss, and example sentences.

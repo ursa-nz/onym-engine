@@ -37,12 +37,13 @@ Every word a deliberate fix or validation note names must appear in the conforma
 - The engine owns everything above the data files: file parsing, morphology, the lookup pipeline,
   completion, suggestion, and verb example sentences. The data files are an external, read-only
   input.
-- One optional input sits outside the base graph: the etymology overlay of [section 6.10](#610-etymology-the-optional-overlay).
-  It is a preprocessed file the engine reads in place, exactly as it reads the database, and it is the
-  single deliberate exception to "the base graph and nothing else". The exception is confined to
-  additive prose: the overlay never alters a WordNet-derived section, and when it is absent the
-  engine's output is byte-for-byte what the base graph alone produces. It only adds the Etymology
-  section.
+- Two optional inputs sit outside the base graph: the etymology overlay of [section 6.10](#610-etymology-the-optional-overlay)
+  and the translations overlay of [section 6.11](#611-translations-the-optional-overlay). Each is a
+  preprocessed file the engine reads in place, exactly as it reads the database, and together they are
+  the only deliberate exception to "the base graph and nothing else". The exception is confined to
+  additive material: an overlay never alters a WordNet-derived section, and when both are absent the
+  engine's output is byte-for-byte what the base graph alone produces. They only add the Etymology and
+  Translations sections.
 
 ## 2. The result model
 
@@ -50,9 +51,12 @@ The model mirrors `OnymResult.kt:14-80` and PLAN.md:213-248. Every string a cons
 display form (section 3). The model carries no WordNet types; consumers read it and never build it.
 
 - **Result**: the resolved headword `term` plus `sections`, an ordered list (OnymResult.kt:14-17).
-- **Section**: a `title` and items of exactly one kind. The four kinds are `Definitions`, `Words`,
-  `Antonyms`, and `Tree` (OnymResult.kt:20-46). The kind is fixed per title; the exact title
-  strings and their order are in section 6.1.
+- **Section**: a `title` and items of exactly one kind. The four base kinds are `Definitions`,
+  `Words`, `Antonyms`, and `Tree` (OnymResult.kt:20-46); the two optional overlays add the
+  `Etymology` kind (section 6.10) and the `Translations` kind (section 6.11). The kind is fixed per
+  title; the exact title strings and their order are in section 6.1.
+- **Sense translations** (the `Translations` kind, section 6.11): one block per looked-up sense,
+  carrying the sense's part of speech and gloss and its words in other languages grouped by language.
 - **Definition**: an optional `pos` (one of `noun`, `verb`, `adjective`, `adverb`, or absent), a
   `gloss`, and a possibly empty list of `examples` (OnymResult.kt:54-58).
 - **Word**: a single term (OnymResult.kt:49-51).
@@ -249,7 +253,10 @@ The pipeline emits at most fourteen WordNet sections, in this order, with these 
 gathers zero items is dropped entirely (`add_section_if_filled`, onym-lookup.c:106-114). When the
 etymology overlay is present and carries the headword, one further section, `Etymology`, is emitted
 immediately after `Definitions` (so before `Synonyms`); it is additive and gated, and is specified
-on its own in [section 6.10](#610-etymology-the-optional-overlay), apart from the fourteen below.
+on its own in [section 6.10](#610-etymology-the-optional-overlay), apart from the fourteen below. When
+the translations overlay is present and carries any resolved sense, one further section,
+`Translations`, is emitted immediately after `Synonyms` (so before `Antonyms`); it too is additive and
+gated, specified on its own in [section 6.11](#611-translations-the-optional-overlay).
 
 | # | Title | Kind | Source relations |
 |---|---|---|---|
@@ -424,6 +431,42 @@ present, keys by headword query form, and emits the paragraphs verbatim. The ove
 travels with it (its leading-space header lines), the way the WordNet files carry their licence
 header.
 
+### 6.11 Translations (the optional overlay)
+
+The engine reads a second optional file that is not part of WordNet: `omw.onym`, the translations
+overlay, from the data directory (section 10). It is a preprocessed artifact built offline by
+`tools/omw-build`, which joins each OEWN synset through the Collaborative Interlingual Index to the
+Open Multilingual Wordnet components and records, per synset, the words other languages use for that
+concept. The engine reads it in place, read-only, like every other file.
+
+Where the etymology overlay is keyed by headword lemma, this one is keyed by synset, by the part of
+speech and the WNDB offset the engine already holds for every gathered sense (section 4). So the
+lookup needs no extra index; it asks the overlay only for the senses it has already resolved.
+
+When the overlay is present, the pipeline looks each gathered sense up by its synset's part of speech
+and offset. A sense the overlay carries contributes one block to a single `Translations` section: the
+sense's part of speech and gloss, in the same form the Definitions section shows them, which names
+the meaning the block belongs to, and the translated words grouped by language. Blocks follow the
+order the senses were gathered, deduplicated by synset so one concept appears once; within a block the
+languages are ordered by their display name, and a language's words keep the overlay's order. A sense
+the overlay does not carry contributes no block, and an overlay that carries none of the resolved
+senses, or that is absent, emits no section, so a lookup over a plain WordNet directory is
+byte-for-byte unchanged.
+
+The section is additive and gated exactly like etymology. It never alters a WordNet-derived section,
+the base graph reads identically whether it is present or not, and the conformance fixtures are
+generated overlay-free. It is emitted immediately after `Synonyms`, so the English synonyms and the
+other-language words for the same senses sit together, and before `Antonyms`.
+
+The translated words are display text in their own scripts and accents, UTF-8 like every model
+string. The engine does not navigate or reflow them; a consumer treats them as plain display strings,
+not headwords to look up. The overlay's format, its language set, the synset-to-CILI-to-component
+join, and the per-component licences are specified by `tools/omw-build` and recorded with the data,
+not here. The engine's contract is only that it reads `omw.onym` if present, keys each sense by its
+part of speech and offset, and emits the per-sense, language-grouped words verbatim. The overlay's
+provenance and its language legend travel with it in its leading-space header, the way the WordNet
+files and the etymology overlay carry theirs.
+
 ## 7. Deliberate fixes
 
 This specification departs from Artha and the WordNet C library (libwordnet) in **exactly two**
@@ -533,6 +576,7 @@ The file set, all UTF-8:
 | `cntlist.rev` | no | every tag count is 0 |
 | `sentidx.vrb`, `sents.vrb` | no | no generic verb examples (VerbExampleIndex.kt:31-46) |
 | `etym.onym` | no | no Etymology section for any word (section 6.10) |
+| `omw.onym` | no | no Translations section for any word (section 6.11) |
 
 `cntlist.rev` is the reverse sense-count list (sense key, sense number, tag count), the file the
 WordNet C library's `GetTagcnt` reads; OEWN's WNDB build ships it under exactly that name. The

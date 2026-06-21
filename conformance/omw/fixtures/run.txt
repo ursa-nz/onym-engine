@@ -1,0 +1,888 @@
+term: run
+[Definitions]
+  - (verb) move fast by using one's feet, with one foot off the ground at any given time
+      "Don't run — you'll be out of breath"
+      "The children ran to the store"
+  - (verb) flee; take to one's heels; cut and run
+      "If you see this man, run!"
+      "The burglars escaped before the police showed up"
+  - (verb) stretch out over a distance, space, time, or scope; run or extend between two points or beyond a certain point
+      "Service runs all the way to Cranbury"
+      "His knowledge doesn't go very far"
+      "My memory extends back to my fourth year of life"
+      "The facts extend beyond a consideration of her personal assets"
+  - (verb) direct or control; projects, businesses, etc.
+      "She is running a relief operation in the Sudan"
+  - (verb) have a particular form
+      "the story or argument runs as follows"
+      "as the saying goes …"
+  - (verb) move along, of liquids
+      "Water flowed into the cave"
+      "the Missouri feeds into the Mississippi"
+  - (verb) perform as expected when applied
+      "The washing machine won't go unless it's plugged in"
+      "Does this old car still run well?"
+      "This old radio doesn't work anymore"
+  - (verb) change or be different within limits
+      "Estimates for the losses in the earthquake range as high as $2 billion"
+      "Interest rates run from 5 to 10 percent"
+      "The instruments ranged from tuba to cymbals"
+      "My students range from very bright to dull"
+  - (verb) run, stand, or compete for an office or a position
+      "Who's running for treasurer this year?"
+  - (verb) cause to emit recorded audio or video
+      "They ran the tapes over and over again"
+      "I'll play you my favorite record"
+      "He never tires of playing that video"
+  - (verb) move about freely and without restraint, or act as if running around in an uncontrolled way
+      "who are these people running around in the building?"
+      "She runs around telling everyone of her troubles"
+      "let the dogs run free"
+  - (verb) have a tendency or disposition to do or be something; be inclined
+      "She tends to be nervous before her lectures"
+      "These dresses run small"
+      "He inclined to corpulence"
+  - (verb) be operating, running or functioning
+      "The car is still running — turn it off!"
+  - (verb) change from one state to another
+      "run amok"
+      "run rogue"
+      "run riot"
+  - (verb) cause to perform
+      "run a subject"
+      "run a process"
+  - (verb) be affected by; be subjected to
+      "run a temperature"
+      "run a risk"
+  - (verb) continue to exist
+      "These stories die hard"
+      "The legend of Elvis endures"
+  - (verb) occur persistently
+      "Musical talent runs in the family"
+  - (verb) carry out a process or program, as on a computer or a machine
+      "Run the dishwasher"
+      "run a new program on the Mac"
+      "the computer executed the instruction"
+  - (verb) include as the content; broadcast or publicize
+      "We ran the ad three times"
+      "This paper carries a restaurant review"
+      "All major networks carried the press conference"
+  - (verb) conduct to completion
+      "run an errand"
+  - (verb) pass over, across, or through
+      "He ran his eyes over her body"
+      "She ran her fingers along the carved figurine"
+      "He drew her hair through his fingers"
+  - (verb) cause something to pass or lead somewhere
+      "Run the wire behind the cabinet"
+  - (verb) make without a miss
+  - (verb) deal in illegally, such as arms or liquor
+  - (verb) cause an animal to move fast
+      "run the dogs"
+  - (verb) be diffused
+      "These dyes and colors are guaranteed not to run"
+  - (verb) sail before the wind
+  - (verb) cover by running; run a certain distance
+      "She ran 10 miles that day"
+  - (verb) extend or continue for a certain period of time
+      "The film runs 5 hours"
+  - (verb) set animals loose to graze
+  - (verb) keep company
+      "the heifers run with the bulls to produce offspring"
+  - (verb) run with the ball; in such sports as football
+  - (verb) travel rapidly, by any (unspecified) means
+      "Run to the store!"
+      "She always runs to Italy, because she has a lover there"
+  - (verb) travel a route regularly
+      "Ships ply the waters near the coast"
+  - (verb) pursue for food or sport (as of wild animals)
+      "Goering often hunted wild boars in Poland"
+      "The dogs are running deer"
+      "The Duke hunted in these woods"
+  - (verb) compete in a race
+      "he is running the Marathon this year"
+      "let's race and see who gets there first"
+  - (verb) progress by being changed
+      "The speech has to go through several more drafts"
+      "run through your presentation before the meeting"
+  - (verb) reduce or cause to be reduced from a solid to a liquid state, usually by heating
+      "melt butter"
+      "melt down gold"
+      "The wax melted in the sun"
+  - (verb) come unraveled or undone as if by snagging
+      "Her nylons were running"
+  - (verb) become undone
+      "the sweater unraveled"
+  - (noun) a score in baseball made by a runner touching all four bases safely
+      "the Yankees scored 3 runs in the bottom of the 9th"
+      "their first tally came in the 3rd inning"
+  - (noun) the act of testing something
+      "in the experimental trials the amount of carbon was measured separately"
+      "he called each flip of the coin a new trial"
+  - (noun) a race run on foot
+      "she broke the record for the half-mile run"
+  - (noun) an unbroken series of events
+      "had a streak of bad luck"
+      "Nicklaus had a run of birdies"
+  - (noun) (American football) a play in which a player attempts to carry the ball through or past the opposing team
+      "the defensive line braced to stop the run"
+      "the coach put great emphasis on running"
+  - (noun) a regular trip
+      "the ship made its run in record time"
+  - (noun) the act of running; traveling on foot at a fast pace
+      "he broke into a run"
+      "his daily run keeps him fit"
+  - (noun) the continuous period of time during which something (a machine or a factory) operates or continues in operation
+      "the assembly line was on a 12-hour run"
+  - (noun) unrestricted freedom to use
+      "he has the run of the house"
+  - (noun) the production achieved during a continuous period of operation (of a machine or factory etc.)
+      "a daily run of 100,000 gallons of paint"
+  - (noun) a small stream
+  - (noun) a race between candidates for elective office
+      "I managed his campaign for governor"
+      "he is raising money for a Senate run"
+  - (noun) a row of unravelled stitches
+      "she got a run in her stocking"
+  - (noun) the pouring forth of a fluid
+  - (noun) an unbroken chronological sequence
+      "the play had a long run on Broadway"
+      "the team enjoyed a brief run of victories"
+  - (noun) a short trip
+      "take a run into town"
+[Synonyms]
+  - tally
+  - test
+  - trial
+  - footrace
+  - foot race
+  - streak
+  - running
+  - running play
+  - running game
+  - rivulet
+  - rill
+  - runnel
+  - streamlet
+  - political campaign
+  - campaign
+  - ladder
+  - ravel
+  - discharge
+  - outpouring
+  - scat
+  - scarper
+  - turn tail
+  - lam
+  - run away
+  - hightail it
+  - bunk
+  - head for the hills
+  - take to the woods
+  - escape
+  - fly the coop
+  - break away
+  - go
+  - pass
+  - lead
+  - extend
+  - operate
+  - flow
+  - feed
+  - course
+  - function
+  - work
+  - range
+  - play
+  - tend
+  - be given
+  - lean
+  - incline
+  - prevail
+  - persist
+  - die hard
+  - endure
+  - execute
+  - carry
+  - guide
+  - draw
+  - black market
+  - bleed
+  - run for
+  - consort
+  - ply
+  - hunt
+  - hunt down
+  - track down
+  - race
+  - move
+  - melt
+  - melt down
+  - unravel
+[Translations]
+  - (noun) a score in baseball made by a runner touching all four bases safely
+      Indonesian: mata, catatan, gundal, larian
+      Italian: run
+      Portuguese: corrida
+  - (noun) the act of testing something
+      Indonesian: ujian, uji
+      Italian: cimento, esperimento, test
+      Portuguese: teste
+  - (noun) a race run on foot
+      Indonesian: jalan
+  - (noun) an unbroken series of events
+      Indonesian: persembahan
+  - (noun) (American football) a play in which a player attempts to carry the ball through or past the opposing team
+      Indonesian: jalan
+  - (noun) a regular trip
+      Indonesian: perjalanan
+      Portuguese: trajecto, trajeto
+  - (noun) the act of running; traveling on foot at a fast pace
+      Indonesian: jalan, lari, berlari, pendakian
+      Italian: corsa
+  - (noun) a small stream
+      Indonesian: anak air, anak sungai
+      Italian: ruscello, rigagnolo, rivo, rivolo
+      Portuguese: regato, ribeira
+  - (noun) a race between candidates for elective office
+      Indonesian: kampanye
+      Italian: campagna
+      Portuguese: campanha
+  - (noun) a row of unravelled stitches
+      Indonesian: koyak, carik
+      Italian: smagliatura
+  - (noun) the pouring forth of a fluid
+      Indonesian: limpahan
+  - (verb) move fast by using one's feet, with one foot off the ground at any given time
+      Indonesian: memasang, mengalir, hidup, buyar, membuyarkan, angkat kaki, lari, berlari, membelandangkan
+      Italian: correre
+      Portuguese: correr
+  - (verb) flee; take to one's heels; cut and run
+      Indonesian: memasang, mengalir, meluputkan, hidup, beredar, pergi, hengkang, kabur, buyar, membuyarkan, lolos, terluput, lari, elak, berlari, bolos, minggat
+      Italian: scappare
+      Portuguese: escapar, fugir, meter o rabo entre as pernas
+  - (verb) stretch out over a distance, space, time, or scope; run or extend between two points or beyond a certain point
+      Indonesian: membarui, memperbarui, meluas, memampangkan, memanjangkan, membabarkan, membidangkan, mementang, memperpanjang, merentangkan, mengulurkan, terbentang, membawa, memasang, mengalir, melampaui, mengoper, mengoperkan, mengangsurkan, menyalip, hidup, beredar, membimbing, menuntun, menghantar, beralih, berjalan, menghabiskan, mengisi, buyar, membuyarkan, berlalu, berangkat, lalu, mengemudikan, ke, memimpin, mengiring, menuju, memandu, larikan, menganjur, melintasi, menyeberangi
+      Italian: andare
+      Portuguese: ir
+  - (verb) direct or control; projects, businesses, etc.
+      Indonesian: bergerak, menyelenggarakan, memasang, mengalir, mengurus, menjalankan, hidup, membedel, berjalan, buyar, membuyarkan, mengoperasikan, mengusahakan, kelola, beroperasi, mengendalikan
+      Italian: amministrare, gestire, condurre, curare, dirigere, manovrare, reggere
+      Portuguese: operar
+  - (verb) have a particular form
+      Indonesian: memasang, mengalir, hidup, berjalan, buyar, membuyarkan
+  - (verb) move along, of liquids
+      Indonesian: memasang, bercucuran, berhamburan, berlinang, membesut, mengalir, menggerabak, hidup, buyar, membuyarkan, hanyut, alir, arus, hala, mengaliri, tersalur
+      Italian: affluire, colare, defluire, fluire, scorrere
+      Portuguese: correr, manar, fluir
+  - (verb) perform as expected when applied
+      Indonesian: berakhir, mengakok, bergerak, menyelenggarakan, memasang, mengalir, menjalankan, hidup, membedel, mengerjakan, bekerja, kerja, pergi, beralih, berjalan, buyar, membuyarkan, mengoperasikan, berangkat, jalan, lari, berbunyi, berfungsi, berjaya, beroperasi, mengendalikan
+      Italian: andare, funzionare
+      Portuguese: operar, funcionar
+  - (verb) change or be different within limits
+      Indonesian: memasang, mengalir, hidup, buyar, membuyarkan, antara
+  - (verb) run, stand, or compete for an office or a position
+      Indonesian: memasang, mengalir, hidup, buyar, membuyarkan, bertanding, berlari, mempertandingkan, berkampanye
+  - (verb) cause to emit recorded audio or video
+      Indonesian: memetik, mempertontonkan, bermain-main, main-main, memasang, mengalir, hidup, buyar, membuyarkan
+  - (verb) move about freely and without restraint, or act as if running around in an uncontrolled way
+      Indonesian: berlari
+  - (verb) have a tendency or disposition to do or be something; be inclined
+      Indonesian: memelihara, memasang, mengalir, menunggui, hidup, buyar, membuyarkan, memiringkan, cenderung, menggembalakan, gemar, sandar, mudah
+      Italian: tendere
+      Portuguese: estar inclinado a
+  - (verb) be operating, running or functioning
+      Indonesian: bergerak, berjalan, berlari, berfungsi
+      Portuguese: funcionar
+  - (verb) change from one state to another
+      Indonesian: cair
+  - (verb) cause to perform
+      Indonesian: bergerak, menghidupkan, berjalan
+  - (verb) be affected by; be subjected to
+      Italian: correre
+  - (verb) continue to exist
+      Indonesian: tahan, berlaku, memasang, mengalir, hidup, berlangsung, buyar, membuyarkan, wujud, berkeras, membetahkan, bercabul, kekal, biasa
+      Italian: persistere
+  - (verb) occur persistently
+      Indonesian: memasang, mengalir, buyar, membuyarkan, angkat kaki, lari, berlari, membelandangkan
+  - (verb) carry out a process or program, as on a computer or a machine
+      Indonesian: melakukan, menyelenggarakan, memasang, mengalir, hidup, buyar, membuyarkan, membunuh
+  - (verb) include as the content; broadcast or publicize
+      Indonesian: membawa, mengangkut, memasang, mengalir, hidup, buyar, membuyarkan
+  - (verb) conduct to completion
+      Indonesian: membawa, melaksanakan
+  - (verb) pass over, across, or through
+      Indonesian: menarik, memasang, mengalir, membentuk, melampaui, mengoper, mengoperkan, mengangsurkan, menyalip, hidup, beredar, membimbing, menghabiskan, melukis, buyar, membuyarkan, berlalu, lalu, menjuruskan, memimpin, memandu, larikan
+      Portuguese: passar
+  - (verb) cause something to pass or lead somewhere
+      Indonesian: memasang, mengalir, hidup, menular, membimbing, merebak, buyar, membuyarkan, mengemudikan, memimpin, memandu
+  - (verb) deal in illegally, such as arms or liquor
+      Indonesian: memasang, mengalir, hidup, buyar, membuyarkan, menyeludup
+  - (verb) cause an animal to move fast
+      Indonesian: berlari, mempertandingkan
+  - (verb) be diffused
+      Indonesian: memasang, mengalir, berdarah, hidup, turun, merebak, kembang, buyar, membuyarkan, cair
+      Italian: scolorire, diffondersi
+  - (verb) cover by running; run a certain distance
+      Indonesian: berlalu, jalan, lari, berlari
+      Portuguese: correr
+  - (verb) extend or continue for a certain period of time
+      Indonesian: memasang, mengalir, hidup, berlangsung, buyar, membuyarkan, menyiarkan
+  - (verb) set animals loose to graze
+      Portuguese: soltar
+  - (verb) keep company
+      Indonesian: memasang, mengalir, hidup, buyar, membuyarkan, mengiring
+  - (verb) travel a route regularly
+      Indonesian: memasang, mengalir, hidup, berulang-alik, berjalan, buyar, membuyarkan, bertolak, alik, ulang-alik
+  - (verb) pursue for food or sport (as of wild animals)
+      Indonesian: memasang, mengalir, hidup, buyar, membuyarkan, berburu, memburu, mengejar
+      Italian: cacciare, andare a caccia di
+      Portuguese: caçar
+  - (verb) compete in a race
+      Indonesian: memasang, mengalir, hidup, buyar, membuyarkan, jalan, lari, berlari, berlomba
+      Italian: correre, gareggiare
+      Portuguese: correr
+  - (verb) progress by being changed
+      Indonesian: berganjak, bergeser, memindahkan, menggerakkan, bergerak, gerak, bergulir, menggulir, mengisarkan, menjadi, memasang, mengalir, hidup, berpindah, pergi, beralih, berjalan, buyar, membuyarkan, berangkat, jalan, lari
+  - (verb) reduce or cause to be reduced from a solid to a liquid state, usually by heating
+      Indonesian: memasang, mengalir, meleleh, meluik, hidup, turun, lebur, mencair, mencairkan, buyar, membuyarkan, cair, melumer
+      Italian: sciogliere, fondere, disfare, sciogliersi, disciogliere, disciogliersi, disfarsi, liquefare, liquefarsi, squagliare
+      Portuguese: derreter, fundir
+  - (verb) come unraveled or undone as if by snagging
+      Indonesian: memasang, mengalir, mencarik, meleleh, hidup, buyar, membuyarkan, carik
+      Italian: sfilarsi, smagliarsi
+  - (verb) become undone
+      Indonesian: memasang, mengalir, hidup, menguraikan, buyar, membuyarkan, carik, menggalurkan, terurai
+[Antonyms]
+  - idle (direct)
+      -> tick over
+[Derived forms]
+  - move
+  - go
+  - race
+  - ply
+  - black market
+  - flow
+  - feed
+  - course
+  - campaign
+  - ladder
+  - fluid
+  - runny
+  - unravel
+  - running
+  - footrace
+  - foot race
+  - runner
+  - rivulet
+  - rill
+  - runnel
+  - streamlet
+  - discharge
+  - outpouring
+  - political campaign
+  - tally
+  - running play
+  - running game
+  - track
+  - test
+  - trial
+  - ravel
+[Is a kind of]
+  - score
+    - success
+      - attainment
+        - accomplishment, achievement
+          - action
+            - act, deed, human action, human activity
+              - event
+                - abstraction, abstract entity
+                  - entity
+  - attempt, effort, endeavor, endeavour, try
+    - activity
+      - act, deed, human action, human activity
+        - event
+          - abstraction, abstract entity
+            - entity
+  - race
+    - contest, competition
+      - social event
+        - event
+          - abstraction, abstract entity
+            - entity
+  - succession
+    - series
+      - ordering, order, ordination
+        - arrangement
+          - group, grouping
+            - abstraction, abstract entity
+              - entity
+  - football play
+    - play
+      - plan of action
+        - plan, program, programme
+          - idea, thought
+            - content, cognitive content, mental object
+              - cognition, knowledge, noesis
+                - psychological feature
+                  - abstraction, abstract entity
+                    - entity
+  - trip
+    - journey, journeying
+      - travel, traveling, travelling
+        - motion, movement, move
+          - change
+            - action
+              - act, deed, human action, human activity
+                - event
+                  - abstraction, abstract entity
+                    - entity
+  - locomotion, travel
+    - motion, movement, move
+      - change
+        - action
+          - act, deed, human action, human activity
+            - event
+              - abstraction, abstract entity
+                - entity
+  - time period, period of time, period
+    - fundamental quantity, fundamental measure
+      - measure, quantity, amount
+        - abstraction, abstract entity
+          - entity
+  - liberty
+    - freedom
+      - state
+        - attribute
+          - abstraction, abstract entity
+            - entity
+  - indefinite quantity
+    - measure, quantity, amount
+      - abstraction, abstract entity
+        - entity
+  - stream, watercourse
+    - body of water, water
+      - thing
+        - physical entity
+          - entity
+  - damage, harm, impairment
+    - change, alteration, modification
+      - happening, occurrence, occurrent, natural event
+        - event
+          - abstraction, abstract entity
+            - entity
+  - flow, flowing
+    - change of location, travel
+      - movement, motion
+        - happening, occurrence, occurrent, natural event
+          - event
+            - abstraction, abstract entity
+              - entity
+  - sequence, chronological sequence, succession, successiveness, chronological succession
+    - temporal arrangement, temporal order
+      - temporal property
+        - property
+          - attribute
+            - abstraction, abstract entity
+              - entity
+  - travel rapidly, speed, hurry, zip
+    - travel, go, move, locomote
+      - act, move
+  - leave, go forth, go away
+    - travel, go, move, locomote
+      - act, move
+  - be
+    - exist, be
+  - direct
+    - manage, deal, care, handle
+      - control, command
+        - direct
+          - order, tell, enjoin, say
+            - request
+              - ask
+                - request, ask for, bespeak, call for, quest
+                  - communicate, pass on, pass, pass along, put across
+                    - convey, transmit, communicate
+                      - transfer
+                        - move, displace
+                          - change, alter, modify
+                            - induce, stimulate, cause, have, get, make
+                              - act, move
+  - move
+    - act, move
+  - perform, execute, do
+    - act, move
+  - get down, begin, get, start out, start, set about, set out, commence
+    - act, move
+  - travel, go, move, locomote
+    - act, move
+  - function, work, operate, go
+    - perform, execute, do
+      - act, move
+  - become, go, get
+    - change state, turn
+      - change
+        - act, move
+  - process, treat
+    - affect, impact, bear upon, bear on, touch on, touch
+      - change, alter, modify
+        - induce, stimulate, cause, have, get, make
+          - act, move
+  - incur
+    - subject
+      - affect, impact, bear upon, bear on, touch on, touch
+        - change, alter, modify
+          - induce, stimulate, cause, have, get, make
+            - act, move
+  - continue
+    - exist, be
+  - occur
+    - appear, come along
+      - change
+        - act, move
+  - enforce, implement, apply
+    - compel, oblige, obligate
+      - induce, stimulate, cause, have, get, make
+        - act, move
+  - circulate, circularize, circularise, distribute, disseminate, propagate, broadcast, spread, diffuse, disperse, pass around
+    - publicize, publicise, air, bare
+      - tell
+        - inform
+          - communicate, intercommunicate
+            - interact
+              - act, move
+  - carry through, accomplish, execute, carry out, action, fulfill, fulfil
+    - complete, finish
+      - end, terminate
+        - change, alter, modify
+          - induce, stimulate, cause, have, get, make
+            - act, move
+    - effect, effectuate, set up
+      - cause, do, make
+        - make, create
+          - induce, stimulate, cause, have, get, make
+            - act, move
+  - pass, make pass
+    - induce, stimulate, cause, have, get, make
+      - act, move
+  - succeed, win, come through, bring home the bacon, deliver the goods
+    - act, move
+  - trade, merchandise
+    - act, move
+  - move, displace
+    - change, alter, modify
+      - induce, stimulate, cause, have, get, make
+        - act, move
+  - diffuse, spread, spread out, fan out
+    - spread, distribute
+      - move, displace
+        - change, alter, modify
+          - induce, stimulate, cause, have, get, make
+            - act, move
+  - sail
+    - boat
+      - ride
+        - travel
+          - travel, go, move, locomote
+            - act, move
+  - pass
+    - travel, go, move, locomote
+      - act, move
+  - last, endure
+    - measure
+      - be
+        - refer, pertain, relate, concern, come to, bear on, touch, touch on, have to do with
+  - free, liberate, release, unloose, unloosen, loose
+    - change, alter, modify
+      - induce, stimulate, cause, have, get, make
+        - act, move
+  - accompany
+    - travel, go, move, locomote
+      - act, move
+  - travel, trip, jaunt
+    - travel, go, move, locomote
+      - act, move
+  - capture, catch
+    - get, acquire
+      - act, move
+  - compete, vie, contend
+    - act, move
+  - change
+    - act, move
+  - dissolve, resolve, break up
+    - change integrity
+      - change
+        - act, move
+  - break, separate, split up, fall apart, come apart
+    - change integrity
+      - change
+        - act, move
+  - disintegrate
+    - change integrity
+      - change
+        - act, move
+[Kinds]
+  - earned run
+  - unearned run
+  - run batted in, RBI
+  - Snellen test
+  - assay
+    - diagnostic test, diagnostic assay
+      - biopsy
+        - blood test
+          - agglutination test
+            - heterophil test
+            - Widal test, Widal's test
+          - complement fixation test
+            - Wassermann test, Wasserman reaction, Wassermann
+          - PSA blood test
+        - chorionic villus sampling, chorionic villus biopsy
+        - needle biopsy
+      - cloze procedure, cloze test
+      - fecal occult test, faecal occult test, stool test
+      - GI series
+      - glucose tolerance test
+      - Pap test, Papanicolaou test, smear test
+      - PKU test
+      - Queckenstedt's test
+      - radioactive iodine test
+        - radioactive iodine excretion test
+        - radioactive iodine uptake test, RAIU
+      - Rubin test
+      - skin test
+        - Dick test
+        - patch test
+        - Schick test
+        - scratch test
+        - tuberculin test, tuberculin skin test
+          - Mantoux test
+          - tine test
+        - intradermal test, subcutaneous test
+      - tissue typing
+      - vital capacity
+    - bioassay, bio-assay
+      - immunoassay, immunochemical assay
+        - radioimmunoassay
+      - pregnancy test
+        - Friedman test, rabbit test
+    - enzyme-linked-immunosorbent serologic assay, ELISA
+    - immunohistochemistry
+  - clinical trial, clinical test
+    - phase I clinical trial, phase I
+    - phase II clinical trial, phase II
+    - phase III clinical trial, phase III
+    - phase IV clinical trial, phase IV
+  - double blind
+  - preclinical trial, preclinical test, preclinical phase
+  - audition, tryout
+    - screen test
+  - field trial
+  - fitting, try-on, trying on
+  - MOT, MOT test, Ministry of Transportation test
+  - pilot project, pilot program
+  - funrun, fun run
+  - marathon
+  - obstacle race
+  - steeplechase
+  - track event
+    - dash
+    - hurdles, hurdling, hurdle race
+    - mile
+  - losing streak
+  - winning streak
+  - draw, draw play
+  - end run, sweep
+  - return
+  - reverse
+    - double reverse
+  - rush, rushing
+  - dash, sprint
+    - break
+      - fast break
+  - print run, press run
+    - split run
+  - run-time
+  - governor's race, campaign for governor
+  - senate campaign, senate race
+  - jet, squirt, spurt, spirt
+    - spray
+    - spritz
+  - escape, leak, leakage, outflow
+  - trot, jog, clip
+  - scurry, scamper, skitter, scuttle
+    - crab
+  - romp
+  - run bases
+  - streak
+  - outrun
+  - jog
+  - sprint
+  - lope
+  - rush
+  - hare
+  - flee, fly, take flight
+    - defect, desert
+      - rat
+    - break
+    - stampede
+    - abscond, bolt, absquatulate, decamp, run off, go off, make off
+      - levant
+    - elope, run off
+    - escape, get away, break loose
+      - escape, get away
+      - break, break out, break away
+      - shake, shake off, throw off, escape from
+      - elude, evade, bilk
+      - exfiltrate
+      - slip
+      - run away
+    - high-tail, hightail
+  - skedaddle
+  - come
+  - radiate, ray
+  - diverge
+    - divaricate
+    - bifurcate
+  - go far, go deep
+  - wind, twist, curve
+    - circumvolute
+    - spiral
+    - snake
+  - underrun
+  - financier
+  - work
+  - block
+  - warm up
+  - range
+    - carry
+  - jet, gush
+  - flush
+    - wash down, flush down
+  - tide, surge
+  - circulate
+    - ventilate
+  - eddy, purl, whirlpool, swirl, whirl
+  - waste, run off
+  - run down
+  - pour
+    - spurt, spirt, gush, spout
+      - pump
+      - blow
+      - whoosh
+    - regurgitate
+  - spill, run out
+    - overflow, overrun, well over, run over, brim over
+      - geyser
+  - stream, well out
+    - spin
+      - centrifuge, centrifugate
+        - ultracentrifuge
+  - trickle, dribble, filter
+    - leach, percolate
+  - drain, run out
+  - seep, ooze
+  - gutter
+  - service, serve
+  - double
+  - roll
+  - cut
+  - drive, ride
+  - cross-file, register
+    - slate
+  - stump
+  - rerun
+  - whistlestop
+  - take kindly to
+  - suffer
+  - gravitate
+  - idle, tick over
+  - carry over
+  - reverberate
+  - step
+  - rub
+    - brush
+    - pumice
+    - gauge
+    - puree, strain
+    - rosin
+    - sponge down, sponge off
+    - worry
+    - scrub, scour
+      - holystone
+    - scour, abrade
+    - smear, blur, smudge, smutch
+      - resmudge
+      - dust
+    - scrape, grate
+      - paw
+    - wipe, pass over
+      - sponge
+      - squeegee
+      - sweep, broom
+      - towel
+      - whisk, whisk off
+    - grate
+  - thread
+  - crock
+  - scrounge, forage
+    - rustle
+  - snipe
+  - whale
+  - still-hunt, ambush
+  - turtle
+  - drive
+  - rabbit
+  - fowl
+    - grouse
+  - poach
+  - seal
+  - ferret
+  - course
+  - foxhunt
+  - jacklight, jack
+  - hawk
+  - falcon
+  - show
+  - place
+  - boat-race
+  - horse-race
+    - jockey
+  - campaign
+    - cross-file, register
+      - slate
+    - stump
+    - rerun
+    - whistlestop
+  - speed skate
+  - fuse
+  - try, render
+[Parts]
+  - football play
+    - play
+      - plan of action
+        - goal, end
+  - trip
+    - journey, journeying
+      - stage, leg
+  - stream, watercourse
+    - ford, crossing
+    - meander
+    - midstream
+    - body of water, water
+      - water, H2O
+        - hydrogen, H, atomic number 1
+        - oxygen, O, atomic number 8
+          - selenite
+            - selenium, Se, atomic number 34
+[Domains]
+  - baseball
+  - baseball game
+  - ball
+  - American football
+  - American football game
+  - sport
+  - athletics
+  - crime
+  - criminal offense
+  - criminal offence
+  - law-breaking

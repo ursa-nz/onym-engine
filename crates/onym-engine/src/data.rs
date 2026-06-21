@@ -14,6 +14,7 @@
 use crate::OpenError;
 use crate::etymology::Etymology;
 use crate::morphology::{self, Morphology};
+use crate::translations::Translations;
 use crate::textforms::{ascii_lower, decode, index_variants, to_display_form};
 use crate::verb_examples::VerbExampleIndex;
 use std::collections::HashMap;
@@ -120,6 +121,8 @@ pub(crate) struct DictSource {
     verb_examples: VerbExampleIndex,
     // The optional etymology overlay; empty when etym.onym is absent.
     etymology: Etymology,
+    // The optional translations overlay; empty when omw.onym is absent.
+    translations: Translations,
 }
 
 impl DictSource {
@@ -150,6 +153,10 @@ impl DictSource {
             file: data_dir.join("etym.onym"),
             source,
         })?;
+        let translations = Translations::load(data_dir).map_err(|source| OpenError {
+            file: data_dir.join("omw.onym"),
+            source,
+        })?;
 
         // The reverse sense-count list is optional: absent, every tag count is 0.
         let mut tag_counts = HashMap::new();
@@ -178,6 +185,7 @@ impl DictSource {
             tag_counts,
             verb_examples,
             etymology,
+            translations,
         })
     }
 
@@ -186,6 +194,14 @@ impl DictSource {
     /// WordNet directory never gains an Etymology section.
     pub(crate) fn etymology(&self, lemma: &str) -> Vec<String> {
         self.etymology.paragraphs(lemma)
+    }
+
+    /// The translation groups for the synset at `pos`/`offset`, from the optional overlay, each a
+    /// language display name and its words, the groups ordered by display name. Empty when the
+    /// overlay is absent or the synset has no entry, so a lookup over a plain WordNet directory
+    /// never gains a Translations section.
+    pub(crate) fn translations(&self, pos: WnPos, offset: u32) -> Vec<(String, Vec<String>)> {
+        self.translations.groups(pos.index() as u8, offset)
     }
 
     /// The base forms WordNet's `morphstr` yields for `lemma` in `pos_code`, in its order, or

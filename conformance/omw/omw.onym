@@ -1,0 +1,88 @@
+ omw.onym conformance test overlay
+ a trimmed slice of the OMW translations overlay (it, id, pt) for the words below
+ lang id Indonesian
+ lang it Italian
+ lang pt Portuguese
+a02189591	id:lima	it:5,cinque
+n00186216	id:mata,catatan,gundal,larian	it:run	pt:corrida
+n00292442	id:jalan,lari,berlari,pendakian	it:corsa
+n00307377	id:perjalanan	pt:trajecto,trajeto
+n00559992	id:jalan
+n00795719	id:ujian,uji	it:cimento,esperimento,test	pt:teste
+n00912318	id:kucing
+n02148998	id:anjing	it:cane,Canis familiaris	pt:cão,cachorra,cachorro,cadela
+n02186011	it:felino	pt:felino,felinos,felídeos
+n02186658	id:kucing	it:gatto	pt:Gato doméstico,Gato-doméstico,bichano,gata,gato,gato-doméstico
+n02192927	id:kucing	pt:gato,grande felino
+n02789175	it:alare
+n03067951	id:kucing	pt:Gatos,Raça de gato
+n03699088	pt:khat
+n03996464	it:arpione,nottolino	pt:prendedor
+n04664076	id:air	it:acquedotto	pt:Abastecimento de água,fornecimento de água,redes de distribuição de água
+n06154185	id:ibu	it:madre	pt:mãe
+n08047302	id:limpahan
+n08082857	id:koyak,carik	it:smagliatura
+n08100822	id:jalan
+n08113832	id:kampanye	it:campagna	pt:campanha
+n08323602	id:hot dog	it:hot dog	pt:salsicha,Cachorro quente,bilau,cachorro-quente
+n08584882	id:air	it:acqua,H2O	pt:água (substância),água
+n08748402	it:squadra di pallacanestro
+n09130682	id:persembahan
+n09937207	id:air,perairan	it:acqua	pt:água,Corpos de água,corpo de água,massa de água,oceano
+n10128822	id:anak air,anak sungai	it:ruscello,rigagnolo,rivo,rivolo	pt:regato,ribeira
+n10611363	id:durjana,kurang ajar,penjahat,keparat,bandit,kasar
+n10625423	id:perempuan jalang
+n10750980	id:orang
+n11074369	id:ibu,mama,emak,ibunda,mami	it:madre,mamma,genitrice	pt:mãe,progenitora
+n11074899	id:ibu	pt:mãe
+n11074991	id:ibu	pt:mãe
+n14641173	id:lima	it:5,V,cinque
+n15790189	id:air	pt:água,Agua
+n15791857	id:air	it:acqua	pt:água
+n15801034	id:kencing,air kencing,urine	it:orina,urina	pt:urina,pipi,xixi,Urina
+n16055511	it:madre,madre dell'aceto
+v00056948	id:mendapatkan,mengantongi,beroleh,melahirkan,membawa,memperoleh,mendapat,mendapati,mengambil,menjebrolkan	it:generare	pt:conceber,gerar,procriar,ter filho
+v00072724	id:berair
+v00079683	id:mengeluarkan,menyingkirkan,muak,benci,meluahkan,meluik,membuang,memuntahkan,menebar,menebarkan,menolak,muntah,mengecor	it:rimettere,rigettare,ributtare,vomitare	pt:regurgitar,vomitar
+v00238091	id:menyiram,mengairi,membuyur,menjirus,menyirami	it:adacquare,irrigare	pt:molhar,irrigar,regar
+v00347891	id:memasang,mengalir,hidup,menguraikan,buyar,membuyarkan,carik,menggalurkan,terurai
+v00350056	id:memasang,mengalir,mencarik,meleleh,hidup,buyar,membuyarkan,carik	it:sfilarsi,smagliarsi
+v00465852	id:memasang,mengalir,meleleh,meluik,hidup,turun,lebur,mencair,mencairkan,buyar,membuyarkan,cair,melumer	it:sciogliere,fondere,disfare,sciogliersi,disciogliere,disciogliersi,disfarsi,liquefare,liquefarsi,squagliare	pt:derreter,fundir
+v00473582	id:berair	it:bagnare,lacrimare,lagrimare,piangere
+v00542235	id:bergerak,menghidupkan,berjalan
+v00565444	id:berganjak,bergeser,memindahkan,menggerakkan,bergerak,gerak,bergulir,menggulir,mengisarkan,menjadi,memasang,mengalir,hidup,berpindah,pergi,beralih,berjalan,buyar,membuyarkan,berangkat,jalan,lari
+v00575888	id:cair
+v01138091	id:memasang,mengalir,hidup,buyar,membuyarkan,jalan,lari,berlari,berlomba	it:correre,gareggiare	pt:correr
+v01146347	id:memasang,mengalir,hidup,buyar,membuyarkan,bertanding,berlari,mempertandingkan,berkampanye
+v01197563	id:memasang,mengalir,hidup,buyar,membuyarkan,berburu,memburu,mengejar	it:cacciare,andare a caccia di	pt:caçar
+v01268754	id:menarik,memasang,mengalir,membentuk,melampaui,mengoper,mengoperkan,mengangsurkan,menyalip,hidup,beredar,membimbing,menghabiskan,melukis,buyar,membuyarkan,berlalu,lalu,menjuruskan,memimpin,memandu,larikan	pt:passar
+v01587855	id:berakhir,mengakok,bergerak,menyelenggarakan,memasang,mengalir,menjalankan,hidup,membedel,mengerjakan,bekerja,kerja,pergi,beralih,berjalan,buyar,membuyarkan,mengoperasikan,berangkat,jalan,lari,berbunyi,berfungsi,berjaya,beroperasi,mengendalikan	it:andare,funzionare	pt:operar,funcionar
+v01588512	id:bergerak,berjalan,berlari,berfungsi	pt:funcionar
+v01708266	id:membawa,melaksanakan
+v01786653	id:memetik,mempertontonkan,bermain-main,main-main,memasang,mengalir,hidup,buyar,membuyarkan
+v01816044	id:membawa,mengangkut,memasang,mengalir,hidup,buyar,membuyarkan
+v01938977	id:memasang,mengalir,hidup,berulang-alik,berjalan,buyar,membuyarkan,bertolak,alik,ulang-alik
+v01990161	id:berlalu,jalan,lari,berlari	pt:correr
+v02001779	id:memasang,mengalir,hidup,buyar,membuyarkan,angkat kaki,lari,berlari,membelandangkan	it:correre	pt:correr
+v02003235	id:memasang,mengalir,hidup,buyar,membuyarkan,mengiring
+v02079317	id:membuntuti,menguntit,menguntiti,merunut,merunuti,mengikut,melacak,menjejaki,meluru,memburu,mengejar,melalah,melelah,menguber,mengudak,membayang-bayangi,mengesan,anjing tanah,berburu-buru,jejak,kejar,oyak	it:rincorrere,inseguire,seguire le orme di,seguire le tracce di	pt:caçar,perseguir,ir à caça
+v02138830	id:memasang,mengalir,berdarah,hidup,turun,merebak,kembang,buyar,membuyarkan,cair	it:scolorire,diffondersi
+v02145011	id:memasang,bercucuran,berhamburan,berlinang,membesut,mengalir,menggerabak,hidup,buyar,membuyarkan,hanyut,alir,arus,hala,mengaliri,tersalur	it:affluire,colare,defluire,fluire,scorrere	pt:correr,manar,fluir
+v02153761	id:memasang,mengalir,meluputkan,hidup,beredar,pergi,hengkang,kabur,buyar,membuyarkan,lolos,terluput,lari,elak,berlari,bolos,minggat	it:scappare	pt:escapar,fugir,meter o rabo entre as pernas
+v02171325	id:berlari,mempertandingkan
+v02178944	id:berlari
+v02327412	id:memasang,mengalir,hidup,buyar,membuyarkan,menyeludup
+v02445548	id:menyirami	it:abbeverare,annaffiare,innaffiare	pt:dar,jogar água benta
+v02513730	pt:soltar
+v02536453	id:bergerak,menyelenggarakan,memasang,mengalir,mengurus,menjalankan,hidup,membedel,berjalan,buyar,membuyarkan,mengoperasikan,mengusahakan,kelola,beroperasi,mengendalikan	it:amministrare,gestire,condurre,curare,dirigere,manovrare,reggere	pt:operar
+v02648260	id:melindungi,memelihara,menjaga,membela,mengasuh,memanjakan	it:fare da madre a
+v02661541	id:melakukan,menyelenggarakan,memasang,mengalir,hidup,buyar,membuyarkan,membunuh
+v02711487	id:memasang,mengalir,buyar,membuyarkan,angkat kaki,lari,berlari,membelandangkan
+v02748246	id:tahan,berlaku,memasang,mengalir,hidup,berlangsung,buyar,membuyarkan,wujud,berkeras,membetahkan,bercabul,kekal,biasa	it:persistere
+v02748858	id:memasang,mengalir,hidup,berlangsung,buyar,membuyarkan,menyiarkan
+v02788495	id:membarui,memperbarui,meluas,memampangkan,memanjangkan,membabarkan,membidangkan,mementang,memperpanjang,merentangkan,mengulurkan,terbentang,membawa,memasang,mengalir,melampaui,mengoper,mengoperkan,mengangsurkan,menyalip,hidup,beredar,membimbing,menuntun,menghantar,beralih,berjalan,menghabiskan,mengisi,buyar,membuyarkan,berlalu,berangkat,lalu,mengemudikan,ke,memimpin,mengiring,menuju,memandu,larikan,menganjur,melintasi,menyeberangi	it:andare	pt:ir
+v02789219	id:memasang,mengalir,hidup,menular,membimbing,merebak,buyar,membuyarkan,mengemudikan,memimpin,memandu
+v02823148	id:memelihara,memasang,mengalir,menunggui,hidup,buyar,membuyarkan,memiringkan,cenderung,menggembalakan,gemar,sandar,mudah	it:tendere	pt:estar inclinado a
+v02824721	it:correre
+v02825100	id:memasang,mengalir,hidup,berjalan,buyar,membuyarkan
+v02831002	id:memasang,mengalir,hidup,buyar,membuyarkan,antara

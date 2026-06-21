@@ -48,9 +48,27 @@ typedef struct
   char **implications;  /* NULL-terminated, possibly empty */
 } OnymCoreAntonym;
 
+/* One language's words for a sense: a display name and that language's words. */
+typedef struct
+{
+  char  *language;
+  char **words;         /* NULL-terminated */
+} OnymCoreLanguageWords;
+
+/* One looked-up sense's translations: the sense's part of speech and gloss, as the definitions
+ * carry them, and its words in other languages grouped by language. */
+typedef struct
+{
+  const char            *pos;      /* as OnymCoreDefinition.pos; static, do not free */
+  char                  *gloss;
+  OnymCoreLanguageWords *languages;
+  size_t                 n_languages;
+} OnymCoreSenseTranslations;
+
 /* Which item array of a section is populated. ETYMOLOGY reuses the words array: its strings are
- * prose paragraphs to render as text, not navigable terms. It appears only when the optional
- * etymology overlay is present, so a plain WordNet build never sees it. */
+ * prose paragraphs to render as text, not navigable terms. TRANSLATIONS uses the translations
+ * array. Both appear only when the matching optional overlay is present, so a plain WordNet build
+ * never sees them. */
 typedef enum
 {
   ONYM_CORE_SECTION_DEFINITIONS = 0,
@@ -58,19 +76,21 @@ typedef enum
   ONYM_CORE_SECTION_ANTONYMS = 2,
   ONYM_CORE_SECTION_TREE = 3,
   ONYM_CORE_SECTION_ETYMOLOGY = 4,
+  ONYM_CORE_SECTION_TRANSLATIONS = 5,
 } OnymCoreSectionKind;
 
 /* A titled group of items of one kind. Exactly the array named by kind is non-NULL (ETYMOLOGY uses
- * words); n_items is its length. A section never arrives empty. */
+ * words, TRANSLATIONS uses translations); n_items is its length. A section never arrives empty. */
 typedef struct
 {
   int          kind;  /* an OnymCoreSectionKind */
   const char  *title; /* static, do not free */
   size_t       n_items;
-  OnymCoreDefinition *definitions;
-  char              **words; /* also NULL-terminated */
-  OnymCoreAntonym    *antonyms;
-  OnymCoreTreeNode  **tree;  /* also NULL-terminated */
+  OnymCoreDefinition        *definitions;
+  char                     **words; /* also NULL-terminated */
+  OnymCoreAntonym           *antonyms;
+  OnymCoreTreeNode         **tree;  /* also NULL-terminated */
+  OnymCoreSenseTranslations *translations;
 } OnymCoreSection;
 
 /* The whole entry for a looked-up word: the resolved headword and its sections in display order. */
