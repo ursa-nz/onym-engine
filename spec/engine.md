@@ -371,13 +371,15 @@ HMERONYM bits, computed per noun lemma (WordNetLookup.kt:593-632):
 - For each **space-free** getindex variant of the lemma's display form, for each of its noun
   senses, for each HYPERNYM pointer: if the hypernym synset carries a meronym pointer the meronym
   bit sets; if it carries a holonym pointer the holonym bit sets (WordNet's `HasHoloMero`).
-- The bits OR across all variants, so a same-spelt homograph can raise a word's depth: the plant
-  `pica-pica` grows its part-of tree deep only because the magpie `pica_pica`, a getindex variant,
-  inherits a holonym. Kept as intended behaviour.
+- The bits are read from the lemma's own index key and OR across the senses that share that key, so
+  a word's depth reflects all of its own meanings but not a same-spelt homograph reached through a
+  different spelling. This is [fix 5](#fix-5-homograph-depth-contamination): the C library ORed the
+  bits across every getindex variant, so the plant `pica-pica` grew its part-of tree deep only
+  because the magpie `pica_pica`, a distinct index key, inherits a holonym.
 - `is_defined` is handed the space-separated lemma, and index keys never contain spaces, so a
   multiword variant that still contains a space can never match; a **multiword noun therefore never
-  resolves and its trees stay flat**. Kept as intended behaviour; `pica-pica` versus a true
-  multiword like `ice cream` demonstrates both sides.
+  resolves and its trees stay flat**. Kept as intended behaviour; `cucumber`, a single word that
+  grows deep, versus a true multiword like `ice cream`, which stays flat, demonstrates both sides.
 
 A sense whose lemma's holonym bit is clear grows `Part of` one level deep (its own holonyms only);
 set, it grows to depth 20. Likewise the meronym bit for `Parts`, which also enables the inherited
@@ -472,9 +474,9 @@ files and the etymology overlay carry theirs.
 
 ## 7. Deliberate fixes
 
-This specification departs from Artha and the WordNet C library (libwordnet) in **exactly four**
-behaviours. Each repairs an iteration-state, pointer-order, or searched-spelling dependence in that
-library which produces arbitrary, input-dependent output. Everything else in this document, including every quirk marked
+This specification departs from Artha and the WordNet C library (libwordnet) in **exactly five**
+behaviours. Each repairs an iteration-state, pointer-order, or spelling dependence in that library
+which produces arbitrary, input-dependent output. Everything else in this document, including every quirk marked
 "kept as intended behaviour", is normative as written. Fixtures for the affected words are written
 from this specification, not captured from any reference build, and the affected words below must all
 be in the conformance corpus.
@@ -550,6 +552,24 @@ adds the section to words that hid it. `nadolol` now lists the same trade-name d
 
 **Affected examples.** `nadolol` (now shows its trade-name domains) and `chequing account`
 (unchanged, the already-visible case). Both must be in the conformance corpus.
+
+### Fix 5: homograph depth contamination
+
+**Old behaviour.** The Part of and Parts depth gate (section 6.7) computes HasHoloMero per noun
+lemma, and the C library's is_defined ORed the bits across every getindex variant of the lemma. A
+same-spelt homograph reached through a different spelling therefore raised an unrelated word's depth.
+The plant `pica-pica` grows its part-of tree deep, all the way to `Plantae`, only because the magpie
+`pica_pica` (the underscore getindex variant, a distinct index key) inherits a holonym, though the
+plant's own hypernym carries none.
+
+**New behaviour.** The bits are read from the lemma's own index key alone. They still OR across the
+senses that share the key, so a word's depth reflects all of its own meanings (the cucumber vegetable
+keeps the deep taxonomy of the cucumber vine it shares a spelling with), but a homograph under a
+different spelling no longer contaminates it. The multiword gate is unchanged.
+
+**Affected examples.** `pica-pica` (the plant's part-of tree no longer grows deep on the magpie's
+holonym; both senses' is-a trees, brought in by fix 1, are unaffected). It must be in the conformance
+corpus.
 
 ## 8. Completion and suggestion
 

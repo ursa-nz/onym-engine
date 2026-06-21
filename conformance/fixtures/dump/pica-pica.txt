@@ -42,13 +42,6 @@ term: pica-pica
                         - entity
 [Part of]
   - Cnidoscolus, genus Cnidoscolus
-    - Euphorbiaceae, family Euphorbiaceae, spurge family
-      - Geraniales, order Geraniales
-        - Rosidae, subclass Rosidae
-          - Dicotyledones, class Dicotyledones, Dicotyledonae, class Dicotyledonae, Magnoliopsida, class Magnoliopsida
-            - Angiospermae, class Angiospermae, Magnoliophyta, division Magnoliophyta, Anthophyta, division Anthophyta
-              - Spermatophyta, division Spermatophyta
-                - Plantae, kingdom Plantae, plant kingdom
 [Parts]
   - herb, herbaceous plant
     - vegetable, veggie, veg

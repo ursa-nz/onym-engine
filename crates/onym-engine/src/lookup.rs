@@ -859,31 +859,39 @@ impl Lookup<'_> {
     }
 
     /// Compute Onym's is_defined depth bits per noun lemma. is_defined(lemma, NOUN) sets
-    /// bit(HMERONYM) / bit(HHOLONYM) when any of the lemma's noun senses has an immediate
-    /// hypernym that itself carries a meronym / holonym pointer (WordNet's HasHoloMero).
+    /// bit(HMERONYM) / bit(HHOLONYM) when any of the lemma's noun senses has an immediate hypernym
+    /// that itself carries a meronym / holonym pointer (WordNet's HasHoloMero).
     ///
-    /// Two faithful details matter. is_defined resolves the lemma through getindex's variants and
-    /// ORs the bits across all of them, so a word's depth can be raised by a same-spelt
-    /// homograph: the plant "pica-pica" grows its part-of tree deep only because the magpie
-    /// "pica_pica" (a getindex variant) inherits a holonym. And is_defined is given the
-    /// space-separated lemma, whose getindex variants never recover an underscored multiword
-    /// index key, so a multiword term never resolves and stays flat.
+    /// This is fix 5 of the spec's deliberate fixes (section 7). The C library's is_defined ORed the
+    /// bits across every getindex variant, so a same-spelt homograph reached through a different
+    /// spelling raised an unrelated word's depth: the plant "pica-pica" grew its part-of tree deep
+    /// only because the magpie "pica_pica" (the underscore getindex variant, a distinct index key)
+    /// inherits a holonym. The bits are now read from the lemma's own index key alone, so a homograph
+    /// under a different spelling no longer contaminates it. The bits still OR across the senses that
+    /// share the key, so a word's depth reflects all of its own meanings (the cucumber vegetable
+    /// keeps the deep taxonomy of the cucumber vine it shares a spelling with).
+    ///
+    /// The multiword gate is unchanged: is_defined sees the space form, and a multiword lemma's
+    /// getindex variants never recover a spaceless index key, so it never resolves and stays flat
+    /// ("ice cream"), while a hyphenated single word does ("pica-pica").
     fn compute_noun_depth(&self, senses: &[Sense]) -> HashMap<String, NounDepth> {
         let mut result = HashMap::new();
         for sense in senses {
             if sense.pos != WnPos::Noun || result.contains_key(&sense.lemma) {
                 continue;
             }
-            let mut meronym = false;
-            let mut holonym = false;
-            // is_defined sees the space form, whose variants are looked up by exact key; WordNet
-            // index keys never contain spaces, so a still-spaced multiword variant cannot match,
-            // which is what keeps multiword nouns' trees flat.
-            for variant in index_variants(&to_display_form(&sense.lemma))
+            // is_defined sees the space form; index keys never contain spaces, so a multiword lemma
+            // resolves through no variant and stays flat.
+            let resolvable = index_variants(&to_display_form(&sense.lemma))
                 .iter()
                 .filter(|v| !v.contains(' '))
-            {
-                for synset in self.source.senses_of(variant, WnPos::Noun) {
+                .any(|v| self.source.index_word_exists(v, WnPos::Noun));
+            let mut meronym = false;
+            let mut holonym = false;
+            if resolvable {
+                // Only the senses under this lemma's own index key, never a same-spelt homograph
+                // reached through a different getindex spelling.
+                for synset in self.source.senses_of(&sense.lemma, WnPos::Noun) {
                     for pointer in &synset.pointers {
                         if pointer.relation != WnRelation::Hypernym {
                             continue;
@@ -894,19 +902,17 @@ impl Lookup<'_> {
                         else {
                             continue;
                         };
-                        if !meronym
-                            && hypernym
-                                .pointers
-                                .iter()
-                                .any(|p| MERONYM_RELATIONS.contains(&p.relation))
+                        if hypernym
+                            .pointers
+                            .iter()
+                            .any(|p| MERONYM_RELATIONS.contains(&p.relation))
                         {
                             meronym = true;
                         }
-                        if !holonym
-                            && hypernym
-                                .pointers
-                                .iter()
-                                .any(|p| HOLONYM_RELATIONS.contains(&p.relation))
+                        if hypernym
+                            .pointers
+                            .iter()
+                            .any(|p| HOLONYM_RELATIONS.contains(&p.relation))
                         {
                             holonym = true;
                         }
