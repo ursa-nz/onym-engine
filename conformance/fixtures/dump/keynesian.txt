@@ -9,6 +9,7 @@ term: keynesian
   - Keynesianism
     - economic theory
   - Keynes, John Maynard Keynes
+    - economist, economic expert
 [Is a kind of]
   - follower
     - actor, doer, worker

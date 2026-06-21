@@ -19,7 +19,7 @@ before the engine swap. Line numbers are as of the trees at the time of writing.
 
 This specification is primary: it governs the engine's behaviour, and the conformance fixtures are
 generated from it, not from any external tool. Where it deliberately departs from the WordNet C
-library that Onym descends from, the departure is confined to the two changes in
+library that Onym descends from, the departure is confined to the changes enumerated in
 [Deliberate fixes](#7-deliberate-fixes). Everything else is bug-for-bug faithful to that library.
 Every word a deliberate fix or validation note names must appear in the conformance corpus.
 
@@ -398,11 +398,12 @@ case-insensitively, first spelling kept, like every flat section (WordNetLookup.
 ### 6.9 The pertainym depth rule
 
 `Pertains to` shows each applicable PERTAINYM target as a node (terms minus the searched lemma; an
-empty node is skipped), deduplicated by label across senses. Exactly one node per sense gets
-children: the **first** pertainym grown gets one level of hypernyms (the HYPERNYM and
-INSTANCE_HYPERNYM group, depth 1); every later pertainym of the same sense is left bare, because
-`grow_tree` zeroes its depth the first time it descends. `hasidic` shows `Orthodox Judaism` under
-`Hasidism` but nothing under `Hasidim`. Kept as intended behaviour (WordNetLookup.kt:565-591).
+empty node is skipped), deduplicated by label across senses. **Every** node gets one level of
+hypernyms beneath it (the HYPERNYM and INSTANCE_HYPERNYM group, depth 1), so `pharmaceutical` shows
+context under all three of `pharmacy`, `pharmacist` and `pharmaceutic`. This is
+[fix 3](#fix-3-pertainym-context-truncation): the C library's `grow_tree` zeroed its depth the first
+time it descended, leaving every pertainym after the first bare, an arbitrary omission that depended
+on pointer order (WordNetLookup.kt:565-591).
 
 ### 6.10 Etymology (the optional overlay)
 
@@ -469,12 +470,12 @@ files and the etymology overlay carry theirs.
 
 ## 7. Deliberate fixes
 
-This specification departs from Artha and the WordNet C library (libwordnet) in **exactly two**
-behaviours. Both repair iteration-state bugs in that library which produce arbitrary, input-dependent
-output. Everything else in this document, including every quirk marked "kept as intended behaviour",
-is normative as written. Fixtures for the affected words are written from this specification, not
-captured from any reference build, and the affected words below must all be in the conformance
-corpus.
+This specification departs from Artha and the WordNet C library (libwordnet) in **exactly three**
+behaviours. Each repairs an iteration-state or pointer-order bug in that library which produces
+arbitrary, input-dependent output. Everything else in this document, including every quirk marked
+"kept as intended behaviour", is normative as written. Fixtures for the affected words are written
+from this specification, not captured from any reference build, and the affected words below must all
+be in the conformance corpus.
 
 ### Fix 1: getindex variant truncation
 
@@ -515,6 +516,22 @@ nodes only ever carry their own children.
 **Affected examples.** `door` (the `casing, case` node loses the phantom `lock` child), `sing`
 (the `choir, chorus` node loses the bare-`sing` synset's hyponyms), and `sang`, which resolves to
 `sing` through morphology and mirrors it. All three must be in the conformance corpus.
+
+### Fix 3: pertainym context truncation
+
+**Old behaviour.** Building `Pertains to` (section 6.9), `grow_tree` zeroes its depth the first time
+it descends into a pertainym's hypernyms. Only the **first** pertainym of a sense therefore keeps its
+one level of hypernym context; every later pertainym is left bare. Which pertainym is "first" is the
+synset's pointer order, so the omission is arbitrary and input-dependent. `pharmaceutical`, whose one
+sense pertains to `pharmacy`, `pharmacist` and `pharmaceutic`, shows the medicine context under
+`pharmacy` alone, though all three have the same kind of context to show.
+
+**New behaviour.** Every pertainym node grows its one level of hypernyms (the HYPERNYM and
+INSTANCE_HYPERNYM group, depth 1), independent of pointer order. The depth gate applies per node, not
+once per sense.
+
+**Affected examples.** `pharmaceutical` (now shows context under `pharmacy`, `pharmacist` and
+`pharmaceutic`). It must be in the conformance corpus.
 
 ## 8. Completion and suggestion
 

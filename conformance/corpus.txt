@@ -49,6 +49,9 @@ sing
 sang
 casing
 
+# Pertainym context fix word.
+pharmaceutical
+
 # Headword case.
 utopian
 

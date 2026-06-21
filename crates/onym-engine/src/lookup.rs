@@ -807,15 +807,16 @@ impl Lookup<'_> {
         }
     }
 
-    /// Pertainyms, with one level of hypernyms shown beneath the first only. grow_tree zeroes its
-    /// depth the first time it descends into a pertainym's hypernyms, so every later pertainym of
-    /// the same sense is left bare, which is why "hasidic" shows "Orthodox Judaism" under
-    /// "Hasidism" but nothing under "Hasidim". The oracle does this, so the engine must.
+    /// Pertainyms, each with one level of hypernyms shown beneath it. This is fix 3 of the spec's
+    /// deliberate fixes (section 7). grow_tree zeroed its depth the first time it descended into a
+    /// pertainym's hypernyms, so only the first pertainym of a sense kept its context and every later
+    /// one was left bare, an arbitrary, pointer-order-dependent omission. Now every pertainym grows
+    /// its hypernyms, so "pharmaceutical" shows context under all three of "pharmacy", "pharmacist"
+    /// and "pharmaceutic", where the C library showed it under "pharmacy" alone.
     fn build_pertainyms(&self, senses: &[Sense]) -> Vec<TreeNode> {
         let mut seen = HashSet::new();
         let mut nodes = Vec::new();
         for sense in senses {
-            let mut grown = false;
             for pointer in &sense.synset.pointers {
                 if pointer.relation != WnRelation::Pertainym {
                     continue;
@@ -839,17 +840,12 @@ impl Lookup<'_> {
                 if terms.is_empty() {
                     continue;
                 }
-                let children = if grown {
-                    Vec::new()
-                } else {
-                    let walk = TreeWalk {
-                        group: HYPERNYM_GROUP,
-                        self_lemma_lower: &self_lower,
-                        max_depth: 1,
-                    };
-                    self.grow_nodes(&target, 0, &walk, 0)
+                let walk = TreeWalk {
+                    group: HYPERNYM_GROUP,
+                    self_lemma_lower: &self_lower,
+                    max_depth: 1,
                 };
-                grown = true;
+                let children = self.grow_nodes(&target, 0, &walk, 0);
                 let node = TreeNode { terms, children };
                 if seen.insert(node.label()) {
                     nodes.push(node);

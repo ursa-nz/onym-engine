@@ -1,0 +1,41 @@
+term: pharmaceutical
+[Definitions]
+  - (adjective) of or relating to pharmacy or pharmacists
+      "the pharmaceutical industry"
+  - (adjective) of or relating to drugs used in medical treatment
+  - (noun) drug or medicine that is prepared or dispensed in pharmacies and used in medical treatment
+[Synonyms]
+  - pharmaceutic
+[Derived forms]
+  - pharmacy
+  - pharmaceutics
+  - drugstore
+  - apothecary's shop
+  - chemist's
+  - chemist's shop
+  - pharmaceutic
+[Pertains to]
+  - pharmacy, pharmaceutics
+    - medicine, medical specialty
+  - pharmacist, druggist, chemist, apothecary, pill pusher, pill roller
+    - health professional, primary care provider, PCP, health care provider, caregiver
+  - pharmaceutic
+    - medicine, medication, medicament, medicinal drug
+[Is a kind of]
+  - medicine, medication, medicament, medicinal drug
+    - drug
+      - agent
+        - causal agent, cause, causal agency
+          - physical entity
+            - entity
+        - substance
+          - matter
+            - physical entity
+              - entity
+[Kinds]
+  - radiopharmaceutical
+  - thrombolytic, thrombolytic agent, clot buster
+    - tissue plasminogen activator, Activase
+[Parts]
+  - medicine, medication, medicament, medicinal drug
+    - physostigmine
