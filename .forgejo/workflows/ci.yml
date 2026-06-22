@@ -43,9 +43,12 @@ jobs:
         run: pipx run --spec 'reuse[charset-normalizer]' reuse lint
 
       # Initialised after the REUSE lint so the lint sees only this repository's own files; the
-      # onym-data project carries its own licences and REUSE compliance.
+      # onym-data project carries its own licences and REUSE compliance. The container runs git as a
+      # different user than owns the checkout, so clear the ownership guard before the submodule call.
       - name: Check out the onym-data submodule
-        run: git submodule update --init
+        run: |
+          git config --global --add safe.directory '*'
+          git submodule update --init
 
       - name: Format
         run: cargo fmt --check
