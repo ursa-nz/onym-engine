@@ -14,8 +14,8 @@
 use crate::OpenError;
 use crate::etymology::Etymology;
 use crate::morphology::{self, Morphology};
-use crate::translations::Translations;
 use crate::textforms::{ascii_lower, decode, index_variants, to_display_form};
+use crate::translations::Translations;
 use crate::verb_examples::VerbExampleIndex;
 use std::collections::HashMap;
 use std::fs;

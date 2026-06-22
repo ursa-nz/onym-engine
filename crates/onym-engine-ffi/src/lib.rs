@@ -233,7 +233,11 @@ fn sense_translations(block: &SenseTranslations) -> OnymCoreSenseTranslations {
         pos: pos_cstr(block.pos),
         gloss: c_string(&block.gloss),
         languages: Box::into_raw(
-            block.languages.iter().map(language_words).collect::<Box<[_]>>(),
+            block
+                .languages
+                .iter()
+                .map(language_words)
+                .collect::<Box<[_]>>(),
         ) as *mut OnymCoreLanguageWords,
         n_languages: block.languages.len(),
     }

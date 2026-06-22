@@ -209,7 +209,8 @@ mod tests {
 
     #[test]
     fn escaped_comma_and_backslash_survive_in_a_word() {
-        let (_g, omw) = overlay(b" lang en English\nn00000001\ten:Buena Vista\\, Virginia,a\\\\b\n");
+        let (_g, omw) =
+            overlay(b" lang en English\nn00000001\ten:Buena Vista\\, Virginia,a\\\\b\n");
         assert_eq!(
             omw.groups(0, 1),
             vec![(
@@ -221,7 +222,8 @@ mod tests {
 
     #[test]
     fn header_and_unkeyed_lines_carry_no_entry() {
-        let (_g, omw) = overlay(b"#comment\n lang it Italian\nbroken-no-tab\nn00000005\tit:gatto\n");
+        let (_g, omw) =
+            overlay(b"#comment\n lang it Italian\nbroken-no-tab\nn00000005\tit:gatto\n");
         assert_eq!(
             omw.groups(0, 5),
             vec![("Italian".to_string(), vec!["gatto".to_string()])]
