@@ -15,13 +15,18 @@ jobs:
     steps:
       # The base image is minimal and runs as root. Install Node and git, which the checkout
       # action needs, before that step. There is no sudo because we are already root.
+      # zstd is what the onym-data submodule's prepare.sh uses to materialise the WordNet base the
+      # conformance, etymology and translation tests open. Without the submodule those tests skip
+      # themselves, so the checkout below initialises it and they actually run.
       - name: Install dependencies
         run: |
           apt-get update
           apt-get install -y --no-install-recommends \
-            ca-certificates git nodejs curl gcc libc6-dev pipx wordnet-base
+            ca-certificates git nodejs curl gcc libc6-dev pipx zstd
 
       - uses: actions/checkout@v4
+        with:
+          submodules: recursive
 
       # Ubuntu's packaged Rust is too old for edition 2024, so install rustup without a default
       # toolchain and then the 1.96.0 pin from rust-toolchain.toml explicitly, whose default
