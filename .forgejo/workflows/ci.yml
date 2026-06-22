@@ -17,7 +17,7 @@ jobs:
       # action needs, before that step. There is no sudo because we are already root.
       # zstd is what the onym-data submodule's prepare.sh uses to materialise the WordNet base the
       # conformance, etymology and translation tests open. Without the submodule those tests skip
-      # themselves, so the checkout below initialises it and they actually run.
+      # themselves, so it is initialised below and they actually run.
       - name: Install dependencies
         run: |
           apt-get update
@@ -25,8 +25,6 @@ jobs:
             ca-certificates git nodejs curl gcc libc6-dev pipx zstd
 
       - uses: actions/checkout@v4
-        with:
-          submodules: recursive
 
       # Ubuntu's packaged Rust is too old for edition 2024, so install rustup without a default
       # toolchain and then the 1.96.0 pin from rust-toolchain.toml explicitly, whose default
@@ -43,6 +41,11 @@ jobs:
         # to start without an encoding-detection module. Pull the
         # charset-normalizer extra so the install is self-contained.
         run: pipx run --spec 'reuse[charset-normalizer]' reuse lint
+
+      # Initialised after the REUSE lint so the lint sees only this repository's own files; the
+      # onym-data project carries its own licences and REUSE compliance.
+      - name: Check out the onym-data submodule
+        run: git submodule update --init
 
       - name: Format
         run: cargo fmt --check
