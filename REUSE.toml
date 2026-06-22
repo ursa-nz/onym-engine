@@ -22,10 +22,26 @@ precedence = "aggregate"
 SPDX-FileCopyrightText = ["2006 Princeton University", "2026 ursa.nz <code@ursa.nz>"]
 SPDX-License-Identifier = "LicenseRef-WordNet AND GPL-3.0-or-later"
 
-# Config files that cannot carry, or do not warrant, an inline header, and the machine-managed
-# lockfile.
+# The translations conformance kit: a trimmed slice of the real Open Multilingual Wordnet overlay
+# (MultiWordNet, Wordnet Bahasa, OpenWN-PT) and the dumps it produces, which aggregate WordNet
+# glosses with those translations. Each component keeps its own licence; the corpus is the
+# ursa.nz-authored word list. Machine-generated or data files with no place for an inline header.
 [[annotations]]
-path = [".gitignore", ".editorconfig", "Cargo.lock"]
+path = ["conformance/omw/omw.onym", "conformance/omw/corpus.txt", "conformance/omw/fixtures/**"]
+precedence = "aggregate"
+SPDX-FileCopyrightText = [
+  "2006 Princeton University",
+  "2010-2020 MultiWordNet, FBK",
+  "2011-2015 Wordnet Bahasa, Francis Bond and others",
+  "2010-2020 OpenWN-PT, Alexandre Rademaker and others",
+  "2026 ursa.nz <code@ursa.nz>",
+]
+SPDX-License-Identifier = "LicenseRef-WordNet AND CC-BY-3.0 AND MIT AND CC-BY-SA-3.0 AND GPL-3.0-or-later"
+
+# Config files that cannot carry, or do not warrant, an inline header, and the machine-managed
+# lockfiles, including the producer tools' own lockfiles.
+[[annotations]]
+path = [".gitignore", ".editorconfig", ".gitmodules", "Cargo.lock", "tools/etym-build/Cargo.lock", "tools/omw-build/Cargo.lock"]
 precedence = "aggregate"
 SPDX-FileCopyrightText = "2026 ursa.nz <code@ursa.nz>"
 SPDX-License-Identifier = "GPL-3.0-or-later"
