@@ -1,0 +1,65 @@
+# SPDX-FileCopyrightText: 2026 ursa.nz <code@ursa.nz>
+# SPDX-License-Identifier: GPL-3.0-or-later
+#
+# The gate for the engine, mirroring the Forgejo and GitHub workflows onto Katara's
+# own CI. Until this existed the engine had no gate at all: it is the Rust core both
+# Onym and Onymdroid build from, so a change to it was only ever tested when one of
+# those apps happened to build, and its conformance suite ran nowhere.
+#
+# Two jobs, kept apart because they need different runtimes: REUSE is a Python tool
+# and the rest is cargo. Both run on the general `podman` runner.
+#
+# The image pins the same compiler as rust-toolchain.toml. If one moves the other
+# has to, or rustup downloads the pinned toolchain on every run to correct it.
+
+stages:
+  - test
+
+workflow:
+  rules:
+    - if: $CI_PIPELINE_SOURCE == "merge_request_event"
+    - if: $CI_COMMIT_BRANCH == $CI_DEFAULT_BRANCH
+
+variables:
+  # The tests materialise their WordNet fixture by running onym-data/prepare.sh, and
+  # skip rather than fail when the submodule is absent. Without this the suite would
+  # pass by doing nothing.
+  GIT_SUBMODULE_STRATEGY: recursive
+  CARGO_TERM_COLOR: always
+
+reuse:
+  stage: test
+  image: docker.io/library/python:3.12-slim
+  tags: [podman]
+  script:
+    # The charset-normalizer extra is required: newer reuse split out encoding
+    # detection, and python:3.12-slim ships neither that module nor the `file`
+    # binary, so a bare `reuse` crashes before it lints.
+    - pip install --quiet 'reuse[charset-normalizer]'
+    - reuse lint
+
+gate:
+  stage: test
+  image: docker.io/library/rust:1.96-slim
+  tags: [podman]
+  variables:
+    # GitLab caches only paths under the project directory, so the cargo home goes
+    # there rather than in ~/.cargo.
+    CARGO_HOME: $CI_PROJECT_DIR/.ci/cargo
+  cache:
+    - key:
+        prefix: cargo
+        files:
+          - Cargo.lock
+      paths:
+        - .ci/cargo/registry
+        - .ci/cargo/git
+        - target
+  before_script:
+    # tar and zstd are what onym-data/prepare.sh decompresses the vendored graph
+    # with. It fetches nothing, so this is the whole of its toolchain.
+    - apt-get update -qq && apt-get install -y -qq --no-install-recommends tar zstd >/dev/null
+  script:
+    - cargo fmt --check
+    - cargo clippy --all-targets -- -D warnings
+    - cargo test
