@@ -31,6 +31,12 @@ reuse:
   stage: test
   image: docker.io/library/python:3.12-slim
   tags: [podman]
+  variables:
+    # Without this, reuse walks into onym-data and reports this repo as missing the
+    # CC-BY-4.0 text that only the data declares. That submodule is its own repo,
+    # carries its own LICENSES, and lints itself. Licence compliance does not
+    # inherit across a submodule boundary.
+    GIT_SUBMODULE_STRATEGY: none
   script:
     # The charset-normalizer extra is required: newer reuse split out encoding
     # detection, and python:3.12-slim ships neither that module nor the `file`
@@ -40,7 +46,10 @@ reuse:
 
 gate:
   stage: test
-  image: docker.io/library/rust:1.96-slim
+  # The full image rather than -slim: the slim one is built on the minimal rustup
+  # profile and carries neither rustfmt nor clippy, which is two thirds of this job.
+  # Adding them per run would put a toolchain download in front of every gate.
+  image: docker.io/library/rust:1.96
   tags: [podman]
   variables:
     # GitLab caches only paths under the project directory, so the cargo home goes
