@@ -32,11 +32,14 @@ reuse:
   image: docker.io/library/python:3.12-slim
   tags: [podman]
   variables:
-    # Without this, reuse walks into onym-data and reports this repo as missing the
-    # CC-BY-4.0 text that only the data declares. That submodule is its own repo,
-    # carries its own LICENSES, and lints itself. Licence compliance does not
-    # inherit across a submodule boundary.
+    # reuse lints whatever is on disk, and onym-data is its own repo: it carries its
+    # own LICENSES and its own lint, and licence compliance does not inherit across a
+    # submodule boundary. Skipping the fetch is not enough on its own, because the
+    # runner reuses a build directory and git leaves a registered submodule's files
+    # where they are, so a previous job's checkout stays and gets linted. Cloning
+    # fresh is what actually keeps this job to this repo.
     GIT_SUBMODULE_STRATEGY: none
+    GIT_STRATEGY: clone
   script:
     # The charset-normalizer extra is required: newer reuse split out encoding
     # detection, and python:3.12-slim ships neither that module nor the `file`
@@ -46,9 +49,6 @@ reuse:
 
 gate:
   stage: test
-  # The full image rather than -slim: the slim one is built on the minimal rustup
-  # profile and carries neither rustfmt nor clippy, which is two thirds of this job.
-  # Adding them per run would put a toolchain download in front of every gate.
   image: docker.io/library/rust:1.96
   tags: [podman]
   variables:
@@ -68,6 +68,12 @@ gate:
     # tar and zstd are what onym-data/prepare.sh decompresses the vendored graph
     # with. It fetches nothing, so this is the whole of its toolchain.
     - apt-get update -qq && apt-get install -y -qq --no-install-recommends tar zstd >/dev/null
+    # The official rust images install their toolchain on the minimal profile, in
+    # the slim and the full variant alike, so neither ships rustfmt or clippy and
+    # two of the three checks below have nothing to run. They are added here rather
+    # than baked into a toolchain image because this is the only repo that needs
+    # them, and they are a few megabytes against the SDK and NDK that justified one.
+    - rustup component add rustfmt clippy
   script:
     - cargo fmt --check
     - cargo clippy --all-targets -- -D warnings
