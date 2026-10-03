@@ -12,6 +12,11 @@
 # The image pins the same compiler as rust-toolchain.toml. If one moves the other
 # has to, or rustup downloads the pinned toolchain on every run to correct it.
 
+include:
+  - project: ursa.nz/ci-templates
+    ref: main
+    file: /reuse.yml
+
 stages:
   - test
 
@@ -27,10 +32,8 @@ variables:
   GIT_SUBMODULE_STRATEGY: recursive
   CARGO_TERM_COLOR: always
 
+# reuse.yml carries the job. This adds the clone settings.
 reuse:
-  stage: test
-  image: docker.io/library/python:3.12-slim
-  tags: [podman]
   variables:
     # reuse lints whatever is on disk, and onym-data is its own repo: it carries its
     # own LICENSES and its own lint, and licence compliance does not inherit across a
@@ -40,12 +43,6 @@ reuse:
     # fresh is what actually keeps this job to this repo.
     GIT_SUBMODULE_STRATEGY: none
     GIT_STRATEGY: clone
-  script:
-    # The charset-normalizer extra is required: newer reuse split out encoding
-    # detection, and python:3.12-slim ships neither that module nor the `file`
-    # binary, so a bare `reuse` crashes before it lints.
-    - pip install --quiet 'reuse[charset-normalizer]'
-    - reuse lint
 
 gate:
   stage: test
